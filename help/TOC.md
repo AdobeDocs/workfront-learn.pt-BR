@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [Parte 1 do relatório avançado](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Parte 2 do relatório avançado](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Parte 3 do relatório avançado](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + Análise aprimorada {#enhanced-analytics}
+   + Analítica aprimorada {#enhanced-analytics}
       + [Introdução a [!UICONTROL Análise aprimorada]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Adicionar [!UICONTROL analytics] para modelos de layout](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Entender a navegação básica](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -543,7 +543,7 @@ ht-degree: 2%
 
 
 
-+ Início {#home}
++ Página inicial {#home}
    + [Aprovar trabalho em [!UICONTROL Início]](workfront-home/approve-work-in-workfront-home.md)
    + [Colaborar no trabalho com [!UICONTROL Minhas atualizações]](workfront-home/collaborate-on-work-with-my-updates.md)
    + [Comunicar-se sobre o trabalho](workfront-home/communicate-about-work-in-workfront-home.md)
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [Adicionar e gerenciar membros da equipe de um quadro](boards/add-and-manage-team-members-for-a-board.md)
       + [Adicionar cartões a um quadro](boards/add-cards-to-a-board.md)
       + [Localizar e criar um quadro básico](boards/find-and-create-a-basic-board.md)
+      + [Localizar e pesquisar em um quadro](boards/find-and-search-in-a-board.md)
       + [Gerenciar colunas do quadro](boards/manage-board-columns.md)
       + [Gerenciar cartões em um quadro](boards/manage-cards-on-a-board.md)
 
@@ -583,9 +584,9 @@ ht-degree: 2%
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [Caso de negócios e otimizador de portfólio](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Comunicação](best-practices/communication-bp.md)
-   + [Formulários personalizados no meu grupo](best-practices/custom-forms-bp.md)
+   + [Formulários personalizados](best-practices/custom-forms-bp.md)
    + [Relatórios personalizados](best-practices/custom-reports-bp.md)
-   + [Painéis de Controle](best-practices/dashboards-bp.md)
+   + [Painéis](best-practices/dashboards-bp.md)
    + [Documentos](best-practices/documents-bp.md)
    + [Filtros, visualizações e agrupamentos](best-practices/filters-views-groupings-bp.md)
    + [Funções de trabalho](best-practices/job-roles-bp.md)
