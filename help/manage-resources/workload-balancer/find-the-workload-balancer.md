@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 4f5ef62945a0e28b80bbb9855b67817e2297a712
+source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,12 @@ Seu objetivo é fornecer mais informações sobre e gerenciar as cargas de traba
 ![opção de menu principal de recursos](assets/Find_01.png)
 
 * Clique em [!UICONTROL Recursos] no [!UICONTROL Menu principal].
-* Vá para o [!UICONTROL Balanceador de Carga de Trabalho] na área Gerenciamento de recursos.
+* Vá para o [!UICONTROL Agendamento] na área Gerenciamento de recursos.
+* Clique no botão [!UICONTROL &quot;Alternar para Balanceador de Carga de Trabalho&quot;] link .
 
-![seção balanceador de carga de trabalho](assets/Find_02.png)
+![alternar para balanceador de carga de trabalho](assets/Find_02.png)
+
+O [!DNL Workload Balancer] é a opção padrão ao acessar a área Gerenciamento de recursos da ferramenta Workfront.
 
 ## Áreas no Balanceador de Carga de Trabalho
 
@@ -38,10 +41,10 @@ Duas seções aparecem na [!DNL Workload Balancer]: Trabalho Atribuído e Trabal
 
 A área de Trabalho atribuído mostra uma lista de usuários e o trabalho ao qual eles já foram atribuídos no Workfront. Por padrão, essa área é filtrada para usuários que fazem parte das equipes da Workfront às quais você pertence. Dessa forma, você pode ver em quais membros da equipe foram atribuídos para trabalhar.
 
-![usuários de área atribuídos](assets/Find_04.png)
+![usuários de área atribuídos](assets/Find_03b.png)
 
 A área de Trabalho Não Atribuído mostra o trabalho que ainda precisa ser atribuído, seja para uma pessoa, função de trabalho ou equipe. No entanto, inicialmente, essa área não mostrará nada.
 
-![área de trabalho não atribuída](assets/Find_05.png)
+![área de trabalho não atribuída](assets/Find_03c.png)
 
 Ao começar com a Área de trabalho não atribuída em branco, você tem a oportunidade de se concentrar primeiro nas cargas de trabalho atuais dos usuários, na Área de trabalho atribuída, antes de fazer atribuições.
