@@ -1,14 +1,14 @@
 ---
 title: Agregação avançada
-description: Entenda como usar agrupamentos ao agregar. (Deve ter entre 60 e 160 caracteres, mas tem 49 caracteres)
+description: Chame um serviço da Web para retornar detalhes sobre vários países e identificar a população, agrupada por sub-região.
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Chame um serviço da Web para retornar detalhes sobre vários países e identifi
 
 1. Crie um novo cenário e o nomeie como &quot;Agregação avançada&quot;.
 1. Defina o módulo de acionador para um HTTP - Faça um módulo de solicitação.
-1. Use este URL, https://restcountries.eu/rest/v2/ lang/es, que fornece uma lista de todos os países onde o espanhol é falado.
+1. Use este URL, https://restcountries.com/v2/lang/es, que fornece uma lista de todos os países onde o espanhol é falado.
 1. Deixe o Método como Get.
 1. Clique na caixa de seleção Analisar resposta .
 1. Renomeie este módulo como &quot;Obter países&quot;.
@@ -44,12 +44,12 @@ Chame um serviço da Web para retornar detalhes sobre vários países e identifi
 
    **É necessário coletar informações de sub-região para cada um dos países, de modo que será necessário fazer uma solicitação HTTP adicional.**
 
-1. Adicione outra solicitação para obter informações da sub-região. Ele só retornará o primeiro país, mas está tudo bem por enquanto. Adicionar outro HTTP Faça um módulo de solicitação e use o URL https://restcountries.eu/rest/v2/name/.
+1. Adicione outra solicitação para obter informações da sub-região. Ele só retornará o primeiro país, mas está tudo bem por enquanto. Adicionar outro HTTP Faça um módulo de solicitação e use o URL https://restcountries.com/v2/name/.
 1. Para obter o nome do primeiro país, vá para o painel de mapeamento, clique em Dados e, em seguida, em Nome na matriz. O [1] no campo de dados significa que ele retornará o primeiro item na matriz.
 
    + Clique no número e altere o índice, se necessário, mas, nesse caso, você deseja apenas o primeiro item.
 
-   ![Imagem de Agregação Avançada 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Imagem de Agregação Avançada 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Marque a opção Parse response no painel de mapeamento e clique em OK.
 1. Renomeie este &quot;Obter detalhes do país&quot;.
