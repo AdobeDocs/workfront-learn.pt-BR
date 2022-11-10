@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Agregação avançada
 
@@ -32,7 +32,7 @@ Chame um serviço da Web para retornar detalhes sobre vários países e identifi
 
 1. Crie um novo cenário e o nomeie como &quot;Agregação avançada&quot;.
 1. Defina o módulo de acionador para um HTTP - Faça um módulo de solicitação.
-1. Use este URL, https://restcountries.com/v2/lang/es, que fornece uma lista de todos os países onde o espanhol é falado.
+1. Use este URL, `https://restcountries.com/v2/lang/es`, que fornece uma lista de todos os países onde se fala espanhol.
 1. Deixe o Método como Get.
 1. Clique na caixa de seleção Analisar resposta .
 1. Renomeie este módulo como &quot;Obter países&quot;.
@@ -44,7 +44,7 @@ Chame um serviço da Web para retornar detalhes sobre vários países e identifi
 
    **É necessário coletar informações de sub-região para cada um dos países, de modo que será necessário fazer uma solicitação HTTP adicional.**
 
-1. Adicione outra solicitação para obter informações da sub-região. Ele só retornará o primeiro país, mas está tudo bem por enquanto. Adicionar outro HTTP Faça um módulo de solicitação e use o URL https://restcountries.com/v2/name/.
+1. Adicione outra solicitação para obter informações da sub-região. Ele só retornará o primeiro país, mas está tudo bem por enquanto. Adicionar outro HTTP Faça um módulo de solicitação e use o URL `https://restcountries.com/v2/name/{country name}`.
 1. Para obter o nome do primeiro país, vá para o painel de mapeamento, clique em Dados e, em seguida, em Nome na matriz. O [1] no campo de dados significa que ele retornará o primeiro item na matriz.
 
    + Clique no número e altere o índice, se necessário, mas, nesse caso, você deseja apenas o primeiro item.
