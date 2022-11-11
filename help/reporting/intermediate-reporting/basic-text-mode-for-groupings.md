@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Entender o modo de texto básico para agrupamentos
 
@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 grupos de pais
+## Tarefa - Agrupamento de 4 pais
 
 O modo de texto a seguir agrupará tarefas com base em até quatro níveis de pais e deixará os pais que não existirem em branco.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![Uma imagem de tela mostrando tarefas de projeto agrupadas por 4 pais](assets/4-parents-grouping.png)
 
 
-## Percentual de agrupamento concluído
+## Tarefa - Percentual de agrupamento concluído
 
 O modo de texto a seguir agrupará tarefas com base em sua porcentagem de conclusão. As tarefas serão incluídas em uma das seguintes categorias quando agrupadas:
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![Uma imagem de tela mostrando tarefas de projeto agrupadas por porcentagem concluída](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, em seguida status
+## Tarefa - statusEquatesWith, em seguida status
 
 O modo de texto a seguir agrupará tarefas por statusEquatesWith e, em seguida, por status.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![Uma imagem de tela mostrando as tarefas do projeto agrupadas por statusEquatesWith](assets/status-equates-with.png)
 
+
+## Aprovação de prova - Agrupar por nome de projeto
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![Uma imagem de tela mostrando aprovações de Prova agrupadas pelo nome do projeto](assets/proof-approvals-grouped-by-project-name.png)
 

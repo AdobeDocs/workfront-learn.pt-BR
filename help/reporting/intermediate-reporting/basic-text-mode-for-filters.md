@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Isso mostrará todas as tarefas em que o usuário conectado atribuiu pelo menos um dos destinatários atuais. Se os destinatários tiverem sido atribuídos por várias pessoas, somente o nome da primeira pessoa que atribuiu alguém será exibido como &quot;Solicitado por&quot; na página de aterrissagem da tarefa.
 
-## Atividade: Perguntas sobre o modo de texto
+### Tarefa - Mostrar todas as tarefas concluídas - Aprovação pendente
 
-1. Como você escreveria o caso de camelo para o campo intitulado &quot;Inserido por ID&quot;?
-1. Em um relatório de Ocorrência , crie um filtro para mostrar os problemas que foram marcados como fechados, mas que estão pendentes de aprovação.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Respostas
 
-1. O caso de camelo para o campo &quot;Inserido por ID&quot; deve ser escrito da seguinte maneira — enteredByID
-1. O modo de texto deve ter esta aparência no filtro de relatório de problemas:
+### Problema - Mostre-me todos os problemas que estão completos - Aprovação pendente
 
-   ![Uma imagem da tela para criar um novo filtro no modo de texto](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Projeto - Mostre-me todos os projetos concluídos - aprovação pendente
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Observação - Mostrar todos os comentários que estou conectado
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Relatório de parâmetro/campo personalizado - Mostre-me campos personalizados que não estão anexados a um formulário personalizado (muito útil em esforços de limpeza)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```
