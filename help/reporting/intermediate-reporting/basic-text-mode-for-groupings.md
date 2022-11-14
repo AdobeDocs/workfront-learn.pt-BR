@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 0%
 >* Entender os elementos de relatório
 >* Entender os componentes de relatório
 >* Criar um agrupamento básico
+
+
+>[!TIP]
+>
+>* Para obter uma compreensão mais profunda do modo de texto, recomendamos assistir ao evento de webinar gravado [Pergunte a um especialista - Introdução aos relatórios do modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tem duração de uma hora.
+>* Para saber mais ainda sobre o modo de texto, recomendamos assistir ao [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriais, que juntos têm cinco horas e meia de duração.
 
 
 Neste vídeo, você aprenderá:
