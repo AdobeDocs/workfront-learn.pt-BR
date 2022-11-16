@@ -1,6 +1,6 @@
 ---
 title: Entender filtros
-description: Saiba como adicionar um filtro com base em campos de projeto comuns e como adicionar um filtro usando um formulário personalizado, tudo em [!DNL  Workfront].
+description: Saiba como adicionar um filtro com base em campos de projeto comuns e como adicionar um filtro usando um formulário personalizado, tudo em [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Entender filtros
+# Entender filtros em [!UICONTROL Análise aprimorada]
 
 Neste vídeo, você aprenderá:
 

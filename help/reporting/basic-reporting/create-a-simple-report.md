@@ -1,6 +1,6 @@
 ---
 title: Criar um relatório simples
-description: Neste vídeo, você aprenderá a criar um relatório simples usando um filtro existente, uma visualização e um agrupamento em [!DNL  Workfront].
+description: Saiba como criar um relatório simples usando um filtro, visualização e agrupamento existentes no Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---

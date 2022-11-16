@@ -1,6 +1,6 @@
 ---
 title: Criar um relatório de tarefa
-description: Neste vídeo, você aprenderá a criar um relatório de tarefa com um filtro complexo e encontrar os relatórios que criar no [!DNL  Workfront].
+description: Saiba como criar um relatório de tarefa com um filtro complexo e encontrar os relatórios que você cria no Workfront. Atividade - crie um relatório de observação com prompts.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '414'
 ht-degree: 5%
 
 ---

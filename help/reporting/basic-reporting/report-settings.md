@@ -1,6 +1,6 @@
 ---
 title: Entender as configurações do relatório
-description: Neste vídeo, você aprenderá a acessar [!DNL  Workfront] configurações de relatório e para que algumas configurações de relatório comuns são usadas.
+description: Saiba como acessar as configurações de relatório do Workfront e usar algumas configurações de relatório comuns.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335159.png
 kt: 8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---

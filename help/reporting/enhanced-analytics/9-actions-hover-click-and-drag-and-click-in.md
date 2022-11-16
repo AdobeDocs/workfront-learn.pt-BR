@@ -1,6 +1,6 @@
 ---
 title: Entender ações - passe o mouse, clique e arraste e clique em
-description: Saiba mais sobre como obter mais informações passando o mouse sobre um gráfico, criar um período em um gráfico e como fazer com que gráficos adicionais apareçam, tudo em [!DNL  Workfront].
+description: Saiba mais sobre como obter mais informações passando o mouse sobre um gráfico, criar um período em um gráfico e como fazer com que gráficos adicionais apareçam, tudo em [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Entender ações - passe o mouse, clique e arraste e clique em
+# Entender ações em [!UICONTROL Análise aprimorada] - passe o mouse, clique e arraste e clique em
 
 Neste vídeo, você aprenderá:
 

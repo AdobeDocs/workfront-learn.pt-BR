@@ -1,6 +1,6 @@
 ---
-title: Compreender como acessar e revisar o detalhamento
-description: Saiba como acessar o gráfico de detalhamento e entender a relação entre as horas restantes, a condição do projeto e a velocidade do projeto no [!DNL  Workfront].
+title: Entenda como acessar e revisar o gráfico de detalhamento em [!UICONTROL Análise aprimorada]
+description: Saiba como acessar o gráfico de detalhamento e entender a relação entre as horas restantes, a condição do projeto e a velocidade do projeto no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Compreender como acessar e revisar o detalhamento
+# Entenda como acessar e revisar o detalhamento em [!UICONTROL Análise aprimorada]
 
 Neste vídeo, você aprenderá:
 

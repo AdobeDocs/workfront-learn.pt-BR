@@ -1,6 +1,8 @@
 ---
-title: Entender a capacidade da equipe
-description: O gráfico de capacidade da equipe mostra quando uma equipe inicial foi realocada ou subalocada.
+title: Entenda a capacidade da equipe em [!UICONTROL Análise aprimorada]
+description: Saiba como o Gráfico de capacidade da equipe mostra quando uma equipe inicial foi realocada ou subalocada.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Entender a capacidade da equipe
+# Entenda a capacidade da equipe em [!UICONTROL Análise aprimorada]
 
 O gráfico de capacidade da equipe mostra quando uma equipe inicial foi realocada ou subalocada. O gráfico exibe o volume de trabalho atribuído à equipe inicial em um determinado dia e atribui uma cor azul mais escura quando eles estão se aproximando do esgotamento ou não estão sendo desafiados. Uma cor mais clara e transparente indica que a carga de trabalho está mais equilibrada.
 

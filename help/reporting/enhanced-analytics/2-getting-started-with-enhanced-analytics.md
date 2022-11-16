@@ -1,6 +1,8 @@
 ---
 title: Introdução a [!UICONTROL Análise aprimorada]
-description: Saiba os campos mais importantes a serem atualizados para aproveitar ao máximo a Análise aprimorada.
+description: Saiba os campos mais importantes a serem atualizados no Workfront para permitir que a análise aprimorada mostre como suas equipes e projetos estão progredindo no Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
-# Introdução a [!UICONTROL Análise aprimorada]
+# Introdução ao Adobe Workfront [!UICONTROL Análise aprimorada]
+
+As análises aprimoradas podem mostrar como suas equipes e projetos estão progredindo no Workfront e o que aconteceu em projetos anteriores que você pode aprender para ajudar a planejar projetos futuros.
 
 ## Pré-requisitos do Analytics
 

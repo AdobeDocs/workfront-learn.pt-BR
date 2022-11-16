@@ -1,6 +1,8 @@
 ---
 title: Entender intervalos de datas e intervalos de tempo
-description: Intervalos de datas são especificados usando o widget de calendário. Os cronogramas são criados em um gráfico.
+description: Em [!UICONTROL Análise aprimorada], os intervalos de datas são especificados usando o widget de calendário. Os cronogramas são criados em um gráfico.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# Entender intervalos de datas e intervalos de tempo
+# Entender os intervalos de datas e intervalos de tempo em [!UICONTROL Análise aprimorada]
 
 Ao visualizar o [!DNL Enhanced analytics] gráficos, intervalos de datas são especificados usando o widget de calendário. Os cronogramas são criados em um gráfico ao clicar e arrastar para definir uma região específica, de modo que você possa ampliar e obter uma visão mais detalhada das informações durante esse período.
 

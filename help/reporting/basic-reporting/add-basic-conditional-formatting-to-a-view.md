@@ -1,6 +1,6 @@
 ---
 title: Adicionar formatação condicional básica
-description: Neste vídeo, você aprenderá o que é formatação condicional em uma exibição e como criar e modificar a formatação condicional em [!DNL  Workfront].
+description: Saiba como usar as regras de coluna para alterar a cor do texto, a formatação e as cores do plano de fundo em um relatório ou exibição, com base nos critérios definidos.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # Adicionar formatação condicional básica a uma exibição
+
+A formatação condicional é feita criando regras de coluna. As regras de coluna permitem formatar uma coluna de uma maneira específica com base nos critérios definidos.
 
 Neste vídeo, você aprenderá:
 

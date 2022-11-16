@@ -1,6 +1,8 @@
 ---
-title: Entender o gráfico de capacidade de recursos
-description: O gráfico de capacidade de recurso mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período de tempo filtrado em comparação ao total de horas disponíveis da equipe.
+title: Entenda o gráfico de capacidade de recursos em [!UICONTROL Análise aprimorada]
+description: Saiba como o gráfico de capacidade de recurso mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# Entender o gráfico de capacidade de recursos
+# Entenda o gráfico de capacidade de recursos em [!UICONTROL Análise aprimorada]
 
 O gráfico de capacidade de recurso mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período de tempo filtrado em comparação ao total de horas disponíveis da equipe.
 

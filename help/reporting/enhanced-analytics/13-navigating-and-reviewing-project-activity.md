@@ -1,6 +1,6 @@
 ---
-title: Entender navegação e revisar atividade do projeto
-description: Neste vídeo, você aprenderá a comparar projetos com base nos usuários conectados, nas alterações no status da tarefa e nas tarefas concluídas em [!DNL  Workfront].
+title: Entenda como navegar e revisar a atividade do projeto em [!UICONTROL Análise aprimorada]
+description: Saiba como comparar projetos com base em usuários conectados, alterações no status da tarefa e tarefas concluídas no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Entender navegação e revisar atividade do projeto
+# Entenda como navegar e revisar a atividade do projeto em [!UICONTROL Análise aprimorada]
 
 Neste vídeo, você aprenderá:
 
