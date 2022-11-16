@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335175.png
 kt: 8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 9cc845d6efe2ee27e66ad7de4e1800cb9077aebd
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Neste vídeo, você aprenderá:
 
 ## Exemplos adicionais
 
-Abaixo estão alguns Adobe de expressões ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR adicionais [!DNL Workfront] Os clientes do criaram.
+Abaixo estão alguns ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR adicionais que os clientes da Adobe Workfront criaram.
 
 **Deveria ter sido feito por**
 
 O cliente queria saber quando a tarefa deveria ter sido concluída com base na Data de início real e na Duração planejada. A Data de Conclusão Projetada não funcionará nesse caso porque pode ser movida se a tarefa estiver atrasada e a Data de Conclusão Planejada não ajudará se houver atrasos em tarefas anteriores.
 
-A expressão criada foi ADDDAYS(Data de Início Real,(Duração/480))
+A expressão criada foi ADDDAYS({atualStartDate},{durationMinutes}/480)
 
 O tempo no campo Duration é armazenado em minutos. Portanto, nesta expressão, o campo Duration não pode ficar sozinho se o tempo for refletido em dias. Para isso, a Duração deve ser dividida por 480 minutos (480 minutos = 8 horas = 1 dia)
 
@@ -43,8 +43,10 @@ O tempo no campo Duration é armazenado em minutos. Portanto, nesta expressão, 
 
 **Data de conclusão da fatura**
 
-Esse exemplo inclui outro campo calculado, já criado e salvo no sistema, na expressão .
+Esse exemplo inclui não apenas a expressão ADDDAYS, mas um campo personalizado criado e salvo no formulário personalizado.
 
-O cliente estava capturando a data em que a fatura foi enviada por meio de um campo de data personalizado, intitulado &quot;Data de envio da fatura&quot;, no formulário personalizado. Depois de enviado, eles têm 30 dias para concluir e arquivar a fatura. Para produzir automaticamente essa data de conclusão e arquivamento, eles criaram um campo calculado usando ADDDAYS e o campo Data de Envio da NFF. A expressão tinha esta aparência:
+O cliente está capturando a data em que uma NFF é enviada por meio de um campo de data personalizado intitulado &quot;Data de Envio da NFF&quot;.
 
-ADDDAYS(Data de Envio da NFF, 30)
+Depois de enviada, a fatura deve ser preenchida e arquivada no prazo de 30 dias. Para produzir automaticamente essa data de conclusão e arquivamento, um campo calculado ADDDAYS é usado junto com o campo personalizado &quot;Data de Envio da NFF&quot;. A expressão tem esta aparência:
+
+ADDDAYS({DE:Invoice Submission Date},30)
