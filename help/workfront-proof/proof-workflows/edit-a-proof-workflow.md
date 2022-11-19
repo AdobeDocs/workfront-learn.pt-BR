@@ -1,5 +1,5 @@
 ---
-title: Como editar um fluxo de trabalho de prova
+title: Editar um workflow de prova
 description: Saiba como atualizar um prazo de prova, adicionar usuários a um fluxo de trabalho existente e alternar um fluxo de trabalho existente para um fluxo de trabalho automatizado no [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335138.png
 kt: 8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

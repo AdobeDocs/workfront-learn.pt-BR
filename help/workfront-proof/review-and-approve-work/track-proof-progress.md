@@ -1,6 +1,8 @@
 ---
-title: Como rastrear o progresso da prova
+title: Rastrear progresso de prova
 description: Saiba como usar [!UICONTROL SOCD] indicadores, progresso de prova e relatórios para rastrear o progresso de uma prova em [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: track-proof-progress.png
 kt: 10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '674'
 ht-degree: 1%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Onde [!DNL Workfront Goals] encaixar-se no meu ciclo de vida profissional?
+title: Entender como [!UICONTROL Metas da Workfront] se encaixa no seu ciclo de trabalho
 description: Saiba mais sobre as 6 etapas em um ciclo típico de vida útil do trabalho e os componentes principais da "fase de estratégia" no ciclo de vida do trabalho.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# Onde [!DNL Workfront Goals] encaixar-se no meu ciclo de vida profissional?
+# Entender como [!UICONTROL Metas da Workfront] se encaixa no seu ciclo de trabalho
 
 Neste vídeo, você aprenderá sobre:
 

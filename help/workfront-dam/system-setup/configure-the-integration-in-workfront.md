@@ -1,20 +1,22 @@
 ---
-title: Configurar a integração no Workfront
+title: Configure o [!UICONTROL Workfront DAM] integração no Workfront
 description: Saiba como habilitar o [!UICONTROL Workfront DAM] integração no nível de acesso do administrador do sistema.
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Configurar a integração no Workfront
+# Configure o [!UICONTROL Workfront DAM] integração no Workfront
 
 Ative o [!UICONTROL Workfront DAM] integração da Workfront **[!UICONTROL Configuração]** área. Você precisa ter um [!UICONTROL Workfront] nível de acesso do administrador do sistema.
 

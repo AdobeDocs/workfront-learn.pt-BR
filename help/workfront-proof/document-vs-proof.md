@@ -1,5 +1,5 @@
 ---
-title: Explicação dos documentos e provas
+title: Entender a diferença entre um documento e uma prova
 description: Saiba a diferença entre um documento e uma prova em [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: 335123.png
 kt: 8823
 exl-id: 661e4b97-4d4e-4859-9688-3ba509629159
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Documento versus prova
+# Entender a diferença entre um documento e uma prova
 
 Neste vídeo, você aprenderá:
 

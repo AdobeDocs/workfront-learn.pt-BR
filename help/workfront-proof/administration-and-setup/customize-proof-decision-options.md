@@ -1,6 +1,6 @@
 ---
 title: Personalizar opções de decisão de prova
-description: Saiba o que é uma decisão de prova . Em seguida, renomeie as opções de decisão de prova e oculte as opções desnecessárias nas configurações do sistema de prova.
+description: Saiba o que é uma decisão de prova. Em seguida, renomeie as opções de decisão de prova e oculte as opções desnecessárias nas configurações do sistema de prova.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 335127.png
 kt: 8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

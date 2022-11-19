@@ -1,5 +1,5 @@
 ---
-title: Converter uma atividade ou resultado em um objetivo alinhado
+title: Converter uma atividade em uma meta alinhada
 description: Saiba como converter uma atividade ou resultado em uma meta alinhada no [!DNL Metas].
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

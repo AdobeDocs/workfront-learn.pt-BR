@@ -1,14 +1,17 @@
 ---
-title: Entender o agendamento do cenário
-description: Neste vídeo, você aprenderá o cenário de agendamento, ciclos e execuções [!DNL Adobe Workfront Fusion].
+title: Entender o agendamento de cenário
+description: Saiba em qual cenário o agendamento, os ciclos e as execuções estão [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---

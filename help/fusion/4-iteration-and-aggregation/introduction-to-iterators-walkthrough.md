@@ -2,13 +2,16 @@
 title: Introdução aos iteradores
 description: Saiba como contar o número de tarefas em um projeto e, em seguida, calcular um valor para cada um dos pacotes de tarefas, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

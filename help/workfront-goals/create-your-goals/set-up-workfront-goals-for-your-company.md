@@ -1,13 +1,15 @@
 ---
 title: Configurar [!UICONTROL Metas da Workfront] para a sua organização
 description: Saiba como configurar [!DNL Workfront Goals] para sua organização, para que você possa garantir que a execução do trabalho esteja alinhada à estratégia.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%

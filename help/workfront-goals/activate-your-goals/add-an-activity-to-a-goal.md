@@ -1,6 +1,6 @@
 ---
-title: Como adicionar uma atividade a um objetivo
-description: Saiba como ativar uma meta adicionando uma atividade no [!DNL Metas].
+title: Adicionar uma atividade a uma meta
+description: Saiba como ativar uma meta adicionando uma atividade em [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

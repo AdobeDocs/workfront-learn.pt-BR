@@ -1,5 +1,5 @@
 ---
-title: Como fechar uma meta após a conclusão
+title: Fechar uma meta uma vez concluída
 description: Saiba como fechar uma meta no [!DNL Metas].
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---

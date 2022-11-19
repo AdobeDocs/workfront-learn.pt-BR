@@ -3,10 +3,10 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -460,7 +460,7 @@ ht-degree: 2%
    + Administração e configuração {#administration-and-setup-for-proof}
       + [Personalizar ações de comentário de prova](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Personalizar opções de decisão de prova](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [Alerta por email versus notificação de prova](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [Entender alertas de email e notificações de prova](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [Funções de prova e alertas de email](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Relatório sobre provas](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Definir padrão em configurações de prova de risco](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)

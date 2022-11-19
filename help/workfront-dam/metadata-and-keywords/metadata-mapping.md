@@ -1,15 +1,17 @@
 ---
 title: Configurar o mapeamento de metadados para [!UICONTROL Workfront DAM]
 description: Saiba como configurar o mapeamento de metadados para [!UICONTROL Workfront DAM].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: 2e0555a45d753a56628cf748537a6007ed548206
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,18 +1,21 @@
 ---
 title: Além do mapeamento básico
 description: Saiba como usar as fórmulas do painel de mapeamento para manipular ou converter campos enviados em um módulo.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11039
 thumbnail: KT11039.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 979d794d-b936-402e-b07c-71e999f40780
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Além do mapeamento básico
 

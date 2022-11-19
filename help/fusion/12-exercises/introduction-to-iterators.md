@@ -1,18 +1,21 @@
 ---
 title: Introdução aos iteradores
 description: Saiba como usar aplicativos do tipo iteração e executar ações em cada pacote de informações.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11046
 thumbnail: KT11046.png
-source-git-commit: f367e016498d5c1814cab79e19e6e9001db2851f
+exl-id: 8d751885-372a-4716-9542-079cc3d36caf
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Introdução aos iteradores
 

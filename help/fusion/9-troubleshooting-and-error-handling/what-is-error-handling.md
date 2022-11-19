@@ -1,19 +1,22 @@
 ---
-title: O que é Manipulação de erro?
+title: O que é tratamento de erros?
 description: Saiba mais sobre alguns tipos de erros comuns e como o sistema os trata por padrão, em seguida, saiba como aplicar o tratamento de erros personalizado em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# O que é Manipulação de erro?
+# O que é tratamento de erros?
 
 Neste vídeo, você aprenderá:
 

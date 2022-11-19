@@ -1,5 +1,5 @@
 ---
-title: Como analisar um vídeo com prova
+title: Revisar um vídeo com prova
 description: Saiba como ajustar as configurações do visualizador e adicionar comentários com carimbo de data e hora a um vídeo usando prova em [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335144.png
 kt: 8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

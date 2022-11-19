@@ -1,18 +1,21 @@
 ---
 title: Módulo de switch
 description: Entenda como usar o módulo Switch quando precisar executar transformações de dados mais complexas ou dinâmicas.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11052
 thumbnail: KT11052.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Módulo de switch
 

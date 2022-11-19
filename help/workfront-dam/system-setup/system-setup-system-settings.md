@@ -1,5 +1,5 @@
 ---
-title: Configurações do sistema em [!UICONTROL Workfront DAM] Explicado
+title: Entenda as configurações do sistema em [!UICONTROL Workfront DAM]
 description: Saiba como estabelecer configurações globais, definir opções de ativos, estabelecer configurações de pastas, fazer o download de regras e exibir relatórios e logs de auditoria no [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

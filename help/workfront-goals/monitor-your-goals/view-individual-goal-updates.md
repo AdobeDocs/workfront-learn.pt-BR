@@ -1,5 +1,5 @@
 ---
-title: Atualizações de meta individual em [!DNL Workfront Goals]
+title: Exibir atualizações de meta individual em [!DNL Workfront Goals]
 description: Saiba como visualizar suas metas individuais na [!UICONTROL Pulso] atualizar fluxo no [!DNL Metas].
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 2%
 
 ---

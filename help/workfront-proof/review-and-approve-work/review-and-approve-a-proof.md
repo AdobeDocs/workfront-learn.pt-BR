@@ -1,5 +1,5 @@
 ---
-title: Como revisar e aprovar uma prova
+title: Revisar e aprovar uma prova
 description: Saiba como acessar e comentar uma prova, usar marcação para indicar as alterações necessárias, responder a comentários de prova e tomar uma decisão sobre uma prova em [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# Revisar e aprovar uma prova digital
+# Revisar e aprovar uma prova
 
 Antes de começar a revisar uma prova, verifique se você sabe o que é esperado de você. Qual é sua função no fluxo de trabalho de prova? Revise a prova, aprove ou ambos?
 

@@ -1,14 +1,17 @@
 ---
-title: Caminho Além do Mapeamento Básico
-description: Neste vídeo, você alterará alguns campos de projeto no cenário criado anteriormente usando as fórmulas do painel de mapeamento em [!DNL Adobe Workfront Fusion].
+title: Além da apresentação básica de mapeamento
+description: Altere alguns campos de projeto no cenário criado anteriormente usando as fórmulas do painel de mapeamento em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes 
 >Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Além da apresentação básica de mapeamento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) exercício.
 
 ## Sua vez
+
+>[!NOTE]
+>
+>Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 

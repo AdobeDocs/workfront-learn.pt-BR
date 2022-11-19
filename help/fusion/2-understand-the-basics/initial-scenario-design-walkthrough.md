@@ -1,14 +1,17 @@
 ---
 title: Apresentação do design do cenário inicial
-description: Neste vídeo, você aprenderá a criar pastas e novos cenários, a usar o designer de cenários e a criar um cenário básico no [!DNL Adobe Workfront Fusion].
+description: Saiba como criar pastas e novos cenários, usar o designer de cenários e criar um cenário básico em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

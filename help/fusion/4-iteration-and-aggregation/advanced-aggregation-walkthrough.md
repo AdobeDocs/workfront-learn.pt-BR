@@ -2,13 +2,16 @@
 title: Apresentação de agregação avançada
 description: Saiba como chamar um serviço da Web para retornar detalhes sobre vários países e identificar a população, agrupada por sub-região, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Para evitar isso, adicione um agregador depois de um módulo que potencialmente 
 Você verá uma sombra ao redor de qualquer segmento em seu cenário a partir de um **iterador inicial** para **agregador final**. Isso ajuda a facilitar a detecção desses segmentos no seu cenário do Workfront Fusion.
 
 ## Sua vez
+
+>[!NOTE]
+>
+>Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 

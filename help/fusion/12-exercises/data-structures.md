@@ -1,18 +1,21 @@
 ---
 title: Estruturas de dados
 description: Transforme dados de um arquivo de origem em um arquivo de destino. (Deve ter entre 60 e 160 caracteres, mas tem 58 caracteres)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11054
 thumbnail: KT11054.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Estruturas de dados
 

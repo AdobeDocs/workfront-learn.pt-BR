@@ -1,18 +1,21 @@
 ---
 title: Roteadores
 description: Entenda a importância dos roteadores e como eles podem ser usados para processar condicionalmente módulos diferentes.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # Roteadores
 
@@ -55,8 +58,8 @@ Use um roteador para passar Pokemon vs. super-heróis para baixo no caminho corr
    >
    >Se tiver problemas para acessar seu próprio token de super-herói, você pode usar este token compartilhado: 10110256647253588. Considere quantas vezes você chama a API de super-herói para que esse token compartilhado continue a funcionar para todos.
 
-1. Abra as configurações para a aparência de superherói Get e altere o URL para https://www.superheroapi.com/api/[access-token]/332/aspecto. Certifique-se de incluir o token de acesso no URL. Clique em OK.
-1. Abra as configurações para as habilidades do superherói Get e altere o URL para https://www.superheroapi.com/api/[access-token]/332/powerstats. Certifique-se de incluir o token de acesso no URL. Clique em OK.
+1. Abra as configurações para a aparência de superherói Get e altere o URL para `https://www.superheroapi.com/api/[access- token]/332/appearance`. Certifique-se de incluir o token de acesso no URL. Clique em OK.
+1. Abra as configurações para as habilidades do super-herói Get e altere o URL para `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Certifique-se de incluir o token de acesso no URL. Clique em OK.
 1. Clique com o botão direito do mouse em cada módulo de super-herói e selecione Executar este módulo somente. Isso gerará a estrutura de dados que você precisa ver para mapeamento.
 1. Depois de executar os dois, altere o número &quot;332&quot; em cada campo de URL para a Coluna 4 mapeada do módulo CSV de análise.
 

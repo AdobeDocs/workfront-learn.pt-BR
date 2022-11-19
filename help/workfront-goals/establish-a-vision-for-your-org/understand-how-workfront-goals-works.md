@@ -1,5 +1,5 @@
 ---
-title: Introdução ao [!DNL Workfront Goals]
+title: Entender como [!DNL Workfront Goals] obras
 description: Saiba mais sobre como articular o "o que" e o "porquê" durante a fase de planejamento, objetivos de exemplo e escopo de influência.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Introdução ao [!DNL Workfront Goals]
+# Entender como [!DNL Workfront Goals] obras
 
 Neste vídeo, você aprenderá sobre:
 

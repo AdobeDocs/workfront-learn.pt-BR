@@ -1,5 +1,5 @@
 ---
-title: '''[!UICONTROL Workfront DAM] Explicação dos perfis de usuário e do'
+title: Entender os perfis de usuário e a navegação no [!UICONTROL Workfront DAM]
 description: Aprenda a diferença entre as três [!UICONTROL Workfront DAM] perfis de usuário e como navegar [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

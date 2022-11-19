@@ -2,18 +2,21 @@
 title: Introdução aos conectores universais
 description: Saiba como chamar a API Poke por meio de um conector HTTP para coletar e publicar informações em um caractere Pokemon, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Apresentação de conectores universais
+# Introdução aos conectores universais
 
 ## Visão geral
 
@@ -29,9 +32,9 @@ A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes 
 
 ### URLs de exercício
 
-Site da API Pokemon: https://pokeapi.co/
+Site da API Pokemon: `https://pokeapi.co/`
 
-URL de exercício: https://pokeapi.co/api/v2/pokemon/{Caractere}
+URL de exercício: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

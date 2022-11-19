@@ -1,12 +1,15 @@
 ---
-title: Solução avançada de problemas com a Ferramenta de desenvolvimento
+title: Solução de problemas avançada com a Ferramenta de desenvolvimento
 description: Saiba como instalar e usar o [!DNL Adobe Workfront Fusion Dev Tool]e revise as diferentes ferramentas de design de cenário avançado incluídas.
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

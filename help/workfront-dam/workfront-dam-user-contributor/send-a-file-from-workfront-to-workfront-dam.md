@@ -1,16 +1,18 @@
 ---
 title: Enviar um arquivo do Workfront para [!UICONTROL Workfront DAM]
 description: Saiba como enviar um arquivo concluído em [!DNL Workfront] para [!UICONTROL Workfront DAM].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -1,6 +1,8 @@
 ---
-title: Criar grupos de modelos para organizar modelos de fluxo de trabalho automatizados
-description: Saiba como criar grupos de modelo para organizar os modelos de fluxo de trabalho de prova automatizada que você cria .
+title: Criar grupos de modelo para organizar modelos de fluxo de trabalho automatizados
+description: Saiba como criar grupos de modelo para organizar os modelos de fluxo de trabalho de prova automatizada que você cria.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Intermediate
 thumbnail: create-template-groups.png
 kt: 10232
 exl-id: 248cba16-fa88-44e1-a3d5-e763783d965d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

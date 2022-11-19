@@ -1,14 +1,17 @@
 ---
-title: Caminho dos Roteadores
+title: Apresentação de roteadores
 description: Saiba como usar um roteador para passar pacotes Pokemon vs. super-heróis pelo caminho correto em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes 
 
 ## URLs de exercício
 
-* Site da API do Superhero: https://www.superheroapi.com/
-* Primeiro URL para exercício: https://www.superheroapi.com/api/{access-token}/{character-id}/aparência
-* Segundo URL de exercício: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Site da API do Superhero: `https://www.superheroapi.com/`
+* Primeiro URL para exercício: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Segundo URL de exercício: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Se tiver problemas para acessar seu próprio token de super-herói, você pode usar este token compartilhado: 10110256647253588. Considere quantas vezes você chama a API de super-herói para que esse token compartilhado continue a funcionar para todos.
 
@@ -86,6 +89,10 @@ Saiba mais sobre os Workfront Fusion Universal Connectors e como configurá-los 
 Você pode verificar a lista inteira de nossos conectores de aplicativo pré-criados no Experience League. Caso deseje sugerir um novo conector de aplicativo para a equipe de produtos do Workfront Fusion, envie sua ideia para o Laboratório de Inovação. Se você não tiver apresentado antes, saiba mais sobre o Laboratório de Inovação, além de como votar em ideias e participar da priorização duas vezes por ano do Quadro de líderes. Se você já tiver acesso ao Laboratório de Inovação, faça logon e envie suas ideias.
 
 ## Sua vez
+
+>[!NOTE]
+>
+>Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 

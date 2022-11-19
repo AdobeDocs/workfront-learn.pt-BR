@@ -2,11 +2,14 @@
 title: Entender execuções incompletas
 description: Saiba o que são execuções incompletas e como lidar com um erro que resulta em uma execução incompleta em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%

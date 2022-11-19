@@ -1,14 +1,17 @@
 ---
-title: Arrays Walkthrough
-description: Neste vídeo, vamos analisar exercícios práticos anteriores em que arrays simples e complexos foram usados em [!DNL Adobe Workfront Fusion].
+title: Apresentação de Arrays
+description: Analise os exercícios anteriores em que arrays simples e complexos eram usados em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---

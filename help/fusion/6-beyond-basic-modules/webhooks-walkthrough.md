@@ -2,13 +2,16 @@
 title: Apresentação dos Webhooks
 description: Saiba como usar um webhook para criar um aplicativo e determinar se um cliente é ou não velho o suficiente para comprar álcool, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Para acompanhar o exercício de explicação passo a passo, é necessário baixa
 ![Uma imagem usando o módulo switch](assets/beyond-basic-modules-6.png)
 
 ## Sua vez
+
+>[!NOTE]
+>
+>Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 
