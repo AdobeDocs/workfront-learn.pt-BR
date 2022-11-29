@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Cada seção do Workfront Fusion contém vários tutoriais, com cada tutorial apresentando os conceitos que você precisará entender antes de avançar para o próximo tutorial. Um exercício de explicação passo a passo ajuda você a principal a maioria dos conceitos.
 
-Os vídeos mostram, passo a passo, como concluir cada exercício, o que resulta na criação de um novo cenário do Workfront Fusion. Em seguida, você pode concluir o exercício em seu próprio ambiente do Workfront Fusion, adicionando à sua própria coleção de cenários. O **Livro de atividades do Adobe Workfront Fusion** contém instruções passo a passo para completar as orientações.
+Os vídeos mostram como concluir cada exercício de explicação passo a passo, o que geralmente resulta na criação de um novo cenário do Workfront Fusion. Em seguida, você pode concluir o exercício em seu próprio ambiente do Workfront Fusion, adicionando à sua própria coleção de cenários.
 
-Em alguns tutoriais, você criará um novo cenário do zero. Em outras seções, você começará fazendo uma cópia de um cenário criado anteriormente.
+Em alguns tutoriais, você criará um novo cenário do zero. Em outros tutoriais, você começará fazendo uma cópia de um cenário criado anteriormente.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Solicite um ambiente de prática preenchendo [este formulário](https://forms.of
 
 ### Acesse o Workfront Fusion para praticar
 
-A Workfront não oferece unidades de teste do Workfront Fusion. Para praticar enquanto você conclui os caminhos de aprendizagem, solicite acesso ao Workfront Fusion pelo administrador do Workfront Fusion de sua organização.
+A Workfront não oferece unidades de teste do Workfront Fusion. Para praticar ao concluir os tutoriais, solicite acesso ao Workfront Fusion pelo administrador do Workfront Fusion da sua organização.
 
 ### Instruções passo a passo sobre a conclusão dos exercícios de explicação passo a passo
 
