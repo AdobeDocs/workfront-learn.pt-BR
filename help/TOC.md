@@ -3,10 +3,10 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2219'
+ht-degree: 2%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 
 
-+ Dados Personalizados {#custom-data}
++ Dados personalizados {#custom-data}
    + Formulários personalizados {#custom-forms}
       + [Anexar um formulário personalizado a um objeto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Criar e compartilhar um formulário personalizado](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
@@ -428,7 +428,7 @@ ht-degree: 0%
       + [Roteadores](fusion/12-exercises/routers.md)
       + [Padrões de roteamento](fusion/12-exercises/routing-patterns.md)
       + [Definir/obter variáveis](fusion/12-exercises/set-get-variables.md)
-      + [Introdução aos iteradores](fusion/12-exercises/introduction-to-iterators.md)
+      + [Introdução aos iteradores](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Agregação](fusion/12-exercises/aggregation.md)
       + [Agregação avançada](fusion/12-exercises/advanced-aggregation.md)
       + [Histórico de execução](fusion/12-exercises/execution-history.md)
