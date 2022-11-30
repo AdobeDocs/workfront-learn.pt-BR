@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Neste vídeo, você aprenderá a:
 
 >[!NOTE]
 >
->Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
+>Os exercícios práticos e os desafios são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes 
 
 >[!NOTE]
 >
->Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
+>Os exercícios práticos e os desafios são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 

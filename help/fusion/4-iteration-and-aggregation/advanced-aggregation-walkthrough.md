@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Você verá uma sombra ao redor de qualquer segmento em seu cenário a partir de
 
 >[!NOTE]
 >
->Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
+>Os exercícios práticos e os desafios são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 

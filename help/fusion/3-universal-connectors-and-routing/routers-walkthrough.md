@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -92,7 +92,7 @@ Você pode verificar a lista inteira de nossos conectores de aplicativo pré-cri
 
 >[!NOTE]
 >
->Os exercícios práticos são opcionais e não são necessários para concluir a formação em Fusão.
+>Os exercícios práticos e os desafios são opcionais e não são necessários para concluir a formação em Fusão.
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 
