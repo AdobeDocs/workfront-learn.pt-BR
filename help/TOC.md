@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
-source-wordcount: '2262'
+source-wordcount: '2369'
 ht-degree: 2%
 
 ---
@@ -341,6 +341,14 @@ ht-degree: 2%
       + [Crie visibilidade com o [!DNL Jira] Integração](integrations/jira/jira.md)
    + Microsoft Outlook {#outlook}
       + [Instalar o complemento Microsoft Outlook](integrations/outlook/integrations-microsoft-outlook.md)
+   + Microsoft Teams {#ms-teams}
+      + [Visão geral do Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Instalar o Adobe Workfront para Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Acessar o Adobe Workfront do Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Procure e compartilhe itens do Adobe Workfront no Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Criar tarefas do Adobe Workfront a partir do Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Enviar solicitações do Adobe Workfront do Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Gerenciar notificações do Adobe Workfront no Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
    + Slack {#slack}
       + [Acesse sua lista de itens a fazer por meio de [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [Atribuir tarefas por meio de [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
@@ -348,6 +356,7 @@ ht-degree: 2%
       + [Pesquisar Workfront por [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Entenda o Workfront para [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [Exibir o trabalho recente por meio de [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 

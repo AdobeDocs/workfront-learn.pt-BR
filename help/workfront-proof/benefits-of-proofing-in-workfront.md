@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -37,6 +37,3 @@ Antes de mergulhar nas configurações de prova em [!DNL  Workfront]familiarize-
 * **Alerta por email —** Notificação quando há atividade na prova.
 * **Utilizador de prova —** Alguém com um [!DNL Workfront] Planeje ou licença de trabalho que possa fazer upload, revisar, aprovar, gerenciar, etc., provas digitais.
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->
