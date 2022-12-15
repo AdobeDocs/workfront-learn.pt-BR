@@ -1,5 +1,5 @@
 ---
-title: Conheça os benefícios da prova
+title: Saiba mais sobre os benefícios da prova
 description: Saiba o que é prova e os benefícios de usar prova digital no [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Conheça os benefícios da prova [!DNL Workfront]
+# Saiba mais sobre os benefícios da prova [!DNL Workfront]
 
 Neste vídeo, você aprenderá:
 
