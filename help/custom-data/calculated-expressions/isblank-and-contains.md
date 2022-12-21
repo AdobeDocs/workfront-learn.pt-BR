@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Para procurar um valor específico na descrição, como &quot;evento de caridade
 
 A expressão de texto ISBLANK inclui o nome da expressão e um ponto de dados.
 
-**ISBLANK(ponto de dados)**
+**ISBLANK({data point})**
 
 ![Balanceador de carga de trabalho com relatório de utilização](assets/isblank03.png)
 
 No exemplo acima, onde você quer saber se o projeto tem uma descrição, a expressão seria:
 
-ISBLANK(Descrição)
+ISBLANK({description})
 
 ## CONTÉM
 
 A expressão de texto CONTÉM inclui o nome da expressão, a palavra ou frase que você está procurando e o campo a ser procurado.
 
-**CONTAINS(&quot;phrase&quot;,field)**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
 Assegure-se de colocar aspas na palavra ou frase que está procurando, caso contrário, a expressão não será válida.
 
 No exemplo acima (procurando por &quot;evento de caridade&quot; na descrição do projeto), a expressão seria:
 
-**CONTAINS(&quot;evento de caridade&quot;,Descrição)**
+**CONTAINS(&quot;evento de caridade&quot;,{description})**
 
 ![Balanceador de carga de trabalho com relatório de utilização](assets/isblank04.png)
 
 **Observação**: A expressão CONTAINS diferencia maiúsculas de minúsculas. Por exemplo, se &quot;Evento de caridade&quot; estiver capitalizado no campo de descrição, coloque essa frase em maiúsculas e minúsculas na expressão.
 
-**CONTAINS(&quot;Evento de caridade&quot;,Descrição)**
+**CONTAINS(&quot;Evento de caridade&quot;,{description})**
 
 As expressões ISBLANK e CONTAINS são boas de usar se você deseja ver se há um valor presente. No entanto, pode ser mais útil saber qual é o valor, para realmente visualizá-lo ou ter algum tipo de descritor para fornecer melhor insight.
 
