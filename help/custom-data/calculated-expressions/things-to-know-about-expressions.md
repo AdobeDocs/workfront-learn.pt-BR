@@ -9,58 +9,69 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
 # O que você deve saber sobre expressões de campo calculado
 
-Esta é uma lista de conceitos que devem ser conhecidos ao trabalhar com campos calculados personalizados em [!DNL Workfront].
+Esta é uma lista de conceitos que devem ser conhecidos ao trabalhar com campos calculados personalizados no Workfront.
 
-## A caixa não importa em nomes de expressão
+## Casar assuntos em nomes de expressões
 
-Quando se trata dos nomes das expressões, a capitalização não importa. Você pode usar letras maiúsculas, minúsculas ou uma combinação de ambos. Com a expressão ISBLANK(Description), o &quot;ISBLANK&quot; pode ser escrito como:
+Quando se trata de nomes de expressões, o uso de maiúsculas e minúsculas é importante. Ao escrever inicialmente um nome de expressão, você pode usar letras maiúsculas, minúsculas ou uma combinação de ambos.
 
-* ISBLANK
-* Isblank
-* IsBlank
-* isBLANK
+![Mensagem de erro sem maiúsculas no nome da expressão](assets/ttk-casingmatters01.png)
 
-Todos eles funcionarão.
+No entanto, a expressão deve ser escrita como todas as letras maiúsculas para que o sistema reconheça a expressão e salve o campo.
+
+
 
 ## As horas são armazenadas em minutos
 
-Horas em [!DNL Workfront’s] O banco de dados é armazenado em minutos. Se estiver fazendo referência a campos como Horas Planejadas ou Horas Reais, divida por 60 para mostrar o tempo em horas e não em minutos.
+As horas no banco de dados do Workfront são armazenadas em minutos. Se estiver fazendo referência a campos como Horas Planejadas ou Horas Reais, divida por 60 para mostrar o tempo em horas e não em minutos.
 
 ## O espaçamento não afeta expressões
 
 A maneira recomendada para gravar expressões é com pouco ou nenhum espaçamento entre cada expressão.
 
-* IF(ISBLANK(Description), &quot;No Description&quot;, &quot;Has Description&quot;)
+* IF(ISBLANK({description}), &quot;Sem Descrição&quot;, &quot;Tem Descrição&quot;)
+
+![Expressões sem espaçamento entre campos](assets/spacing01.png)
 
 No entanto, se o espaçamento ajudar a visualizar o que está acontecendo, algum espaçamento poderá ser adicionado às expressões. Os espaços extras não devem impedir que a expressão reúna ou calcule um valor em [!DNL Workfront].
 
-* IF (ISBLANK (Descrição), &quot;Sem descrição&quot; , &quot;Tem descrição&quot; )
+* IF (ISBLANK ({description}), &quot;Sem Descrição&quot;, &quot;Tem Descrição&quot; )
+
+![Expressões com espaçamento entre campos](assets/spacing02.png)
+
+As únicas coisas que não podem ter espaços entre elas são os campos e as chaves. Caso contrário, você receberá uma mensagem de erro e não poderá salvar o campo ou o formulário personalizado.
+
+![Erro com espaçamento entre o nome do campo e o colchete](assets/spacing03.png)
 
 ## As aspas devem ser retas
 
 Ao usar aspas em uma expressão, verifique se as aspas são retas (&quot;). Se as aspas estiverem curvas (&quot;), a [!DNL Workfront] O sistema continuará exibindo uma mensagem de &quot;Expressão personalizada inválida&quot;.
 
+![Erro com aspas curvas](assets/curvedquotes01.png)
+
 ## Os cálculos são atualizados no salvamento do formulário e na edição de objetos
 
 Esse é um aspecto importante dos campos calculados para serem compreendidos.
 
-As informações exibidas em um campo calculado permanecerão as mesmas e se tornarão obsoletas, a menos que o formulário personalizado seja recalculado. As expressões podem ser atualizadas usando a opção Recalcular expressões no menu Mais em um objeto.
+As informações exibidas em um campo calculado permanecerão as mesmas e se tornarão obsoletas, a menos que o formulário personalizado seja recalculado.
+
+As expressões podem ser atualizadas usando a opção Recalcular expressões no menu Mais em um objeto.
 
 Você deseja ver o número de dias em que um problema foi aberto. Crie um campo calculado chamado &quot;Dias abertos&quot; com a expressão DATEDIFF.
 
 * Nome do campo = Dias abertos
-* Expressão = DATEDIFF (Data de Entrada,$$TODAY)
+* Expressão = DATEDIFF({entryDate},$$TODAY)
 
-Depois de salvo, o número de dias entre quando o problema foi criado pela primeira vez ou inserido em [!DNL Workfront]e a data de hoje pode ser mostrada na página de detalhes de um objeto ou em uma visualização de relatório.
+Depois de salvo, o número de dias entre a data em que o problema foi criado pela primeira vez ou inserido no Workfront e a data de hoje pode ser exibido na página de detalhes de um objeto ou em uma visualização de relatório.
 
 Ao visualizar a mesma página de detalhes ou exibição de relatório no dia seguinte, você espera que esse número aumente em um. Se o número for 5 hoje, deverá ser 6 amanhã. O dia seguinte deve ser 7, 8, etc.
 
@@ -72,6 +83,8 @@ Para atualizar um campo usando a opção Recalcular expressões :
 * Clique no menu Mais .
 * Selecione Recalcular expressões na lista.
 
+![Opção Recalcular expressão no objeto](assets/recalculate01.png)
+
 Também é possível recalcular várias expressões ao mesmo tempo usando o recurso &quot;edição em massa&quot; em uma lista ou relatório. Suponha que você tenha criado um relatório mostrando uma lista de problemas com o cálculo de Dias em Abertura que aparece em uma coluna. Se quiser recalcular todos os problemas de uma só vez:
 
 * Selecione todos os problemas no relatório.
@@ -79,6 +92,8 @@ Também é possível recalcular várias expressões ao mesmo tempo usando o recu
 * Clique no rótulo Forms personalizado à esquerda para rolar para baixo até a seção formulários personalizados.
 * Marque a caixa Recalcular expressões personalizadas na parte inferior da seção Forms personalizado .
 * Clique em Salvar alterações.
+
+![Opção de expressão Recalculate para vários objetos](assets/recalculate02.png)
 
 A tela é atualizada para mostrar informações atualizadas no campo calculado.
 
@@ -94,7 +109,7 @@ Quando um campo personalizado calculado é selecionado da biblioteca de campos e
 
 Por exemplo, você criou um campo calculado, &quot;Dias para concluir&quot;, para determinar o tempo necessário para concluir uma tarefa em um projeto.
 
-* WEEKDAYDIFF(Data Inicial Real,Data Real De Conclusão)
+* WEEKDAYDIFF({atualStartDate},{atualCompletionDate})
 
 Você quer fazer a mesma coisa para uma iteração. Você pode usar a mesma expressão; no entanto, os campos disponíveis para um objeto de tarefa nem sempre estão disponíveis para um objeto de iteração. So [!DNL Workfront] oferece a chance de criar o cálculo com os campos de objeto corretos.
 
