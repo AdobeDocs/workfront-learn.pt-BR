@@ -1,46 +1,47 @@
 ---
-source-git-commit: 898dba1bb96707ecb3401f6fdb261f3cd74f3e4a
+source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 21%
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # Contribuição
 
 Obrigado por contribuir!
 
-A seguir, um conjunto de orientações a serem seguidas ao contribuir para esse projeto.
+A seguir há um conjunto de orientações que devem ser seguidas ao contribuir para esse projeto.
 
 ## Código de conduta
 
-Este projeto adere ao [código de conduta](code-of-conduct.md) da Adobe. Ao participar, é necessário manter este código. Informe qualquer comportamento inaceitável para
+Este projeto segue o [código de conduta](code-of-conduct.md) da Adobe. Ao participar, é necessário manter este código. Relate comportamentos inaceitáveis em
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Documentação do Guia do colaborador
+## Documentação do guia do colaborador
 
-Consulte a [Guia do colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte o [Guia do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
-## Tem Dúvidas?
+## Tem dúvidas?
 
-Comece registrando um problema. Os autores atuais do commit trabalham para chegar a um consenso sobre a direção do projeto e para gerar soluções dentro dos processos de problemas (quando apropriado).
+Comece registrando um problema. Os executores existentes deste projeto trabalham para chegar a um consenso sobre a direção do projeto e soluções de problemas dentro de tópicos de problemas
+(quando for apropriado).
 
-## Contrato de Licença de Colaborador
+## Contrato de licença de colaborador
 
-Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um contrato de licença do contribuidor assinado. Isso dá à Adobe a permissão de redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você só precisa enviar um Adobe CLA uma vez, portanto, se já tiver enviado um anteriormente, fique tranquilo!
+Todas as contribuições de terceiros a este projeto devem ser acompanhadas por um contrato de licença de colaborador assinado. Dessa forma, a Adobe tem permissão para redistribuir suas contribuições como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). É necessário enviar apenas um Adobe CLA por vez. Se já tiver enviado anteriormente, provavelmente você já pode continuar!
 
 ## Revisões do código
 
-Todos os envios devem vir na forma de solicitações de envio e precisam ser revisados pelos confirmadores do projeto. Leia a [documentação de solicitação de envio do GitHub](https://help.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obter mais informações sobre envio de pull requests.
+Todos os envios devem vir na forma de solicitações de envio e precisam ser revisados pelos confirmadores do projeto. Leia a [documentação de solicitação de envio do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) para obter mais informações sobre envio de pull requests.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Do contribuidor para o autor do commit
+## Do contribuidor para o executor
 
-Adoramos contribuições de nossa comunidade! Se você quiser ir além do contribuidor e se tornar autor do commit com acesso total à gravação e direito a dar opiniões, você deve ser convidado para o projeto. Os autores atuais do commit usam um processo de nomeação interna que deve chegar a um consenso lento (silêncio é aprovação) antes de os convites serem emitidos. Se você se sentir qualificado e quiser aprofundar seu envolvimento, fique à vontade para contatar os autores atuais do commit e conversar sobre isso.
+Adoramos contribuições da nossa comunidade! Se você quiser ir além e se tornar um executor com acesso total à gravação e direito a dar opiniões, você deve ser convidado para o projeto. Os executores atuais usam um processo de nomeação interna que deve chegar a um consenso lento (silêncio é aprovação) antes de os convites serem enviados. Se você se sentir qualificado e quiser aprofundar seu envolvimento, fique à vontade para entrar em contato com os executores atuais e conversar sobre esse assunto.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie um problema para nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
+Problemas de segurança não devem ser relatados neste rastreador de problemas. [Encaminhe o problema para nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)
