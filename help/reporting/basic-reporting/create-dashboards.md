@@ -1,6 +1,6 @@
 ---
 title: Criar painéis
-description: Saiba como combinar diversos relatórios de lista, gráficos, calendários e páginas da Web externas em um painel no Workfront.
+description: Saiba como combinar diversos relatórios de lista, gráficos, calendários e páginas externas da Web em um painel no Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
