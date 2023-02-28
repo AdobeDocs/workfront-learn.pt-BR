@@ -1,5 +1,5 @@
 ---
-title: Usar extensões do Adobe Workfront para o Creative Cloud
+title: Usar plug-ins do Adobe Workfront para o Creative Cloud
 description: Encontre e atualize o trabalho atribuído a você no Adobe Workfront sem sair dos seguintes aplicativos Adobe Creative Cloud - Photoshop, XD, InDesign, Illustrator, Premiere Pro e After Effects
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Usar extensões do Adobe Workfront para o Creative Cloud
+# Usar plug-ins do Adobe Workfront para o Creative Cloud
 
 Encontre e atualize o trabalho atribuído a você no Adobe Workfront sem sair dos seguintes aplicativos Adobe Creative Cloud:
 
@@ -41,8 +41,10 @@ Neste vídeo, você aprenderá a fazer o seguinte no aplicativo Creative Cloud:
 
 * Encontre suas atribuições do Workfront
 * Upload de arquivos para o Workfront
+* Adicionar comentários e membros da equipe de tags
 * Solicitar aprovações de documento
 * Fazer upload de provas e atribuir um workflow de prova
+* Tempo de registro
 * Marque seu trabalho como concluído
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
