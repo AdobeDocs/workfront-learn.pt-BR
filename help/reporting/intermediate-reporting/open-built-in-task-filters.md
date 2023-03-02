@@ -1,6 +1,6 @@
 ---
-title: Entender os filtros de tarefa incorporados
-description: Saiba como revisar filtros de tarefas incorporados para ver como eles são criados e criar seu próprio filtro de tarefas no Workfront.
+title: Entender os filtros de tarefa integrados
+description: Saiba como revisar filtros de tarefas integrados para ver como eles são criados e criar seu próprio filtro de tarefas no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -10,37 +10,38 @@ level: Intermediate
 team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-# Entender os filtros de tarefa incorporados
+# Entender os filtros de tarefa integrados
 
-Neste vídeo, você:
+Neste vídeo, você vai:
 
-* Analise os filtros de tarefa incorporados para ver como eles são criados
-* Saiba mais sobre alguns elementos úteis de relatório de tarefas
-* Saiba como criar seu próprio filtro de tarefa
+* Revise os filtros de tarefa integrados para ver como eles são criados
+* Saiba mais sobre alguns elementos úteis de relatórios de tarefas
+* Saiba como criar seu próprio filtro de tarefas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12)
 
-## Atividade: Criar um relatório de tarefa
+## Atividade: criar um relatório de tarefas
 
-Certifique-se de estar ciente das tarefas atribuídas a uma de suas equipes que ninguém concordou em trabalhar com ela ainda. Crie um relatório de tarefa chamado &quot;Tarefas não atribuídas em qualquer uma das minhas equipes&quot;.
+Verifique se você está ciente das tarefas atribuídas a uma de suas equipes que ninguém concordou em trabalhar nelas ainda. Crie um relatório de tarefa chamado &quot;Tarefas não atribuídas em qualquer uma das minhas equipes&quot;.
 
 ## Resposta
 
-Veja como o filtro deve ser:
+Esta é a aparência do filtro:
 
 ![Uma imagem da tela para criar um filtro de tarefa](assets/opening-built-in-task-filters-1.png)
 
-Configure a exibição de coluna para incluir os campos nos quais você está interessado ou gostaria de poder editar em linha. Por exemplo, você pode incluir uma coluna Atribuições para poder atribuir um membro da equipe a uma tarefa diretamente do relatório.
+Configure a exibição de coluna para incluir os campos em que você está interessado ou que gostaria de poder editar em linha. Por exemplo, você pode incluir uma coluna Atribuições, de modo que possa atribuir um membro da equipe a uma tarefa diretamente do relatório.
 
 Talvez você queira agrupar a lista com base no nome da equipe atribuída a cada tarefa.
 
-É assim que o relatório deve ser:
+Esta é a aparência do relatório:
 
 ![Uma imagem de um relatório de tarefa](assets/opening-built-in-task-filters-2.png)

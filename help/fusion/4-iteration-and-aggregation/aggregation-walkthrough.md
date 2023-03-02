@@ -1,6 +1,6 @@
 ---
 title: Apresentação de agregação
-description: Saiba como agregar as horas planejadas em cada tarefa de trabalho em um projeto e enviar um email para você mesmo com essas informações, tudo em [!DNL Adobe Workfront Fusion].
+description: Saiba como agregar as horas planejadas em cada tarefa de trabalho em um projeto e enviar um email para si mesmo com essas informações, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,7 +9,8 @@ role: User
 level: Beginner
 kt: 9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -20,13 +21,13 @@ ht-degree: 0%
 
 ## Visão geral
 
-Usando o cenário &quot;Introdução à iteração&quot; criado na última apresentação, agregue as horas planejadas em cada tarefa de trabalho do projeto e envie um email para você com essas informações.
+Usando o cenário &quot;Introdução à iteração&quot; que você criou na última apresentação, agregue as horas planejadas em cada tarefa em execução no projeto e envie um email para você mesmo com essas informações.
 
-![Uma imagem do cenário de Fusão](assets/iteration-and-aggregation-2.png)
+![Uma imagem do cenário do Fusion](assets/iteration-and-aggregation-2.png)
 
 ## Apresentação de agregação
 
-A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12)
 

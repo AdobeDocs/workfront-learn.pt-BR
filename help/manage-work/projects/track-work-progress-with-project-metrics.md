@@ -1,6 +1,6 @@
 ---
-title: Rastrear o progresso do trabalho com métricas de projeto
-description: Saiba como usar gráficos de métricas do projeto para acompanhar o progresso do trabalho do projeto no [!DNL  Workfront].
+title: Acompanhar o progresso do trabalho com métricas de projeto
+description: Saiba como usar gráficos de métricas do projeto para rastrear o progresso do trabalho no projeto no [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg
@@ -10,23 +10,24 @@ level: Intermediate
 team: Technical Marketing
 kt: 8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Rastrear o progresso do trabalho com métricas de projeto
+# Acompanhar o progresso do trabalho com métricas de projeto
 
 Neste vídeo, você aprenderá a:
 
-* Acesse os gráficos de métricas do projeto
+* Acessar os gráficos de métricas do projeto
 * Personalizar as informações nos gráficos
 
 >[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12)
 
-Você pode exportar todo o painel de métricas do projeto como um arquivo .png com a variável [!UICONTROL Exportar] botão. Isso facilita o compartilhamento dos dados com outras pessoas por meio de emails ou apresentações.
+É possível exportar todo o painel de métricas do projeto como um arquivo .png com o [!UICONTROL Exportar] botão. Isso facilita o compartilhamento dos dados com outras pessoas por meio de emails ou apresentações.
 
 ![Página Métricas do projeto exportado](assets/planner-fund-metrics-export.png)
 

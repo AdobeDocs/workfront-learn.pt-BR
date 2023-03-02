@@ -1,6 +1,6 @@
 ---
 title: Saiba como baixar e compartilhar Lightboxes
-description: Saiba como baixar e compartilhar lightboxes e ativos no Brand Connect de [!UICONTROL Workfront DAM].
+description: Saiba como baixar e compartilhar lightboxes e ativos no Brand Connect de [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,18 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Conexão da marca: Como baixar e compartilhar o Lightboxes
+# Brand Connect: como baixar e compartilhar Lightboxes
 
 Neste vídeo, você aprenderá a:
 
-* Compartilhe um lightbox com usuários ou participantes externos do Brand Connect
-* Baixar ativos únicos ou vários
+* Compartilhar um lightbox com usuários do Brand Connect ou participantes externos
+* Baixar um ou vários ativos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12)

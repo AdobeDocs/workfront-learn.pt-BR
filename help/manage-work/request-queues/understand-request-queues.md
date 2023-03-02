@@ -1,6 +1,6 @@
 ---
-title: Entender as filas de solicitação
-description: Saiba como as filas de solicitações estão estruturadas em [!DNL  Workfront] e como enviar uma solicitação.
+title: Entender filas de solicitações
+description: Saiba como as filas de solicitações são estruturadas no [!DNL  Workfront] e como enviar uma solicitação.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,14 +10,15 @@ team: Technical Marketing
 thumbnail: 335220.jpeg
 kt: 8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# Entender as filas de solicitação
+# Entender filas de solicitações
 
 Neste vídeo, você aprenderá:
 
@@ -26,34 +27,34 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
 
-## Solicitar rascunhos salvos automaticamente
+## Os rascunhos das solicitações são salvos automaticamente
 
-Ao começar a preencher um formulário de solicitação, [!DNL Workfront] salva um rascunho automaticamente depois de preencher o [!UICONTROL Assunto] campo. Isso significa que você não perderá dados se precisar sair do [!UICONTROL Solicitações] para fazer outra coisa ou se precisar pausar no meio da solicitação para coletar mais informações.
+Ao começar a preencher um formulário de solicitação, [!DNL Workfront] O salva um rascunho automaticamente depois que você preenche o [!UICONTROL Assunto] campo. Isso significa que você não perderá dados se precisar sair do [!UICONTROL Solicitações] para fazer outra coisa ou se precisar pausar no meio de sua solicitação para coletar mais informações.
 
-Você verá uma indicação de que o rascunho foi salvo na parte superior da janela. [!DNL Workfront] O salvará um rascunho de sua solicitação, mesmo se os campos obrigatórios ainda não estiverem preenchidos.
+Você verá uma indicação de que o rascunho foi salvo na parte superior da janela. [!DNL Workfront] O salvará um rascunho da solicitação, mesmo que os campos obrigatórios ainda não tenham sido preenchidos.
 
-![imagem de um rascunho de solicitação](assets/queue-mgt-make-a-request-draft-1.png)
+![imagem de um rascunho de criação de solicitação](assets/queue-mgt-make-a-request-draft-1.png)
 
-Quando estiver pronto para enviar a solicitação, encontre-a no [!UICONTROL Rascunhos] guia . Clique no nome para abri-lo e finalizar o preenchimento do formulário. Em seguida, clique em [!UICONTROL Enviar solicitação] quando terminar.
+Quando estiver pronto para enviar a solicitação, encontre-a no [!UICONTROL Rascunhos] guia. Clique no nome para abri-lo e finalizar o preenchimento do formulário. Clique em [!UICONTROL Enviar solicitação] quando terminar.
 
-![imagem de relatar um rascunho de solicitação](assets/queue-mgt-make-a-request-draft-2.png)
+![imagem de chamada de um rascunho de solicitação](assets/queue-mgt-make-a-request-draft-2.png)
 
 ## Sua vez
 
-Vamos levar um minuto para revisar as informações que você acabou de apresentar.
+Vamos analisar as informações que você acabou de apresentar.
 
-**Pergunta:** Como você faz uma solicitação no Workfront? Liste as etapas em ordem.
+**Pergunta:** Como fazer uma solicitação no Workfront? Liste as etapas em ordem.
 
 * Escolha o tipo de solicitação que você precisa fazer
 * Clique em Enviar solicitação
 * Preencha as informações no formulário
 * Clique em &quot;Nova solicitação&quot;
-* Navegar até a área de solicitação
+* Navegue até a área de solicitação
 
 
-**Resposta:** Navegue até a área de solicitação > Clique em Nova Solicitação > Escolha o tipo de solicitação que você precisa fazer > Preencha as informações no formulário > Clique em Enviar solicitação
+**Resposta:** Navegue até a área de solicitação > Clique em Nova solicitação > Escolha o tipo de solicitação que você precisa fazer > Preencha as informações no formulário > Clique em Submeter solicitação
 
-**Pergunta:** Um pedido é realmente um ...
+**Pergunta:** Uma solicitação é realmente um ...
 
 **Resposta:** Problema
 

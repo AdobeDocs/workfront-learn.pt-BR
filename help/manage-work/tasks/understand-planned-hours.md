@@ -1,6 +1,6 @@
 ---
 title: Entender as horas planejadas
-description: Saiba quais horas são planejadas em [!DNL  Workfront], por que as horas planejadas são importantes para o seu projeto e como adicionar horas planejadas às tarefas.
+description: Saiba quais são as horas planejadas em [!DNL  Workfront], por que as horas planejadas são importantes para o seu projeto e como adicioná-las a tarefas.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Quais horas planejadas estão [!DNL  Workfront]
+* Quais são as horas planejadas em [!DNL  Workfront]
 * Por que as horas planejadas são importantes para o seu projeto
 * Como adicionar horas planejadas a tarefas
 

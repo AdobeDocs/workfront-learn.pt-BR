@@ -1,6 +1,6 @@
 ---
-title: Entender grupos e usuários em [!UICONTROL Workfront DAM]
-description: Saiba como criar pastas, grupos e usuários no [!UICONTROL Workfront DAM]. Entenda os tipos de função do usuário e conceda permissões a pastas.
+title: Entender grupos e usuários no [!UICONTROL DAM DO WORKFRONT]
+description: Saiba como criar pastas, grupos e usuários no [!UICONTROL DAM DO WORKFRONT]. Entenda os tipos de função de usuário e conceda permissões para pastas.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,7 +9,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -20,43 +21,43 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Entenda como as configurações de grupo afetam o acesso aos ativos
+* Entender como as configurações de grupo afetam o acesso a ativos
 * Criar pastas, grupos e usuários em uma ordem específica
-* Entender os tipos de função do usuário
+* Entender os tipos de função de usuário
 * Conceder permissões a pastas
 * Criar e editar grupos
 * Adicionar e editar usuários
 
 >[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12)
 
-## Grupos e usuários revisam
+## Revisão de grupos e usuários
 
-Ao configurar seu [!UICONTROL Workfront DAM] , é importante considerar as funções que usuários e grupos desempenham no cenário geral.
+À medida que você configura o [!UICONTROL DAM DO WORKFRONT] sistema, é importante considerar as funções que os usuários e grupos desempenham na visão geral.
 
-Grupos controlam o acesso às pastas de ativos em [!UICONTROL Workfront DAM]. As configurações de grupo também controlam o que os usuários podem fazer com os ativos (exibir, baixar, editar, etc.) eles têm permissão de acesso.
+Os grupos controlam o acesso às pastas de ativos no [!UICONTROL DAM DO WORKFRONT]. As configurações de grupo também controlam o que os usuários podem fazer com os ativos (exibir, baixar, editar etc.) eles têm permissão para acessar.
 
-Ao criar grupos, é vital ter em mente quais pastas de ativos os membros desse grupo precisarão acessar no [!UICONTROL Workfront DAM].
+Ao criar grupos, é vital ter em mente quais pastas de ativos os membros desse grupo precisarão acessar no [!UICONTROL DAM DO WORKFRONT].
 
-Os usuários são indivíduos que têm logon no [!UICONTROL Workfront DAM]. Um usuário não pode acessar nada em [!UICONTROL Workfront DAM] a menos que sejam atribuídos a um grupo. Os usuários podem pertencer a mais de um grupo, dependendo de suas necessidades.
+Os usuários são os indivíduos que têm logons no [!UICONTROL DAM DO WORKFRONT]. Um usuário não pode acessar nada no [!UICONTROL DAM DO WORKFRONT] a menos que estejam atribuídos a um grupo. Os usuários podem pertencer a mais de um grupo, dependendo de suas necessidades.
 
 ## Grupos padrão
 
-Há dois grupos padrão que vêm com [!UICONTROL Workfront DAM]. Todos os usuários pertencem a esses grupos automaticamente, com base no fato de terem ou não [!UICONTROL Workfront DAM] credenciais de logon. Não é possível adicionar ou remover usuários desses grupos:
+Há dois grupos padrão que vêm com o [!UICONTROL DAM DO WORKFRONT]. Todos os usuários pertencem a esses grupos automaticamente, com base no fato de terem ou não [!UICONTROL DAM DO WORKFRONT] credenciais de logon. Não é possível adicionar ou remover usuários destes grupos:
 
-* **Grupo de convidados**—Usado para controlar o acesso de um usuário anônimo. Pode ser alguém sem credenciais de logon ou um usuário que não está conectado no momento.
-* **Registrado** Grupo -In - Todos os usuários conectados pertencem a esse grupo.
+* **Grupo convidado**—Usado para controlar o acesso de um usuário anônimo. Pode ser alguém sem credenciais de logon ou um usuário que não esteja conectado no momento.
+* **Registrado**-No grupo — Todos os usuários conectados pertencem a este grupo.
 
-O grupo Administrador e suas configurações também existem por padrão. Você pode adicionar usuários a esse grupo, mas não pode ajustar as configurações.
+O grupo Admin e suas configurações também existem por padrão. Você pode adicionar usuários a este grupo, mas não pode ajustar as configurações.
 
 ## Tipos de função
 
-À medida que grupos são criados, um tipo de função é atribuída a eles. O tipo de função determina qual parte do [!UICONTROL Workfront DAM] os usuários do sistema obtêm quando fazem login — [!UICONTROL Workfront DAM] por si só ou [!UICONTROL Conexão de marca].
+À medida que grupos são criados, eles recebem um tipo de função. O tipo de função determina qual parte da função [!UICONTROL DAM DO WORKFRONT] os usuários do sistema recebem quando fazem logon — [!UICONTROL DAM DO WORKFRONT] ele mesmo ou [!UICONTROL Conectar marca].
 
-Há três tipos de função disponíveis com [!UICONTROL Workfront DAM] licenças:
+Há três tipos de função disponíveis com o [!UICONTROL DAM DO WORKFRONT] licenças:
 
-* **[!UICONTROL Brand Portal]**—Esses usuários têm acesso somente a [!UICONTROL Conexão de marca], que é o local onde eles podem visualizar e baixar ativos aprovados.
-* **[!UICONTROL Colaborador]**—Esses usuários podem acessar [!UICONTROL Workfront DAM] e [!UICONTROL Conexão de marca]. Eles têm direitos de acesso total a ativos e pastas — exibir, baixar, carregar, editar, mover e excluir.
-* **[!UICONTROL Administrador]**—Os administradores de sistema têm acesso a tudo em [!UICONTROL Conexão de marca] e [!UICONTROL Workfront DAM], além da capacidade de estabelecer as configurações globais do sistema para cada um. Eles também podem acessar ativos que expiraram ou que foram definidos como inativos.
+* **[!UICONTROL Brand Portal]**— Esses usuários têm acesso somente a [!UICONTROL Conectar marca], que é onde eles podem visualizar e baixar os ativos aprovados.
+* **[!UICONTROL Colaborador]**— Esses usuários podem acessar [!UICONTROL DAM DO WORKFRONT] e [!UICONTROL Conectar marca]. Eles têm direitos de acesso total a ativos e pastas — visualizar, baixar, fazer upload, editar, mover e excluir.
+* **[!UICONTROL Administrador]**—Administradores do sistema têm acesso a tudo em [!UICONTROL Conectar marca] e [!UICONTROL DAM DO WORKFRONT], além da capacidade de estabelecer as configurações globais do sistema para cada um. Eles também podem acessar ativos que expiraram ou foram definidos como inativos.
 
 <!-- 
 Learn more graphic & documentation article link, below

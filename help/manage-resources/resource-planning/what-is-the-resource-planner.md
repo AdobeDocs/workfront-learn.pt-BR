@@ -10,16 +10,17 @@ team: Technical Marketing
 thumbnail: 335167.jpeg
 kt: 8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
-source-git-commit: 9e97819d4f07933d903f4bc26841adb9e52a785a
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# O que é [!DNL Resource Planner]?
+# O que é o [!DNL Resource Planner]?
 
-Para verdadeiramente capacitar as pessoas, os gestores devem planejar e programar o esforço dos seus cidadãos. No entanto, encontrar pessoas com as competências certas, que estão disponíveis no momento certo ao tentar capturar estes dados e geri-los mensalmente, trimestralmente ou até mesmo anualmente, é um grande empreendimento.
+Para realmente capacitar as pessoas, os gerentes devem planejar e agendar o esforço de suas pessoas. No entanto, encontrar pessoas com as habilidades certas que estejam disponíveis no momento certo, enquanto tenta capturar esses dados e gerenciá-los mensalmente, trimestralmente ou até mesmo anualmente, é uma tarefa importante.
 
 No entanto, essa tarefa pode ser um pouco mais fácil com o Planejador de recursos da Workfront para recursos.
 

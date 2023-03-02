@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335127.png
 kt: 8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -21,17 +22,17 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* Que decisão de prova
+* O que é uma decisão de prova
 * Como renomear opções de decisão de prova
-* Como ocultar opções de decisão de prova desnecessárias
+* Como ocultar opções desnecessárias de decisão de prova
 
 >[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12)
 
 ## Sua vez
 
-1. Determine quais opções de decisão são necessárias para os fluxos de trabalho de prova da organização. Lembre-se, essas configurações são globais, de modo que todas as equipes que usam provas verão as mesmas opções.
-1. Agora faça logon no Workfront e acesse as configurações de prova. Na guia Decisões , renomeie as decisões para atender às necessidades de sua organização. Oculte as opções que não serão necessárias.
-1. Depois que tiver as configurações de decisão definidas, faça um teste rápido carregando uma prova e atribuindo a si mesmo como Revisor e Aprovador.
+1. Determine quais opções de decisão são necessárias para os fluxos de trabalho de prova de sua organização. Lembre-se de que essas configurações são globais para que todas as equipes que usam provas vejam as mesmas opções.
+1. Agora faça logon no Workfront e vá para as configurações de prova. Na guia Decisões, renomeie as decisões para atender às necessidades da organização. Oculte as opções que não serão necessárias.
+1. Depois de concluir as configurações de decisão, faça um teste rápido fazendo upload de uma prova e atribuindo a si mesmo a função de Revisar e aprovar.
 
 
 <!--

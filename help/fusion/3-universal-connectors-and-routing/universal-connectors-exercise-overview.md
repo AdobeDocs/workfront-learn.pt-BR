@@ -1,6 +1,6 @@
 ---
-title: Visão geral de exercício dos conectores universais
-description: Saiba como aproveitar o potencial dos conectores universais, conectar-se a uma API externa e extrair informações de um storage, tudo em [!DNL Adobe Workfront Fusion].
+title: Visão geral do exercício de conectores universais
+description: Saiba como aproveitar o potencial dos conectores universais, conectar-se a uma API externa e extrair informações de um storage, tudo isso em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 kt: 9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Visão geral de exercício dos conectores universais
+# Visão geral do exercício de conectores universais
 
 Neste vídeo, você aprenderá a:
 
 * Aproveite o poder dos conectores universais
 * Conectar-se a uma API externa
-* Use o editor de fórmulas para extrair informações de uma matriz
+* Usar o editor de fórmulas para extrair informações de uma matriz
 
 >[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12)

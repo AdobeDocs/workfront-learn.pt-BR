@@ -1,11 +1,12 @@
 ---
-title: Como fazer atualizações e encontrar notificações
-description: Saiba como fazer atualizações em solicitações de aprovação e encontrar notificações.
+title: Como fazer atualizações e localizar notificações
+description: Saiba como fazer atualizações em solicitações de aprovação e encontrar suas notificações.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8809
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Fazer suas próprias atualizações em solicitações de aprovação
+* Faça suas próprias atualizações nas solicitações de aprovação
 * Localizar notificações
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12)

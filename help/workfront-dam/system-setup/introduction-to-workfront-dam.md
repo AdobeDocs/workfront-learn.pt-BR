@@ -1,6 +1,6 @@
 ---
-title: Introdução ao [!UICONTROL Workfront DAM]
-description: Saiba como pesquisar e visualizar ativos e explorar como a estrutura de pastas afeta a organização de ativos e o acesso no [!UICONTROL Workfront DAM].
+title: Introdução ao [!UICONTROL DAM DO WORKFRONT]
+description: Saiba como pesquisar e visualizar ativos e explorar como a estrutura de pastas afeta a organização e o acesso aos ativos no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,29 +9,30 @@ level: Intermediate
 team: Technical Marketing
 kt: 8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Configuração do sistema: introdução ao [!UICONTROL Workfront DAM]
+# Configuração do sistema: introdução ao [!UICONTROL DAM DO WORKFRONT]
 
-[!UICONTROL Workfront DAM] O é uma solução de gerenciamento de ativos digitais (DAM) criada especialmente para gerenciar, controlar e publicar seus ativos de marketing e criação. Ele pode ser usado junto com workflows que você já tem no [!DNL Workfront], onde você pode gerenciar projetos, atribuições de tarefas e outros trabalhos. Use [!DNL Workfront] para criar solicitações de ativos e, em seguida, gerenciar a produção e a revisão de ativos. Preparar, armazenar e distribuir ativos concluídos e aprovados usando [!UICONTROL Workfront DAM].
+[!UICONTROL DAM DO WORKFRONT] O é uma solução de gerenciamento de ativos digitais (DAM) feita especialmente para gerenciar, controlar e publicar seus ativos de marketing e criação. Ela pode ser usada em conjunto com fluxos de trabalho que você já tem no [!DNL Workfront], em que você pode estar gerenciando projetos, atribuições de tarefas e outros trabalhos. Uso [!DNL Workfront] para criar solicitações de ativos e gerenciar a produção e a revisão de ativos. Preparar, armazenar e distribuir ativos concluídos e aprovados usando o [!UICONTROL DAM DO WORKFRONT].
 
 
-Como administrador do sistema, você é responsável pela configuração do [!UICONTROL Workfront DAM] e mantendo-a. Você precisa que seus participantes forneçam informações sobre seus processos para que você possa fornecer a eles um sistema que atenda às suas necessidades. Essas partes interessadas podem incluir:
+Como administrador do sistema, você é responsável pela configuração [!UICONTROL DAM DO WORKFRONT] e sua manutenção. Você precisa que as partes interessadas forneçam insights sobre os processos para que possa fornecer um sistema que atenda às suas necessidades. Essas partes interessadas podem incluir:
 
-* Clientes internos, como gerentes de vendas, representantes de anúncios ou especialistas em marketing
+* Clientes internos, como gerentes de vendas, representantes de publicidade ou especialistas em marketing
 * Gerente de produção
-* Diretor criativo
+* Diretor de criação
 * Membro da equipe de criação
 
-Neste vídeo, você:
+Neste vídeo, você vai:
 
-* Obtenha uma visão geral de alto nível da [!UICONTROL Workfront DAM]
+* Obtenha uma visão geral de alto nível do [!UICONTROL DAM DO WORKFRONT]
 * Pesquisar e exibir ativos
-* Explore como a estrutura de pastas afeta a organização e o acesso do ativo
+* Explore como a estrutura de pastas afeta a organização e o acesso aos ativos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12)

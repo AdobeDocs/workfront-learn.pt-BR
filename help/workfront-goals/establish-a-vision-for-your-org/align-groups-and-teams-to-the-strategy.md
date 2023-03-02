@@ -1,6 +1,6 @@
 ---
 title: Alinhar grupos e equipes à estratégia
-description: Saiba como revisar e ativar as metas propostas e alinhar e alinhar metas trimestrais usando o [!DNL Metas].
+description: Saiba como revisar e ativar metas propostas, além de colocar metas trimestrais em cascata e alinhar usando [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,7 +9,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8894
 exl-id: 2f3ef8e3-f667-4efa-9cf0-44f8835d1671
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,8 +21,8 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Revisar e ativar as metas propostas
-* Colocar em cascata e alinhar metas trimestrais
+* Revisar e ativar metas propostas
+* Colocar metas em cascata e alinhar metas trimestrais
 
 >[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12)
 
@@ -29,4 +30,4 @@ Neste vídeo, você aprenderá a:
 Pro-tips graphic
 -->
 
-* Estabeleça uma cadência para a frequência com que você revisará e definirá metas trimestrais e incrementais. É recomendável definir metas para cada período de planejamento, mas não mapeá-las com antecedência excessiva, garantindo que você permaneça incapaz e responsivo a mudanças nos negócios.
+* Estabeleça uma cadência para a frequência com que você revisará e definirá metas trimestrais e incrementais. É recomendável definir metas para cada período de planejamento, mas não mapeá-las com muita antecedência, garantindo que você permaneça ágil e responsivo às mudanças nos negócios.

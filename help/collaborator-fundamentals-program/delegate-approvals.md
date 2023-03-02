@@ -1,11 +1,12 @@
 ---
 title: Como delegar aprovações de trabalho
-description: Saiba como delegar aprovações para projetos, tarefas, problemas e cartões de ponto a outro usuário.
+description: Saiba como delegar aprovações de projetos, tarefas, problemas e cartões de ponto a outro usuário.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8810
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 Neste vídeo, você aprenderá a:
 
 * Atribuir aprovações a outra pessoa
-* Fim do período de delegação
+* Encerrar o período de delegação
 * Localizar aprovações delegadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12)

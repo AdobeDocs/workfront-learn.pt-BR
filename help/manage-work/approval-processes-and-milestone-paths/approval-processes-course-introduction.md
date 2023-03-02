@@ -1,5 +1,5 @@
 ---
-title: Introdução ao Curso Processos de Aprovação
+title: Introdução ao curso de processos de aprovação
 description: Saiba como os processos de aprovação podem simplificar e automatizar o processo de revisão de trabalho.
 activity: deploy
 feature: Work Management
@@ -8,7 +8,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 8961
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

@@ -1,6 +1,6 @@
 ---
-title: Exibir por usuários no Planejador de Recursos
-description: Consulte como usar a opção Exibir por usuário e como as informações do recurso são exibidas nessa visualização.
+title: Visualizar por usuários no Planejador de recursos
+description: Veja como usar a opção Exibir por Usuário e como as informações de recurso são exibidas nesta exibição.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,19 +10,20 @@ team: Technical Marketing
 thumbnail: 335168.jpeg
 kt: 8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
-source-git-commit: 9e97819d4f07933d903f4bc26841adb9e52a785a
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Exibir por usuários no [!DNL Resource Planner]
+# Visualizar por usuários na [!DNL Resource Planner]
 
-Neste vídeo, você:
+Neste vídeo, você vai:
 
-* Consulte [!UICONTROL Exibir por usuário ]exibir
-* Saiba como as informações de recursos são exibidas nesta exibição
+* Consulte [!UICONTROL Visualizar por usuário ]exibir
+* Saiba como as informações de recurso são exibidas nesta exibição
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12)

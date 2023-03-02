@@ -1,6 +1,6 @@
 ---
-title: Marcar Trabalho Atribuído como concluído em [!UICONTROL Início]
-description: Saiba como alterar o status de uma tarefa ou problema atribuído para indicar que está concluído por meio do [!UICONTROL Lista de Trabalho]. Em seguida, filtre a lista para ver apenas o trabalho concluído.
+title: Marcar trabalho atribuído como concluído em [!UICONTROL Início]
+description: Saiba como alterar o status de uma tarefa ou problema atribuído para indicar que está concluído através da [!UICONTROL Lista de trabalho]. Em seguida, filtre a lista para ver somente o trabalho concluído.
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335104.png
 kt: 8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -22,13 +23,13 @@ ht-degree: 0%
 Neste vídeo, você aprenderá:
 
 * Como comunicar o progresso do trabalho com o status
-* Por que o status é importante em [!DNL  Workfront]
-* Como filtrar o [!UICONTROL Lista de Trabalho] para ver o trabalho concluído
+* Por que o status é importante no [!DNL  Workfront]
+* Como filtrar a variável [!UICONTROL Lista de trabalho] para ver o trabalho concluído
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12)
 
 
-## Duas outras maneiras de indicar que o trabalho está concluído
+## Duas outras maneiras de indicar que o trabalho foi concluído
 
 * Altere o [!UICONTROL Status] menu suspenso até Concluir.
 * Atualize o [!UICONTROL porcentagem concluída] para 100%. Isso altera automaticamente o status para Concluído.

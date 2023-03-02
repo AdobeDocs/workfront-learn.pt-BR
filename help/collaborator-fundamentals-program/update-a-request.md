@@ -1,11 +1,12 @@
 ---
 title: Como atualizar uma solicitação
-description: Saiba como encontrar as solicitações que você enviou e fazer uma atualização nessas solicitações.
+description: Saiba como encontrar as solicitações enviadas e fazer uma atualização nessas solicitações.
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8807
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%

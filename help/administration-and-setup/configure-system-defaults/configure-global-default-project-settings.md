@@ -1,6 +1,6 @@
 ---
-title: Definir configurações de projeto padrão global
-description: Saiba como alterar um status personalizado, definir preferências de projeto global e criar agendamentos que sejam configurações padrão globais.
+title: Definir Configurações Globais Padrão do Projeto
+description: Saiba como alterar um status personalizado, definir preferências de projeto globais e criar agendas que sejam configurações padrão globais.
 feature: System Setup and Administration
 role: Admin
 level: Intermediate
@@ -10,14 +10,15 @@ team: Technical Marketing
 thumbnail: 335065.png
 kt: 8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
-# Definir configurações de projeto padrão global
+# Definir configurações globais padrão do projeto
 
 <!---
 21.4 updates have been made
@@ -26,52 +27,52 @@ ht-degree: 0%
 Neste vídeo, você aprenderá a:
 
 * Alterar um status personalizado
-* Definir preferências de projeto global
-* Criar e usar programações
+* Definir preferências globais do projeto
+* Criar e usar agendas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12)
 
-## Configurações globais e de projeto, tarefa e emissão de grupo
+## Configurações globais e de grupo para projetos, tarefas e problemas
 
-Ao abrir o [!UICONTROL Projetos] configurações em [!DNL Workfront], você perceberá que diz &quot;[!UICONTROL Preferências de projeto do sistema]&quot; na barra de pesquisa na parte superior da janela. Isso permite que você saiba que essas configurações afetam todos na sua [!DNL Workfront] sistema — é uma configuração global.
+Ao abrir a variável [!UICONTROL Projetos] configurações em [!DNL Workfront], você perceberá que diz &quot;[!UICONTROL Preferências de Projeto do Sistema]&quot; na barra de pesquisa na parte superior da janela. Isso permite que você saiba que essas configurações afetam todos na sua [!DNL Workfront] sistema — é uma configuração global.
 
-![[!UICONTROL Preferências do projeto] em [!UICONTROL Configuração]](assets/admin-fund-system-project-preferences-1.png)
+![[!UICONTROL Preferências do projeto] página em [!UICONTROL Configuração]](assets/admin-fund-system-project-preferences-1.png)
 
-Você verá algo semelhante ao abrir o [!UICONTROL Tarefas e problemas] configurações.
+Você verá algo semelhante ao abrir a variável [!UICONTROL Tarefas e problemas] configurações.
 
-![[!UICONTROL Preferências de tarefa e emissão] em [!UICONTROL Configuração]](assets/admin-fund-task-issue-preferences-2.png)
+![[!UICONTROL Preferências de tarefas e problemas] in [!UICONTROL Configuração]](assets/admin-fund-task-issue-preferences-2.png)
 
-No entanto, é possível que nem todos os grupos no [!DNL Workfront] O precisa do mesmo projeto, tarefa e preferências de emissão. Por exemplo, o grupo de marketing deseja que o status de um novo projeto seja Planejamento, enquanto o grupo do gerenciador de projetos prefere o status Solicitação .
+No entanto, é possível que nem todos os grupos [!DNL Workfront] O precisa das mesmas preferências de projeto, tarefa e problema. Por exemplo, o grupo de marketing deseja que o status de um novo projeto seja Planejamento, enquanto o grupo de gerentes de projeto prefere o status Solicitação.
 
-[!DNL Workfront] permite que os administradores de grupo ajustem determinados projetos, tarefas e emitam preferências para seus grupos. As preferências que podem ser ajustadas são determinadas pela variável [!DNL Workfront] administrador do sistema usando os botões de bloqueio/desbloqueio.
+[!DNL Workfront] O permite que administradores de grupos ajustem determinadas preferências de projeto, tarefa e problema para seus grupos. As preferências que podem ser ajustadas são determinadas pelo [!DNL Workfront] administrador do sistema usando os botões bloquear/desbloquear.
 
-Comece navegando até o [!UICONTROL Configuração] Área:
+Comece navegando até o [!UICONTROL Configuração] área:
 
 1. Selecionar **[!UICONTROL Configuração]** no **[!UICONTROL Menu principal]**.
 1. Expandir **[!UICONTROL Preferências do projeto]** no menu esquerdo.
-1. Selecionar **[!UICONTROL Projetos]** ou **[!UICONTROL Tarefas e problemas]**, dependendo das configurações que deseja modificar.
+1. Selecionar **[!UICONTROL Projetos]** ou **[!UICONTROL Tarefas e problemas]**, dependendo das configurações que você deseja modificar.
 
-Bloqueie uma preferência para impedir que os administradores de grupo ajustem essa configuração para seu grupo.
+Bloqueie uma preferência para impedir que administradores de grupos ajustem essa configuração para seus grupos.
 
 ![Mensagem de preferência bloqueada](assets/admin-fund-preferences-locked-3.png)
 
-Desbloqueie a preferência para disponibilizá-la para que os administradores de grupo personalizem.
+Desbloqueie a preferência para disponibilizá-la para que administradores de grupos personalizem.
 
 ![Mensagem de preferência desbloqueada](assets/admin-fund-preferences-unlocked-4.png)
 
-Algumas configurações não podem ser desbloqueadas e continuar com as configurações globais do sistema.
+Algumas configurações não podem ser desbloqueadas e permanecem como configurações globais do sistema.
 
 ![Mensagem de preferência bloqueada](assets/admin-fund-preferences-always-locked-5.png)
 
 ### Definir preferências de grupo e subgrupo
 
-Para quaisquer configurações desbloqueadas pelo administrador do sistema, os administradores de grupo podem fazer ajustes para os grupos que gerenciam e para quaisquer subgrupos aninhados nesses grupos. Além disso, os administradores de grupo podem controlar quais configurações os administradores de subgrupo podem modificar.
+Para quaisquer configurações desbloqueadas pelo administrador do sistema, os administradores de grupo podem fazer ajustes para os grupos que gerenciam e quaisquer subgrupos aninhados nesses grupos. Além disso, os administradores de grupo podem controlar quais configurações os administradores de subgrupo podem modificar.
 
 1. Selecionar **[!UICONTROL Configuração]** no **[!UICONTROL Menu principal]**.
 1. Clique em **[!DNL Groups]** no menu esquerdo.
 1. Clique no nome do grupo ou subgrupo para abri-lo.
 1. Selecionar **[!UICONTROL Preferências do projeto]** ou **[!UICONTROL Preferências de tarefas e problemas]** no menu esquerdo.
-1. Faça as alterações necessárias para cada uma das preferências desbloqueadas.
+1. Faça as alterações necessárias para cada uma das preferências que foram desbloqueadas.
 1. Selecionar **[!UICONTROL Salvar]**.
 
 ![[!UICONTROL Status do projeto] seção sobre [!UICONTROL Grupo] página](assets/admin-fund-group-preferences.png)

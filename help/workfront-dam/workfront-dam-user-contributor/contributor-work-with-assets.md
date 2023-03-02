@@ -1,6 +1,6 @@
 ---
-title: Trabalhar com ativos em [!UICONTROL Workfront DAM]
-description: Saiba como trabalhar com ativos no [!UICONTROL Workfront DAM].
+title: Trabalhar com ativos no [!UICONTROL DAM DO WORKFRONT]
+description: Saiba como trabalhar com ativos no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -8,10 +8,11 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8995
+doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Fazer upload de ativos para [!UICONTROL Workfront DAM]
+* Fazer upload de ativos para [!UICONTROL DAM DO WORKFRONT]
 * Adicionar metadados e palavras-chave aos ativos
 * Usar um modelo de metadados
 * Adicionar arquivos relacionados a um ativo

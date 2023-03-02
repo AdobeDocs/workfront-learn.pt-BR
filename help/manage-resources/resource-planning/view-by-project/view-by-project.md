@@ -1,6 +1,6 @@
 ---
-title: Exibir por projeto no Planejador de Recursos
-description: Consulte como usar a opção Exibir por projeto e como as informações do recurso são exibidas nessa visualização.
+title: Visualizar por projeto no Planejador de recursos
+description: Veja como usar a opção Visualizar por Projeto e como as informações do recurso são exibidas nesta visualização.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,44 +10,45 @@ team: Technical Marketing
 thumbnail: 335170.jpeg
 kt: 8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
-source-git-commit: 9e97819d4f07933d903f4bc26841adb9e52a785a
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-# Exibir por projeto na [!DNL Resource Planner]
+# Visualizar por projeto na [!DNL Resource Planner]
 
-Neste vídeo, você:
+Neste vídeo, você vai:
 
-* Consulte [!UICONTROL Exibir por projeto ]exibir
-* Saiba como as informações de recursos são exibidas nesta exibição
+* Consulte [!UICONTROL Visualizar por Projeto ]exibir
+* Saiba como as informações de recurso são exibidas nesta exibição
 
 >[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12)
 
-Para a opção Exibir por Projeto, o padrão é mostrar a coluna Orçada, que extrai o número estimado de recursos necessários para um projeto a partir de um caso comercial, se tiver sido preenchido. Isso também significa que a coluna Líquido está, por padrão, usando os números da coluna Orçada para informar quantos recursos ainda existem.
+Para a opção Exibir por Projeto, o padrão é mostrar a coluna Orçado, que extrai o número estimado de recursos necessários para um projeto de um business case, se ele tiver sido preenchido. Isso também significa que a coluna Líquido está, por padrão, usando os números da coluna Orçado para informar quantos recursos restam.
 
-No entanto, sua organização pode não estar usando ou estar pronta para usar casos de negócios para estimar esses valores. Em vez disso, você usa as horas planejadas já inseridas em um projeto. Por meio da opção Personalizar , é possível escolher quais colunas aparecem na exibição escolhida e como você gostaria que a coluna Rede fosse calculada.
+No entanto, sua organização pode não estar usando, ou estar pronta para usar, casos de negócios para estimar esses valores. Em vez disso, use as horas planejadas já inseridas em um projeto. Com a opção Personalizar, você pode escolher quais colunas aparecem na visualização escolhida e como deseja que a coluna Líquido seja calculada.
 
-Para alterar as colunas que aparecem e o cálculo da coluna Rede para que seja baseado nas horas planejadas:
+Para alterar as colunas exibidas e o cálculo de coluna Líquido de modo que seja baseado nas horas planejadas:
 
-* Clique no menu suspenso Horas e selecione Personalizar.
+* Clique no menu suspenso Hours e selecione Personalizar.
 
-![Opção Personalizar no menu suspenso](assets/NetHours01.png)
+![Personalizar opção no menu suspenso](assets/NetHours01.png)
 
-* Na caixa Personalizar métricas exibidas , determine quais colunas serão exibidas e marque a caixa ao lado de Usar valores de PLN planejados em cálculos de NET.
+* Na caixa Personalizar métricas exibidas, determine quais colunas são exibidas e marque a caixa próxima a Usar valores planejados (PLN) em cálculos LÍQUIDOS.
 
-![Usar valores planejados na opção Cálculo de LÍQUIDOS](assets/NetHours02.png)
+![Opção Usar valores planejados em cálculos de NET](assets/NetHours02.png)
 
-**Observação**: É possível editar as colunas e os cálculos para os diferentes tipos de exibição no Planejador de Recursos selecionando uma opção no lado esquerdo da caixa.
+**Nota**: é possível editar as colunas e os cálculos para os diferentes tipos de visualização no Planejador de recursos, selecionando uma opção no lado esquerdo da caixa.
 
-![Opções de tipo de exibição](assets/NetHours03.jpg)
+![Exibir opções de tipo](assets/NetHours03.jpg)
 
-* Depois que você clicar em Salvar, a caixa será fechada e a tela será atualizada.
+* Depois de clicar em Salvar, a caixa é fechada e a tela é atualizada.
 
-![Ferramenta de planejador de recursos](assets/NetHours04.jpg)
+![Ferramenta de planejamento de recursos](assets/NetHours04.jpg)
 
-O Planejador de Recursos mostra o que você precisa saber sobre sua oferta e demanda sem planilhas complexas e comunicação em sequência.
+O Planejador de recursos mostra o que você precisa saber sobre seu suprimento e demanda sem planilhas complexas e comunicação round-robin.
 
-Com as informações em mãos e as ferramentas no seu comando, você pode ajustar a capacidade da sua equipe de executar o trabalho que é importante para você.
+Com as informações disponíveis e as ferramentas ao seu comando, você pode ajustar a capacidade de sua equipe para executar o trabalho que é importante para você.

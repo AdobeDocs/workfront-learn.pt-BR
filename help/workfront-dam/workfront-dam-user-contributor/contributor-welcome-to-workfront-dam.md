@@ -1,6 +1,6 @@
 ---
-title: Saiba mais sobre o [!UICONTROL Workfront DAM], Curso de colaborador
-description: Saiba mais sobre o que será abordado na [!UICONTROL Workfront DAM], Curso Contributor .
+title: Saiba mais sobre o [!UICONTROL DAM DO WORKFRONT], Curso do colaborador
+description: Saiba mais sobre o que será abordado no [!UICONTROL DAM DO WORKFRONT], Curso de colaborador.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -8,20 +8,21 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8991
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Colaborador: bem-vindo ao [!UICONTROL Workfront DAM]
+# Colaborador: bem-vindo ao [!UICONTROL DAM DO WORKFRONT]
 
-[!UICONTROL Workfront DAM] O é uma solução de gerenciamento de ativos digitais (DAM) criada especialmente para gerenciar, controlar e publicar seus ativos de marketing e criação. Ele pode ser usado junto com workflows que você já tem no [!DNL Workfront], onde você pode gerenciar projetos, atribuições de tarefas e outros trabalhos. Use [!DNL Workfront] para criar solicitações de ativos e, em seguida, gerenciar a produção e a revisão de ativos. Como um usuário contribuidor em [!UICONTROL Workfront DAM], é possível preparar, armazenar e distribuir ativos concluídos e aprovados.
+[!UICONTROL DAM DO WORKFRONT] O é uma solução de gerenciamento de ativos digitais (DAM) feita especialmente para gerenciar, controlar e publicar seus ativos de marketing e criação. Ela pode ser usada em conjunto com fluxos de trabalho que você já tem no [!DNL Workfront], em que você pode estar gerenciando projetos, atribuições de tarefas e outros trabalhos. Uso [!DNL Workfront] para criar solicitações de ativos e gerenciar a produção e a revisão de ativos. Como usuário Colaborador no [!UICONTROL DAM DO WORKFRONT], você pode preparar, armazenar e distribuir ativos concluídos e aprovados.
 
 Neste vídeo, você aprenderá:
 
 * O que você aprenderá durante este curso
-* What [!UICONTROL Workfront DAM] e como usá-lo
+* O que [!UICONTROL DAM DO WORKFRONT] é e como você pode usá-lo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12)

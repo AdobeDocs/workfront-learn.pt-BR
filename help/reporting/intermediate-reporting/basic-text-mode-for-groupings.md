@@ -1,6 +1,6 @@
 ---
 title: Entender o modo de texto básico para agrupamentos
-description: Saiba qual é o modo de texto, qual é o caso de camel e algum modo de texto "plug and play" básico que você pode usar em seus agrupamentos no Workfront.
+description: Saiba o que é modo de texto, o que é camel case e conheça modos de texto básicos de "plug and play" que podem ser usados em seus agrupamentos no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -23,22 +24,22 @@ ht-degree: 0%
 >
 >Pré-requisitos:
 >
->* Entender os elementos de relatório
->* Entender os componentes de relatório
+>* Entender os elementos de relatórios
+>* Entender os componentes de relatórios
 >* Criar um agrupamento básico
 
 
 >[!TIP]
 >
->* Para obter uma compreensão mais profunda do modo de texto, recomendamos assistir ao evento de webinar gravado [Pergunte a um especialista - Introdução aos relatórios do modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tem duração de uma hora.
->* Para saber mais ainda sobre o modo de texto, recomendamos assistir ao [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriais, que juntos têm cinco horas e meia de duração.
+>* Para obter uma compreensão mais detalhada do modo de texto, recomendamos assistir ao evento gravado do webinário [Pergunte a um especialista - Introdução aos relatórios no modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tem uma hora de duração.
+>* Para saber ainda mais sobre o modo de texto, recomendamos assistir ao [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriais, que juntos têm cinco horas e meia de duração.
 
 
 Neste vídeo, você aprenderá:
 
-* O modo de texto é
-* Qual é o caso do camelo?
-* Algum modo de texto &quot;plug and play&quot; básico que você pode usar em seus agrupamentos
+* O que é modo texto
+* O que camel case é
+* Alguns modos básicos de texto &quot;plug and play&quot; que você pode usar em seus agrupamentos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
@@ -59,9 +60,9 @@ group.0.valueformat=string
 ![Uma imagem de tela mostrando tarefas de projeto agrupadas por 4 pais](assets/4-parents-grouping.png)
 
 
-## Tarefa - Percentual de agrupamento concluído
+## Tarefa - Agrupamento de percentual de conclusão
 
-O modo de texto a seguir agrupará tarefas com base em sua porcentagem de conclusão. As tarefas serão incluídas em uma das seguintes categorias quando agrupadas:
+O modo de texto a seguir irá agrupar as tarefas com base na sua porcentagem concluída. As tarefas se encaixarão em uma das seguintes categorias quando agrupadas:
 
 * 0%
 * 1% a 25%
@@ -78,9 +79,9 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![Uma imagem de tela mostrando tarefas de projeto agrupadas por porcentagem concluída](assets/percent-complete-grouping.png)
+![Uma imagem de tela mostrando as tarefas do projeto agrupadas por porcentagem concluída](assets/percent-complete-grouping.png)
 
-## Tarefa - statusEquatesWith, em seguida status
+## Tarefa - statusEquatesWith, depois status
 
 O modo de texto a seguir agrupará tarefas por statusEquatesWith e, em seguida, por status.
 
@@ -102,10 +103,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![Uma imagem de tela mostrando as tarefas do projeto agrupadas por statusEquatesWith](assets/status-equates-with.png)
+![Uma imagem de tela mostrando tarefas de projeto agrupadas por statusEquatesWith](assets/status-equates-with.png)
 
 
-## Aprovação de prova - Agrupar por nome de projeto
+## Aprovação da prova - Agrupar por nome de projeto
 
 ```
 group.0.valueformat=HTML
@@ -113,5 +114,5 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![Uma imagem de tela mostrando aprovações de Prova agrupadas pelo nome do projeto](assets/proof-approvals-grouped-by-project-name.png)
+![Uma imagem de tela mostrando aprovações de provas agrupadas por nome de projeto](assets/proof-approvals-grouped-by-project-name.png)
 

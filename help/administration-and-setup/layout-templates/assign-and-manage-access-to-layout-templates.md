@@ -1,6 +1,6 @@
 ---
 title: Atribuir e gerenciar o acesso aos modelos de layout
-description: Saiba como atribuir modelos de layout a usuários e controlar quem pode gerenciar o acesso.
+description: Saiba como atribuir modelos de layout aos usuários e controlar quem pode gerenciar o acesso.
 feature: System Setup and Administration
 level: Intermediate
 activity: deploy
@@ -10,18 +10,19 @@ role: Admin
 thumbnail: 335080.jpeg
 kt: 8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Atribuir e gerenciar o acesso aos modelos de layout
+# Atribuir e gerenciar o acesso a modelos de layout
 
 Neste vídeo, você aprenderá a:
 
-* Navegar para atribuições
+* Navegue até atribuições
 * Atribuir modelos de layout a usuários, grupos ou equipes
 * Controlar quem pode gerenciar o acesso ao modelo de layout
 

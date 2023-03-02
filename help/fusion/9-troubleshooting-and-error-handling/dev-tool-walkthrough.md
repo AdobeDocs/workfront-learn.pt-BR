@@ -1,6 +1,6 @@
 ---
 title: Apresentação da ferramenta de desenvolvimento
-description: Saiba como instalar e usar as diferentes áreas no [!DNL Adobe Workfront Fusion Dev Tool] mergulhe mais fundo nos truques de design de cenário avançado.
+description: Saiba como instalar e usar as diferentes áreas no [!DNL Adobe Workfront Fusion Dev Tool] para aprofundar os truques de design de cenário avançado.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,7 +9,8 @@ role: User
 level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -20,13 +21,13 @@ ht-degree: 0%
 
 ## Visão geral
 
-Instale e use as diferentes áreas na Ferramenta de desenvolvimento Workfront para aprofundar as solicitações/respostas feitas e os truques avançados de design de cenário.
+Instale e use as diferentes áreas na Ferramenta de desenvolvimento da Workfront para aprofundar as solicitações/respostas feitas e os truques avançados de design de cenários.
 
 ![Uma imagem de um cenário do Fusion e da ferramenta dev](assets/troubleshooting-and-error-handling-1.png)
 
 ## Apresentação da ferramenta de desenvolvimento
 
-A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12)
 
@@ -35,9 +36,9 @@ A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes 
 >Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação da ferramenta de desenvolvimento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) exercício.
 
 
-## Baixar a ferramenta Dev
+## Baixar a ferramenta Desenvolvimento
 
-A Ferramenta de desenvolvimento tem vários recursos avançados que melhoram sua capacidade de entender e solucionar problemas de cenários. Baixe o documento &quot;workfront-fusion-devtool.zip&quot; encontrado na pasta Fusion Exercise Files na sua unidade de teste.
+A Ferramenta de desenvolvimento tem vários recursos avançados que melhoram sua capacidade de entender e solucionar problemas de cenários. Baixe o documento &quot;workfront-fusion-devtool.zip&quot; encontrado na pasta Arquivos do Fusion Exercise na unidade de teste.
 
 
 

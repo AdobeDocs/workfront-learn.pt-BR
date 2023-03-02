@@ -1,6 +1,6 @@
 ---
-title: Parte 3 do relatório avançado
-description: Entenda um estudo detalhado de agrupamentos de modo de texto, agregados calculados e agrupamentos calculados.
+title: Relatório avançado, parte 3
+description: Entenda um estudo detalhado de agrupamentos do modo de texto, agregados calculados e agrupamentos calculados.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -9,18 +9,20 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11202
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Parte 3 do relatório avançado
+# Relatório avançado, parte 3
 
 Neste vídeo, você aprenderá:
 
-* Um estudo detalhado de agrupamentos de modo de texto
+* Um estudo aprofundado dos agrupamentos em modo de texto
 * Agregados calculados
 * Agrupamentos calculados
 
@@ -30,4 +32,4 @@ Neste vídeo, você aprenderá:
 
 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manual de relatório avançado](/help/assets/advanced-reporting-manual.pdf)
+[Manual avançado de relatórios](/help/assets/advanced-reporting-manual.pdf)

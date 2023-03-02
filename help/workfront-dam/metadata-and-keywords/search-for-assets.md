@@ -1,6 +1,6 @@
 ---
-title: Pesquisar por ativos em [!UICONTROL Workfront DAM]
-description: Saiba como pesquisar ativos usando metadados e palavras-chave, planejar a manutenção de metadados e palavras-chave e estabelecer [!UICONTROL Workfront DAM] práticas recomendadas.
+title: Pesquisar por ativos no [!UICONTROL DAM DO WORKFRONT]
+description: Saiba como pesquisar ativos usando metadados e palavras-chave, planejar a manutenção de metadados e palavras-chave e estabelecer [!UICONTROL DAM DO WORKFRONT] práticas recomendadas.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,19 +9,20 @@ level: Intermediate
 team: Technical Marketing
 kt: 8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Metadados e palavras-chave: procurar ativos
+# Metadados e palavras-chave: pesquisar ativos
 
 Neste vídeo, você aprenderá a:
 
 * Pesquisar ativos usando metadados e palavras-chave
-* Plano para manter metadados e palavras-chave
-* Estabelecer [!UICONTROL Workfront DAM] práticas recomendadas
+* Planejar a manutenção de metadados e palavras-chave
+* Estabelecer [!UICONTROL DAM DO WORKFRONT] práticas recomendadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12)

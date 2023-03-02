@@ -1,6 +1,6 @@
 ---
-title: Configurar modelos de metadados em [!UICONTROL Workfront DAM]
-description: Saiba como economizar tempo com modelos de metadados, configurar um modelo de metadados e aplicar um modelo a uma pasta em [!UICONTROL Workfront DAM].
+title: Configurar modelos de metadados no [!UICONTROL DAM DO WORKFRONT]
+description: Saiba como economizar tempo com modelos de metadados, configurar um modelo de metadados e aplicar um modelo a uma pasta no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,7 +9,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Salvar tempo com modelos de metadados
+* Economize tempo com modelos de metadados
 * Configurar um modelo de metadados
 * Aplicar um modelo a uma pasta
 

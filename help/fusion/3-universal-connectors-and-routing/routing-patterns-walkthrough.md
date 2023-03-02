@@ -1,6 +1,6 @@
 ---
-title: Apresentação dos padrões de roteamento
-description: Saiba como usar o módulo Definir variável para enviar um número por vários caminhos para ver como os filtros e fallbacks se comportam [!DNL Adobe Workfront Fusion].
+title: Apresentação de padrões de roteamento
+description: Saiba como usar o módulo Definir variável para enviar um número por vários caminhos para ver como os filtros e fallbacks se comportam no [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,30 +9,31 @@ role: User
 level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# Apresentação de padrões de roteamento e fallbacks
+# Passo a passo de padrões e fallbacks do roteamento
 
 ## Visão geral
 
-Use o módulo Definir variável para enviar um número por vários caminhos e ver como os filtros e fallbacks se comportam ao rotear.
+Use o módulo Set Variable para enviar um número por vários caminhos para ver como os filtros e os fallbacks se comportam durante o roteamento.
 
-![Uma imagem do cenário de Fusão](assets/universal-connectors-and-routing-7.png)
+![Uma imagem do cenário do Fusion](assets/universal-connectors-and-routing-7.png)
 
-## Apresentação dos padrões de roteamento
+## Apresentação de padrões de roteamento
 
-A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12)
 
 >[!TIP]
 >
->Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação dos padrões de roteamento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) exercício.
+>Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação de padrões de roteamento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) exercício.
 
 
 ## Quer saber mais? Recomendamos o seguinte:

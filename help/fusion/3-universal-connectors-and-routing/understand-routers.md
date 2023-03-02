@@ -1,6 +1,6 @@
 ---
-title: Entender roteadores
-description: Saiba quais são os roteadores e por que usá-los, como os pacotes de dados passam pelos caminhos do roteador e como adicionar e usar roteadores, tudo em [!DNL Adobe Workfront Fusion].
+title: Compreender roteadores
+description: Saiba o que são roteadores e por que usá-los, como pacotes de dados passam pelos caminhos do roteador e como adicionar e usar roteadores, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,18 +9,19 @@ role: User
 level: Beginner
 kt: 9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Entender roteadores
+# Compreender roteadores
 
 Neste vídeo, você aprenderá:
 
-* Quais roteadores são e por que usá-los
+* O que são roteadores e por que usá-los
 * Como os pacotes de dados passam pelos caminhos do roteador
 * Como adicionar e usar roteadores
 

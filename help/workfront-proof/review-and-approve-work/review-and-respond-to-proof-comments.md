@@ -1,6 +1,6 @@
 ---
-title: Revisar e responder comentários de prova
-description: Saiba como visualizar e responder comentários de prova no visualizador de prova e no [!UICONTROL Atualizações] seção de [!DNL  Workfront].
+title: Revisar e responder a comentários de prova
+description: Saiba como visualizar e responder a comentários de prova do visualizador de prova e do [!UICONTROL Atualizações] seção de [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,19 +10,20 @@ team: Technical Marketing
 thumbnail: 335139.png
 kt: 8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Revisar e responder comentários de prova
+# Revisar e responder a comentários de prova
 
 Neste vídeo, você aprenderá a:
 
-* Exibir e responder comentários no visualizador de prova
-* Exibir comentários de prova na [!UICONTROL Atualizações] seção
+* Exibir e responder a comentários no visualizador de prova
+* Exibir comentários de prova no [!UICONTROL Atualizações] seção
 * Responder a um comentário de prova do [!UICONTROL Atualizações] seção
 
 >[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12)
