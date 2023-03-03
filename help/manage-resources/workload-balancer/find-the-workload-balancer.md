@@ -1,5 +1,5 @@
 ---
-title: Localizar o Balanceador de Carga de Trabalho
+title: Encontrar o Balanceador de carga de trabalho
 description: Saiba como encontrar o balanceador de carga de trabalho no Workfront e conhecer algumas das áreas disponíveis.
 feature: Resource Management
 type: Tutorial
@@ -10,41 +10,39 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# Encontre a [!DNL Workload Balancer]
+# Localize o [!DNL Workload Balancer]
 
-Saber quais recursos estão disponíveis e como distribuí-los pode ser uma tarefa desafiadora para qualquer um. É por isso que a Workfront criou a variável [!DNL Workload Balancer].
+Saber quais recursos estão disponíveis e como distribuí-los pode ser uma tarefa desafiadora para qualquer pessoa. É por isso que a Workfront criou o [!DNL Workload Balancer].
 
-Seu objetivo é fornecer mais informações sobre e gerenciar as cargas de trabalho diárias e semanais das pessoas que você gerencia. Isso ajuda você a fazer atribuições melhores, com base na função e disponibilidade, em vários projetos.
+Sua finalidade é oferecer a você maior compreensão e gerenciamento das cargas de trabalho diárias e semanais das pessoas que você gerencia. Isso ajuda você a fazer atribuições melhores, com base na função e na disponibilidade, em vários projetos.
 
-![opção de menu principal de recursos](assets/Find_01.png)
+![recursos no menu principal](assets/Find_01.png)
 
 * Clique em [!UICONTROL Recursos] no [!UICONTROL Menu principal].
-* Vá para o [!UICONTROL Agendamento] na área Gerenciamento de recursos.
-* Clique no botão [!UICONTROL &quot;Alternar para Balanceador de Carga de Trabalho&quot;] link .
+* Vá para a [!UICONTROL Agendamento] na área Gerenciamento de recursos.
+* Clique em [!UICONTROL &quot;Balanceador de carga de trabalho&quot;] que aparece.
 
-![alternar para balanceador de carga de trabalho](assets/Find_02.png)
+![seção balanceador de carga de trabalho](assets/Find_02.png)
 
-O [!DNL Workload Balancer] é a opção padrão ao acessar a área Gerenciamento de recursos da ferramenta Workfront.
+## Áreas no Balanceador de carga de trabalho
 
-## Áreas no Balanceador de Carga de Trabalho
-
-Duas seções aparecem na [!DNL Workload Balancer]: Trabalho Atribuído e Trabalho Não Atribuído.
+Duas seções aparecem na janela [!DNL Workload Balancer]: Trabalho atribuído e Trabalho não atribuído.
 
 ![área não atribuída](assets/Find_03.png)
 
-A área de Trabalho atribuído mostra uma lista de usuários e o trabalho ao qual eles já foram atribuídos no Workfront. Por padrão, essa área é filtrada para usuários que fazem parte das equipes da Workfront às quais você pertence. Dessa forma, você pode ver em quais membros da equipe foram atribuídos para trabalhar.
+A área Trabalho atribuído mostra uma lista de usuários e o trabalho ao qual eles já foram atribuídos no Workfront. Por padrão, essa área é filtrada para usuários que fazem parte das equipes do Workfront às quais você pertence. Dessa forma, você pode ver em quais membros da equipe você está atribuído para trabalhar.
 
-![usuários de área atribuídos](assets/Find_03b.png)
+![usuários da área atribuídos](assets/Find_03b.png)
 
-A área de Trabalho Não Atribuído mostra o trabalho que ainda precisa ser atribuído, seja para uma pessoa, função de trabalho ou equipe. No entanto, inicialmente, essa área não mostrará nada.
+A área Trabalho não atribuído mostra o trabalho que ainda precisa ser atribuído, seja a uma pessoa, função de trabalho ou equipe. No entanto, inicialmente, essa área não mostrará nada.
 
 ![área de trabalho não atribuída](assets/Find_03c.png)
 
-Ao começar com a Área de trabalho não atribuída em branco, você tem a oportunidade de se concentrar primeiro nas cargas de trabalho atuais dos usuários, na Área de trabalho atribuída, antes de fazer atribuições.
+Começando com a área Trabalho não atribuído em branco, você tem a oportunidade de primeiro se concentrar nas cargas de trabalho atuais de seus usuários, na área Trabalho atribuído, antes de fazer atribuições.
