@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [Criar grupos e subgrupos](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Entender a necessidade de administração de grupos](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [Criar empresas](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Configurar usuários com licenças, níveis de acesso e funções de trabalho](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Configurar usuários com licenças e níveis de acesso](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Criar e gerenciar funções de trabalho](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Fazer logon como outro usuário](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Gerenciar itens excluídos {#manage-deleted-items}
       + [Restaure objetos da lixeira](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
