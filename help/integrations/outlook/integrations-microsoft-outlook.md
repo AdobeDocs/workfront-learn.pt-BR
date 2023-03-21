@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: e902bae4c4dae0c7800d1a97c1835eff3bb6d924
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,14 @@ Neste vídeo, você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
 
+>[!IMPORTANT]
+>
+>Se você não conseguir encontrar o Workfront Add-in conforme descrito no vídeo, seu departamento de TI pode precisar fazer algum trabalho de configuração primeiro. Instruções detalhadas podem ser encontradas em [Configurar o Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 
-## Integrar o calendário do Microsoft Outlook com o [!DNL Workfront] Calendário da página inicial
+## Integre o calendário do Microsoft Outlook à [!DNL Workfront] Calendário doméstico
 
-Você pode configurar o [!DNL Workfront] [!UICONTROL Calendário da página inicial] configurações para fazer o seguinte:
+Você pode configurar o [!DNL Workfront] [!UICONTROL Calendário doméstico] configurações para fazer o seguinte:
 
-* Integrar a uma versão baseada na Web do [!DNL Outlook] em nuvem [!DNL Office 365] ou [!DNL Outlook Live]. Você pode exibir todos os eventos de seu [!DNL Outlook] calendário e qualquer calendário associado selecionado, como calendários de Aniversários e Feriados, no [!DNL Workfront] [!UICONTROL Calendário da página inicial].
+* Integrar a uma versão baseada na Web de [!DNL Outlook] na nuvem hospedada [!DNL Office 365] ou [!DNL Outlook Live]. Você pode exibir todos os eventos de [!DNL Outlook] calendário e quaisquer calendários associados selecionados, como calendários de Aniversário e Feriados, em seu [!DNL Workfront] [!UICONTROL Calendário doméstico].
 
-* Ajudar a controlar sua carga de trabalho em relação às horas de trabalho disponíveis na barra Alocação.
+* Ajude você a rastrear sua carga de trabalho em relação às horas de trabalho disponíveis na barra Alocação.
