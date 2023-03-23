@@ -1,6 +1,6 @@
 ---
-title: Compreender [!DNL Workfront Goals]
-description: O administrador do sistema aprenderá sobre quem pode acessar [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] por meio de um modelo de layout.
+title: Visão geral das metas do Workfront
+description: Saiba como navegar na lista de metas, em gráficos e no alinhamento de metas.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,20 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 683b3291033ff87dacae8b670e5a54a203cc2743
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '32'
+ht-degree: 3%
 
 ---
 
-# [!DNL Workfront Goals] visão geral
+# [!DNL Workfront Goals] Visão geral
 
-Neste vídeo, você aprenderá:
+Neste vídeo, você aprenderá a:
 
-* Quem pode acessar [!DNL Workfront Goals]
-* Quais permissões um administrador do sistema tem no [!DNL Workfront Goals]
-* Como ativar [!DNL Workfront Goals] por meio de um modelo de layout
+* Navegar na lista de metas
+* Navegar pelos gráficos
+* Navegar pelo alinhamento da meta
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)

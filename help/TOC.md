@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
+source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
 workflow-type: tm+mt
-source-wordcount: '2380'
+source-wordcount: '2345'
 ht-degree: 2%
 
 ---
@@ -297,7 +297,7 @@ ht-degree: 2%
       + [Colaborar em torno de metas corporativas e organizacionais](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [Alinhar grupos e equipes à sua estratégia](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + Criar suas metas {#create-goals}
-      + [Entenda como usar [!UICONTROL Metas da Workfront]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Metas da Workfront] Visão geral](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Configurar [!UICONTROL Metas da Workfront] para a sua organização](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Conceder acesso às metas para usuários selecionados](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Criar um modelo de layout para [!UICONTROL Metas da Workfront] usuários](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -311,18 +311,12 @@ ht-degree: 2%
    + Gerenciar suas metas {#manage-goals}
       + [Alinhar suas metas](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Remover alinhamento da meta](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Converter uma atividade em uma meta alinhada](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-      + [Faça uma atualização qualitativa](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [Faça uma atualização quantitativa](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-      + [Conectar metas manualmente umas às outras](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [Rastrear e atualizar metas usando [!UICONTROL Check-ins]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
       + [Fechar uma meta uma vez concluída](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Monitorar suas metas {#monitor-goals}
       + [Entender a seção de gráficos](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [Exibir atualizações de meta individual](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [Calcular o progresso da meta](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Comunicar o status da meta](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-      + [Navegue pelo [!UICONTROL Pulso] fluxo de atualização](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 
