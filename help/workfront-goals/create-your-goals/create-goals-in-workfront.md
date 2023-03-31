@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Aqui estão algumas coisas que devem ser consideradas antes de copiar metas:
 
    ![Uma imagem da [!UICONTROL Detalhes da meta] no painel [!DNL Workfront Goals] com o [!UICONTROL Copiar] opção](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Clique em **[!UICONTROL Ativar]**, que atualiza o status da meta para Ativo. A meta deve ter uma atividade ou resultado associado para &quot;ativar&quot;.
+1. Clique no ícone de 3 pontos e selecione  **[!UICONTROL Ativar]**, que atualiza o status da meta para Ativo. A meta deve ter uma atividade ou resultado associado para &quot;ativar&quot;.
 
 Se você copiou uma meta que não foi concluída em um período anterior e deseja continuar trabalhando nela no período seguinte, faça o seguinte:
 
