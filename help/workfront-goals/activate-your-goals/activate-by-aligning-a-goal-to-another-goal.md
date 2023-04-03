@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ Ao alinhar duas metas, uma se tornará a meta principal e a outra uma meta secun
 1. Clique em [!UICONTROL Salvar alterações].
 
 Alinhar uma meta a outra meta cria uma meta secundária. Pense nas metas secundárias como metas individuais que contribuem para o progresso das metas da organização ou da equipe principal. As metas secundárias podem ativar e influenciar o progresso da meta principal.
+
+## Agora ativar a meta principal
+
+Agora que você criou uma meta-filho, ela se torna um indicador de progresso na meta-pai. Você verá a opção Ativar ao clicar no menu de três pontos ao lado do nome da meta principal.
+
+![Uma captura de tela mostrando como ativar a meta principal.](assets/activate-the-parent-goal.png)
+
