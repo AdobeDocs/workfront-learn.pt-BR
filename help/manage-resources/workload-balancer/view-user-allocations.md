@@ -1,6 +1,6 @@
 ---
-title: Exibir alocações de usuário no Balanceador de carga de trabalho
-description: Saiba como selecionar o modo Gráfico para obter uma exibição de alto nível da alocação de usuários e mostrar os detalhamentos de alocação diária dos usuários.
+title: Exibir alocações de usuário no Balanceador de Carga de Trabalho
+description: Saiba como selecionar o modo Gráfico para obter uma exibição de alto nível da alocação de usuários e mostrar os detalhamentos da alocação diária dos usuários.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,18 +11,18 @@ thumbnail: 335164.png
 kt: 8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Exibir alocações de usuários na [!DNL Workload Balancer]
+# Exibir alocações de usuário na [!DNL Workload Balancer]
 
 Neste vídeo, você aprenderá a:
 
-* Selecione o modo Gráfico para obter uma exibição de alto nível da alocação de usuários
+* Selecione o modo Gráfico para obter uma exibição de alto nível da alocação de usuário
 * Mostrar detalhamentos de alocação diária dos usuários
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on)

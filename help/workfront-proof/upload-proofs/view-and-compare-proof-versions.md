@@ -1,6 +1,6 @@
 ---
 title: Exibir e comparar versões de prova
-description: Saiba como abrir, identificar, marcar, comentar e comparar versões de prova no [!DNL  Workfront].
+description: Saiba como abrir, identificar, marcar, comentar e comparar versões de prova em [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335142.png
 kt: 8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -24,10 +24,10 @@ Neste vídeo, você aprenderá a:
 
 * Abrir uma versão de uma prova
 * Determine a versão de prova que você está visualizando
-* Fazer comentários e marcação em uma versão
+* Faça comentários e marcação em uma versão
 * Comparar a versão atual com uma versão anterior do arquivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
 
 <!--
 ## Learn more

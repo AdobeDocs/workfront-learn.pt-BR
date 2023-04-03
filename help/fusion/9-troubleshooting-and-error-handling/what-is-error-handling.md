@@ -1,6 +1,6 @@
 ---
 title: O que é tratamento de erros?
-description: Conheça alguns tipos de erros comuns e como o sistema os trata por padrão. Em seguida, saiba como aplicar o tratamento de erros personalizado no [!DNL Adobe Workfront Fusion].
+description: Saiba mais sobre alguns tipos de erros comuns e como o sistema os trata por padrão, em seguida, saiba como aplicar o tratamento de erros personalizado em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* O que são alguns tipos de erro comuns e como o sistema os trata por padrão
-* Como aplicar a manipulação personalizada de erros usando um módulo de manipulação de erros
+* O que são alguns tipos de erros comuns e como o sistema os trata por padrão
+* Como aplicar o tratamento de erros personalizado usando um módulo de tratamento de erros
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)

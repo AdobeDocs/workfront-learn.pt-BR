@@ -1,6 +1,6 @@
 ---
-title: Manipulação de erros de apresentação
-description: Saiba como o tratamento de erros padrão ocorre e como adicionar um tratamento de erros de módulo específico usando diretivas na [!DNL Adobe Workfront Fusion].
+title: Erro ao manipular o passo a passo
+description: Saiba como o tratamento de erros padrão ocorre e como adicionar um módulo específico de tratamento de erros usando diretivas em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,26 +10,26 @@ level: Beginner
 kt: 9065
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
 
 ---
 
-# Manipulação de erros de apresentação
+# Erro ao manipular o passo a passo
 
 ## Visão geral
 
-Entenda como ocorre o tratamento de erros padrão e como adicionar um tratamento de erros de módulo específico usando diretivas.
+Entenda como o tratamento de erros padrão ocorre e como adicionar um módulo específico de tratamento de erros usando diretivas.
 
-![Uma imagem de um cenário com manipulação de erros](assets/troubleshooting-and-error-handling-7.png)
+![Uma imagem de um cenário com tratamento de erros](assets/troubleshooting-and-error-handling-7.png)
 
-## Manipulação de erros de apresentação
+## Erro ao manipular o passo a passo
 
-A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on)
 
 ## Quer saber mais? Recomendamos o seguinte:
 

@@ -1,6 +1,6 @@
 ---
-title: Ajustar alocações diárias no Balanceador de carga de trabalho
-description: Saiba como redistribuir horas ou porcentagens alocadas e reatribuir trabalho de um usuário para outro.
+title: Ajustar alocações diárias no Balanceador de Carga de Trabalho
+description: Saiba como redistribuir horas ou porcentagens alocadas e reatribuir o trabalho de um usuário para outro.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,19 +11,19 @@ thumbnail: 335165.png
 kt: 8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Ajustar alocações diárias no [!DNL Workload Balancer]
+# Ajuste as alocações diárias na [!DNL Workload Balancer]
 
 Neste vídeo, você aprenderá a:
 
 * Redistribuir horas ou porcentagens alocadas
-* Reatribuir trabalho de um usuário para outro
+* Reatribuir trabalho de um usuário a outro
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

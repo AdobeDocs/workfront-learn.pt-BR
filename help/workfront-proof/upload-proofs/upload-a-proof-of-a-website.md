@@ -1,6 +1,6 @@
 ---
-title: Carregar uma prova de um site
-description: Saiba como fazer upload de um site como uma prova estática e interativa no [!DNL  Workfront].
+title: Fazer upload de uma prova de um site
+description: Saiba como fazer upload de um site como uma prova estática e uma prova interativa no [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,40 +11,40 @@ thumbnail: 335135.png
 kt: 8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Carregar uma prova de um site
+# Fazer upload de uma prova de um site
 
 Neste vídeo, você aprenderá a:
 
-* Carregar um site como uma prova estática
-* Carregar um site como uma prova interativa
+* Fazer upload de um site como uma prova estática
+* Fazer upload de um site como uma prova interativa
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on)
 
 
 ## Considerações sobre conteúdo interativo
 
-Ao iniciar a revisão de sites, você pode descobrir que [!DNL Workfront] O não é compatível com todas as configurações ou situações. Alguns critérios devem ser atendidos:
+Ao iniciar a revisão de sites, você pode descobrir que [!DNL Workfront] não suporta todas as configurações ou situações. Alguns critérios devem ser cumpridos:
 
 * O site deve ser hospedado com um protocolo seguro, o que significa que o endereço do site começa com https.
 * O site a ser revisado não pode ser incorporado em um iframe.
-* O site deve estar acessível aos revisores.
-* O site precisa estar acessível publicamente, o que significa que não pode estar protegido por um firewall.
-* Ao criar provas estáticas de sites, o site não pode ser protegido por senha.
+* O site deve ser acessível aos revisores.
+* O site precisa ser acessível publicamente, o que significa que não pode estar por trás de um firewall.
+* Ao criar provas estáticas de site, o site não pode ser protegido por senha.
 
 ## Sua vez
 
 >[!IMPORTANT]
 >
->Não se esqueça de lembrar aos colegas de trabalho que você está enviando a eles uma prova como parte do treinamento do Workfront.
+>Não se esqueça de lembrar seus colegas de trabalho de que você está enviando uma prova como parte de seu treinamento do Workfront.
 
-1. Abra um projeto, tarefa ou problema que esteja usando para a prática prática no Workfront. Faça uma prova estática do site de sua organização. Se não atender aos critérios de prova estática, você pode usar adobe.com.
+1. Abra um projeto, tarefa ou problema que esteja usando para a prática prática prática no Workfront. Faça uma prova estática do site de sua organização. Se ele não atender aos critérios da prova estática, você poderá usar adobe.com.
 1. Em seguida, faça uma prova interativa do site de sua organização. Você pode usar adobe.com se o outro site não funcionar.
 
 <!-- 

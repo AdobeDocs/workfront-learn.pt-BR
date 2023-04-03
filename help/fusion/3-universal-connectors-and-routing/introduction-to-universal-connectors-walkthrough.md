@@ -1,6 +1,6 @@
 ---
-title: Introdução à apresentação dos conectores universais
-description: Saiba como chamar a API Poke por meio de um conector HTTP para coletar e publicar informações sobre um personagem Pokemon, tudo em [!DNL Adobe Workfront Fusion].
+title: Introdução aos conectores universais
+description: Saiba como chamar a API Poke por meio de um conector HTTP para coletar e publicar informações em um caractere Pokemon, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,36 +10,36 @@ level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Introdução à apresentação dos conectores universais
+# Introdução aos conectores universais
 
 ## Visão geral
 
 Usando um caractere Pokemon em uma planilha, chame a API Poke por meio de um conector HTTP para coletar e publicar mais informações sobre esse caractere.
 
-![Uma imagem do cenário do Fusion](assets/universal-connectors-and-routing-1.png)
+![Uma imagem do cenário de Fusão](assets/universal-connectors-and-routing-1.png)
 
-## Introdução à apresentação dos conectores universais
+## Introdução aos conectores universais
 
-A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on)
 
 ### URLs de exercício
 
-Sítio Web da API Pokemon: `https://pokeapi.co/`
+Site da API Pokemon: `https://pokeapi.co/`
 
-URL para exercício: `https://pokeapi.co/api/v2/pokemon/{Character}`
+URL de exercício: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >
->Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Introdução à apresentação dos conectores universais](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) exercício.
+>Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Introdução aos conectores universais](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) exercício.
 
 
 ## Quer saber mais? Recomendamos o seguinte:

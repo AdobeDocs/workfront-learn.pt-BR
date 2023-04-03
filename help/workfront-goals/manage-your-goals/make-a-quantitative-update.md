@@ -1,6 +1,6 @@
 ---
-title: Faça uma atualização quantitativa no [!DNL Workfront Goals]
-description: Saiba como fazer uma atualização quantitativa no [!DNL Goals].
+title: Faça uma atualização quantitativa em [!DNL Workfront Goals]
+description: Saiba como fazer uma atualização quantitativa no [!DNL Metas].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 kt: 8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Fazer uma atualização quantitativa
+# Faça uma atualização quantitativa
 
 Neste vídeo, você aprenderá a:
 
-* Fazer uma atualização quantitativa ou uma atualização dos indicadores de progresso (ou seja, resultados, atividades, metas alinhadas etc.) para impulsionar o progresso de sua meta
+* Faça uma atualização quantitativa ou uma atualização dos indicadores de progresso (ou seja, resultados, atividades, metas alinhadas etc.) para impulsionar o progresso da sua meta
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Atualizar e copiar planos no [!DNL Scenario Planner]
-description: Saiba como atualizar ou copiar um plano no [!DNL  Workfront] [!DNL Scenario Planner].
+title: Atualizar e copiar planos em [!DNL Scenario Planner]
+description: Saiba como atualizar um plano ou copiar um plano no [!DNL  Workfront] [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,7 +11,7 @@ thumbnail: 335321.jpeg
 kt: 9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Atualizar um plano no [!DNL Scenario Planner]
-* Copiar planos na [!DNL Scenario Planner]
+* Atualizar um plano em [!DNL Scenario Planner]
+* Copie os planos na [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on)

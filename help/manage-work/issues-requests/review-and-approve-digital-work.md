@@ -1,6 +1,6 @@
 ---
-title: Revisar trabalho digital e aprovar
-description: Saiba como localizar e fazer aprovações para projetos, tarefas, problemas, documentos e provas no [!DNL  Workfront].
+title: Revisar digital e aprovar trabalho
+description: Saiba como localizar e fazer aprovações para projetos, tarefas, problemas, documentos e provas em [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -11,23 +11,23 @@ team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Revisar trabalho digital e aprovar
+# Revisar digital e aprovar trabalho
 
 Neste vídeo, você aprenderá a:
 
 * Localizar aprovações em [!DNL  Workfront]
-* Fazer aprovações para projetos, tarefas e problemas
+* Fazer aprovações para projetos, tarefas e emissões
 * Fazer aprovações para documentos
 * Fazer aprovações para provas
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 <!---
 learn more URLS

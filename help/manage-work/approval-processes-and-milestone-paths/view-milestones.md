@@ -1,6 +1,6 @@
 ---
-title: Exibir etapas
-description: Saiba como visualizar os marcos em uma [!DNL  Workfront] projeto, além de usar a exibição de marco no [!UICONTROL Projeto] área.
+title: Visualizar marcos
+description: Saiba como visualizar marcos em um [!DNL  Workfront] projeto, além de usar a exibição de marco no [!UICONTROL Projeto] área.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -11,18 +11,18 @@ team: Technical Marketing
 kt: 8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Exibir etapas
+# Visualizar marcos
 
 Neste vídeo, você aprenderá a:
 
-* Exibir etapas em um projeto específico
-* Ler a exibição de etapa no [!UICONTROL Projeto] área
+* Visualizar marcos em um projeto específico
+* Leia a exibição de marco no [!UICONTROL Projeto] area
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)

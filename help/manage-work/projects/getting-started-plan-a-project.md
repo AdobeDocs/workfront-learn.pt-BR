@@ -1,6 +1,6 @@
 ---
 title: Introdução ao planejamento de um projeto
-description: Saiba mais sobre os cinco componentes principais de um projeto, o que o status significa, como [!UICONTROL Exibir] O pode ajudar você a visualizar informações relevantes e como definir a data de início ou de vencimento.
+description: Saiba mais sobre os cinco componentes principais de um projeto, o que significa o status, como um [!UICONTROL Exibir] O pode ajudá-lo a ver informações relevantes e como definir a data de início ou de vencimento.
 activity: use
 feature: Work Management
 thumbnail: 335086.jpeg
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* Os cinco componentes principais de um projeto
-* O que significa o status do Planning
-* Como um [!UICONTROL Exibir] pode ajudá-lo a visualizar as informações de que precisa
+* Os cinco principais componentes de um projeto
+* O que significa o status de Planejamento
+* Como uma [!UICONTROL Exibir] pode ajudá-lo a visualizar as informações necessárias
 * Como definir a data de início ou de conclusão
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)

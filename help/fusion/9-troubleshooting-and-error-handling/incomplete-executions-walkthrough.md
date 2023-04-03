@@ -1,6 +1,6 @@
 ---
 title: Apresentação de execuções incompletas
-description: Saiba mais sobre a importância de armazenar execuções incompletas e reexecutar pacotes depois de avaliar e corrigir erros no [!DNL Adobe Workfront Fusion].
+description: Saiba mais sobre o valor do armazenamento de execuções incompletas e, em seguida, execute novamente pacotes após avaliar e corrigir erros em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -21,15 +21,15 @@ ht-degree: 1%
 
 ## Visão geral
 
-Saiba mais sobre o hábito útil de armazenar execuções incompletas e entenda o valor fornecido ao executar pacotes novamente após avaliar e corrigir erros.
+Saiba mais sobre o hábito útil de armazenar execuções incompletas e entenda o valor fornecido ao executar novamente pacotes após avaliar e corrigir erros.
 
-![Uma imagem de um cenário com manipulação de erros](assets/troubleshooting-and-error-handling-8.png)
+![Uma imagem de um cenário com tratamento de erros](assets/troubleshooting-and-error-handling-8.png)
 
 ## Apresentação de execuções incompletas
 
-A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
 
 ## Quer saber mais? Recomendamos o seguinte:
 

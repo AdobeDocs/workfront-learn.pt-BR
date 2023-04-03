@@ -1,6 +1,6 @@
 ---
 title: Criar uma expressão de dados SUB, SUM, DIV ou PROD
-description: Saiba como usar e criar as expressões matemáticas básicas em um campo calculado em Adobe [!DNL Workfront].
+description: Saiba como usar e criar as expressões matemáticas básicas em um campo calculado no Adobe [!DNL Workfront].
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -11,7 +11,7 @@ thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -25,40 +25,40 @@ Neste vídeo, você aprenderá:
 * O que as expressões SUB, SUM, DIV e PROD fazem
 * Como criar uma expressão de dados SUB em um campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on)
 
 ## Informações adicionais: expressão ROUND
 
 ### Criar uma expressão ROUND
 
-A expressão ROUND pega qualquer número e o arredonda para um determinado número de casas decimais.
+A expressão ROUND pega qualquer número e arredonda-o para um determinado número de casas decimais.
 
 Na maioria das vezes, a expressão de dados ROUND é usada juntamente com outra expressão de dados e quando o campo de formato é deixado como Texto ou Número.
 
-Vamos criar um campo calculado para determinar a diferença entre o número de horas planejadas e realmente conectadas em uma tarefa, que exigirá a expressão SUB e terá esta aparência:
+Vamos criar um campo calculado para determinar a diferença entre o número de horas planejadas e realmente conectadas a uma tarefa, o que exigirá a expressão SUB e terá a seguinte aparência:
 
-**SUB({workRequired},{atualWorkRequired})**
+**SUB({workRequired},{actualWorkRequired})**
 
 E como o tempo é rastreado em minutos e o formato preferido é mostrar as informações em horas, a expressão também precisa ser dividida por 60 e ter esta aparência:
 
-**DIV(SUB({workRequired},{atualWorkRequired}),60)**
+**DIV(SUB({workRequired},{actualWorkRequired}),60)**
 
-Se o formato for alterado para Number ao criar o campo calculado no formulário personalizado, será possível alterar o formato do número ao adicionar o campo em uma exibição.
+Se o formato for alterado para Number ao criar o campo calculado no formulário personalizado, é possível alterar o formato do número ao adicionar o campo em uma visualização.
 
-![Relatório do balanceador de carga de trabalho com utilização](assets/round01.png)
+![Balanceador de carga de trabalho com relatório de utilização](assets/round01.png)
 
-No entanto, se o formato do campo ao criar um campo personalizado for deixado como Texto, o formato não poderá ser facilmente alterado na exibição. A expressão ROUND deve ser usada para evitar que números como este sejam vistos em seu projeto:
+No entanto, se o formato do campo, ao criar um campo personalizado, for deixado como Texto, o formato não poderá ser facilmente alterado na exibição. A expressão ROUND deve ser usada para evitar ver números como este no seu projeto:
 
-![Relatório do balanceador de carga de trabalho com utilização](assets/round02.png)
+![Balanceador de carga de trabalho com relatório de utilização](assets/round02.png)
 
-<b>Usar a expressão de dados ROUND em um campo calculado</b>
+<b>Use a expressão de dados ROUND em um campo calculado</b>
 
-A expressão ROUND inclui o nome da expressão (ROUND) e, normalmente, dois pontos de dados. Esses pontos de dados podem ser uma expressão ou um campo no Workfront, seguido por um número para indicar quantas casas decimais você gostaria de ir.
+A expressão ROUND inclui o nome da expressão (ROUND) e, normalmente, dois pontos de dados. Esses pontos de dados podem ser uma expressão ou um campo no Workfront, seguido por um número para indicar quantas casas decimais você deseja ir.
 
-Uma expressão seria estruturada assim: ROUND(ponto de dados, #)
+Uma expressão seria estruturada desta forma: ROUND(ponto de dados, #)
 
-Na expressão que calcula a diferença entre as horas planejadas e reais, use essa expressão —DIV(SUB({workRequired},{atualWorkRequired}),60) — como o primeiro ponto de dados. Em seguida, verifique se qualquer número proveniente dessa expressão não ultrapassa 2 casas decimais à direita.
+Na expressão que calcula a diferença entre horas planejadas e reais, use esta expressão — DIV(SUB({workRequired},{actualWorkRequired}),60) — como o primeiro ponto de dados. Em seguida, verifique se o número que vier dessa expressão não passa de 2 casas à direita do decimal.
 
-![Relatório do balanceador de carga de trabalho com utilização](assets/round03.png)
+![Balanceador de carga de trabalho com relatório de utilização](assets/round03.png)
 
-A expressão pode ser gravada assim: ROUND(DIV(SUB({workRequired},{atualWorkRequired}),60),2).
+A expressão poderia ser escrita desta forma: ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).

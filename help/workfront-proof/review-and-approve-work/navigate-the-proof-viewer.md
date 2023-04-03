@@ -1,6 +1,6 @@
 ---
 title: Navegar pelo visualizador de prova
-description: Saiba como mover uma prova, aumentar/diminuir o zoom do conteúdo, usar a coluna de miniatura, filtrar comentários de prova e muito mais no [!DNL  Workfront] revisor de provas.
+description: Saiba como mover uma prova, aumentar/diminuir o zoom do conteúdo, usar a coluna de miniatura, filtrar comentários de prova e muito mais na [!DNL  Workfront] visualizador de prova.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335140.png
 kt: 8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá a:
 * Filtrar a coluna de comentários
 * Fechar a prova
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)
 
 <!-- 
 ## Learn more

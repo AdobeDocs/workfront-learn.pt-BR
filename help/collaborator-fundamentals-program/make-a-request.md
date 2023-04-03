@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 kt: 8806
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Navegue até a área de solicitação
+* Navegar até a área de solicitação
 * Fazer uma solicitação
 * Exibir solicitações enviadas
-* Localizar um rascunho de uma solicitação
+* Encontrar um rascunho de uma solicitação
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
-## Acesse os caminhos da fila de solicitações de maneira rápida e fácil
+## Acessar caminhos da fila de solicitações de maneira rápida e fácil
 
-Ao clicar em na guia [!UICONTROL Tipo de solicitação] , os três últimos caminhos de solicitação enviados recentemente para o serão exibidos automaticamente na parte superior da lista. Selecione uma opção para arquivar outra solicitação nessa mesma fila.
+Ao clicar no botão [!UICONTROL Tipo de solicitação] , os três últimos caminhos de solicitação que você enviou recentemente são exibidos automaticamente na parte superior da lista. Selecione uma opção para arquivar outra solicitação nessa mesma fila.
 
 ![Menu Tipo de solicitação mostrando a lista de caminhos de solicitação recentes](assets/collaborator-fundamentals-1.png)
 
-Na parte inferior da lista estão todas as filas de solicitações às quais você tem acesso. Se não tiver certeza de qual fila usar para sua solicitação, use a pesquisa por palavra-chave para localizar de maneira rápida e fácil a fila necessária.
+Na parte inferior da lista estão todas as filas de solicitações às quais você tem acesso. Se não tiver certeza de qual fila usar para sua solicitação, use a pesquisa de palavra-chave para encontrar rápida e facilmente a fila que você precisa.
 
-À medida que você digita palavras-chave, [!DNL Workfront] O traz correspondências para que você possa encontrar o caminho da fila de solicitações adequado às suas necessidades. Por exemplo, para fazer uma solicitação para uma publicação de mídia social, comece digitando &quot;redes sociais&quot; na [!UICONTROL Tipo de solicitação] e a lista é atualizada dinamicamente para mostrar qualquer correspondência.
+Conforme você digita palavras-chave, [!DNL Workfront] O exibe correspondências para que você possa encontrar o caminho da fila de solicitações que atenda às suas necessidades. Por exemplo, para fazer uma solicitação de uma publicação de mídia social, comece a digitar &quot;mídia social&quot; no [!UICONTROL Tipo de solicitação] O campo e a lista são atualizados dinamicamente para mostrar qualquer correspondência.
 
-![Menu Tipo de solicitação com uma palavra digitada no campo para mostrar caminhos de solicitações recentes](assets/collaborator-fundamentals-2.png)
+![Menu Tipo de solicitação com uma palavra digitada no campo para mostrar caminhos de solicitação recentes](assets/collaborator-fundamentals-2.png)
 
 Selecione a opção desejada, preencha o formulário de solicitação e envie a solicitação.
 

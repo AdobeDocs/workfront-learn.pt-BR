@@ -1,6 +1,6 @@
 ---
-title: Apresentação da agregação avançada
-description: Saiba como chamar um serviço Web para retornar detalhes sobre vários países e identificar a população, agrupada por sub-região, tudo isso em [!DNL Adobe Workfront Fusion].
+title: Apresentação de agregação avançada
+description: Saiba como chamar um serviço da Web para retornar detalhes sobre vários países e identificar a população, agrupada por sub-região, tudo em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,26 +10,26 @@ level: Beginner
 kt: 9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
-# Apresentação da agregação avançada
+# Apresentação de agregação avançada
 
 ## Visão geral
 
-Chame um serviço Web para retornar detalhes sobre vários países e identificar a população total de todos os países, agrupados por sub-região.
+Chame um serviço da Web para retornar detalhes sobre vários países e identificar a população total de todos os países, agrupados por sub-região.
 
-![Uma imagem do cenário do Fusion](assets/iteration-and-aggregation-3.png)
+![Uma imagem do cenário de Fusão](assets/iteration-and-aggregation-3.png)
 
-## Apresentação da agregação avançada
+## Apresentação de agregação avançada
 
-A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on)
 
 ## URLs de exercício
 
@@ -38,27 +38,27 @@ A Workfront recomenda assistir ao vídeo de apresentação do exercício antes d
 
 >[!TIP]
 >
->Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação da agregação avançada](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=en) exercício.
+>Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação de agregação avançada](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=en) exercício.
 
-## Reforço do princípio de agregação
+## Reforço do princípio da agregação
 
 Sempre que um módulo gerar vários pacotes, cada módulo depois disso executará cada pacote.
 
-Para evitar isso, adicione um agregador após um módulo que potencialmente produz vários pacotes.
+Para evitar isso, adicione um agregador depois de um módulo que potencialmente produz vários pacotes.
 
-Você verá uma sombra envolvendo qualquer segmento em seu cenário de uma **iterador inicial** para o **agregador final**. Isso ajuda a facilitar a localização desses segmentos no cenário do Workfront Fusion.
+Você verá uma sombra ao redor de qualquer segmento em seu cenário a partir de um **iterador inicial** para **agregador final**. Isso ajuda a facilitar a detecção desses segmentos no seu cenário do Workfront Fusion.
 
 ## Sua vez
 
 >[!NOTE]
 >
->Exercícios práticos e desafios são opcionais e não são necessários para concluir o treinamento do Fusion.
+>Os exercícios práticos e os desafios são opcionais e não são necessários para concluir a formação em Fusão.
 
-Esse exercício de prática se baseia no que você aprendeu na apresentação, mas a solução não é fornecida.
+Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 
-Crie um novo cenário para somar todas as horas conectadas às tarefas em projetos no portfólio de marketing. Em seguida, envie um email dizendo &quot;A equipe do projeto {Project Name} registrou {sum hours} do total de {planned hours} horas, colocando você em {percentage} do plano.&quot;
+Crie um novo cenário para somar todas as horas logadas nas tarefas em projetos no portfólio de marketing. Em seguida, envie um e-mail que diga &quot;A equipe do projeto {Nome do Projeto} registrou {horas somadas} do total de {horas planejadas} horas planejadas, colocando-o em {percentagem} do plano.&quot;
 
-**Desafio** Veja se você pode fazer a mesma coisa, mas apenas por horas registradas este ano.
+**Desafio:** Veja se você pode fazer a mesma coisa, mas apenas por horas registradas este ano.
 
 ## Quer saber mais? Recomendamos o seguinte:
 

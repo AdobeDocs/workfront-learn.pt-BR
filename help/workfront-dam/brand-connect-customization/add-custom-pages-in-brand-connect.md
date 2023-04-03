@@ -1,6 +1,6 @@
 ---
 title: Como adicionar páginas personalizadas no Brand Connect
-description: Saiba como adicionar páginas à barra de navegação, criar páginas personalizadas e personalizar opções na barra de navegação no Brand Connect para [!UICONTROL DAM DO WORKFRONT].
+description: Saiba como adicionar páginas à barra de navegação, criar páginas personalizadas e personalizar opções na barra de navegação no Brand Connect para [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8981
 exl-id: e6dc7c1d-200c-4cea-8dd1-bdc86ff96d25
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Adicionar páginas personalizadas no [!UICONTROL Conectar marca]
+# Adicionar páginas personalizadas em [!UICONTROL Conexão de marca]
 
 Neste vídeo, você aprenderá a:
 
@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá a:
 * Criar páginas personalizadas do Brand Connect
 * Personalizar opções na barra de navegação
 
->[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12&learn=on)
