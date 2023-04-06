@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Agora que você criou e ativou suas metas em [!DNL Workfront Goals], vamos garan
 
 <!--Insert link to LP 1, above -->
 
-Usar alinhamento de meta para:
+Use a seção Alinhamento da meta para:
 
 * Exiba metas que pertencem a você ou à sua organização.
 * Exibir hierarquia de meta e exibir metas filhas alinhadas.
-* Acesse o painel Detalhes da meta e atualize a meta, seus resultados ou atividades.
+* Abra a meta para ver seus indicadores de progresso.
 
 Garantir que as metas sejam alinhadas significa que todos de cima para baixo serão executados no trabalho que impulsiona as mesmas iniciativas. A visualização é uma parte importante de como cada objetivo corporativo principal se alinha diretamente ao nível departamental, da equipe e individual. Os Silos são reduzidos ao alinhar equipes em várias funcionalidades. O alinhamento cria clareza em torno do propósito de todos e conecta a organização ao que realmente importa.
 
@@ -49,6 +49,7 @@ Aqui estão algumas coisas a serem consideradas antes de alinhar metas em [!DNL 
 
 Neste vídeo, você aprenderá a:
 
-* Navegue pelo [!UICONTROL Alinhamento da meta] página
+* Alinhar metas usando uma abordagem de baixo para cima e de cima para baixo
+* Navegue pelo [!UICONTROL Alinhamento da meta] seção
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

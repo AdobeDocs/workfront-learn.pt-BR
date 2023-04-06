@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2346'
 ht-degree: 2%
 
 ---
@@ -310,7 +310,7 @@ ht-degree: 2%
    + Gerenciar suas metas {#manage-goals}
       + [Alinhar suas metas](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Remover alinhamento da meta](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Faça uma atualização quantitativa](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [Atualizar o progresso em resultados e atividades](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Fechar uma meta uma vez concluída](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Monitorar suas metas {#monitor-goals}
       + [Entender a seção de gráficos](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)

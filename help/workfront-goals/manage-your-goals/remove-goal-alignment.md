@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,16 +20,11 @@ ht-degree: 0%
 
 O que acontece quando o alinhamento entre objetivos já não faz sentido? Você pode remover o alinhamento da meta.
 
-1. Ir para uma meta secundária alinhada a uma meta principal.
-1. Clique no nome da meta para abrir a [!UICONTROL Detalhes da meta] painel.
-1. Clique no ícone de engrenagem ao lado da meta principal e, em seguida, clique em [!UICONTROL Remover alinhamento].
+1. Ir para uma meta principal alinhada a uma meta secundária.
+1. Clique para abrir o [!UICONTROL Indicadores de progresso] painel.
+1. Clique na caixa de seleção ao lado da meta-filho que você deseja desconectar da meta-pai.
+1. Clique no ícone &quot;X&quot; ao lado do ícone de lápis.
 
 ![Uma captura de tela do [!UICONTROL Remover alinhamento] em [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
 O objetivo se torna um objetivo autônomo e seu progresso não influencia mais o progresso do objetivo pai original. Não se esqueça de adicionar atividades ou resultados às metas para medir o progresso e movê-lo para um status Ativo.
-
-<!-- Pro-tips graphic -->
-
-* A meta principal deve ter outra meta, atividade ou resultado para permanecer ativa.
-* Não é possível remover uma meta secundária alinhada de uma meta principal se ela for o único indicador de progresso da meta principal.
-* O objetivo filho se torna um objetivo autônomo quando você remove seu alinhamento à meta pai.
