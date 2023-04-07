@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ O progresso de sua meta é uma boa maneira de obter uma ideia de onde sua meta e
 
 ![Um gráfico que cobre os diferentes rótulos de progresso em [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![Uma captura de tela da coluna de porcentagem de progresso da meta no [!UICONTROL Check-in] seção de [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>Para obter mais informações sobre as fórmulas usadas para calcular o progresso da meta, consulte este artigo: [Visão geral do progresso e condição da meta nas Metas da Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* Para obter mais informações sobre as fórmulas usadas para calcular o progresso da meta, explore o artigo Calcular o progresso da meta em [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->

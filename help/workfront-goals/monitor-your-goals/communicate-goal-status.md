@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '466'
 ht-degree: 1%
 
 ---
 
 # Comunicar o status da meta
 
-Agora que você atualizou suas metas usando [!UICONTROL Check-ins], dê um momento para retroceder e ter uma visão panorâmica das metas em que você está trabalhando e como elas se relacionam com as metas da equipe, grupo e empresa. Comunicar-se com outros sobre o progresso e o status dos seus objetivos é uma parte importante de se manter alinhado.
+Agora que você atualizou suas metas usando, dê um momento para retroceder e ter uma visão panorâmica das metas que você está trabalhando e como elas se relacionam com as metas da equipe, grupo e empresa. Comunicar-se com outros sobre o progresso e o status dos seus objetivos é uma parte importante de se manter alinhado.
 
 Há várias maneiras de manter as pessoas certas atualizadas sobre suas metas. Você pode começar por:
 
 * Compartilhamento e criação de relatórios sobre suas metas
-* Configurar a visualização do [!UICONTROL Pulso] fluxo para criar e exibir atualizações de meta individuais
 * Aproveitamento da [!UICONTROL Gráficos] para obter um resumo abrangente do progresso de suas metas
 
 ## Compartilhar uma meta
