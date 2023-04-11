@@ -10,16 +10,14 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Apresentação dos Webhooks
-
-## Visão geral
 
 Esse cenário cria um aplicativo da loja de conveniência para que possa determinar facilmente se um cliente é ou não velho o suficiente para comprar álcool. O caixa simplesmente precisa postar o nome e a data de nascimento do cliente E um token de cliente verificado para um URL que foi fornecido. Depois de inserido, o acionará o cenário para calcular a resposta apropriada e retorná-la ao solicitante.
 

@@ -10,16 +10,14 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # Apresentação de Arrays
-
-## Visão geral
 
 Analise exercícios anteriores em que foram usados arrays simples e complexos. Analisaremos como as encontramos e como utilizar as informações usando funções de matriz, se necessário.
 

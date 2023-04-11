@@ -10,18 +10,16 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Introdução aos iteradores
 
-## Visão geral
-
-Examine um projeto específico no Workfront e, em seguida, examine todas as tarefas dentro desse projeto. Em seguida, você usará o módulo de ferramenta de incremento para contar o número de tarefas no projeto. Por fim, você usará o módulo Definir variável para subtrair o Número de filhos do Número de problemas em aberto para produzir um valor numérico para cada um dos pacotes de tarefas.
+Examine um projeto específico no Workfront e, em seguida, examine todas as tarefas dentro desse projeto. Em seguida, você usará o módulo de ferramenta de incremento para contar o número de tarefas no projeto. Finalmente, você usará o módulo Definir variável para subtrair o Número de filhos do Número de problemas em aberto para produzir um valor numérico para cada um dos pacotes de tarefas.
 
 ![Uma imagem do cenário de Fusão](assets/iteration-and-aggregation-1.png)
 

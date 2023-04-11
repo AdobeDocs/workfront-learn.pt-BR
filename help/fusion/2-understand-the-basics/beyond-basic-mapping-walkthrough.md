@@ -10,16 +10,14 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Além da apresentação básica de mapeamento
-
-## Visão geral
 
 Altere o nome do projeto, a data de início planejada e a prioridade do &quot;Design do cenário inicial&quot; criado na primeira apresentação usando as fórmulas do painel de mapeamento.
 
@@ -43,7 +41,7 @@ A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes 
 
 Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
 
-Crie um clone da apresentação &quot;Além do mapeamento básico&quot; que você acabou de concluir. Você continuará usando esse cenário na próxima apresentação, para não modificá-lo com este exercício.
+Crie um clone da apresentação &quot;Além do mapeamento básico&quot; que você acabou de concluir. Você continuará usando esse cenário na próxima apresentação, para que não queira modificá-lo com este exercício.
 
 Crie uma tarefa em cada projeto que você criou como parte da apresentação anterior.
 

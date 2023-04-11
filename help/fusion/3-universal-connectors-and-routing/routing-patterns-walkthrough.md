@@ -10,16 +10,14 @@ level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # Apresentação de padrões de roteamento e fallbacks
-
-## Visão geral
 
 Use o módulo Definir variável para enviar um número por vários caminhos e ver como os filtros e fallbacks se comportam ao rotear.
 

@@ -10,16 +10,14 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Apresentação da função de comutador
-
-## Visão geral
 
 Para alterações de dados simples, use a função Switch para transformar um valor em outro dentro de um campo de módulo. Neste exercício, altere a chave de duas letras para o nome real do Status de progresso do projeto enviado em um email.
 

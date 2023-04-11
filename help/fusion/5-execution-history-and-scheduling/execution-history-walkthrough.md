@@ -10,16 +10,14 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Apresentação do histórico de execução
-
-## Visão geral
 
 Revise o histórico de execução do cenário &quot;Uso do filtro de artigos&quot; para entender o que aconteceu quando as execuções ocorreram e como elas foram estruturadas quando foram executadas.
 

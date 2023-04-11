@@ -10,16 +10,14 @@ level: Beginner
 kt: 9065
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # Erro ao manipular o passo a passo
-
-## Visão geral
 
 Entenda como o tratamento de erros padrão ocorre e como adicionar um módulo específico de tratamento de erros usando diretivas.
 

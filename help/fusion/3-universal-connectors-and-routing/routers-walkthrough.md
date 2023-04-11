@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # Apresentação de roteadores
-
-## Visão geral
 
 Use um roteador para passar Pokemon vs. super-heróis para baixo no caminho correto e crie uma tarefa para cada caractere.
 
@@ -60,7 +58,7 @@ Até esse ponto, você trabalhou com uma API muito simples (Application Programm
 
 A Workfront e muitos sistemas de software são criados usando uma REST (Representational State Transfer) API, que é o tipo mais fácil e padrão de API atualmente. No entanto, há algumas outras, como:
 
-* SOAP (Simple Object Access Protocol) (a API de prova da Workfront é baseada em SOAP)
+* SOAP (Simple Object Access Protocol) (A API de Prova da Workfront é baseada em SOAP)
 * FTP (Protocolo de transferência de arquivos)
 * SFTP (Protocolo de transferência segura de arquivo)
 * Para saber mais, faça uma pesquisa na Web por tipos de API e palavras-chave de interesse.
@@ -87,7 +85,7 @@ Saiba mais sobre os Workfront Fusion Universal Connectors e como configurá-los 
 
 ## Nota final
 
-Você pode verificar a lista inteira de nossos conectores de aplicativo pré-criados no Experience League. Caso deseje sugerir um novo conector de aplicativo para a equipe de produtos do Workfront Fusion, envie sua ideia para o Laboratório de Inovação. Se você não tiver apresentado antes, saiba mais sobre o Laboratório de Inovação, além de como votar em ideias e participar da priorização duas vezes por ano do Quadro de líderes. Se você já tiver acesso ao Laboratório de Inovação, faça logon e envie suas ideias.
+Você pode verificar a lista inteira de nossos conectores de aplicativo pré-criados no Experience League. Caso deseje sugerir um novo conector de aplicativo para a equipe de produtos do Workfront Fusion, envie sua ideia para o Laboratório de Inovação. Se você não tiver apresentado antes, saiba mais sobre o Laboratório de Inovação, além de como pode votar em ideias e participar da priorização duas vezes por ano do Quadro de Liderança. Se você já tiver acesso ao Laboratório de Inovação, faça logon e envie suas ideias.
 
 ## Sua vez
 
