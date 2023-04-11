@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---
 
 # Comunicar o status da meta
 
-Agora que você atualizou suas metas usando, dê um momento para retroceder e ter uma visão panorâmica das metas que você está trabalhando e como elas se relacionam com as metas da equipe, grupo e empresa. Comunicar-se com outros sobre o progresso e o status dos seus objetivos é uma parte importante de se manter alinhado.
+Agora que você atualizou suas metas, dê um momento para retroceder e ter uma visão panorâmica das metas em que você está trabalhando e como elas se relacionam com as metas da equipe, grupo e empresa. Comunicar-se com outros sobre o progresso e o status dos seus objetivos é uma parte importante de se manter alinhado.
 
 Há várias maneiras de manter as pessoas certas atualizadas sobre suas metas. Você pode começar por:
 
@@ -33,7 +33,7 @@ Você pode compartilhar uma meta criada ou criada por outra pessoa para a qual t
 
 1. Clique no ícone de 3 pontos ao lado do nome da meta e clique em [!UICONTROL **Compartilhar**]. O [!UICONTROL Acesso à meta] será exibida.
 
-   ![Ativos](assets/17-workfront-goals-share-a-goal.png)
+   ![Captura de tela de compartilhar uma meta](assets/17-workfront-goals-share-a-goal.png)
 
 1. Siga um destes procedimentos:
 

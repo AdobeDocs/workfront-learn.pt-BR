@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [Parte 2 do relatório avançado](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Parte 3 do relatório avançado](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Analítica aprimorada {#enhanced-analytics}
+      + [Um momento com o Produto sobre [!UICONTROL Análise aprimorada]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Introdução a [!UICONTROL Análise aprimorada]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Adicionar [!UICONTROL analytics] para modelos de layout](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Entender a navegação básica](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 2%
       + [Ver tempo limite ao atribuir tarefas](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilidade nas ferramentas de gerenciamento de recursos](manage-resources/pto/visibility-in-resource-management-tools.md)
    + Planejador de cenários {#scenario-planner}
-      + [Um momento com o produto sobre o Planejador de Cenário](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [Um momento com o Produto sobre o Planejador de Cenário](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [O que é o Planejador de cenário?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Acessar um plano no Planejador de Cenário](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [Criar planos no Planejador de Cenário](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
