@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
       + [Localizar modelos de layout](administration-and-setup/layout-templates/find-layout-templates.md)
       + [Personalizar terminologia com modelos de layout](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [Personalize o [!UICONTROL Menu principal] com modelos de layout](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Adicionar e gerenciar pinos por meio de um modelo de layout](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [Personalizar a página inicial com modelos de layout](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Atribuir e gerenciar o acesso aos modelos de layout](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personalizar áreas de objetos com um modelo de layout](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 2%
       + [Criar marcos](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + Desempenho e manutenção do sistema {#system-perfomance-and-maintenance}
       + [Assumir o comando de uma instância existente do Adobe Workfront](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
