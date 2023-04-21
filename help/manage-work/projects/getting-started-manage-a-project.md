@@ -11,16 +11,16 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Introdução ao gerenciamento de um projeto
 
-Neste vídeo, você aprenderá a:
+Neste vídeo, você aprenderá:
 
 * O que analisar ao monitorar o trabalho do projeto
 * Qual é a sua função como gerente de projeto
@@ -33,7 +33,7 @@ Com cada projeto gerenciado, você se contorna em uma rotina de quando revisar p
 
 Cada gerente de projeto lida com seus projetos de forma um pouco diferente. E cada equipe, departamento ou organização pode ter necessidades e necessidades de projeto diferentes.
 
-Mas, independentemente de como você gerencia um projeto, você desejará:
+Mas não importa como você gerencie um projeto, você vai querer:
 
 * Verifique se o trabalho está sendo concluído a tempo.
 * Antecipar problemas e riscos.

@@ -10,20 +10,21 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1219'
 ht-degree: 1%
 
 ---
 
 # Preencha os detalhes do projeto
 
-Não se preocupe ... você não precisa preencher todos os campos e caixas de seleção nos detalhes do projeto com cada projeto que você criar no [!DNL  Workfront]. Use modelos para preencher previamente as informações e, em seguida, concentre sua atenção nos 12 campos de detalhes mais importantes do projeto listados abaixo.
+Não se preocupe ... você não precisa preencher todos os campos e caixas de seleção nos detalhes do projeto com cada projeto criado em [!DNL  Workfront]. Use modelos para preencher previamente as informações e, em seguida, concentre sua atenção nos 12 campos de detalhes mais importantes do projeto listados abaixo.
 
 1. **Nome**
 
    Um nome de projeto descritivo ajuda todos a identificar a finalidade do projeto. Siga a convenção de nomenclatura de projeto de sua organização, que pode exigir que determinadas informações sejam incluídas no nome do projeto (como número de referência, nome do departamento ou indicador de categoria).
+
 
 1. **Descrição**
 
@@ -37,21 +38,21 @@ Não se preocupe ... você não precisa preencher todos os campos e caixas de se
 
    O status é usado no Workfront para indicar onde ou em que estágio do fluxo de trabalho é um projeto. O status é usado em muitos relatórios do Workfront para rastrear como o trabalho está progredindo.
 
-   A Workfront recomenda que o status seja definido como Planejamento enquanto você estiver atualizando e finalizando o plano do projeto. A principal coisa com o status de Planejamento é que as notificações do Workfront não são enviadas para os destinatários da tarefa sobre o projeto enquanto ele está nesse status.
+   A Workfront recomenda que o status seja definido como Planejamento enquanto você estiver atualizando e finalizando o plano do projeto. A coisa principal com o status de Planejamento é que as notificações do Workfront não são enviadas para os destinatários de tarefas sobre o projeto enquanto ele está nesse status.
 
-   Em seguida, quando o projeto estiver pronto para entrar em funcionamento, altere o status para Atual. É quando o Workfront envia notificações para as pessoas apropriadas sobre tarefas às quais foi atribuído.
+   Em seguida, quando o projeto estiver pronto para entrar em funcionamento, altere o status para Atual. Isso permite que o Workfront envie notificações às pessoas sobre novas tarefas às quais elas estão atribuídas, mas não enviará notificações aos usuários sobre as tarefas que elas foram atribuídas enquanto o projeto estava em um status de Planejamento.
 
    >[!TIP]
    >
    >  Ao fazer alterações no projeto, como alterar datas de vencimento, você pode reverter o status para Planejamento ou desativar o recurso Salvamento automático para impedir que as notificações sejam enviadas até que as alterações sejam concluídas.
 
-   O status do Planning pode ser definido como o padrão global do Workfront pelo administrador do sistema.
+   O status do Planning pode ser definido como o padrão global do Workfront para novos projetos pelo administrador do sistema.
 
 1. **Modo de Cronograma**
 
    Os projetos da Workfront podem ser agendados a partir de uma data de início ou de conclusão. Essa seleção importante determina como as datas planejadas de cada tarefa são calculadas.
 
-   A opção Data de início usa a data de início do projeto — inserida por você — e a duração de cada tarefa e os antecessores para calcular quando o projeto será concluído. A Workfront recomenda usar essa opção, pois é a mais comum e facilita o planejamento das datas dos projetos.
+   A opção Data de início usa a data de início do projeto — inserida por você — e a duração de cada tarefa e os antecessores para calcular quando o projeto será concluído. A Workfront recomenda usar essa opção, pois é a mais comum e facilita o planejamento das datas do projeto.
 
    No entanto, é possível usar uma data de conclusão. O Workfront observa a data de término (inserida por você) e o trabalho a ser feito (com base nas durações e antecessores) e, em seguida, retorna para calcular a data de início do projeto. A Workfront recomenda aguardar a data de conclusão do uso após um determinado nível de proficiência no Workfront ter sido estabelecido.
 
@@ -71,15 +72,15 @@ Não se preocupe ... você não precisa preencher todos os campos e caixas de se
 
 1. **Proprietário do projeto**
 
-   O Proprietário do projeto é o termo da Workfront para o gerente do projeto. Esta é a pessoa responsável pelo planeamento e/ou gestão do projeto.
+   O Proprietário do projeto é o termo Workfront pela para o gerente do projeto. Esta é a pessoa responsável pelo planeamento e/ou gestão do projeto.
 
-   O Proprietário do projeto tem permissões completas de gerenciamento para o projeto. Portanto, ele deve ter uma licença do Plano.
+   Para que o Proprietário do projeto tenha permissões completas de gerenciamento para o projeto, ele deve ter uma licença do Plano.
 
    Normalmente, esse campo é deixado em branco no modelo e é preenchido automaticamente com o nome da pessoa que cria o projeto. Se um nome for inserido no modelo, esse será o proprietário padrão do projeto.
 
 1. **Patrocinador do projeto**
 
-   O patrocinador do projeto geralmente é a pessoa que solicitou o projeto. Trata-se frequentemente de um interveniente interno, como um gestor ou executivo, com responsabilidade global pelo projeto.
+   O patrocinador do projeto não é necessário, mas quando usado geralmente é a pessoa que solicitou o projeto. Trata-se frequentemente de um interveniente interno, como um gestor ou executivo, com responsabilidade global pelo projeto.
 
    O patrocinador recebe automaticamente permissões de exibição para o projeto e deve ser um usuário licenciado pela Workfront.
 
@@ -87,19 +88,19 @@ Não se preocupe ... você não precisa preencher todos os campos e caixas de se
 
 1. **Gerenciador de Recursos**
 
-   Os usuários do Workfront listados neste campo podem usar as ferramentas de gerenciamento e planejamento de recursos no Workfront para os projetos específicos em que estão listados. Até 30 nomes podem ser listados no campo Gerenciador de Recursos e cada um deve ter uma licença do Plano.
+   Os usuários do Workfront listados nesse campo podem usar as ferramentas de gerenciamento e planejamento de recursos no Workfront para os projetos específicos em que estão listados. Até 30 nomes podem ser listados no campo Gerenciador de Recursos e cada um deve ter uma licença do Plano.
 
    O campo Gerenciador de Recursos pode ser definido no modelo.
 
 1. **Formulários personalizados**
 
-   O Workfront fornece campos nativos para coisas como nome do projeto e data de início. Mas há informações adicionais que você precisa como gerente de projeto, ou que a equipe do projeto precisará. Seus dados exclusivos são igualmente importantes e podem ser armazenados facilmente nesses formulários. Detalhes como datas de publicação, tamanhos de ativos de impressão, canais de entrega e muito mais.
+   O Workfront fornece campos nativos para coisas como nome do projeto e data de início. Mas há informações adicionais que você precisa como gerente de projeto, ou que a equipe do projeto precisará. Seus dados exclusivos são igualmente importantes e podem ser armazenados facilmente nesses formulários. Detalhes como datas de publicação, tamanhos de ativos de impressão, canais de entrega etc.
 
    Os formulários personalizados podem capturar essas informações e podem ser incluídos em listas e relatórios no Workfront, facilitando a visualização e edição das informações.
 
    Formulários personalizados podem ser anexados a seus modelos antecipadamente.
 
-1. **Cronograma**
+1. **Agendar**
 
    O trabalho acontece 24 horas, enquanto muitas empresas têm funcionários em todo o mundo.
 
@@ -121,10 +122,8 @@ Não se preocupe ... você não precisa preencher todos os campos e caixas de se
 
 1. **Acesso ao projeto para visualizadores e colaboradores**
 
-   Quando alguém recebe acesso a um projeto, há três níveis de permissões que podem ser fornecidas inicialmente quando um projeto entra em funcionamento: Exibir, Contribuir e Gerenciar. Cada nível de permissão permite que o usuário veja e faça determinadas coisas com o projeto.
+   Quando alguém recebe acesso a um projeto por meio do Compartilhamento, há três níveis de permissões que podem ser fornecidas: Exibir, Contribuir e Gerenciar. Cada nível de permissão permite que o usuário veja e faça determinadas coisas com o projeto.
 
-   Por exemplo, há pessoas que podem ter acesso ao projeto, mas não devem ver as informações financeiras. Assim, você pode desativar a opção Exibir finanças para visualizadores e colaboradores.
-
-   Você pode ajustar essas configurações de permissão em projetos individuais a qualquer momento. No entanto, uma vez que um projeto tenha mudado do Planning para o status Atual, os ajustes baseados em permissão devem ser feitos por meio do Compartilhamento do projeto.
+   Por exemplo, há pessoas que podem ter acesso ao projeto, mas não devem ver as informações financeiras. Assim, você pode desativar a opção Exibir finanças para eles.
 
    As configurações de acesso podem ser definidas no template.

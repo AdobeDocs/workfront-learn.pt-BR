@@ -1,5 +1,5 @@
 ---
-title: Entender outras maneiras de criar projetos
+title: Saiba mais sobre quatro maneiras de criar um projeto
 description: Saiba como criar um projeto a partir de um modelo, criar um projeto do zero, copiar um projeto existente ou importar um [!DNL Microsoft Project] arquivo.
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Entender outras maneiras de criar projetos
+# Saiba mais sobre quatro maneiras de criar um projeto
 
 Neste vídeo, você aprenderá a:
 
@@ -35,7 +35,7 @@ Neste vídeo, você aprenderá a:
 
 ![[!UICONTROL Novo projeto a partir de modelo] janela](assets/planner-fund-new-project-from-template-window.png)
 
-* Se houver um modelo que você usa com frequência, torne-o favorito! Você verá o modelo listado no [!UICONTROL Novo projeto] , além de aparecer no menu [!UICONTROL Favoritos e recentes] na barra de navegação. Basta clicar no ícone de estrela favorito onde quer que você o veja, na página de modelo, ao escolher um modelo para criar seu projeto com o, etc.
+* Se houver um modelo que você usa com frequência, torne-o um favorito! Você verá o modelo listado no [!UICONTROL Novo projeto] , além de aparecer no menu [!UICONTROL Favoritos e recentes] na barra de navegação. Basta clicar no ícone de estrela favorito onde quer que você o veja, na página de modelo, ao escolher um modelo para criar seu projeto com o, etc.
 
 ![[!UICONTROL Modelos favoritos] listar abaixo [!UICONTROL Novo projeto] botão](assets/planner-fund-template-favorites.png)
 
