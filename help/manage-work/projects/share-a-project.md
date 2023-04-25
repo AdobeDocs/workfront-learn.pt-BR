@@ -10,27 +10,21 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 518ede1e0a57a3075d8db122d48666c45dae8a4b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Compartilhar um projeto
 
-Fornecer visibilidade às partes interessadas e aos colaboradores no projeto é uma parte importante da gestão de um projeto.
+Neste vídeo, você aprenderá:
 
-Certifique-se de que todos possam ver as informações necessárias compartilhando o projeto. No Workfront, isso é feito com o [!UICONTROL Compartilhar] opção. Você pode fazer isso a partir do projeto individual, da variável [!UICONTROL Mais] no cabeçalho.
+* Como o compartilhamento automático funciona no Workfront
+* Como compartilhar um projeto com uma pessoa
+* Como compartilhar um projeto com uma equipe
+* Como compartilhar um projeto colocando-o em um portfólio
+* Qual é a prática recomendada para compartilhar um projeto
 
-![Janela Acesso ao projeto](assets/planner-fund-share-project-smaller.png)
-
-Ou você pode compartilhar vários projetos simultaneamente a partir da lista de projetos na [!UICONTROL Projetos] selecionando os projetos e clicando na guia [!UICONTROL Compartilhar] botão.
-
-O compartilhamento do projeto permite que todos envolvidos vejam as informações do projeto quando precisarem.
-
-<!---
-Learn More Icon
-Share permissions on objects
-Share a project
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
