@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,17 @@ ht-degree: 0%
 
 [!DNL Jira]  é um produto criado por [!DNL Atlassian] acompanhar projetos e problemas para equipes de desenvolvimento e suporte técnico. Muitas equipes usam [!DNL Jira]  para rastrear o progresso no nível da tarefa, mas também usam [!DNL Workfront] para gerenciar projetos. Isso significa que as equipes duplicam seus esforços criando tarefas em [!DNL Workfront] e [!DNL Jira] . Ainda com o [!DNL Jira]  integração nativa, esse tipo de informação pode ser automaticamente transferida entre os dois aplicativos.
 
+## Como posso instalar o Adobe Workfront para Jira?
+
+Ir para [Adobe Workfront para Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) para saber como instalar e configurar o Adobe Workfront para Jira.
+
 ## O que pode uma [!DNL Jira]  integração?
 
 Aqui temos uma foto [!DNL Workfront] com título &quot;[!DNL Workfront] Primavera da História.&quot;
 
 ![Gráfico de detalhamento de storyboard](assets/Jira01.png)
 
-Joan Harris, chefe da equipe do Conselho Dev-Jedi Agile, usa o painel de controle e o gráfico de intermitência como forma de medir o progresso do gráfico geral. Ele dá à equipe uma representação visual legal do que está acontecendo. Além disso, essas informações estão sendo inseridas em um relatório executivo que é revisado a cada trimestre. No entanto, a maioria da equipe faz as atualizações no [!DNL Jira] , não [!DNL Workfront].
+Joan Harris, chefe da equipe do Conselho Dev-Jedi Agile, usa o painel de controle e o gráfico de intermitência como forma de medir o progresso do gráfico geral. Dá à equipe uma representação visual do que está acontecendo. Além disso, esta informação está sendo transmitida para um relatório executivo que é revisado a cada trimestre. No entanto, a maioria da equipe faz as atualizações no [!DNL Jira] , não [!DNL Workfront].
 
 A equipe de Joan tem usado [!DNL Jira]  por vários anos e achar que é uma boa maneira para eles rastrearem tarefas individuais e/ou bugs que foram atribuídos ao trabalho. Mas a Joan precisa realmente dessa informação para se conectar [!DNL Workfront] e, em última análise, alimentar esses relatórios executivos.
 
