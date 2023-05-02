@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ No gráfico, você pode ver os seguintes detalhes principais:
 1. As horas estão por baixo. Este é o eixo x do gráfico e calcula o intervalo de horas exibido nas equipes acima.
 1. O círculo mostra o número de horas planejadas atribuídas à equipe inicial.
 1. A linha vertical mostra o número total de horas disponíveis para a equipe inicial.
+
+## Como navegar até o gráfico
+
+1. Clique no botão [!UICONTROL Pessoas] no painel esquerdo.
+1. Use o [!UICONTROL Filtro] para escolher uma equipe inicial a ser examinada.
+1. Você verá o [!UICONTROL Capacidade do recurso] o gráfico é exibido abaixo do gráfico de atividades da equipe.
 
 ## Como usar o gráfico
 

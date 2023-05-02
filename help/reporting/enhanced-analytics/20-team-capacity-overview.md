@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ No gráfico, é possível ver:
 1. As datas na parte inferior vêm do intervalo de datas selecionado.
 1. A cor de preenchimento azul mais escura indica que a equipe inicial está passando por burnout (4) ou não é contestada.
 1. O azul mais claro ou transparente indica que a carga de trabalho da equipe inicial está equilibrada
+
+## Como navegar até o gráfico
+
+1. Clique no botão [!UICONTROL Pessoas] no painel esquerdo.
+1. Use o [!UICONTROL Filtro] para escolher uma equipe inicial a ser examinada.
+1. Você verá o gráfico de capacidade da equipe exibido abaixo da variável [!UICONTROL Capacidade do recurso] gráfico.
 
 ## Como usar o gráfico
 

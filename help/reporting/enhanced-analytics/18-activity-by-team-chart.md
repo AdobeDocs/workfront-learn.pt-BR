@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ No gráfico, é possível ver:
 1. As caixas roxas mostram que os usuários atribuídos ao projeto conectaram-se no dia, com uma sombra mais escura, indicando um número maior de usuários fazendo logon.
 1. Caixas rosa mostram que os usuários alteraram o status de uma tarefa para o projeto no dia, com uma sombra mais escura indicando um número maior de status de tarefa alterando.
 1. As caixas azuis mostram que os usuários concluíram uma tarefa para o projeto, com uma sombra mais escura indicando um número maior de tarefas sendo concluídas.
+
+## Como navegar até o gráfico
+
+1. Clique no botão [!UICONTROL Pessoas] no painel esquerdo.
+1. Use o [!UICONTROL Filtro] para escolher uma equipe inicial a ser examinada.
+1. O gráfico atividade por equipe é exibido na parte superior dos gráficos de pessoas.
