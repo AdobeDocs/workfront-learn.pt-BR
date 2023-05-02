@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -42,5 +42,5 @@ No gráfico, é possível ver:
 ## Como navegar até o gráfico
 
 1. Clique no botão [!UICONTROL Pessoas] no painel esquerdo.
-1. Use o [!UICONTROL Filtro] para escolher uma equipe inicial a ser examinada.
+1. Use o [!UICONTROL Filtro] para escolher uma ou mais equipes iniciais para examinar.
 1. O gráfico atividade por equipe é exibido na parte superior dos gráficos de pessoas.
