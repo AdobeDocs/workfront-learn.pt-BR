@@ -1,6 +1,6 @@
 ---
 title: Entenda o [!UICONTROL Gantt] exibir
-description: Saiba como visualizar um projeto com o [!UICONTROL Gantt] no gráfico [!DNL  Workfront].
+description: Saiba como usar o gráfico de Gantt para ver rapidamente suas tarefas e projetos a partir de um alto nível com uma surpreendente quantidade de detalhes.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,23 @@ thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-11T00:00:00Z
 kt: 10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: e9bd9ad214189ff7077fa72fde00f9fbe8d632a9
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # Entenda o [!UICONTROL Gantt] exibir
 
-Às vezes, apenas olhar para a tarefa não lhe dá uma boa ideia de como tudo está vinculado. Alguns gerentes de projeto precisam ver as informações no formato de gráfico. Se essa for a sua preferência, [!DNL Workfront] recomenda que [!UICONTROL Gantt] gráfico para lhe dar uma ideia visual de toda a linha do tempo do seu projeto.
+Neste vídeo, você aprenderá a usar:
 
-O [!UICONTROL Gantt] O coloca as principais informações em um visual simples para ver seu plano imediatamente. Exponha rapidamente antecessores, marcos e status do progresso. Experimente desativar e ativar opções diferentes.
+* O gráfico de Gantt do projeto
+* O gráfico de Gantt da tarefa
 
-![[!UICONTROL Gantt] gráfico](assets/planner-fund-gantt.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
 
-Então você pode ver se esqueceu de colocar um antecessor em uma nova tarefa. Você também verifica a duração e as datas de início/vencimento, para garantir que nada esteja fora de sequência. Visualize a porcentagem concluída para que você possa detectar as tarefas que estão em problemas. E o [!UICONTROL Gantt] pode destacar suas tarefas principais, informando se o projeto está atingindo suas metas.
-
-<!---
-this paragraph needs an article URL
---->
-
-O [!UICONTROL Gantt] é fácil de explorar e ajuda em várias ocasiões durante o período de vida do projeto. Experimente e veja como funciona para você. Você pode aprender mais online com o artigo, Introdução ao gráfico de Gantt.
-
-<!---
-Getting started with the Gantt chart
-Overview of the project critical path
---->
+Você pode aprender mais online com o artigo, [Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
