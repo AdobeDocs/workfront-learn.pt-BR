@@ -1,43 +1,26 @@
 ---
-title: Como criar tarefas
-description: Saiba mais sobre outros métodos para criar tarefas em um projeto no [!DNL  Workfront].
+title: Criar tarefas
+description: Saiba mais sobre alguns métodos para criar tarefas em um projeto no Adobe Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-15T00:00:00Z
 kt: 10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Como criar tarefas
+# Criar tarefas
 
-Há várias maneiras de criar tarefas em um projeto no [!DNL Workfront]. O [!UICONTROL Inserir Tarefa Acima]/[!UICONTROL Inserir Tarefa Abaixo] permitem adicionar tarefas exatamente onde você precisa. Mas você pode achar que outro método funciona melhor para você.
+Neste vídeo, você aprenderá:
 
-1.Criar uma nova tarefa com o [!DNL New Task] abre um formulário abreviado para criação rápida de tarefas. A partir desta [!UICONTROL Nova tarefa] podem preencher todas as informações essenciais. [!UICONTROL Nome da tarefa], [!UICONTROL Descrição], [!UICONTROL Atribuições], [!UICONTROL Duração]e [!UICONTROL Data de Conclusão Planejada]. Se sua organização exigir informações adicionais, clique no botão [!UICONTROL Mais opções] botão para iniciar o [!UICONTROL Criar tarefa] para um formulário de criação de tarefa abrangente.
+* A longa maneira de criar uma tarefa em um projeto do Workfront
+* Alguns atalhos úteis para criar tarefas
 
-![[!UICONTROL Nova tarefa] janela](assets/planner-fund-new-task-creation.png)
-
-Ambas as opções colocam a tarefa na parte inferior do plano no nível da tarefa &quot;pai&quot; ou no nível da tarefa principal. Em seguida, você pode mover a tarefa para a posição adequada no plano.
-
-2.[!UICONTROL Adicionar mais tarefas] cria uma nova linha de tarefa na parte inferior do projeto, para que você possa usar a edição em linha para preencher as informações. Essa tarefa herda o posicionamento da tarefa imediatamente acima.
-
-3.[!UICONTROL Copiar para] e [!UICONTROL Mover para] do [!UICONTROL Mais] permite copiar ou mover tarefas para outro projeto. Isso é útil se você sabe que há tarefas que existem em outro projeto que você gostaria de duplicar em seu projeto.
-
-<!---
-should we add duplicate?
---->
-
-<!---
-learn more urls:
-Create tasks in a project
-Delete tasks
-Copy and duplicate tasks
-Edit tasks 
-Create subtasks
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)

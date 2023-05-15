@@ -1,5 +1,5 @@
 ---
-title: Alterar o status do projeto
+title: Fechar o projeto
 description: Saiba como alterar o status de um projeto para indicar que o trabalho foi concluído.
 activity: use
 team: Technical Marketing
@@ -10,43 +10,19 @@ role: User
 level: Intermediate
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 961627d42a7967dd3070f52e73986c47d8fdc8f9
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Alterar o status do projeto
 
-Um dos finais [!DNL Workfront] as etapas para fechar um projeto estão alterando o status para Concluído. O status faz duas coisas principais em [!DNL Workfront]:
+Neste vídeo, você aprenderá:
 
-* Todos sabem em que fase de desenvolvimento o projeto está.
-* Tells [!DNL Workfront] quando enviar notificações e quando não enviar.
+* Como alterar o status do projeto para [!UICONTROL Concluído]
+* Por que alterar o status do projeto para [!UICONTROL Concluído]
+* O que fazer se não for possível alterar o status do projeto para [!UICONTROL Concluído]
 
-Com o status Concluído, você informa a todos que o trabalho do projeto está concluído — o deliverable foi concluído, o resultado foi atingido, a meta foi atingida.
-
-E você está dizendo [!DNL Workfront] para interromper o envio de notificações relacionadas ao projeto.
-
-Altere o status em:
-
-* Cabeçalho do projeto
-* Detalhes do projeto
-* Ou de uma lista ou relatório que exibe a coluna de status do projeto
-
-![[!UICONTROL Status] campo expandido no cabeçalho do projeto](assets/planner-fund-project-status.png)
-
-## Por que alterar o status?
-
-Parece óbvio que ao fechar um projeto, um passo importante é mudar o status para Concluído. Mas [!DNL Workfront] O concluiu que, por vezes, esta etapa é ignorada. Porquê?
-
-Em alguns casos, as organizações não têm um processo estabelecido para fechar projetos. O gerente do projeto e outros envolvidos sabem que o trabalho está feito, então eles vão para a próxima coisa.
-
-Em outras situações, a porcentagem de conclusão do projeto é de 100% porque todas as tarefas são concluídas. Às vezes, os gerentes de projeto assumem 100% de conclusão significa um status Concluído . Mas nem sempre é assim.
-
-Esquecer de atualizar o status do projeto pode afetar os relatórios de sua organização. Por sua vez, isso pode afetar o planejamento de recursos, a previsão financeira e os compromissos futuros do projeto.
-
-<!---
-learn more
-Project statuses
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
