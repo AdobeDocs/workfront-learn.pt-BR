@@ -1,6 +1,6 @@
 ---
 title: Entender a necessidade de administradores de grupo
-description: Saiba como os administradores de sistema podem usar administradores de grupo para ajudar a manter [!DNL Workfront] configurações enquanto concede aos grupos mais controle sobre seu trabalho.
+description: Saiba como os administradores de sistema podem usar administradores de grupo para ajudar a manter as configurações do  [!DNL Workfront]  e, ao mesmo tempo, conceder aos grupos mais controle sobre o trabalho.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

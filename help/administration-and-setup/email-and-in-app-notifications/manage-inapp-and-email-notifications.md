@@ -1,7 +1,7 @@
 ---
 title: Gerenciar notificações de eventos no aplicativo e por email
 description: Saiba como os usuários podem controlar que notificações no aplicativo e por email receber para que recebam emails relevantes e úteis sobre seu trabalho.
-short-description: Saiba como os usuários podem controlar quais notificações por email e no aplicativo recebem.
+short-description: Saiba como os usuários podem controlar quais notificações eles recebem por email e no aplicativo.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 11%
+ht-degree: 13%
 
 ---
 

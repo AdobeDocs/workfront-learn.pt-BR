@@ -1,6 +1,6 @@
 ---
 title: Criar e compartilhar um formulário personalizado
-description: Saiba como criar um formulário personalizado, adicionar campos exclusivos ao formulário, organizar campos usando seções e lógica e compartilhar formulários com usuários.
+description: Saiba como criar um formulário personalizado, adicionar campos exclusivos ao formulário, organizar campos usando seções e lógicas e compartilhar formulários com usuários.
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
