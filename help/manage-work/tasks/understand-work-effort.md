@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ A Workfront entende que algumas organizações não usam o horário planejado pa
 
 Com ambos os conceitos em mente, a Workfront criou a variável [!UICONTROL Esforço do Trabalho] opção.
 
-Em vez de inserir horas específicas para cada tarefa no projeto, você pode usar o [!UICONTROL Esforço do Trabalho] para indicar se uma tarefa é um esforço pequeno, médio ou grande. A Workfront estima automaticamente as horas planejadas com essas tarefas com base nas configurações no projeto.
+Em vez de inserir horas específicas para cada tarefa no projeto, você pode usar [!UICONTROL Esforço do Trabalho] para indicar se uma tarefa é um esforço pequeno, médio ou grande. A Workfront estima automaticamente as horas planejadas com essas tarefas com base nas configurações no projeto.
 
 Dessa forma, se você planeja usar qualquer uma das ferramentas de gerenciamento de recursos da Workfront, as estimativas que você precisa já são preenchidas e os usuários têm um controle sobre a quantidade de trabalho que está chegando.
 
