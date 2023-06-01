@@ -1,6 +1,6 @@
 ---
-title: Configurar configurações de prova global
-description: Saiba como configurar funções de prova padrão para usuários; configurações padrão da conta de prova; e configurações de prova padrão para prova.
+title: Definir configurações globais de prova
+description: Saiba como configurar funções de prova padrão para usuários, configurações de conta de prova padrão e configurações de prova padrão para prova.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,19 +10,19 @@ level: Intermediate
 thumbnail: setup-global-proof-settings.png
 kt: 10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Configurar configurações de prova global
+# Definir configurações globais de prova
 
-Inicie as configurações do sistema para testes em [!DNL Workfront] estabelecendo configurações padrão globais que afetam os usuários. Agora, definir esses padrões garante que os usuários criados tenham as configurações mínimas necessárias para começar a usar os recursos de provisionamento µ..Além disso, economiza tempo à medida que você trabalha com as configurações de prova.
+Iniciar as configurações do sistema para revisão de texto no [!DNL Workfront] estabelecendo configurações padrão globais que afetam os usuários. Definir esses padrões agora garante que os usuários criados tenham as configurações mínimas necessárias para começar a usar recursos de comprovação... além de economizar tempo enquanto você trabalha nas configurações de comprovação.
 
 * Atribuir funções de prova padrão
-* Definir configurações padrão da conta
-* Definir configurações de prova padrão
+* Estabelecer configurações padrão da conta
+* Definir configurações padrão de prova
 
 Se você já começou a criar usuários antes de estabelecer esses padrões, não se preocupe. É possível editar todas essas informações nos perfis de usuário individuais.
