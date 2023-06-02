@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -364,10 +364,10 @@ ht-degree: 2%
 
 + Fusão {#fusion}
    + Bem-vindo ao Workfront Fusion {#welcome-to-workfront-fusion}
-      + [Visão geral do Workfront Fusion](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+      + [Introdução e estratégia técnica](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [Visão geral do treinamento do Workfront Fusion](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Configurar os arquivos de exercício do Workfront Fusion](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [Efetuar login como um novo usuário](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-      + [Introdução e estratégia técnica](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [Conceitos principais](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
    + Noções básicas {#understand-the-basics}
       + [Apresentação do design do cenário inicial](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
@@ -574,7 +574,7 @@ ht-degree: 2%
    + [Revisar trabalho em [!UICONTROL Minhas atualizações] ou [!UICONTROL Início]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [Entender atualizações e notificações](manage-work/issues-requests/understand-updates-and-notifications.md)
 
-+ Agile {#agile}
++ Ágil {#agile}
 
    + Scrum {#scrum}
       + [Criar uma equipe ágil de Scum](agile/create-a-scrum-agile-team.md)
@@ -597,7 +597,7 @@ ht-degree: 2%
 
 
 + Práticas recomendadas {#best-practices}
-   + [Agile](best-practices/agile-bp.md)
+   + [Ágil](best-practices/agile-bp.md)
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [Business case e otimizador de portfólio](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Comunicação](best-practices/communication-bp.md)
