@@ -1,6 +1,6 @@
 ---
-title: Apresentação da administração
-description: Saiba como alternar entre diferentes organizações ou equipes e adicionar usuários ao sistema em [!DNL Adobe Workfront Fusion].
+title: Apresentação de administração
+description: Saiba como alternar entre diferentes organizações ou equipes e adicionar usuários ao sistema no [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,22 +10,26 @@ level: Beginner
 kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Apresentação da administração
+# Apresentação de administração
 
 Saiba como alternar entre diferentes organizações ou equipes e adicionar usuários ao sistema.
 
-![Uma imagem de um cenário com tratamento de erros](assets/workfront-fusion-administration-1.png)
+![Uma imagem de um cenário com manipulação de erros](assets/workfront-fusion-administration-1.png)
 
-## Apresentação da administração
+## Apresentação de administração
 
-A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
+Neste vídeo, você aprenderá:
+
+* Como navegar entre organizações e equipes
+* Como criar equipes
+* Como convidar usuários para uma organização e uma equipe
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
