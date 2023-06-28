@@ -1,16 +1,16 @@
 ---
-title: Como localizar atribuições de trabalho em [!UICONTROL Início]
-description: Saiba como encontrar trabalho recebido e existente atribuído a você no [!UICONTROL  ]. Em seguida, revise as informações de atribuição.
+title: Como localizar atribuições de trabalho no [!UICONTROL Início]
+description: Saiba como encontrar trabalhos recebidos e existentes atribuídos a você no [!UICONTROL  ]. Em seguida, revise as informações da atribuição.
 feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
 activity: use
 team: Technical Marketing
-kt: 8797
+jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Localizar atribuições de trabalho existentes e de entrada
+* Localizar atribuições de trabalho recebidas e existentes
 * Revisar informações de atribuição
 
 >[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

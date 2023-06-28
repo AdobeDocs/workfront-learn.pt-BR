@@ -1,32 +1,32 @@
 ---
-title: Entender diretivas de tratamento de erros
-description: Saiba mais sobre as diretivas do manipulador de erros que permitem a continuação da execução e as que interrompem a execução, em [!DNL Adobe Workfront Fusion].
+title: Entender as diretivas de manipulação de erros
+description: Saiba mais sobre as diretivas do manipulador de erros que permitem que a execução continue e aquelas que interrompem a execução, em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9064
+jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Entender diretivas de tratamento de erros
+# Entender as diretivas de manipulação de erros
 
 Neste vídeo, você aprenderá:
 
-* As três diretivas do manipulador de erros que permitem continuar a execução
-* As duas diretivas do manipulador de erros que interrompem a execução
+* As três diretivas de manipulador de erros que permitem que a execução continue
+* As duas diretivas de manipulador de erros que interrompem a execução
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
-## Diretivas — O cenário continua
+## Diretivas — o cenário continua
 
 ### Retomar
 
@@ -34,16 +34,16 @@ Neste vídeo, você aprenderá:
 * Os módulos subsequentes são processados.
 * O status de execução do cenário é marcado como &quot;sucesso&quot;.
 
-![Uma imagem de uma diretiva Resume](assets/troubleshooting-and-error-handling-2.png)
+![Uma imagem de uma diretiva Retomar](assets/troubleshooting-and-error-handling-2.png)
 
-### Quebra
+### Interrupção
 
-* O estado da execução do cenário é armazenado na fila de execuções incompletas, onde o erro pode ser resolvido manualmente. Há, no entanto, algumas exceções que aqui são mencionadas.
+* O estado da execução do cenário é armazenado na fila de execuções incompletas em que o erro pode ser resolvido manualmente. Há, no entanto, algumas exceções que são mencionadas aqui.
 * Os módulos subsequentes não são processados.
 * Se houver pacotes não processados, a execução do cenário continuará normalmente.
 * O status de execução do cenário é marcado como &quot;aviso&quot;.
 
-![Uma imagem de uma diretiva Break](assets/troubleshooting-and-error-handling-3.png)
+![Uma imagem de uma diretiva de Interrupção](assets/troubleshooting-and-error-handling-3.png)
 
 ### Ignorar
 
@@ -53,18 +53,18 @@ Neste vídeo, você aprenderá:
 
 ![Uma imagem de uma diretiva Ignore](assets/troubleshooting-and-error-handling-4.png)
 
-## Diretivas — Cenário interrompe
+## Diretivas — interrupções de cenário
 
 ### Reversão
 
-* A execução do cenário é interrompida imediatamente e uma fase de reversão é iniciada em todos os módulos na tentativa de revertê-los para o estado inicial.
+* A execução do cenário é interrompida imediatamente e uma fase de reversão é iniciada em todos os módulos em uma tentativa de revertê-los a seu estado inicial.
 * Os módulos subsequentes não são processados.
-* Com alguns tipos de erro, o cenário é desativado após o &quot;número de erros consecutivos&quot; especificado nas Configurações do cenário.
+* Exceto alguns tipos de erro, o cenário é desativado após o &quot;número de erros consecutivos&quot; especificado nas configurações de Cenário.
 * O status de execução do cenário é marcado como &quot;erro&quot;.
 
 >[!NOTE]
 >
->Esse é o comportamento padrão se nenhuma rota do manipulador de erros estiver anexada ao módulo e a configuração &quot;Permitir o armazenamento de execuções incompletas&quot; nas configurações de Cenário não estiver marcada.
+>Esse é o comportamento padrão se nenhuma rota de manipulador de erros estiver anexada ao módulo e a configuração &quot;Permitir armazenamento de execuções incompletas&quot; nas configurações de Cenário não estiver marcada.
 
 ![Uma imagem de uma diretiva de reversão](assets/troubleshooting-and-error-handling-5.png)
 
@@ -74,4 +74,4 @@ Neste vídeo, você aprenderá:
 * Se houver pacotes não processados, a execução do cenário continuará normalmente.
 * O status de execução do cenário é marcado como &quot;sucesso&quot;.
 
-![Uma imagem de uma diretiva Commit](assets/troubleshooting-and-error-handling-6.png)
+![Uma imagem de uma diretiva de submissão](assets/troubleshooting-and-error-handling-6.png)

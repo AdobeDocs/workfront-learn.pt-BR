@@ -1,6 +1,6 @@
 ---
 title: Compartilhar um projeto
-description: Saiba como compartilhar um projeto para que as partes interessadas e outras partes interessadas no projeto possam ter visibilidade sobre o trabalho que está sendo feito usando [!DNL  Workfront].
+description: Saiba como compartilhar um projeto para que as partes interessadas e outros interessados no projeto possam ter visibilidade sobre o trabalho que está sendo feito usando o [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,11 +9,11 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-02T00:00:00Z
-kt: 10148
+jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---

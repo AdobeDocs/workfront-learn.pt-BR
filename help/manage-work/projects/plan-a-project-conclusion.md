@@ -1,24 +1,24 @@
 ---
-title: Planejar um projeto - revisão
-description: 'Revise os cinco campos de um projeto para se concentrar no planejamento de um projeto: tarefas, duração, horas planejadas, antecessores e atribuições.'
+title: Planejar um projeto - revisar
+description: Revise os cinco campos de um projeto para se concentrar ao planejar um projeto — tarefas, duração, horas planejadas, predecessores e atribuições.
 activity: use
 team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10152
+jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 5%
 
 ---
 
-# Planejar um projeto - revisão
+# Planejar um projeto - revisar
 
-Obtenha seus [!DNL  Workfront] projetos em funcionamento rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto focando primeiro nesses cinco campos:
+Obtenha o seu [!DNL  Workfront] projetos ativos e em execução rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com foco primeiro nesses cinco campos:
 
 1. Tarefas
 1. Duração
@@ -26,7 +26,7 @@ Obtenha seus [!DNL  Workfront] projetos em funcionamento rapidamente usando um m
 1. Predecessoras
 1. Atribuições
 
-Depois que tudo estiver definido, altere o status do projeto para Current para colocar o projeto online. Conforme o projeto avança, você deve acompanhar o trabalho sendo executado, os problemas que surgem, as perguntas que precisam ser respondidas e muito mais. Lembre-se ... você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!
+Depois que tudo estiver definido, altere o status do projeto para Atual para ativar o projeto. À medida que o projeto avança, você desejará acompanhar o trabalho que está sendo realizado, os problemas que surgem, as perguntas que precisam de resposta e muito mais. Lembre-se: você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!
 
 <!---
 footer urls for the LP

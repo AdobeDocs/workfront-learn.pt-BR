@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8768
+jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -23,12 +23,12 @@ ht-degree: 22%
 Neste vídeo, você aprenderá:
 
 * Quatro etapas para colocar um projeto em funcionamento
-* A definição de projeto no [!DNL Workfront]
+* A definição de um projeto em [!DNL Workfront]
 * As três formas mais comuns de criar um projeto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Obtenha seus [!DNL  Workfront] projetos em funcionamento rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto focando primeiro nesses cinco campos:
+Obtenha o seu [!DNL  Workfront] projetos ativos e em execução rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com foco primeiro nesses cinco campos:
 
 1. Tarefas
 1. Duração
@@ -36,4 +36,4 @@ Obtenha seus [!DNL  Workfront] projetos em funcionamento rapidamente usando um m
 1. Predecessoras
 1. Atribuições
 
-Depois que tudo estiver definido, altere o status do projeto para Current para colocar o projeto online. Conforme o projeto avança, você deve acompanhar o trabalho sendo executado, os problemas que surgem, as perguntas que precisam ser respondidas e muito mais. Lembre-se ... você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!
+Depois que tudo estiver definido, altere o status do projeto para Atual para ativar o projeto. À medida que o projeto avança, você desejará acompanhar o trabalho que está sendo realizado, os problemas que surgem, as perguntas que precisam de resposta e muito mais. Lembre-se: você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!

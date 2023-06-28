@@ -1,23 +1,23 @@
 ---
-title: Personalizar a aparência de [!UICONTROL Conexão de marca]
-description: Saiba como personalizar a barra de navegação e o rodapé e personalizar a página inicial e a página de logon em [!UICONTROL Conexão de marca] para [!UICONTROL Workfront DAM].
+title: Personalizar a aparência do [!UICONTROL Conectar marca]
+description: Saiba como personalizar a barra de navegação e o rodapé, além de personalizar a página inicial e a página de logon no [!UICONTROL Conectar marca] para [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8980
+jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-# Personalize a aparência de [!UICONTROL Conexão de marca]
+# Personalizar a aparência do [!UICONTROL Conectar marca]
 
 Neste vídeo, você aprenderá a:
 
@@ -26,38 +26,38 @@ Neste vídeo, você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
 
-## Adicional [!UICONTROL Aparência] definição
+## Adicional [!UICONTROL Aparência] configuração
 
-O [!UICONTROL Fonte] sob a [!UICONTROL Aparência] estilos de menu todo o texto em todo o seu [!UICONTROL Brand Portal] na fonte selecionada. Há suporte para mais de 800 fontes Google.
+A variável [!UICONTROL Fonte] opção no campo [!UICONTROL Aparência] estilos de menu todo o texto em todo o [!UICONTROL Brand Portal] na fonte selecionada. Mais de 800 fontes Google são compatíveis.
 
-![O [!UICONTROL Fonte] sob a [!UICONTROL Aparência] estilo de menu para o [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![A variável [!UICONTROL Fonte] opção no campo [!UICONTROL Aparência] estilo de menu para o [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
 ## Widgets de página inicial
 
-Personalize a aparência da sua [!UICONTROL Conexão de marca] página inicial para corresponder à sua organização. Com os widgets, é possível adicionar elementos, como pastas e controles deslizantes de imagens. Se sua organização tiver várias [!UICONTROL Conexões da marca], cada um tem sua própria homepage, que pode ter uma aparência distinta.
+Personalize a aparência da sua [!UICONTROL Conectar marca] página inicial para corresponder à sua organização. Usando widgets, você pode adicionar elementos, como pastas e controles deslizantes de imagem. Se sua organização tiver vários [!UICONTROL Conexões da marca], cada um tem sua própria página inicial, que você pode dar olhares distintos.
 
-![Uma captura de tela dos widgets disponíveis para o seu [!UICONTROL Conexão de marca] homepage](assets/03-brand-connect-home-page-widgets.png)
+![Uma captura de tela dos widgets disponíveis para o [!UICONTROL Conectar marca] homepage](assets/03-brand-connect-home-page-widgets.png)
 
 Estes widgets estão disponíveis:
 
-**A. Carrossel**—Exibe vários ativos em um controle deslizante de imagem. Você pode adicionar descrições a cada ativo. Clique no ícone Add para selecionar as imagens a serem exibidas no carrossel.
+**A. Carrossel**—Exibir vários ativos em um controle deslizante de imagem. Você pode adicionar descrições a cada ativo. Clique no ícone Add para selecionar imagens a serem exibidas no carrossel.
 
-**B. Pasta**—Exibe uma pasta que contém os ativos selecionados. Clique no ícone Add para abrir o [!UICONTROL Seletor de ativo] para selecionar uma pasta. Os ativos na pasta estão visíveis para [!UICONTROL Conexão de marca] usuários, mas só podem ser baixados por aqueles com permissão.
+**B. Pasta**—Exibe uma pasta que contém os ativos selecionados. Clique no ícone Add para abrir a [!UICONTROL Seletor de ativos] para poder selecionar uma pasta. Os ativos na pasta estão visíveis para [!UICONTROL Conectar marca] usuários, mas só podem ser baixados por aqueles com permissão.
 
-**C. Lightbox**—Apresentar uma [!UICONTROL Lightbox]. Os ativos na [!UICONTROL Lightbox] estará visível para [!UICONTROL Conexão de marca] usuários, mas só podem ser baixados por aqueles com permissão.
+**C. Lightbox**—Exibir um existente [!UICONTROL Lightbox]. Os ativos na lista [!UICONTROL Lightbox] estará visível para [!UICONTROL Conectar marca] usuários, mas só podem ser baixados por aqueles com permissão.
 
-**D. Diretrizes da marca**—Exiba as Diretrizes de marca na página inicial em vez de/além de na barra de navegação superior.
+**D. Diretrizes de marca**—Exiba as Diretrizes da marca na página inicial em vez de/além de na barra de navegação superior.
 
-**E. Descrição**—Use para exibir partes curtas de texto.
+**E. Descrição**—Use para exibir textos curtos.
 
-**F. Descrição preenchida**—Insira um bloco de cópia de texto para exibir em um plano de fundo cinza.
+**F. Descrição preenchida**—Digite um bloco de cópia de texto para ser exibido em um plano de fundo cinza.
 
-**G. HTML**—Use o HTML e o CSS para criar conteúdo personalizado. Por exemplo, é possível incorporar um link a um vídeo. Há alguns [HTML tags para evitar](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML**—Use HTML e CSS para criar conteúdo personalizado. Por exemplo, você pode incorporar um link a um vídeo. Há alguns [Tags HTML a serem evitadas](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 
 ## Adicionar uma barra de pesquisa
 
-Se você criar uma página inicial personalizada para a [!UICONTROL Conexão de marca], os usuários precisam clicar no botão [!UICONTROL Ativos] para executar uma pesquisa.
+Se você criar uma página inicial personalizada para o [!UICONTROL Conectar marca], os usuários precisam clicar na variável [!UICONTROL Assets] área para executar uma pesquisa.
 
-Mas os administradores de sistema podem criar uma barra de pesquisa usando o widget HTML e esta tag HTML:
+Mas os administradores do sistema podem criar uma barra de pesquisa usando o widget HTML e esta tag HTML:
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>

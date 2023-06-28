@@ -1,6 +1,6 @@
 ---
-title: Criar grupos de modelo para organizar modelos de fluxo de trabalho automatizados
-description: Saiba como criar grupos de modelo para organizar os modelos de fluxo de trabalho de prova automatizada que você cria.
+title: Criar grupos de modelos para organizar modelos de fluxo de trabalho automatizados
+description: Saiba como criar grupos de modelos para organizar os modelos de fluxo de trabalho de comprovação automatizada que você cria.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -8,22 +8,22 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: create-template-groups.png
-kt: 10232
+jira: KT-10232
 exl-id: 248cba16-fa88-44e1-a3d5-e763783d965d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-# Criar grupos de modelo para organizar modelos de fluxo de trabalho automatizados
+# Criar grupos de modelos para organizar modelos de fluxo de trabalho automatizados
 
-Antes de começar a criar modelos de fluxo de trabalho automatizados, [!DNL Workfront] O recomenda criar grupos de modelo para ajudar a organizar os modelos. Grupos — pense neles como um compartimento para manter os vários modelos — são úteis quando você tem várias equipes ou departamentos usando provas, pois ajudam a manter modelos organizados para que as pessoas que atribuem processos de revisão e aprovação saibam quais modelos usar.
+Antes de começar a criar modelos de fluxo de trabalho automatizados, [!DNL Workfront] A recomenda criar grupos de modelos para ajudar a organizá-los. Grupos — pense neles como um compartimento para manter os vários modelos — são úteis quando você tem várias equipes ou departamentos usando provas, pois ajudam a manter os modelos organizados para que as pessoas que atribuem processos de revisão e aprovação saibam quais modelos usar.
 
-Se você ainda não tiver certeza de como deseja organizar os modelos em grupos, poderá adicionar as informações do grupo posteriormente. No entanto, é mais fácil atribuir um grupo de modelos à medida que você cria um modelo.
+Se você ainda não tiver certeza de como deseja organizar os modelos em grupos, poderá adicionar as informações do grupo posteriormente. No entanto, é mais fácil atribuir um grupo de modelos ao criar um modelo.
 
-Você verá esses grupos não apenas nas configurações de prova, mas ao selecionar um template ao aplicar um workflow de prova. Os termos em negrito na lista de modelos são os grupos.
+Você verá esses grupos não apenas nas configurações de prova, mas ao selecionar um modelo ao aplicar um fluxo de trabalho de prova. Os termos em negrito na lista de modelos são os grupos.
 
 ![Os grupos de modelos aparecem em negrito ao selecionar um modelo](assets/proof-system-setups-template-group-show-on-upload.png)
 
@@ -31,8 +31,8 @@ Os grupos de modelos são opcionais. Se sua organização tiver apenas alguns mo
 
 **Para criar um grupo de modelos**
 
-1. Selecionar **[!UICONTROL Tofing]** do **[!UICONTROL Menu principal]** em [!DNL Workfront].
-1. Selecionar **[!UICONTROL Configurações da conta]** assim que a área de configuração de prova for aberta.
+1. Selecionar **[!UICONTROL Prova]** do **[!UICONTROL Menu principal]** in [!DNL Workfront].
+1. Selecionar **[!UICONTROL Configurações da conta]** assim que a área configurações de prova for aberta.
 1. Ir para **[!UICONTROL Fluxos de trabalho]** no menu do painel esquerdo.
 1. Selecionar **[!UICONTROL Novo grupo de modelos]** do **[!UICONTROL Novo]** botão.
 1. Nomeie o grupo.
@@ -40,11 +40,11 @@ Os grupos de modelos são opcionais. Se sua organização tiver apenas alguns mo
 
 O novo grupo agora é exibido na lista.
 
-![Lista de grupos de modelos em configurações de workflow de prova](assets/proof-system-setups-template-group-groups-set-up.png)
+![Lista de grupos de modelo nas configurações do fluxo de trabalho de prova](assets/proof-system-setups-template-group-groups-set-up.png)
 
 ## Excluir um grupo
 
-Se você excluir um grupo que contém modelos, esses modelos são preservados e movidos para um &quot; genérico[!UICONTROL Templates de workflow]&quot;. Você pode mover os modelos para outros grupos, se necessário.
+Se você excluir um grupo que contém modelos, esses modelos serão preservados e movidos para um modelo genérico &quot;[!UICONTROL Modelos de fluxo de trabalho]&quot;grupo. Você pode mover os modelos para outros grupos, se necessário.
 
 <!--
 Learn More Icon

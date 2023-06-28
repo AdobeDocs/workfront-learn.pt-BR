@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8922
+jira: KT-8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
 doc-type: video
-source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Ativar uma meta ao adicionar um resultado
+* Ativar uma meta adicionando um resultado
 
 >[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on)

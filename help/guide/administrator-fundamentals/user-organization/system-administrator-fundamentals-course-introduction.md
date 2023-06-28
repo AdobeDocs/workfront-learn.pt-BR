@@ -1,21 +1,21 @@
 ---
-title: Introdução ao curso dos fundamentos do administrador do Workfront
-description: Neste vídeo, você será apresentado a uma empresa ficcional chamada Swain's, onde os usuários estão aprendendo a usar — exatamente como você.
+title: Introdução ao curso de fundamentos do administrador do Workfront
+description: Neste vídeo, você será apresentado a uma empresa fictícia chamada Swain's, onde os usuários estão aprendendo a usar — assim como você.
 topic: null
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Introdução ao curso dos fundamentos do administrador do Workfront
+# Introdução ao curso de fundamentos do administrador do Workfront
 
-Neste vídeo, você será apresentado a uma empresa ficcional chamada Swain&#39;s, onde os usuários estão aprendendo a usar — exatamente como você.
+Neste vídeo, você será apresentado a uma empresa fictícia chamada Swain&#39;s, onde os usuários estão aprendendo a usar — assim como você.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335064/?quality=12&learn=on)

@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335176.png
-kt: 8913
+jira: KT-8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
 
-**Observação**: A expressão de dados WEEKDAYDIFF NÃO leva em consideração os feriados especificados pela organização.
+**Nota**: a expressão de dados WEEKDAYDIFF NÃO leva em conta os feriados especificados por sua organização.

@@ -1,13 +1,13 @@
 ---
 title: Personalizar listas de relatórios com modelos de layout
-description: Neste vídeo, saiba como adicionar e remover filtros, visualizações e grupos das listas de relatórios com um modelo de layout.
+description: Neste vídeo, saiba como adicionar e remover filtros, exibições e grupos das listas de relatórios com um modelo de layout.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Navegue até as configurações da lista de relatórios em um modelo de layout
+* Navegar até as configurações da lista de relatórios em um modelo de layout
 * Remover filtros, visualizações e agrupamentos
 * Adicionar filtros, visualizações e agrupamentos
 

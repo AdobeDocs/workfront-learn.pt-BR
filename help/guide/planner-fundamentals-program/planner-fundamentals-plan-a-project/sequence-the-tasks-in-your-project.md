@@ -1,24 +1,24 @@
 ---
-title: Sequenciar as tarefas em seu projeto
-description: Neste vídeo, saiba o que é um antecessor, como os antecessores sequenciam tarefas em um projeto, como usar durações e antecessores para criar uma linha do tempo, como alterar ou inserir antecessores
+title: Sequenciar as tarefas no projeto
+description: Neste vídeo, saiba o que é um predecessor, como os predecessores fazem a sequência de tarefas em um projeto, como usar durações e predecessores para criar uma linha do tempo, como alterar ou inserir predecessores
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Sequenciar as tarefas em seu projeto
+# Sequenciar as tarefas no projeto
 
 Neste vídeo, você aprenderá a:
 
-* O que é um antecessor
+* O que é um predecessor
 * Como os predecessores sequenciam tarefas em um projeto
-* Como usar durações e antecessores para criar uma linha do tempo
-* Como alterar ou inserir antecessores
+* Como usar durações e predecessores para criar uma linha do tempo
+* Como alterar ou inserir predecessores
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)

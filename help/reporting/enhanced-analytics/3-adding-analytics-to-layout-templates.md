@@ -1,6 +1,6 @@
 ---
 title: Adicionar [!UICONTROL Analytics] para modelos de layout
-description: Saiba como os administradores de sistema e de grupo concedem acesso ao Analytics.
+description: Saiba como os administradores de sistema e grupo concedem acesso ao Analytics.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -8,23 +8,23 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8726
+jira: KT-8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# Adicionar [!UICONTROL Análise aprimorada] para modelos de layout
+# Adicionar [!UICONTROL Analítica aprimorada] para modelos de layout
 
 Neste vídeo, você aprenderá:
 
-* Como os administradores de sistema e grupo concedem acesso ao [!UICONTROL Analytics] no [!UICONTROL Nova experiência do Workfront]
-* Como os administradores de sistema e grupo concedem acesso ao [!UICONTROL Analytics] em [!UICONTROL Workfront Classic]
+* Como administradores de sistema e de grupo concedem acesso a [!UICONTROL Analytics] no [!UICONTROL Nova experiência do Workfront]
+* Como administradores de sistema e de grupo concedem acesso a [!UICONTROL Analytics] in [!UICONTROL Workfront Classic]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Qualquer pessoa com uma licença da Workfront ([!UICONTROL Trabalho], [!UICONTROL Plano]ou [!UICONTROL Colaborador] em [!UICONTROL Workfront Business] planos ou superior) podem acessar [!UICONTROL Analytics] depois de adicionado ao modelo de layout, ele é atribuído. No entanto, você só verá os projetos e as informações do usuário, se permitido pelo seu nível de acesso da Workfront e as permissões de compartilhamento em projetos e usuários específicos.
+Qualquer pessoa com uma licença do Workfront ([!UICONTROL Trabalho], [!UICONTROL Plano]ou [!UICONTROL Colaborador] in [!UICONTROL Workfront Business] planos ou superior) podem acessar [!UICONTROL Analytics] depois de adicionado ao modelo de layout, ele é atribuído a ele. No entanto, você só verá os projetos e as informações do usuário se permitido pelo nível de acesso do Workfront e pelas permissões de compartilhamento em projetos e usuários específicos.

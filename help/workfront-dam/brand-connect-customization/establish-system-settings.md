@@ -1,41 +1,41 @@
 ---
-title: Estabeleça as configurações do sistema em [!UICONTROL Conexão de marca]
-description: Saiba como estabelecer configurações do sistema no [!UICONTROL Conexão de marca] de [!UICONTROL Workfront DAM].
+title: Estabelecer configurações do sistema no [!UICONTROL Conectar marca]
+description: Saiba como estabelecer configurações do sistema no [!UICONTROL Conectar marca] de [!UICONTROL DAM DO WORKFRONT].
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
-kt: 10089
+jira: KT-10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Estabeleça as configurações do sistema em [!UICONTROL Conexão de marca]
+# Estabelecer configurações do sistema no [!UICONTROL Conectar marca]
 
-O [!UICONTROL Conexão de marca] as configurações controlam quem pode ver o portal, quem pode publicar conteúdo no portal e quem pode gerenciar as diretrizes da marca.
+A variável [!UICONTROL Conectar marca] as configurações controlam quem pode ver o portal, quem pode publicar conteúdo no portal e quem pode gerenciar as diretrizes da marca.
 
-Para acessar as configurações, faça logon em [!UICONTROL Workfront DAM].
+Para acessar as configurações, faça logon no [!UICONTROL DAM DO WORKFRONT].
 
-1. Clique no botão **ícone de configurações** na barra de navegação e selecione **[!UICONTROL Conexão de marca]**. Ou clique em **[!UICONTROL Marcas]** na barra de navegação.
-1. Em seguida, clique no botão **[!UICONTROL Editar]** no canto superior direito do [!UICONTROL Conexão de marca] painel. Se sua organização tiver várias [!UICONTROL Conexões da marca], certifique-se de editar a opção correta.
+1. Clique em **ícone de configurações** na barra de navegação e selecione **[!UICONTROL Conectar marca]**. Ou clique em **[!UICONTROL Marcas]** na barra de navegação.
+1. Em seguida, clique no link **[!UICONTROL Editar]** no canto superior direito da caixa [!UICONTROL Conectar marca] painel. Se sua organização tiver vários [!UICONTROL Conexões da marca], certifique-se de editar o correto.
 
 ![Uma captura de tela do painel de configurações do Brand Connect](assets/01-brand-portal-settings.png)
 
-Fale com o seu [!UICONTROL Workfront] consultor se tiver dúvidas sobre qualquer uma dessas configurações.
+Fale com o seu [!UICONTROL Workfront] consultor se tiver dúvidas sobre alguma dessas configurações.
 
-* **[!UICONTROL Conexão de marca] Título**—Nomeie o [!UICONTROL Conexão de marca] (ou alterar o nome).
-* **Quem pode ver este portal?**—Defina os grupos que podem visualizar o [!UICONTROL Conexão de marca]. Por exemplo, se você adicionar a variável [!UICONTROL Conectado] , todos os usuários conectados podem ver o portal. No entanto, as permissões de pasta ainda se aplicam. Dessa forma, mesmo que o usuário possa ver o portal, ele não poderá acessar os ativos a menos que a variável [!UICONTROL Conectado] O grupo recebeu permissões para a pasta.
-* **Quem pode publicar neste portal?**—Defina os grupos que podem publicar ativos no [!UICONTROL Conexão de marca]. Esses serão grupos de colaboradores. Eles só podem publicar itens aos quais têm acesso.
-* **Quem pode gerenciar as diretrizes da marca?**—Defina os grupos que podem gerenciar as Diretrizes de marca. O gerenciamento das diretrizes não está limitado aos usuários administradores. Você pode definir um grupo de colaboradores para editar as diretrizes.
-* **Exibir este portal em mecanismos de pesquisa?**—Você quer o [!UICONTROL Conexão de marca] URL a ser exibido quando as pessoas executam pesquisas na Internet?
-* **Permitir links incorporados?**—É possível incorporar links provenientes do [!UICONTROL Conexão de marca]? Isso adiciona uma [!UICONTROL Obter links] para [!UICONTROL Compartilhar] que fornece links incorporados para o ativo.
-* **Ativar/desativar o social?**—Se o social estiver ativado (marque a caixa), os usuários podem curtir e fazer comentários sobre os ativos.
-* **Ativar/desativar download e visualizar contagem?**—Quando ativado, os usuários podem ver quantas vezes um ativo foi baixado e quantos comentários ele tem.
-* **Ocultar aspectos inicialmente**—Oculta os filtros de pesquisa de metadados que aparecem no painel esquerdo do [!UICONTROL Ativos] página.
-* **Rótulo do Lightbox**—Selecione um rótulo para [!UICONTROL Lightboxes] — [!UICONTROL Lightbox], [!UICONTROL Coleção], [!UICONTROL Favoritos]ou [!UICONTROL Favoritos].
+* **[!UICONTROL Conectar marca] Título**—Nomeie o [!UICONTROL Conectar marca] (ou altere o nome).
+* **Quem pode exibir este portal?**—Definir os grupos que podem exibir a [!UICONTROL Conectar marca]. Por exemplo, se você adicionar a variável [!UICONTROL Conectado] e todos os usuários conectados poderão ver o portal. No entanto, as permissões da pasta ainda se aplicam, de modo que, embora um usuário possa ver o portal, ele não poderá acessar os ativos, a menos que [!UICONTROL Conectado] O grupo recebeu permissões para a pasta.
+* **Quem pode publicar neste portal?**—Definir os grupos que podem publicar ativos na [!UICONTROL Conectar marca]. Esses serão grupos de colaboradores. Eles só podem publicar itens aos quais tenham acesso.
+* **Quem pode gerenciar as diretrizes da marca?**—Definir os grupos que podem gerenciar as Diretrizes da marca. O gerenciamento das diretrizes não está limitado aos usuários administradores. Você pode definir um grupo de colaboradores para editar as diretrizes.
+* **Exibir este portal nos mecanismos de pesquisa?**— Você deseja que o [!UICONTROL Conectar marca] URL a ser exibido quando as pessoas executam pesquisas na Internet?
+* **Permitir links incorporáveis?**—Os links incorporáveis podem vir do [!UICONTROL Conectar marca]? Isso adiciona um [!UICONTROL Obter links] para o painel [!UICONTROL Compartilhar] menu que fornece links incorporáveis para o ativo.
+* **Ativar/desativar redes sociais?**—Se o recurso social estiver ativado (marque a caixa), os usuários poderão gostar e comentar nos ativos.
+* **Habilitar/desabilitar download e contagem de exibições?**—Quando ativado, os usuários podem ver quantas vezes um ativo foi baixado e quantos comentários ele tem.
+* **Ocultar facetas inicialmente**—Ocultar os filtros de pesquisa de metadados que aparecem no painel esquerdo no [!UICONTROL Assets] página.
+* **Rótulo Lightbox**—Selecione um rótulo para [!UICONTROL Lightboxes] — [!UICONTROL Lightbox], [!UICONTROL Coleção], [!UICONTROL Favoritos]ou [!UICONTROL Favoritos].

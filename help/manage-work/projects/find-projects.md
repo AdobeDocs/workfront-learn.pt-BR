@@ -1,6 +1,6 @@
 ---
 title: Encontre seus projetos
-description: Saiba como encontrar projetos na [!DNL  Workfront] uso de pinos, favoritos, painéis e o [!UICONTROL Projetos] página.
+description: Saiba como encontrar projetos no [!DNL  Workfront] uso de marcadores, favoritos, painéis e [!UICONTROL Projetos] página.
 activity: use
 feature: Work Management
 thumbnail: find-projects.jpeg
@@ -8,19 +8,19 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8716,8717,8718,8719
+jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-# Encontre seus projetos
+# Encontrar os projetos
 
-A Workfront não pode gerenciar seus projetos para você, mas pode fornecer a visibilidade necessária para o trabalho que está sendo feito. [!DNL Workfront] facilita o monitoramento do progresso do trabalho, a comunicação com a equipe, os ajustes na linha do tempo e muito mais.
+O Workfront não pode gerenciar os projetos para você, mas pode dar a visibilidade necessária no trabalho que está sendo feito. [!DNL Workfront] O facilita o monitoramento do progresso do trabalho, a comunicação com a equipe, os ajustes da linha do tempo e muito mais.
 
 <!---
 In this section, you will learn how to:
@@ -31,9 +31,9 @@ Find project communications
 Use [!DNL Workfront] features when reviewing the task list to monitor project progress
 --->
 
-## Encontrar um projeto recente
+## Localizar um projeto recente
 
-Você pode encontrar rapidamente um projeto recente — e outros objetos — clicando no botão [!UICONTROL Recentes] ícone .
+Você pode localizar rapidamente um projeto recente — e outros objetos — clicando no [!UICONTROL Recentes] ícone.
 
 ![[!UICONTROL Status] campo expandido no cabeçalho do projeto](assets/recents.png)
 
@@ -43,26 +43,26 @@ Você pode encontrar rapidamente um projeto recente — e outros objetos — cli
 
 ## Fixar um projeto
 
-À medida que você trabalha em um projeto, é fácil encontrá-lo, fixando-o na barra de menus, para que possa abri-lo com um único clique.
+Enquanto estiver trabalhando em um projeto, torne mais fácil encontrá-lo, fixando-o na barra de menu para que você possa abri-lo com um único clique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
-## Adicionar um projeto como favorito
+## Marcar um projeto como favorito
 
-Se você estiver gerenciando vários projetos, talvez queira torná-los &quot;favoritos&quot; clicando no ícone de estrela. Em seguida, você pode encontrar sua lista sob o [!UICONTROL Favoritos] na barra do menu principal.
+Se estiver gerenciando vários projetos, você pode querer torná-los &quot;favoritos&quot; clicando no ícone de estrela. Em seguida, você poderá encontrar sua lista no [!UICONTROL Favoritos] no menu principal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
-## Abrir um projeto de um painel
+## Abrir um projeto em um painel
 
-Muitas [!DNL Workfront] os clientes usam relatórios compilados em um painel para encontrar seu trabalho em andamento.
+Muitos [!DNL Workfront] Os clientes do usam relatórios compilados em um painel para encontrar o trabalho em andamento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
-## Abra um projeto na página Projetos
+## Abrir um projeto na página Projetos
 
-E, é claro, seus projetos estão sempre disponíveis no [!UICONTROL Projetos] área. Basta clicar no nome do projeto para abri-lo.
+E, é claro, seus projetos estão sempre disponíveis no principal [!UICONTROL Projetos] área. Basta clicar no nome do projeto para abri-lo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)

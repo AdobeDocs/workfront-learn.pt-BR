@@ -1,31 +1,31 @@
 ---
-title: Apresentação de Arrays
-description: Analise os exercícios anteriores em que arrays simples e complexos eram usados em [!DNL Adobe Workfront Fusion].
+title: Apresentação dos storages
+description: Analise os exercícios anteriores de explicação passo a passo em que arrays simples e complexos foram usados em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9058
+jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Apresentação de Arrays
+# Apresentação dos storages
 
-Analise exercícios anteriores em que foram usados arrays simples e complexos. Analisaremos como as encontramos e como utilizar as informações usando funções de matriz, se necessário.
+Analise os exercícios anteriores de explicação passo a passo em que arrays simples e complexos foram usados. Examinaremos como os encontramos e como utilizar as informações usando funções de array, se necessário.
 
-![Uma imagem de um cenário de Fusão](assets/final-functional-bits-and-bobs-1.png)
+![Uma imagem de um cenário do Fusion](assets/final-functional-bits-and-bobs-1.png)
 
-## Apresentação de Arrays
+## Apresentação dos storages
 
-A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
 

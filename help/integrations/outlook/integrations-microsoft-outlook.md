@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8814
+jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -27,12 +27,12 @@ Neste vídeo, você aprenderá a:
 
 >[!IMPORTANT]
 >
->Se você não conseguir encontrar o Workfront Add-in conforme descrito no vídeo, seu departamento de TI pode precisar fazer algum trabalho de configuração primeiro. Instruções detalhadas podem ser encontradas em [Configurar o Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>Se você não conseguir encontrar o suplemento Workfront conforme descrito no vídeo, talvez o seu departamento de TI precise fazer algum trabalho de configuração primeiro. As instruções detalhadas podem ser encontradas em [Configurar o Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 
-## Integre o calendário do Microsoft Outlook à [!DNL Workfront] Calendário doméstico
+## Integrar o calendário do Microsoft Outlook com o [!DNL Workfront] Calendário da página inicial
 
-Você pode configurar o [!DNL Workfront] [!UICONTROL Calendário doméstico] configurações para fazer o seguinte:
+Você pode configurar o [!DNL Workfront] [!UICONTROL Calendário da página inicial] configurações para fazer o seguinte:
 
-* Integrar a uma versão baseada na Web de [!DNL Outlook] na nuvem hospedada [!DNL Office 365] ou [!DNL Outlook Live]. Você pode exibir todos os eventos de [!DNL Outlook] calendário e quaisquer calendários associados selecionados, como calendários de Aniversário e Feriados, em seu [!DNL Workfront] [!UICONTROL Calendário doméstico].
+* Integrar a uma versão baseada na Web do [!DNL Outlook] em nuvem [!DNL Office 365] ou [!DNL Outlook Live]. Você pode exibir todos os eventos de seu [!DNL Outlook] calendário e qualquer calendário associado selecionado, como calendários de Aniversários e Feriados, no [!DNL Workfront] [!UICONTROL Calendário da página inicial].
 
-* Ajude você a rastrear sua carga de trabalho em relação às horas de trabalho disponíveis na barra Alocação.
+* Ajudar a controlar sua carga de trabalho em relação às horas de trabalho disponíveis na barra Alocação.

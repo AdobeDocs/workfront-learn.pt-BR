@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '696'
 ht-degree: 6%
 
 ---
@@ -87,3 +87,45 @@ Crie uma visualização de tarefa chamada &quot;Visualização de marco&quot; co
 1. Clique em **[!UICONTROL Salvar]**.
 
 ![Imagem de uma lista de tarefas usando uma exibição de marco](assets/view-milestone-exercise-2.png)
+
+## Atividade 3: criar uma exibição de tipos de duração e restrições de tarefa
+
+Essa visualização permitirá examinar e editar todos os tipos de durações e restrições de tarefa no projeto.
+
+Crie uma exibição de tarefa chamada &quot;Tipos de duração e exibição de restrições de tarefa&quot; com as seguintes colunas:
+
+* [!UICONTROL Nome da tarefa]
+* [!UICONTROL Atribuições]
+* [!UICONTROL Duração]
+* [!UICONTROL Duração Planejada]
+* [!UICONTROL Horas planejadas]
+* [!UICONTROL Predecessoras]
+* [!UICONTROL Início em]
+* [!UICONTROL Concluir em]
+* [!UICONTROL Tipo de Duração]
+* [!UICONTROL Restrição de Tarefa]
+* [!UICONTROL Data de Restrição]
+
+Altere o [!UICONTROL Formato do campo] no [!UICONTROL Início em] e [!UICONTROL Prazo final] para exibir a data e a hora.
+
+## Resposta da Atividade 3
+
+![Uma imagem da tela mostrando os tipos de duração e a exibição de restrições de tarefa](assets/view-activity-3.png)
+
+1. Em uma lista de tarefas de projeto, vá para a **[!UICONTROL Exibir]** e selecione **[!UICONTROL Nova visualização]**.
+1. Nomeie sua exibição como &quot;Tipos de duração e exibição de restrições de tarefa&quot;.
+1. Remova o [!UICONTROL % concluído] coluna.
+1. Clique em **[!UICONTROL Adicionar coluna]**.
+1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;duration&quot;] e selecione [!UICONTROL &quot;Duração planejada&quot;] no [!UICONTROL Tarefa] origem do campo.
+1. Mova esta coluna entre as colunas [!UICONTROL Duração] e a variável [!UICONTROL Horas planejadas] colunas.
+1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
+1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;duration type&quot;] e selecione [!UICONTROL &quot;Tipo de duração&quot;] no [!UICONTROL Tarefa] origem do campo.
+1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
+1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;restrição&quot;] e selecione [!UICONTROL &quot;Restrição de tarefa&quot;] na origem do campo Task.
+1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
+1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;restrição&quot;] e selecione [!UICONTROL &quot;Data de restrição&quot;] na origem do campo Task.
+1. Selecione o [!UICONTROL Início em] e clique em [!UICONTROL Opções avançadas].
+1. No [!UICONTROL Formato do campo] seleção suspensa [!UICONTROL &quot;17/10/60 3:00&quot;].
+1. Selecione o [!UICONTROL Prazo final] e clique em [!UICONTROL Opções avançadas].
+1. No [!UICONTROL Formato do campo] seleção suspensa [!UICONTROL &quot;17/10/60 3:00&quot;].
+1. Clique em **[!UICONTROL Salvar]**.

@@ -1,6 +1,6 @@
 ---
 title: Criar um modelo de fluxo de trabalho automatizado
-description: Saiba como criar um template de workflow automatizado atribuindo recipients de prova e definindo prazos de prova. Em seguida, compartilhe o modelo com outros usuários.
+description: Saiba como criar um modelo de fluxo de trabalho automatizado atribuindo recipients de prova e definindo prazos de prova. Em seguida, compartilhe o template com outros usuários.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png
-kt: 8830
+jira: KT-8830
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -31,11 +31,11 @@ Neste vídeo, você aprenderá a:
 
 ## Opções adicionais de ativação de estágio
 
-Duas opções para determinar quando um estágio de fluxo de trabalho de prova deve ser iniciado são raramente, se nunca, usadas: o [!UICONTROL Data e hora] e a opção &quot;[!UICONTROL Quando o prazo do estágio anterior for ultrapassado]&quot;.
+Duas opções para determinar quando um estágio do fluxo de trabalho de prova deve ser iniciado raramente são usadas, se houver: a variável [!UICONTROL Data e hora] e a opção &quot;[!UICONTROL Quando o prazo final do estágio anterior passar]&quot;.
 
-A segunda opção realmente só funciona em cenários em que você tem um grande grupo de pessoas revisando e não quer esperar por todas elas. É um tipo de opção &quot;Eu lhe darei um certo tempo para concluir sua revisão e então você perderá sua chance&quot;. Mas mesmo isso pode atrasar um processo de revisão.
+A segunda opção realmente só funciona em cenários em que há um grande grupo de pessoas revisando e em que você não deseja esperar por todas elas. É um tipo de opção &quot;Vou lhe dar um certo tempo para concluir sua revisão e depois você perde sua chance&quot;. Mas mesmo isso pode retardar um processo de revisão.
 
-Se utilizar &quot;[!UICONTROL quando o prazo da fase anterior for ultrapassado],&quot; é importante lembrar que você pode ativar manualmente um estágio a qualquer momento se não quiser aguardar o término de um prazo.
+Se você usar &quot;[!UICONTROL quando o prazo final do estágio anterior passar],&quot; é importante lembrar que você pode ativar manualmente um estágio a qualquer momento se não quiser esperar o término de um prazo.
 
 <!--
 Lean More URLs

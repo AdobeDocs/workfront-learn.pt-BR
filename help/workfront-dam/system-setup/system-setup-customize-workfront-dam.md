@@ -1,32 +1,32 @@
 ---
-title: Como personalizar [!UICONTROL Workfront DAM]
-description: Saiba como personalizar [!UICONTROL Workfront DAM] ao criar marcas d'água, personalize a variável [!UICONTROL DAM] janela de logon, marca a interface e muito mais.
+title: Como personalizar [!UICONTROL DAM DO WORKFRONT]
+description: Saiba como personalizar [!UICONTROL DAM DO WORKFRONT] criando marcas d'água, personalizando o [!UICONTROL DAM] janela de logon, marca da interface e muito mais.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 team: Technical Marketing
-kt: 8969
+jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Configuração do sistema: Personalizar [!UICONTROL Workfront DAM]
+# Configuração do sistema: Personalizar [!UICONTROL DAM DO WORKFRONT]
 
 Neste vídeo, você aprenderá a:
 
 * Criar marcas d&#39;água
-* Personalize o [!UICONTROL Workfront DAM] janela de logon
-* Marca a interface com suas cores e logotipo
-* Personalizar emails enviados de [!UICONTROL Workfront DAM]
+* Personalize o [!UICONTROL DAM DO WORKFRONT] janela de logon
+* Marque a interface com suas cores e seu logotipo
+* Personalizar emails enviados de [!UICONTROL DAM DO WORKFRONT]
 * Estabelecer regras para baixar ativos
 * Controlar notificações no aplicativo
-* Plano de configuração e manutenção [!UICONTROL Workfront DAM]
+* Plano para instalação e manutenção [!UICONTROL DAM DO WORKFRONT]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on)

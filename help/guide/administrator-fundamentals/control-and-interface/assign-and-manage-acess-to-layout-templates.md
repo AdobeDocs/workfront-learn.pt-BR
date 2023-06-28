@@ -1,25 +1,25 @@
 ---
-title: Atribuir e gerenciar o acesso aos modelos de layout
-description: Neste vídeo, saiba como atribuir modelos de layout a usuários e controlar quem pode gerenciar o acesso.
+title: Atribuir e gerenciar o acesso a modelos de layout
+description: Neste vídeo, saiba como atribuir modelos de layout aos usuários e controlar quem pode gerenciar o acesso ao.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# Atribuir e gerenciar o acesso aos modelos de layout
+# Atribuir e gerenciar o acesso a modelos de layout
 
 Neste vídeo, você aprenderá a:
 
-* Navegar para atribuições
+* Navegue até atribuições
 * Atribuir modelos de layout a usuários, grupos ou equipes
-* Controle quem pode gerenciar o acesso
+* Controlar quem pode gerenciar o acesso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on)

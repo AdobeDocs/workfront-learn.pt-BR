@@ -1,6 +1,6 @@
 ---
-title: Entenda o gráfico de capacidade de recursos em [!UICONTROL Análise aprimorada]
-description: Saiba como o gráfico de capacidade de recurso mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
+title: Entender o gráfico de capacidade de recursos no [!UICONTROL Analítica aprimorada]
+description: Saiba como o gráfico Capacidade de recursos mostra o número de horas planejadas atribuídas a uma equipe doméstica dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -8,49 +8,49 @@ thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10046
+jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 0%
 
 ---
 
-# Entenda o gráfico de capacidade de recursos em [!UICONTROL Análise aprimorada]
+# Entender o gráfico de capacidade de recursos no [!UICONTROL Analítica aprimorada]
 
-O gráfico de capacidade de recurso mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período de tempo filtrado em comparação ao total de horas disponíveis da equipe.
+O gráfico Capacidade de recursos mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
 
-Essa comparação pode ajudar você a determinar se você não está atribuindo trabalho suficiente à equipe ou se eles podem estar experimentando um esgotamento em uma carga de trabalho pesada. Clique em um nome de equipe e um gráfico de capacidade de Equipe será exibido, mostrando mais detalhes sobre a capacidade da equipe para o período filtrado.
+Essa comparação pode ajudar você a determinar se não está atribuindo trabalho suficiente à equipe ou se ela pode estar enfrentando esgotamento de uma carga de trabalho pesada. Clique no nome de uma equipe e um gráfico de capacidade da equipe será exibido, mostrando mais detalhes sobre a capacidade da equipe para o período filtrado.
 
 Ver essas informações ajuda a determinar:
 
-* Se uma equipe inicial tiver sido atribuída em excesso ou não em alocação.
+* Se uma equipe interna estava superalocada ou subalocada.
 * Quais equipes domésticas estão disponíveis para trabalho.
 
-![Uma imagem que mostra um gráfico de capacidade de recurso com números em áreas descritas nos marcadores abaixo](assets/section-3-2.png)
+![Uma imagem que mostra um gráfico de capacidade de recursos com números em áreas descritas nos marcadores abaixo](assets/section-3-2.png)
 
 No gráfico, você pode ver os seguintes detalhes principais:
 
-1. Os nomes da equipe doméstica estão à esquerda.
-1. As horas estão por baixo. Este é o eixo x do gráfico e calcula o intervalo de horas exibido nas equipes acima.
+1. Os nomes das equipes domésticas estão à esquerda.
+1. As horas estão na parte inferior. Este é o eixo x do gráfico e é calculado para o intervalo de horas exibido nas equipes acima.
 1. O círculo mostra o número de horas planejadas atribuídas à equipe inicial.
 1. A linha vertical mostra o número total de horas disponíveis para a equipe inicial.
 
 ## Como navegar até o gráfico
 
-1. Clique no botão [!UICONTROL Pessoas] no painel esquerdo.
-1. Use o [!UICONTROL Filtro] para escolher uma ou mais equipes iniciais para examinar.
-1. Você verá o [!UICONTROL Capacidade do recurso] o gráfico é exibido abaixo do gráfico de atividades da equipe.
+1. Clique no link [!UICONTROL Pessoas] no painel esquerdo.
+1. Use o [!UICONTROL Filtro] para escolher uma ou mais equipes do Início para examinar.
+1. Você verá a [!UICONTROL Capacidade de recursos] gráfico de atividade de equipe.
 
 ## Como usar o gráfico
 
-Você deve adicionar filtros e selecionar um intervalo de datas para exibir dados nos gráficos no [!UICONTROL Análise aprimorada] área do Workfront. Se você adicionou filtros anteriormente, eles ficam ativos até que você os remova.
+Você deve adicionar filtros e selecionar um intervalo de datas para exibir dados nos gráficos na [!UICONTROL Analítica aprimorada] área do Workfront. Se você adicionou filtros anteriormente, eles estarão ativos até serem removidos.
 
-![Uma imagem mostrando um gráfico de capacidade de recurso](assets/section-3-3.png)
+![Uma imagem que mostra um gráfico de capacidade de recursos](assets/section-3-3.png)
 
-No gráfico de capacidade de recursos, é possível:
+No gráfico Capacidade de recursos, é possível:
 
-* Passe o mouse sobre a linha da equipe inicial para ver quantas horas ainda estão disponíveis para serem programadas, a quantidade de horas planejadas para a equipe inicial ser concluída e o número total de horas trabalhadas (rotuladas como sobre, abaixo ou na capacidade).
-* Exporte os dados do gráfico usando o botão Exportar no canto superior direito do gráfico.
-* Clique no nome da equipe inicial para abrir o gráfico de capacidade da equipe. Ampliar para um período menor no gráfico de capacidade do grupo atualiza os dados exibidos no gráfico de capacidade do recurso.
+* Passe o mouse sobre a linha de equipe doméstica para ver quantas horas ainda estão disponíveis para serem programadas, a quantidade de horas planejadas para a equipe doméstica ser concluída e o número total de horas trabalhadas (rotuladas como acima, abaixo ou na capacidade).
+* Exporte os dados do gráfico usando o botão de exportação no canto superior direito do gráfico.
+* Clique no nome da equipe inicial para abrir o gráfico Capacidade da equipe. Ampliar para um período menor no gráfico Capacidade da equipe atualiza os dados exibidos no gráfico Capacidade do recurso.

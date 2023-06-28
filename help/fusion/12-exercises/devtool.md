@@ -1,89 +1,89 @@
 ---
-title: Ferramenta Dev
-description: Aprimore suas capacidades de solucionar problemas de um cenário e facilitar configurações complexas usando a DevTool.
+title: Ferramenta de desenvolvimento
+description: Melhore suas habilidades para solucionar problemas de um cenário e facilitar configurações complexas usando o DevTool.
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11057
+jira: KT-11057
 thumbnail: KT11057.png
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
 
-# Ferramenta Dev
+# Ferramenta de desenvolvimento
 
-Melhore suas capacidades de solucionar problemas em um cenário e aliviar configurações complexas usando a ferramenta Dev.
+Aprimore suas habilidades para solucionar problemas de um cenário e facilitar configurações complexas usando a ferramenta Dev.
 
 ## Visão geral do exercício
 
-Instale e use as diferentes áreas na ferramenta Workfront Dev para aprofundar as solicitações/respostas feitas e os truques avançados de design de cenário.
+Instale e use as diferentes áreas na ferramenta de Desenvolvimento do Workfront para aprofundar as solicitações/respostas feitas e os truques avançados de design de cenários.
 
 >[!NOTE]
 >
 >A ferramenta Workfront Fusion Dev só está disponível no navegador Chrome ao usar o [Ferramenta de desenvolvedor do Chrome](https://developer.chrome.com/docs/devtools/).
 
-![Imagem do Devtool 1](../12-exercises/assets/devtool-walkthrough-1.png)
+![Devtool Imagem 1](../12-exercises/assets/devtool-walkthrough-1.png)
 
-## Etapas a seguir
+## Etapas a serem seguidas
 
 **Instale a ferramenta Dev.**
 
-1. Baixe o documento &quot;workfront-fusion-devtool.zip&quot; encontrado na pasta Fusion Exercise Files na unidade de teste.
+1. Baixe o documento &quot;workfront-fusion-devtool.zip&quot; encontrado na pasta Arquivos do Fusion Exercise na unidade de teste.
 1. Extraia os arquivos Zip para uma pasta.
-1. Abra uma guia no Chrome e digite **chrome://extensions**.
-1. Ative o modo Desenvolvedor usando o switch na parte superior direita e clique no botão &quot;Carregar descompactado&quot; que aparece na parte superior esquerda. Selecione a pasta que contém a ferramenta Dev (este é o local onde você a descompactou).
+1. Abra uma guia no Chrome e insira **chrome://extensions**.
+1. Alterne para o modo Desenvolvedor usando o switch no canto superior direito e clique no botão &quot;Carregar desempacotado&quot; que aparece no canto superior esquerdo. Selecione a pasta que contém a ferramenta Dev (foi aqui que você a descompactou).
 
-   ![Imagem do Devtool 2](../12-exercises/assets/devtool-walkthrough-2.png)
+   ![Devtool Imagem 2](../12-exercises/assets/devtool-walkthrough-2.png)
 
-1. Depois de descompactada, a ferramenta de Desenvolvimento aparecerá entre suas outras extensões.
+1. Depois de descompactada, a ferramenta de Desenvolvimento é exibida entre suas outras extensões.
 
-   ![Imagem do Devtool 3](../12-exercises/assets/devtool-walkthrough-3.png)
+   ![Devtool Imagem 3](../12-exercises/assets/devtool-walkthrough-3.png)
 
    **Use o Live Stream.**
 
-1. Comece abrindo o cenário &quot;Usando Data Stores para sincronizar dados&quot;.
+1. Comece abrindo o cenário &quot;Usando armazenamentos de dados para sincronizar dados&quot;.
 1. Abra a ferramenta Dev digitando F12 ou a função F12. Ou você pode clicar no menu de três pontos na barra de endereços do Chrome e navegar até Ferramentas do desenvolvedor.
 
-   ![Imagem do Devtool 4](../12-exercises/assets/navigate-to-devtools.png)
+   ![Devtool Imagem 4](../12-exercises/assets/navigate-to-devtools.png)
 
 1. Clique na guia Workfront Fusion e selecione Live Stream na lista à esquerda.
-1. Clique em Executar uma vez para ver os eventos como ocorrem.
-1. Clique em um evento para ver as guias à direita para Cabeçalhos de solicitação, Corpo da solicitação, Cabeçalhos de resposta e Corpo de resposta.
+1. Clique em Executar uma vez para ver os eventos à medida que ocorrem.
+1. Clique em um evento para ver as guias à direita para Cabeçalhos de solicitação, Corpo de solicitação, Cabeçalhos de resposta e Corpo de resposta.
 
-   ![Imagem do Devtool 4](../12-exercises/assets/devtool-walkthrough-4.png)
+   ![Devtool Imagem 4](../12-exercises/assets/devtool-walkthrough-4.png)
 
-   **Usar o depurador de cenário**
+   **Usar o Scenario Debugger**
 
-1. Selecione Depurador de Cenário e clique em um módulo para ver informações sobre as operações desse módulo.
+1. Selecione Scenario Debugger e clique em um módulo para ver informações sobre as operações desse módulo.
 
-   ![Imagem do Devtool 5](../12-exercises/assets/devtool-walkthrough-5.png)
+   ![Devtool Imagem 5](../12-exercises/assets/devtool-walkthrough-5.png)
 
-1. Navegue até a guia Histórico . Clique em Details on an execution para examinar os detalhes da operação do módulo para uma execução específica.
+1. Clique na guia Histórico. Clique em Detalhes em uma execução para examinar os detalhes da operação do módulo para uma execução específica.
 
-   ![Imagem do Devtool 6](../12-exercises/assets/devtool-walkthrough-6.png)
+   ![Devtool Imagem 6](../12-exercises/assets/devtool-walkthrough-6.png)
 
-   **Usar as ferramentas**
+   **Usar as Ferramentas**
 
-1. Volte para o designer de cenário e selecione Ferramentas na ferramenta Dev. Isso exibe as ferramentas disponíveis.
+1. Volte para o designer de cenários e selecione Ferramentas na ferramenta Desenvolvimento. Isso exibe as ferramentas disponíveis.
 
-   ![Imagem do Devtool 7](../12-exercises/assets/devtool-walkthrough-7.png)
+   ![Devtool Imagem 7](../12-exercises/assets/devtool-walkthrough-7.png)
 
-+ Foco em um módulo - Localize e abra um módulo rapidamente usando a ID do módulo.
-+ Localizar módulos por mapeamento - Pesquise um cenário usando uma palavra-chave para localizar valores e/ou chaves mapeadas em módulos.
-+ Obter metadados do aplicativo - Consulte os metadados do aplicativo selecionado em um cenário.
-+ Copiar mapeamento - copia o mapeamento de um módulo para outro. Você também pode clonar o módulo no designer.
++ Focar em um módulo - Encontre e abra um módulo rapidamente usando a ID do módulo.
++ Localizar módulo(s) por mapeamento - Pesquise um cenário usando uma palavra-chave para localizar valores e/ou chaves mapeados em módulos.
++ Obter metadados do aplicativo - Veja os metadados do aplicativo selecionado em um cenário.
++ Copiar mapeamento - Copia o mapeamento de um módulo para outro. Você também pode clonar o módulo no designer.
 + Copiar filtro - Copia um filtro. O filtro é sempre atribuído ao módulo à direita.
-+ Trocar conexão - a ferramenta pega a conexão do módulo selecionado e define a mesma conexão com todos os módulos do mesmo aplicativo no cenário. Isso é útil se você precisar alterar a conexão em um cenário concluído. Evite perder todo o mapeamento e economize tempo usando essa ferramenta.
-+ Variável de troca - Localiza todas as ocorrências da variável fornecida em todo o cenário ou em um módulo e as substitui pelo novo. Não há suporte para curingas. Se você tiver mapeado acidentalmente um valor em todo o cenário, isso pode ajudá-lo a trocar facilmente o valor correto.
-+ Trocar aplicativo - Troque o aplicativo especificado por outro.
-+ Base 64 - Codifique os dados inseridos em Base64 ou decodifice Base64. Útil quando você deseja pesquisar dados específicos na solicitação codificada.
++ Trocar conexão - A ferramenta pega a conexão do módulo selecionado e define a mesma conexão para todos os módulos do mesmo aplicativo no cenário. Isso é útil se você precisar alterar a conexão em um cenário concluído. Evite perder todo o mapeamento e economize tempo usando essa ferramenta.
++ Variável de troca - Localiza todas as ocorrências da variável fornecida em todo o cenário ou em um módulo e as substitui pela nova. Não há suporte para curingas. Se você tiver mapeado acidentalmente um valor durante todo o cenário, isso pode ajudá-lo a trocar facilmente pelo valor correto.
++ Trocar aplicativo - Troca o aplicativo fornecido por outro.
++ Base 64 - Codifique os dados inseridos em Base64 ou decodifique Base64. Útil quando você deseja pesquisar por dados específicos na solicitação codificada.
 + Copiar nome do módulo - Copia o nome do módulo selecionado para a área de transferência.
-+ Remap Source (Fonte de mapeamento) - Altere a fonte de mapeamento de um módulo para outro. Primeiro, é necessário adicionar o módulo para usar como módulo de origem à rota em um cenário.
-+ Migrar SO - feito especificamente para atualizar módulos Google Sheets (herdados) para a versão mais recente das Google Sheets. Ele adiciona uma nova versão do módulo logo após a versão herdada do módulo na rota de cenário.
++ Remapear origem - Altere a origem do mapeamento de um módulo para outro. Você precisa primeiro adicionar o módulo a ser usado como um módulo de origem para a rota em um cenário.
++ Migrar SO - feito especificamente para atualizar os módulos do Google Sheets (herdados) para a versão mais recente do Google Sheets. Ele adiciona uma nova versão do módulo logo após a versão herdada do módulo na rota do cenário.

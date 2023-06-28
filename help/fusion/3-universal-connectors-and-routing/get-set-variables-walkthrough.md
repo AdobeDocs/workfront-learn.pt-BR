@@ -1,49 +1,49 @@
 ---
-title: Apresentação de variáveis Set/Get
-description: Saiba como pesquisar informações sobre um projeto no Workfront e enviar um email com informações relacionadas em [!DNL Adobe Workfront Fusion].
+title: Apresentação das variáveis de definição/obtenção
+description: Saiba como pesquisar informações sobre um projeto no Workfront e enviar um email com informações relacionadas no [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9017
+jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-# Definir e obter variáveis passo a passo
+# Definir e obter passo a passo das variáveis
 
-Procure informações sobre um projeto no Workfront e envie um email com informações relacionadas.
+Pesquise informações sobre um projeto no Workfront e envie um email com informações relacionadas.
 
-![Uma imagem do cenário de Fusão](assets/universal-connectors-and-routing-8.png)
+![Uma imagem do cenário do Fusion](assets/universal-connectors-and-routing-8.png)
 
-## Apresentação de variáveis Get/Set
+## Apresentação das variáveis Get/Set
 
-A Workfront recomenda assistir ao vídeo de apresentação de exercícios antes de tentar recriar o exercício em seu próprio ambiente.
+A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
 >[!TIP]
 >
->Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação de variáveis Set/Get](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) exercício.
+>Para obter instruções passo a passo sobre como concluir a apresentação, acesse o [Apresentação das variáveis de definição/obtenção](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) exercício.
 
 ## Sua vez
 
 >[!NOTE]
 >
->Os exercícios práticos e os desafios são opcionais e não são necessários para concluir a formação em Fusão.
+>Exercícios práticos e desafios são opcionais e não são necessários para concluir o treinamento do Fusion.
 
-Este exercício de prática baseia-se no que você aprendeu na apresentação, mas a solução não é fornecida.
+Esse exercício de prática se baseia no que você aprendeu na apresentação, mas a solução não é fornecida.
 
-Faça um clone do cenário &quot;Compartilhando variáveis entre caminhos de roteamento&quot; criado nesta apresentação. Envie uma mensagem por email ao proprietário do projeto e ao patrocinador do projeto. Você também deseja incluir a condição do projeto na mensagem. (Por enquanto, não há problema em que a condição aparece como uma chave de duas letras.)
+Faça um clone do cenário &quot;Compartilhamento de variáveis entre caminhos de roteamento&quot; que você criou nesta apresentação. Enviar a mensagem redigida por email ao proprietário do projeto e ao patrocinador do projeto. Também é possível incluir a condição do projeto na mensagem. (Por enquanto, não há problema se a condição aparecer como uma chave de duas letras.)
 
-**Desafio:** Programe seu cenário para enviar este &quot;email&quot; toda semana às 8h da segunda-feira.
+**Desafio** Agende seu cenário para enviar este &quot;email&quot; toda semana às 8:00 AM na segunda-feira.
 
 ## Quer saber mais? Recomendamos o seguinte:
 

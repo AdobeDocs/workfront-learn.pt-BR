@@ -1,5 +1,5 @@
 ---
-title: Entenda as orientações de consultoria em [!UICONTROL Análise aprimorada]
+title: Compreender as orientações de consultoria no [!UICONTROL Analítica aprimorada]
 description: Saiba como fazer recomendações para ajudar sua organização a operar com mais eficiência no Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -8,17 +8,17 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8723
+jira: KT-8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Entenda as orientações de consultoria em [!UICONTROL Análise aprimorada]
+# Compreender as orientações de consultoria no [!UICONTROL Analítica aprimorada]
 
 Neste vídeo, você aprenderá:
 

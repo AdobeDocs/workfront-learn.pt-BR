@@ -1,6 +1,6 @@
 ---
 title: Entender o modo de texto básico para filtros
-description: Saiba qual é o modo de texto, qual é o caso de camel e algum modo de texto "plug and play" básico que você pode usar nos filtros de relatório no Workfront.
+description: Saiba o que é modo de texto, o que é camel case e conheça modos de texto básicos de "plug and play" que podem ser usados nos filtros de relatório no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 9086
+jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -24,30 +24,28 @@ ht-degree: 0%
 >
 >Pré-requisitos:
 >
->* Entender os elementos de relatório
->* Entender os componentes de relatório
+>* Entender os elementos de relatórios
+>* Entender os componentes de relatórios
 >* Criar um filtro básico
-
 
 >[!TIP]
 >
->* Para obter uma compreensão mais profunda do modo de texto, recomendamos assistir ao evento de webinar gravado [Pergunte a um especialista - Introdução aos relatórios do modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tem duração de uma hora.
->* Para saber mais ainda sobre o modo de texto, recomendamos assistir ao [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriais, que juntos têm cinco horas e meia de duração.
-
+>* Para obter uma compreensão mais detalhada do modo de texto, recomendamos assistir ao evento gravado do webinário [Pergunte a um especialista - Introdução aos relatórios no modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tem uma hora de duração.
+>* Para saber ainda mais sobre o modo de texto, recomendamos assistir ao [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriais, que juntos têm cinco horas e meia de duração.
 
 
 Neste vídeo, você aprenderá:
 
-* O modo de texto é
-* Qual é o caso do camelo?
-* Algum modo de texto &quot;plug and play&quot; básico que você pode usar nos filtros de relatório
+* O que é modo texto
+* O que camel case é
+* Alguns modos básicos de texto &quot;plug and play&quot; que podem ser usados nos filtros de relatório
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 
-## Tarefa - Filtrar tarefas em que marquei &quot;Concluído com a minha parte&quot;
+## Tarefa - Filtre as tarefas nas quais marquei &quot;Concluído com minha parte&quot;
 
-O modo de texto a seguir excluirá tarefas em que um usuário marcou &quot;Concluído com a minha parte&quot;. Tudo o que você precisa fazer é criar um filtro de tarefa, adicionar as regras de filtro desejadas, alternar para o modo de texto e colar o código abaixo após qualquer modo de texto que você ver no filtro.
+O modo de texto a seguir excluirá as tarefas nas quais o usuário tiver marcado &quot;Concluído com minha parte&quot;. Basta criar um filtro de tarefa, adicionar as regras de filtro desejadas, alternar para o modo de texto e colar o código abaixo após qualquer modo de texto exibido no filtro.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -57,7 +55,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Tarefa - Mostrar todas as tarefas que aguardam a minha aprovação
+## Tarefa - Mostrar todas as tarefas que estão aguardando minha aprovação
 
 ```
 approvalProcessID_Mod=notblank
@@ -66,9 +64,9 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Tarefa - Mostrar todas as tarefas que aprovei
+## Tarefa - Mostrar todas as tarefas aprovadas
 
-Crie um relatório de tarefa com os filtros desejados, vá para a guia Filter e clique em Switch to Text Mode. Adicione este código ao que já estiver lá:
+Crie um relatório de tarefas com os filtros que quiser, vá para a guia Filter e clique em Switch to Text Mode (Alternar para modo de texto). Adicionar este código ao que já estiver lá:
 
 ```
 approvalProcessID_Mod=notblank
@@ -76,7 +74,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Tarefa - Mostre-me todas as tarefas que tenham pelo menos um antecessor entre projetos
+## Tarefa - Mostre todas as tarefas que tenham pelo menos uma predecessora entre projetos
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -84,9 +82,9 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Tarefa - Mostrar todas as tarefas que atribuí a outros
+## Tarefa - Mostrar todas as tarefas atribuídas a outras pessoas
 
-Crie um relatório de tarefa com os filtros desejados, vá para a guia Filter e clique em Switch to Text Mode. Adicione este código ao que já estiver lá:
+Crie um relatório de tarefas com os filtros que quiser, vá para a guia Filter e clique em Switch to Text Mode (Alternar para modo de texto). Adicionar este código ao que já estiver lá:
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
@@ -94,17 +92,9 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-Isso mostrará todas as tarefas em que o usuário conectado atribuiu pelo menos um dos destinatários atuais. Se os destinatários tiverem sido atribuídos por várias pessoas, somente o nome da primeira pessoa que atribuiu alguém será exibido como &quot;Solicitado por&quot; na página de aterrissagem da tarefa.
+Isso mostrará todas as tarefas em que o usuário conectado atribuiu pelo menos um dos atribuídos atuais. Se os atribuídos foram atribuídos por várias pessoas, somente o nome da primeira pessoa que atribuiu alguém será exibido como &quot;Solicitado por&quot; na landing page da tarefa.
 
-## Tarefa - Mostrar todas as tarefas concluídas - Aprovação pendente
-
-```
-status=CPL:A
-status_Mod=in
-```
-
-
-## Problema - Mostre-me todos os problemas que estão completos - Aprovação pendente
+## Tarefa - Mostrar todas as tarefas que estão Concluídas - Aprovação Pendente
 
 ```
 status=CPL:A
@@ -112,7 +102,7 @@ status_Mod=in
 ```
 
 
-## Projeto - Mostre-me todos os projetos concluídos - aprovação pendente
+## Problema - Mostrar todos os problemas Concluídos - Aprovação Pendente
 
 ```
 status=CPL:A
@@ -120,7 +110,15 @@ status_Mod=in
 ```
 
 
-## Observação - Mostrar todos os comentários que estou conectado
+## Projeto - Mostrar todos os projetos Concluídos - Aprovação Pendente
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+## Observação - mostrar todos os comentários nos quais estou marcado
 
 ```
 tags:userID=$$USER.ID
@@ -128,7 +126,7 @@ tags:userID_Mod=in
 ```
 
 
-## Relatório de parâmetro/campo personalizado - Mostre-me campos personalizados que não estão anexados a um formulário personalizado (muito útil em esforços de limpeza)
+## Relatório de parâmetro/campo personalizado - Mostre-me os campos personalizados que não estão anexados a um formulário personalizado (muito útil em esforços de limpeza)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

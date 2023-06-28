@@ -1,6 +1,6 @@
 ---
-title: Entender ações - passe o mouse, clique e arraste e clique em
-description: Saiba mais sobre como obter mais informações passando o mouse sobre um gráfico, criar um período em um gráfico e como fazer com que gráficos adicionais apareçam, tudo em [!UICONTROL Análise aprimorada].
+title: Entenda as ações - passe o mouse, clique e arraste e clique em
+description: Saiba como obter mais informações passando o cursor do mouse sobre um gráfico, criar um período em um gráfico e como fazer com que gráficos adicionais apareçam, tudo em [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -8,23 +8,23 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8722
+jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-# Entender ações em [!UICONTROL Análise aprimorada] - passe o mouse, clique e arraste e clique em
+# Entender as ações no [!UICONTROL Analítica aprimorada] - passe o mouse, clique e arraste e clique em
 
 Neste vídeo, você aprenderá:
 
 * Como obter mais informações passando o mouse sobre um gráfico
 * Criar um período em um gráfico
-* Como criar gráficos adicionais
+* Como fazer com que gráficos adicionais apareçam
 
 >[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
 
@@ -32,24 +32,24 @@ Neste vídeo, você aprenderá:
 
 Clicar em determinadas partes de um gráfico revela gráficos adicionais ou um detalhamento das informações do gráfico.
 
-* **Plano de voo**—Clique no nome do projeto para ver os gráficos de Burndown e Tasks in flight.
+* **Plano de voo**—Clique no nome do projeto para ver os gráficos de Burndown e Tarefas em andamento.
 * **Atividade do projeto**—Clique no nome do projeto para expandir o gráfico e ver a atividade do projeto por usuário.
-* **Mapa de árvore do projeto**—Clique em uma caixa de projeto para exibir os gráficos de Burndown e Tasks in flight.
-* **Atividade por equipe**—Clique no nome da equipe para expandir o gráfico de forma que você possa ver a atividade por usuário.
-* **Capacidade do recurso**—Clique no nome da equipe para ver o Gráfico de capacidade da equipe.
+* **Mapa de árvore do projeto**—Clique em uma caixa de projeto para obter o Burndown e Tarefas em gráficos de voo.
+* **Atividade por equipe**—Clique no nome da equipe para expandir o gráfico e ver a atividade por usuário.
+* **Capacidade de recursos**—Clique no nome do grupo para ver o gráfico Capacidade do grupo.
 
-## O que uma sombra mais escura e mais clara significa quando se trata de atividade de equipe?
+## O que significa uma sombra mais escura e mais clara quando se trata de atividade de equipe?
 
-**Usuários conectados:** Caixas roxas mostram que pessoas na equipe de casa fizeram logon naquele dia. Uma sombra mais escura indica um número maior de pessoas fazendo logon.
+**Usuários logados:** Caixas roxas mostram que as pessoas da equipe doméstica fizeram logon naquele dia. Um tom mais escuro indica um número maior de pessoas fazendo logon.
 
-![Imagem de caixas sombreadas roxas](assets/purple-shaded-boxes.png)
+![Uma imagem de caixas sombreadas roxas](assets/purple-shaded-boxes.png)
 
-**Alteração do status da tarefa:** Caixas rosa mostram que as pessoas na equipe inicial alteraram o status de uma tarefa nesse dia. Uma sombra mais escura indica um número maior de status de tarefa em alteração.
+**Alteração do status da tarefa:** Caixas rosa mostram que as pessoas na equipe da página inicial alteraram o status de uma tarefa nesse dia. Uma sombra mais escura indica um número maior de status de tarefa em alteração.
 
-![Uma imagem de caixas sombreadas rosa](assets/pink-shaded-boxes.png)
+![Uma imagem de caixas sombreadas em rosa](assets/pink-shaded-boxes.png)
 
-**Tarefas concluídas:** Caixas azuis mostram que as pessoas da equipe de casa concluíram uma tarefa naquele dia. Uma sombra mais escura indica um número maior de tarefas que estão sendo concluídas.
+**Tarefas concluídas:** As caixas azuis mostram que as pessoas na equipe da casa concluíram uma tarefa naquele dia. Um tom mais escuro indica um número maior de tarefas sendo concluídas.
 
 ![Uma imagem de caixas sombreadas azuis](assets/blue-shaded-boxes.png)
 
-Para obter mais informações, consulte [Entender a atividade por visualização de equipe](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
+Para obter mais informações, consulte [Entender a visualização Atividade por equipe](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).

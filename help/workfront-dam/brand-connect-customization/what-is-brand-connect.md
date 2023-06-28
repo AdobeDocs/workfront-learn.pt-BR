@@ -1,35 +1,35 @@
 ---
-title: O que é [!UICONTROL Conexão de marca]?
-description: Saiba mais sobre o que será abordado na [!UICONTROL Workfront DAM] Administrador, curso de Personalização da Conexão de Marca da Parte 3.
+title: O que é o [!UICONTROL Conectar marca]?
+description: Saiba mais sobre o que será abordado no [!UICONTROL DAM DO WORKFRONT] Administrador, Parte 3 Curso de personalização do Brand Connect.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8977
+jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# O que é [!UICONTROL Conexão de marca]
+# O que é o [!UICONTROL Conectar marca]
 
-[!UICONTROL Conexão de marca] é a parte de [!UICONTROL Workfront DAM] que seus usuários finais acessarão para localizar e baixar ativos aprovados da empresa. Geralmente, esses usuários são usuários internos que solicitaram ativos ou estão procurando algo como um logotipo da empresa.
+[!UICONTROL Conectar marca] é a parte de [!UICONTROL DAM DO WORKFRONT] que os usuários finais acessarão para localizar e baixar os ativos aprovados da empresa. Esses usuários geralmente são usuários internos que solicitaram ativos ou estão procurando algo como o logotipo de uma empresa.
 
-[!UICONTROL Conexão de marca] os usuários recebem a variável [!UICONTROL Brand Portal] tipo de função e são membros de um [!UICONTROL Brand Portal] grupo. Eles verão apenas as pastas e os ativos publicados no [!UICONTROL Conexão de marca] e que o grupo tem permissões de acesso. Saiba mais sobre como configurar usuários no Administrador do Workfront DAM: Configuração do sistema.
+[!UICONTROL Conectar marca] os usuários são atribuídos a [!UICONTROL Brand Portal] tipo de função e são membros de um [!UICONTROL Brand Portal] grupo. Eles visualizarão somente as pastas e os ativos publicados no [!UICONTROL Conectar marca] e que o grupo tem permissões para acessar. Saiba como configurar usuários no Administrador do Workfront DAM: Configuração do sistema.
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Personalize a aparência do [!UICONTROL Brand Portal] para ajudar os usuários a encontrar o que precisam rapidamente e garantir que os ativos mais recentes estejam facilmente disponíveis.
+Personalize a aparência do da sua organização [!UICONTROL Brand Portal] para ajudar os usuários a encontrar o que precisam rapidamente e garantir que os ativos mais recentes estejam facilmente disponíveis.
 
-Neste vídeo, você:
+Neste vídeo, você vai:
 
-* Obtenha uma introdução ao [!UICONTROL Conexão de marca] curso
+* Obtenha uma introdução ao [!UICONTROL Conectar marca] curso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 

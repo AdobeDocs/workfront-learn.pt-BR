@@ -1,19 +1,19 @@
 ---
-title: Estrutura de tarefa pai-filho no Workfront
+title: Estrutura de tarefas pai-filho no Workfront
 description: Neste vídeo, saiba como as tarefas são estruturadas em um projeto do Workfront
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Estrutura de tarefa pai-filho no Workfront
+# Estrutura de tarefas pai-filho no Workfront
 
 Neste vídeo, você aprenderá:
 

@@ -1,6 +1,6 @@
 ---
 title: Revisar e aprovar uma prova
-description: Saiba como acessar e comentar uma prova, usar marcação para indicar as alterações necessárias, responder a comentários de prova e tomar uma decisão sobre uma prova em [!DNL Workfront].
+description: Saiba como acessar e comentar em uma prova, usar marcação para indicar alterações necessárias, responder a comentários de prova e tomar uma decisão sobre uma prova no [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -20,63 +20,63 @@ ht-degree: 0%
 
 # Revisar e aprovar uma prova
 
-Antes de começar a revisar uma prova, verifique se você sabe o que é esperado de você. Qual é sua função no fluxo de trabalho de prova? Revise a prova, aprove ou ambos?
+Antes de começar a revisar uma prova, saiba o que espera de você. Qual é sua função no fluxo de trabalho de provas? Revisar a prova, aprová-la ou ambos?
 
-Como editor de cópias, seu foco pode estar revisando a prova de erros gramaticais e erros ortográficos. As equipes de marketing e criação podem se concentrar no design do ativo e garantir que a marca corporativa seja seguida. As equipes jurídicas podem assegurar que a redação de um contrato de serviços seja estanque. E um gerente de projeto pode garantir que o conteúdo que está sendo revisado atenda à intenção e aos objetivos do projeto ao qual está associado.
+Como editor de cópias, seu foco pode ser a análise da prova quanto a erros gramaticais e de ortografia. As equipes de marketing e criativas podem se concentrar no design do ativo e garantir que a marca corporativa seja seguida. As equipes jurídicas podem garantir que a redação de um contrato de serviços seja hermética. E um gerente de projeto pode garantir que o conteúdo que está sendo revisado atenda à intenção e às metas do projeto ao qual está associado.
 
-Você também pode ser solicitado a aprovar a prova. Aprovar uma prova significa que você está dizendo, &quot;este trabalho está bem e pronto para ir.&quot; Ou talvez você tenha que dizer, &quot;este trabalho precisa de alterações feitas, por favor envie-o de volta para revisão.&quot;
+Você também pode ser solicitado a aprovar a prova. Aprovar uma prova significa que você está dizendo: &quot;este trabalho está OK e pronto para ser concluído&quot;. Ou talvez você tenha que dizer: &quot;este trabalho precisa de mudanças, por favor, envie-o de volta para revisões.&quot;
 
 Depois de saber o que é esperado, você pode começar a revisar uma prova.
 
-## Receber uma prova para revisão
+## Receba uma prova para revisar
 
 Quando um ativo estiver pronto para revisão e aprovação, você receberá uma notificação por email.
 
-![Uma imagem de um novo email de prova solicitando a revisão e a aprovação de duas provas em [!DNL  Workfront].](assets/new-proof-emails.png)
+![Uma imagem de um novo email de prova solicitando a revisão e aprovação de duas provas no [!DNL  Workfront].](assets/new-proof-emails.png)
 
-É importante observar que esse link de prova é exclusivo para você. Se você compartilhar o link com alguém, qualquer comentário e marcação feitos por ele será marcado com seu nome.
+É importante observar que esse link de prova é exclusivo de você. Se você compartilhar o link com alguém, qualquer comentário e marcação que ele fizer será marcada com seu nome.
 
-O [!UICONTROL Nova prova] o email também contém informações essenciais sobre a prova:
+A variável [!UICONTROL Nova prova] O email também contém informações essenciais sobre a prova:
 
 * O nome da prova é a linha de assunto do email.
-* A miniatura oferece uma rápida olhada no que você vai revisar.
-* O número da versão informa qual versão da prova você visualizará.
-* E, o mais importante, o prazo aparece em dois lugares no email — logo acima da seção de detalhes da prova e na barra cinza do estágio de fluxo de trabalho do qual você faz parte.
+* A miniatura oferece uma visualização rápida do que você revisará.
+* O número da versão informa a versão da prova que você estará visualizando.
+* E, o mais importante, o prazo aparece em dois lugares no email: logo acima da seção de detalhes da prova e na barra cinza para o estágio do fluxo de trabalho do qual você faz parte.
 
-Quando estiver pronto para iniciar sua revisão, tudo o que você precisa fazer é clicar no botão azul [!UICONTROL Ir para prova] e o arquivo abre automaticamente [!DNL Workfront’s] visualizador de prova.
+Quando estiver pronto para iniciar sua revisão, basta clicar no botão azul [!UICONTROL Ir para prova] e o arquivo será aberto automaticamente em [!DNL Workfront’s] revisor de provas.
 
-### Abrir uma prova de [!UICONTROL Início]
+### Abrir uma prova do [!UICONTROL Início]
 
-Se você estiver trabalhando no [!DNL Workfront] e tiverem sido solicitados a aprovar uma prova, você encontrará uma atribuição no [!UICONTROL Lista de Trabalho] de [!DNL Workfront] [!UICONTROL Início]. É útil selecionar apenas [!UICONTROL Aprovações] do [!UICONTROL Filtro], para que você possa se concentrar nesse tipo de trabalho.
+Se você estiver trabalhando no [!DNL Workfront] e tiverem sido solicitados a aprovar uma prova, você encontrará uma atribuição na [!UICONTROL Lista de trabalho] de [!DNL Workfront] [!UICONTROL Início]. É útil selecionar apenas [!UICONTROL Aprovações] do [!UICONTROL Filtro], para que você possa se concentrar nesse tipo de trabalho.
 
 ![Uma imagem de [!DNL Workfront] [!UICONTROL Início] com o [!UICONTROL Aprovações] filtro ativado e uma prova selecionada na lista.](assets/open-proof-from-home.png)
 
-É importante observar que as provas aparecem em [!DNL Workfront] [!UICONTROL Início] somente se você tiver sido atribuído para aprová-lo. Se você acabou de ser solicitado a revisar apenas a prova, ela não será exibida em [!DNL Workfront] [!UICONTROL Início] ao selecionar [!UICONTROL Aprovações ]na lista de filtros.
+É importante observar que as provas são exibidas no [!DNL Workfront] [!UICONTROL Início] somente se estiver atribuído para aprová-la. Se você acabou de ser solicitado a revisar apenas a prova, ela não será exibida no [!DNL Workfront] [!UICONTROL Início] ao selecionar [!UICONTROL Aprovações]na lista de filtros.
 
-Selecione a aprovação de prova no [!UICONTROL Lista de Trabalho], em seguida, clique no botão [!UICONTROL Ir para prova] link para abri-lo no visualizador de prova.
+Selecione a aprovação da prova no [!UICONTROL Lista de trabalho]e, em seguida, clique na guia [!UICONTROL Ir para prova] link para abri-lo no revisor de provas.
 
-Dependendo da prova da organização e dos fluxos de trabalho do projeto, você pode ver uma atribuição de tarefa em [!DNL Workfront] [!UICONTROL Início] em vez de uma solicitação de aprovação de prova. Nesse caso, você abrirá a prova do [!UICONTROL Documentos] da própria tarefa (consulte abaixo para obter instruções).
+Dependendo da prova de sua organização e dos fluxos de trabalho do projeto, você pode visualizar uma atribuição de tarefa em [!DNL Workfront] [!UICONTROL Início] em vez de uma solicitação de aprovação de prova. Nesse caso, você abrirá a prova no [!UICONTROL Documentos] da própria tarefa (veja abaixo as instruções).
 
-Você também pode encontrar provas para revisar em um [!DNL Workfront] painel criado especificamente para sua equipe ou organização a fim de ajudar a gerenciar workflows de prova.
+Você também pode encontrar provas para revisar em um [!DNL Workfront] Um painel criado especificamente para sua equipe ou organização para ajudar a gerenciar fluxos de trabalho de prova.
 
 ### Abrir uma prova de um projeto, tarefa ou problema
 
-Se você normalmente trabalha com projetos, tarefas ou problemas no [!DNL Workfront], talvez você prefira abrir a prova diretamente do [!DNL Documents] seção do item.
+Se você normalmente trabalha com projetos, tarefas ou problemas no [!DNL Workfront], você pode preferir abrir a prova diretamente do [!DNL Documents] desse item.
 
-![Uma imagem da [!UICONTROL Documentos] seção encontrada em uma [!DNL  Workfront] com a [!UICONTROL Abrir prova ]link destacado.](assets/open-proof-from-documents.png)
+![Uma imagem do [!UICONTROL Documentos] seção encontrada em um [!DNL  Workfront] tarefa com o [!UICONTROL Abrir prova]link realçado.](assets/open-proof-from-documents.png)
 
 1. Clique no nome do projeto, tarefa ou problema.
 2. Clique em [!UICONTROL Documentos] no menu do painel esquerdo da página do item.
 3. Encontre a prova na [!UICONTROL Documentos] lista.
-4. Clique no botão [!UICONTROL Abrir prova] para abrir o visualizador de prova.
+4. Clique em [!UICONTROL Abrir prova] link para abrir o revisor de provas.
 
 ## Revisar e aprovar uma prova
 
 Neste vídeo, você aprenderá a:
 
-* Saiba o que é esperado de você ao revisar uma prova
+* Saiba o que você espera ao revisar uma prova
 * Fazer um comentário em uma prova
-* Usar marcação para indicar alterações necessárias em uma prova
+* Use a marcação para indicar as alterações necessárias em uma prova
 * Responder a um comentário de prova
 * Aprovar ou rejeitar uma prova
 

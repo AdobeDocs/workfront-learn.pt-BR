@@ -7,9 +7,9 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10124
+jira: KT-10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # Remover alinhamento da meta
 
-O que acontece quando o alinhamento entre objetivos já não faz sentido? Você pode remover o alinhamento da meta.
+O que acontece quando o alinhamento entre objetivos não faz mais sentido? Você pode remover o alinhamento da meta.
 
 1. Ir para uma meta principal alinhada a uma meta secundária.
-1. Clique para abrir o [!UICONTROL Indicadores de progresso] painel.
-1. Clique na caixa de seleção ao lado da meta-filho que você deseja desconectar da meta-pai.
-1. Clique no ícone &quot;X&quot; ao lado do ícone de lápis.
+1. Clique para abrir a [!UICONTROL Indicadores de progresso] painel.
+1. Clique na caixa de seleção ao lado da meta secundária que você deseja desconectar da meta principal.
+1. Clique no ícone &#39;X&#39; ao lado do ícone de lápis.
 
-![Uma captura de tela do [!UICONTROL Remover alinhamento] em [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
+![Uma captura de tela do [!UICONTROL Remover alinhamento] opção em [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
-O objetivo se torna um objetivo autônomo e seu progresso não influencia mais o progresso do objetivo pai original. Não se esqueça de adicionar atividades ou resultados às metas para medir o progresso e movê-lo para um status Ativo.
+A meta se torna uma meta independente e seu progresso não influencia mais o progresso da meta principal original. Lembre-se de adicionar atividades ou resultados às metas para medir o progresso e movê-lo para o status Ativo.

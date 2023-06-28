@@ -1,24 +1,24 @@
 ---
-title: Como revisar e aprovar trabalho digital
+title: Como revisar e aprovar o trabalho digital
 description: Saiba como localizar e fazer aprovações para projetos, tarefas, problemas, documentos e provas.
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8808
+jira: KT-8808
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Revisar e aprovar o trabalho digital
+# Revisar e aprovar trabalho digital
 
 Neste vídeo, você aprenderá a:
 
 * Localizar aprovações
-* Fazer aprovações para projetos, tarefas e emissões
+* Fazer aprovações para projetos, tarefas e problemas
 * Fazer aprovações para documentos
 * Fazer aprovações para provas
 

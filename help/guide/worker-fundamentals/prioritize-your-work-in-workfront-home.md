@@ -1,23 +1,23 @@
 ---
-title: Priorize seu trabalho em casa
-description: Neste vídeo, saiba como marcar o trabalho como atribuições de prioridade e filtrar a Lista de trabalho inicial para ver somente o trabalho de prioridade.
+title: Priorize o seu trabalho na Página inicial
+description: Neste vídeo, saiba como marcar o trabalho como atribuição de prioridade e filtrar a Lista de trabalho da página inicial para ver somente o trabalho de prioridade.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Priorize seu trabalho em casa
+# Priorize o seu trabalho na Página inicial
 
 Neste vídeo, você aprenderá a:
 
 * Marcar trabalho como atribuições de prioridade
-* Filtre a Lista de Trabalho para ver somente o trabalho de prioridade
+* Filtrar a Lista de trabalho para ver apenas o trabalho prioritário
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)

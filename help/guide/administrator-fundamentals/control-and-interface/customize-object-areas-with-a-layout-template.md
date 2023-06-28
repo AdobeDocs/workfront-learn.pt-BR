@@ -5,9 +5,9 @@ topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Remova itens do menu do painel esquerdo em uma página de objetos
+* Remover itens do menu do painel esquerdo em uma página de objeto
 * Adicionar itens ao menu do painel esquerdo
 * Reorganizar itens no menu do painel
 

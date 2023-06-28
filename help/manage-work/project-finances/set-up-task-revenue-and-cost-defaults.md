@@ -1,5 +1,5 @@
 ---
-title: Configurar a receita da tarefa e os padrões de custo
+title: Configurar padrões de receita e custo da tarefa
 description: Saiba como o tipo de receita e o tipo de custo são usados para calcular as informações financeiras planejadas e reais de uma tarefa.
 activity: use
 team: Technical Marketing
@@ -8,16 +8,16 @@ thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10066
+jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 8%
 
 ---
 
-# Configurar a receita da tarefa e os padrões de custo
+# Configurar padrões de receita e custo da tarefa
 
 O tipo de receita e o tipo de custo são usados para calcular as informações financeiras planejadas e reais de uma tarefa. As informações padrão para cada uma delas podem ser definidas em todo o sistema, de modo que se aplicam a cada nova tarefa criada. As informações podem ser alteradas em projetos individuais ou definidas em modelos de projeto.
 
@@ -38,15 +38,15 @@ O tipo de receita e o tipo de custo são usados para calcular as informações f
 
 >[!NOTE]
 >
->Quando os tipos de receita ou custo são definidos como Não faturável ou Sem custo, as estimativas de receita e custo não são geradas para a tarefa. Portanto, o trabalho na tarefa não contribui para receitas ou custos a nível do projeto.
+>Quando os tipos de receita ou custo são definidos como Não Faturável ou Sem Custo, as estimativas de receita e custo não são geradas para a tarefa. Portanto, o trabalho na tarefa não contribui para a receita ou os custos no nível do projeto.
 
 ## Definir padrões de receita e custo
 
 Selecionar **[!UICONTROL Configuração]** no menu principal.
 
 1. Clique em **[!UICONTROL Preferências do projeto]** no menu do painel esquerdo.
-1. Em seguida, clique em **[!UICONTROL Tarefas e problemas]**.
-1. No [!UICONTROL Novo padrão de tarefa] selecione a [!UICONTROL Tipo de receita] e [!UICONTROL Tipo de custo].
+1. Clique em **[!UICONTROL Tarefas e problemas]**.
+1. No [!UICONTROL Padrão de nova tarefa] selecione a opção desejada [!UICONTROL Tipo de receita] e [!UICONTROL Tipo de Custo].
 1. Clique em Salvar ao concluir.
 
 ![Uma imagem da configuração de padrões de receita e custo](assets/setting-up-finances-3.png)

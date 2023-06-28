@@ -1,6 +1,6 @@
 ---
 title: Saiba como sequenciar tarefas
-description: Saiba o que é um antecessor e como ele faz a sequência de tarefas em um projeto. Em seguida, aprenda a usar durações e antecessores para criar uma linha do tempo.
+description: Saiba o que é um predecessor e como eles sequenciam tarefas em um projeto. Em seguida, aprenda a usar durações e predecessores para criar uma linha do tempo.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8778
+jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* O que é um antecessor [!DNL  Workfront]
+* O que é um predecessor em [!DNL  Workfront]
 * Como os predecessores sequenciam tarefas em um projeto
-* Como usar durações e antecessores para criar uma linha do tempo
-* Como alterar ou inserir antecessores
+* Como usar durações e predecessores para criar uma linha do tempo
+* Como alterar ou inserir predecessores
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

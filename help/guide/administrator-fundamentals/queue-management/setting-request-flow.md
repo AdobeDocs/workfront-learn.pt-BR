@@ -1,20 +1,20 @@
 ---
-title: Configuração do fluxo de solicitação
-description: Neste vídeo, saiba como o processo de fluxo de solicitações funciona e como criar regras de roteamento, grupos de tópicos e tópicos da fila.
+title: Configuração do fluxo de solicitações
+description: Neste vídeo, saiba como o processo de fluxo de solicitação funciona e como criar regras de roteamento, grupos de tópicos e tópicos da fila.
 topic: null
 activity: delpoy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Configuração do fluxo de solicitação
+# Configuração do fluxo de solicitações
 
 Neste vídeo, você aprenderá:
 

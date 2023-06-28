@@ -8,9 +8,9 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10134
+jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -19,16 +19,16 @@ ht-degree: 0%
 
 # Concluir aprovações
 
-Aprovações de tarefa e emissão são parte de muitos fluxos de trabalho. Mas as aprovações não resolvidas podem impedir que você defina o status do projeto como Concluído.
+Aprovações de tarefas e problemas fazem parte de muitos workflows. Mas aprovações não resolvidas podem impedir que você defina o status do projeto como Concluído.
 
-No [!UICONTROL Tarefa] do projeto, selecione um [!UICONTROL Exibir] que inclui o [!UICONTROL Status] coluna. Uma rápida visualização dessa coluna mostrará se houver uma aprovação incompleta em uma tarefa com o &quot;[!UICONTROL -aprovação pendente]&quot; após o nome do status.
+No [!UICONTROL Tarefa] do seu projeto, selecione uma [!UICONTROL Exibir] que inclui a [!UICONTROL Status] coluna. Uma rápida olhada nessa coluna mostrará se há uma aprovação incompleta para uma tarefa com o &quot;[!UICONTROL -aprovação pendente]&quot; após o nome do status.
 
-![Projeto mostrando aprovação de entrada](assets/planner-fund-approval-pending.png)
+![Projeto mostrando aprovação incompleta](assets/planner-fund-approval-pending.png)
 
 Você tem algumas opções sobre o que fazer:
 
-* **Concluir a aprovação —** Isso pode significar lembrar outros da aprovação pendente. Faça isso com uma atualização de [!DNL Workfront]. Dependendo do [!DNL Workfront] , talvez seja possível concluir a aprovação por conta própria.
-* **Remover a aprovação —** Se a aprovação não for necessária, pode ser mais fácil excluí-la. Sua capacidade de fazer isso depende do [!DNL Workfront] permissões.
-* **Alterar o status —** Selecione um status que não tenha uma aprovação anexada. Certifique-se de que o status seja igual a Concluído.
+* **Conclua a aprovação —** Isso pode significar lembrar outras pessoas da aprovação pendente. Fazer isso com uma atualização até [!DNL Workfront]. Dependendo do [!DNL Workfront] permissões, você poderá concluir a aprovação sozinho.
+* **Remover a aprovação —** Se a aprovação não for necessária, pode ser mais fácil simplesmente excluí-la. Sua capacidade de fazer isso depende do seu [!DNL Workfront] permissões.
+* **Alterar o status —** Selecione um status que não tenha uma aprovação anexada. Apenas certifique-se de que o status seja igual a Concluído.
 
-Se sua organização usar problemas para rastrear problemas, alterar pedidos ou outros eventos durante os projetos, siga as mesmas etapas na [!UICONTROL Problemas] do seu projeto.
+Se sua organização usar ocorrências para rastrear problemas, pedidos de alteração ou outros eventos durante os projetos, siga as mesmas etapas na [!UICONTROL Problemas] do seu projeto.

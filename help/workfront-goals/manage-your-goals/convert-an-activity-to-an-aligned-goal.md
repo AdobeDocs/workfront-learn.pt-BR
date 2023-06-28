@@ -1,25 +1,25 @@
 ---
 title: Converter uma atividade em uma meta alinhada
-description: Saiba como converter uma atividade ou resultado em uma meta alinhada no [!DNL Metas].
+description: Saiba como converter uma atividade ou resultado em uma meta alinhada no [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8898
+jira: KT-8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Abordagem de cima para baixo. Converta atividades e resultados existentes (trabalho) em metas secundárias.
+# Aproximação de cima para baixo. Converter atividades e resultados existentes (trabalho) em metas secundárias.
 
-A segunda maneira de alinhar metas é convertendo um resultado ou atividade existente de uma meta em uma nova meta. O resultado/atividade convertido se torna a meta secundária da meta original. Pode ser utilizada uma abordagem descendente quando o âmbito do trabalho para a atividade/resultado for maior do que o previsto e deve ser incluído no seu próprio objetivo filho que tenha atividades e resultados adicionais. Esta é uma forma de colocar objetivos em cascata e de espalhar o trabalho para tornar o objetivo mais mensurável e alcançável.
+A segunda maneira de alinhar metas é converter um resultado ou atividade existente de uma meta em uma nova meta. A atividade/resultado convertida torna-se a meta secundária da meta original. Uma abordagem de cima para baixo pode ser usada quando o escopo do trabalho para a atividade/resultado é maior do que o planejado e deve ser englobado dentro de seu próprio objetivo filho que tem atividades e resultados adicionais. Essa é uma maneira de organizar metas em cascata e disseminar o trabalho para tornar a meta mais mensurável e realizável.
 
 Neste vídeo, você aprenderá a:
 

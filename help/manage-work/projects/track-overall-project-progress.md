@@ -1,6 +1,6 @@
 ---
-title: Rastrear o progresso geral do projeto
-description: Saiba como as informações exibidas no cabeçalho do projeto podem ajudá-lo a rastrear o progresso e a integridade geral do projeto.
+title: Acompanhar o progresso geral do projeto
+description: Saiba como as informações exibidas no cabeçalho do projeto podem ajudar a rastrear o progresso e a integridade gerais do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,34 +8,34 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10149
+jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Rastrear o progresso geral do projeto
+# Acompanhar o progresso geral do projeto
 
-O cabeçalho na parte superior de um projeto permite que você veja o status e a integridade geral do projeto com apenas um relance.
+O cabeçalho na parte superior de um projeto permite ver o status e a integridade geral do projeto com apenas um relance.
 
-![Cabeçalho do projeto mostrando [!UICONTROL Porcentagem concluída]](assets/planner-fund-percent-complete.png)
+![Cabeçalho do projeto em exibição [!UICONTROL Percentual Completo]](assets/planner-fund-percent-complete.png)
 
-O [!UICONTROL Porcentagem concluída] baseia-se no progresso geral das tarefas no projeto. O número é mais preciso quando os membros da equipe alteram o status de suas tarefas atribuídas e indicam um percentual concluído.
-
->[!NOTE]
->
->Uma configuração de sistema global afeta como a porcentagem de conclusão do projeto é calculada, com base nas durações ou horas planejadas das tarefas.
-
-O projeto [!UICONTROL Condição] é designada por &quot;saúde do calendário do projeto&quot;. Há vários fatores que influenciam a forma como a condição é calculada. [!DNL Workfront] olhe para a [!UICONTROL Data de Conclusão Planejada] e [!UICONTROL Data de Conclusão Projetada], bem como o caminho crítico, para calcular se o projeto é [!UICONTROL Hora de ligar], [!UICONTROL Em Risco]ou [!UICONTROL Em problemas].
-
-![Cabeçalho do projeto mostrando [!UICONTROL Condição]](assets/planner-fund-condition.png)
+A variável [!UICONTROL Percentual Completo] baseia-se no progresso geral das tarefas no projeto. O número é mais preciso quando os membros da equipe alteram o status de suas tarefas atribuídas e indicam uma porcentagem concluída.
 
 >[!NOTE]
 >
->Se a condição do projeto é definida automaticamente por [!DNL Workfront] ou manualmente por alguém com direitos de gerenciamento ao projeto é controlado pela variável [!UICONTROL Tipo de condição] na configuração do [!UICONTROL Visão geral] da seção [!UICONTROL Detalhes do projeto] página.
+>Uma configuração de sistema global afeta como a porcentagem concluída do projeto é calculada, com base na duração ou nas horas planejadas das tarefas.
+
+O projeto [!UICONTROL Condição] é chamado de &quot;integridade da programação do projeto&quot;. Há vários fatores que influenciam como a condição é calculada. [!DNL Workfront] observa o [!UICONTROL Data de Término Planejada] e a variável [!UICONTROL Data de Término Projetada], bem como o caminho crítico, para calcular se o projeto é [!UICONTROL No Prazo], [!UICONTROL Em Risco]ou [!UICONTROL Com Problemas].
+
+![Cabeçalho do projeto em exibição [!UICONTROL Condição]](assets/planner-fund-condition.png)
+
+>[!NOTE]
+>
+>Se a condição do projeto é definida automaticamente por [!DNL Workfront] ou manualmente por alguém com direitos de gerenciamento ao projeto é controlado pela [!UICONTROL Tipo de condição] configuração no [!UICONTROL Visão geral] seção do [!UICONTROL Detalhes do projeto] página.
 
 <!---
 learn more urls

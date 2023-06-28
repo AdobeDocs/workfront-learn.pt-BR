@@ -1,48 +1,48 @@
 ---
-title: Criar uma equipe kanban
-description: Saiba como criar uma equipe de Kanban e determinar as configurações para a equipe.
+title: Criar uma equipe Kanban
+description: Saiba como criar um grupo Kanban e determinar configurações para o grupo.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10881
+jira: KT-10881
 thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-# Criar uma equipe kanban
+# Criar uma equipe Kanban
 
-A Equipe de Marketing Criativo vem usando o Scrum há algum tempo. Eles apreciam o ambiente flexível de uma equipe ágil, mas estão achando difícil autorizar histórias para um período específico por causa da frequência com que as prioridades mudam para sua equipe.
+A Equipe de marketing criativo já usa o Scrum há algum tempo. Eles apreciam o ambiente flexível de uma equipe ágil, mas estão tendo dificuldade em vincular histórias a um período específico devido à frequência com que as prioridades mudam para sua equipe.
 
-Eles têm uma alternativa para o Scrum. Chama-se Kanban.
+Eles têm uma alternativa para Scrum. Chama-se Kanban.
 
-Kanban trabalha para equipes que não desejam definir o que estão trabalhando dentro do período exigido por uma iteração baseada em Sombreamento. Em vez disso, Kanban permite que as equipes trabalhem continuamente por meio de seus registros.
+Kanban trabalha para equipes que não querem definir no que estão trabalhando dentro do período exigido por uma iteração baseada em Scrum. Em vez disso, o Kanban permite que as equipes trabalhem continuamente em seu backlog.
 
-Vamos mudar a Equipe de Marketing Criativo de uma equipe de Scrum para uma equipe Kanban [1]. Faça essa alteração na seção Ágil das Configurações da equipe.
+Vamos mudar a Equipe de marketing criativo de uma equipe Scrum para uma equipe Kanban [1]. Faça esta alteração na seção Agile das Configurações do grupo.
 
-Depois de alterar a metodologia, você precisa especificar quantas histórias uma equipe Kanban pode ter de cada vez em cada coluna ajustando o &quot;limite WIP&quot;. [2]. WIP significa Trabalho em Andamento. O número que você escolher colocar aqui depende de quantos itens ativos a equipe pode lidar. Ele será exibido no storyboard da equipe para ajudá-lo a lembrá-lo se o alocamento for excessivo ou não. Você (e qualquer membro da equipe com direitos de edição) também pode alterar o limite WIP diretamente do storyboard.
+Depois de alterar a metodologia, é necessário especificar quantas histórias uma equipe Kanban pode ter por vez em cada coluna ajustando o &quot;Limite de WIP&quot;. [2]. WIP significa Trabalho em andamento. O número que você escolher para colocar aqui depende de quantos itens ativos a equipe pode lidar. Ele será exibido no storyboard da equipe para ajudar a lembrá-los de que estão superalocados ou não. Você (e qualquer membro da equipe com direitos de edição) também pode alterar o limite de WIP diretamente do storyboard.
 
-![Página Configurações do grupo](assets/teamspage-01.png)
+![Página de configurações da equipe](assets/teamspage-01.png)
 
-Observe que você pode arrastar e soltar colunas de status para colocá-las na ordem em que gostaria que estivessem.
+Observe que você pode arrastar e soltar as colunas de status para colocá-las na ordem que gostaria que estivessem.
 
-![Página Configurações do grupo](assets/teamspage-02.png)
+![Página de configurações da equipe](assets/teamspage-02.png)
 
-Equipes kanban também podem optar por fazer com que a próxima história no backlog apareça automaticamente no storyboard quando uma história for concluída [veja o número 3 na imagem superior]. Isso ajudará as equipes que preferem um ciclo de trabalho contínuo.
+As equipes Kanban também podem optar por ter a próxima história no backlog automaticamente exibida no storyboard quando uma história é concluída [ver número 3 na imagem superior]. Isso ajudará as equipes que preferem um ciclo de trabalho contínuo.
 
 
-A imagem abaixo mostra como é quando uma nova história aparece automaticamente no storyboard quando uma história é concluída.
+A imagem abaixo mostra como se parece quando uma nova história aparece automaticamente no storyboard quando uma história é concluída.
 
-![Página Configurações do grupo](assets/teamspage-03.png)
+![Página de configurações da equipe](assets/teamspage-03.png)
 
-Para ajudar a gerenciar seu trabalho concluído com mais eficiência, as histórias permanecem no quadro por 14 dias por padrão.
+Para ajudar a gerenciar o seu trabalho concluído com mais eficiência, as histórias permanecem no quadro por 14 dias por padrão.
 
-![Página Configurações do grupo](assets/teampage-04.png)
+![Página de configurações da equipe](assets/teampage-04.png)
 
-Se necessário, essa configuração pode ser ajustada para entre 1 e 30 dias na janela de configurações do grupo.
+Se necessário, esta configuração pode ser ajustada para entre 1 e 30 dias na janela de configurações do grupo.
 
-Lembre-se de que, mesmo que essa seja uma metodologia diferente, ainda é importante, ao trabalhar em um ambiente ágil, continuar aumentando o atraso discutindo os requisitos da história e ajustando a prioridade da história. Sempre que quiser priorizar novamente o backlog, será necessário mover uma guia até a guia Backlog para reorganizá-lo.
+Lembre-se de que, embora essa seja uma metodologia diferente, ainda é importante, ao trabalhar em um ambiente ágil, limpar continuamente o backlog discutindo os requisitos da história e ajustando a prioridade da história. Sempre que quiser priorizar novamente o backlog, mova uma guia para a guia Backlog para reorganizá-lo.

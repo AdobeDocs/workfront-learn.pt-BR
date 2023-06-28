@@ -1,12 +1,12 @@
 ---
 title: Prática recomendada - Desempenho e manutenção do sistema
-description: Explore as recomendações de práticas recomendadas dos especialistas da Adobe Workfront sobre o desempenho e a manutenção do sistema Workfront.
+description: Explore as práticas recomendadas dos especialistas da Adobe Workfront sobre o desempenho e a manutenção do sistema Workfront.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10927
+jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%
@@ -17,55 +17,55 @@ ht-degree: 0%
 
 ## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
 
-As melhores práticas são orientações que representam uma linha de ação eficaz e eficiente; sejam adotados facilmente por você e pelos usuários em sua empresa; e podem ser replicados com êxito em toda a organização.
+As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
 
-À medida que você revisa essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para o tópico. Use essas práticas recomendadas como estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
 
-## Navegar nesta página
+## Navegando nesta página
 
-Ao rolar por essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem entrar nos detalhes de &quot;por quê&quot;.
+Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
 
-O &quot;Por que essas práticas recomendadas estão sendo usadas?&quot; , encontrada após a lista de alto nível, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
+O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
 
-## Práticas recomendadas de manutenção e desempenho do sistema
+## Práticas recomendadas de desempenho e manutenção do sistema
 
-* Analise as notas de versão do produto antes da data de lançamento.
+* Revise as notas de versão do produto antes da data de lançamento.
 
 * Crie diferentes tipos de relatórios de exceções que destacam dados e configurações ausentes ou incorretos.
 
-* Crie um processo de desativação do usuário que inclua uma análise dos objetos que são de sua propriedade ou atribuídos a eles para que os usuários que não fazem mais parte da empresa não permaneçam ativos no sistema e criem confusão para outros usuários.
+* Crie um processo de desativação de usuário que inclua uma revisão dos objetos que são de sua propriedade ou que estão atribuídos a eles, para que os usuários que não fazem mais parte da empresa não permaneçam ativos no sistema e gerem confusão para outros usuários.
 
-* Mantenha as configurações do fluxo de trabalho o mais simples possível para garantir que elas sejam escaláveis e possam ser mantidas na sua ausência.
+* Mantenha as configurações de fluxo de trabalho o mais simples possível para garantir que sejam escaláveis e possam ser mantidas em sua ausência.
 
 * Use filtros em relatórios e listas de objetos para diminuir o número de linhas exibidas de uma vez e concentrar a equipe em informações importantes.
 
 * Limpe regularmente o cache do navegador e os cookies para ajudar a melhorar o desempenho no Workfront.
 
-* Comece a limpar o sistema nas principais áreas do Adobe Workfront que tendem a ser as mais desordenadas, como formulários, modelos, projetos e usuários personalizados.
+* Comece a limpar seu sistema nas principais áreas do Adobe Workfront que tendem a ser as mais poluídas, como formulários personalizados, modelos, projetos e usuários.
 
-* Saiba em qual cluster sua instância do Workfront está, para que você possa ver as atualizações, estar ciente das janelas de manutenção, etc.
+* Saiba em qual cluster está sua instância do Workfront para que você possa assistir a atualizações, estar ciente das janelas de manutenção etc.
 
 * Mantenha os projetos curtos.
 
-* Sempre que possível, mantenha os relatórios &quot;leves&quot; com poucos filtros sem complicações para melhorar o desempenho.
+* Sempre que possível, mantenha os relatórios &quot;leves&quot; com pouquíssimos filtros simples para melhorar o desempenho.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas estão presentes?
+## Por que essas práticas recomendadas?
 
 **Prática recomendada**
 
-Analise as notas de versão do produto antes da data de lançamento.
+Revise as notas de versão do produto antes da data de lançamento.
 
 
 
 **Veja o porquê**
 
-As notas de versão informam quais novos recursos e ferramentas estão chegando ao sistema Workfront. Ao revisar essas notas e reproduzir com a nova funcionalidade no ambiente Preview Sandbox, você tem a chance de aprender, praticar e resolver quaisquer erros com novas melhorias antes de serem liberados para produção.
+As notas de versão informam quais novas funcionalidades e ferramentas estão chegando ao sistema do Workfront. Ao revisar essas notas e aproveitar a nova funcionalidade no ambiente Pré-visualização de sandbox, você tem a chance de aprender sobre, praticar e resolver bugs com novos aprimoramentos antes que sejam lançados para produção.
 
 </br>
 </br>
@@ -78,7 +78,7 @@ Crie diferentes tipos de relatórios de exceções que destacam dados e configur
 
 **Veja o porquê**
 
-Esses relatórios incluem aqueles que informam quais usuários devem ser desativados, quais projetos mostram a porcentagem de conclusão de 100%, mas não estão marcados como concluídos, quais modelos nunca foram usados etc.
+Esses relatórios incluem aqueles que informam quais usuários devem ser desativados, quais projetos mostram uma porcentagem de conclusão de 100%, mas não estão marcados como concluídos, quais modelos nunca foram usados etc.
 
 
 
@@ -86,7 +86,7 @@ Coloque esses relatórios como estes e outros em um painel e dê a outros admini
 
 
 
-Para ajudar você a se lembrar de verificar esses relatórios, pelo menos trimestralmente, crie um projeto com tarefas trimestrais e atribua-os a você mesmo, além de administradores de sistema e grupo. Certifique-se de que essas tarefas tenham horas planejadas associadas para que os destinatários desses itens de trabalho possam alocar seu tempo corretamente.
+Para ajudá-lo a se lembrar de verificar esses relatórios, pelo menos trimestralmente, crie um projeto com tarefas trimestrais e atribua-as a si mesmo e a administradores de sistema e de grupo. Verifique se essas tarefas têm horas planejadas associadas para que os atribuídos desses itens de trabalho possam alocar seu tempo corretamente.
 
 </br>
 </br>
@@ -99,4 +99,4 @@ Mantenha os projetos curtos.
 
 **Veja o porquê**
 
-Toda vez que você salva um projeto ou uma tarefa dentro do projeto, há um cálculo de linha do tempo em execução para atualizar todas as dependências. Dependendo do número de tarefas em seu projeto, o recálculo pode levar muito tempo para ser executado.
+Toda vez que você salva um projeto, ou uma tarefa dentro do projeto, há um cálculo de linha do tempo em execução para atualizar todas as dependências. Dependendo do número de tarefas em seu projeto, o recálculo pode levar muito tempo para ser executado.

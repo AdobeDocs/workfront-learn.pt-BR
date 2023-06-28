@@ -1,5 +1,5 @@
 ---
-title: Editar um workflow de prova
+title: Editar um fluxo de trabalho de prova
 description: Saiba como atualizar um prazo de prova, adicionar usuários a um fluxo de trabalho existente e alternar um fluxo de trabalho existente para um fluxo de trabalho automatizado no [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -8,21 +8,21 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335138.png
-kt: 8838
+jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# Editar um workflow de prova
+# Editar um fluxo de trabalho de prova
 
 Neste vídeo, você aprenderá a:
 
-* Atualizar o prazo de prova
+* Atualizar o prazo da prova
 * Adicionar usuários a um fluxo de trabalho existente
 * Alternar um fluxo de trabalho existente para um fluxo de trabalho automatizado
 
@@ -32,10 +32,10 @@ Neste vídeo, você aprenderá a:
 
 >[!IMPORTANT]
 >
->Não se esqueça de lembrar todos os colegas de trabalho atribuídos a um fluxo de trabalho de prova de que você está trabalhando com provas como parte de seu treinamento do Workfront.
+>Não se esqueça de lembrar a todos os colegas de trabalho atribuídos a um fluxo de trabalho de prova que você está trabalhando com provas como parte de seu treinamento do Workfront.
 
-1. Encontre uma prova de que você fez upload no Workfront. Use a janela Fluxo de trabalho de prova para fazer o seguinte: finalize o prazo em um dia e altere um Revisor para um Revisor e Aprovador.
-1. Certifique-se de que a prova tenha um workflow automatizado atribuído e, em seguida, adicione um template à prova.
+1. Encontre uma prova que você carregou no Workfront. Use a janela Fluxo de trabalho de revisão para fazer o seguinte: prolongue o prazo por um dia e altere um Revisor para um Revisor e Aprovador.
+1. Verifique se a prova tem um fluxo de trabalho automatizado atribuído e adicione um template à prova.
 
 
 

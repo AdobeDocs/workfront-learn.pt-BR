@@ -1,12 +1,12 @@
 ---
 title: Prática recomendada - Comunicação
-description: Explore as recomendações de práticas recomendadas dos especialistas do Adobe Workfront sobre como configurar e gerenciar notificações de comunicação no Workfront.
+description: Explore as recomendações de práticas recomendadas dos especialistas da Adobe Workfront sobre como configurar e gerenciar notificações de comunicação no Workfront.
 feature: Work Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10905
+jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 1%
@@ -17,37 +17,37 @@ ht-degree: 1%
 
 ## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
 
-As melhores práticas são orientações que representam uma linha de ação eficaz e eficiente; sejam adotados facilmente por você e pelos usuários em sua empresa; e podem ser replicados com êxito em toda a organização.
+As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
 
-À medida que você revisa essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para o tópico. Use essas práticas recomendadas como estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
 
-## Navegar nesta página
+## Navegando nesta página
 
-Ao rolar por essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem entrar nos detalhes de &quot;por quê&quot;.
+Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
 
-O &quot;Por que essas práticas recomendadas estão sendo usadas?&quot; , encontrada após a lista de alto nível, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
+O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
 
 ## Práticas recomendadas de comunicação
 
-* Use seus fluxos de trabalho para determinar as notificações necessárias.
+* Use os workflows para determinar as notificações necessárias.
 
-* Crie um relatório de Observação com solicitações para que os usuários pesquisem facilmente por comentários/atualizações em um projeto.
+* Crie um relatório de Observação com prompts para os usuários pesquisarem facilmente por comentários/atualizações em um projeto.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas estão presentes?
+## Por que essas práticas recomendadas?
 
 **Prática recomendada**
 
-Use seus fluxos de trabalho para determinar as notificações necessárias.
+Use os workflows para determinar as notificações necessárias.
 
 **Veja o porquê**
 
-Percorrer seus fluxos de trabalho passo a passo facilita a identificação de pontos de comunicação e garante que as notificações apropriadas sejam habilitadas. Isso prioriza as notificações pela forma como sua organização já está funcionando, evitando o detalhamento de spam ou comunicação.
+Percorrer os workflows passo a passo facilita a identificação dos pontos de comunicação e garante que as notificações adequadas estejam habilitadas. Isso automatiza as notificações para a forma como sua organização já está funcionando, evitando o detalhamento de spam ou comunicação.
 
 </br>
 </br>
@@ -55,13 +55,13 @@ Percorrer seus fluxos de trabalho passo a passo facilita a identificação de po
 
 **Prática recomendada**
 
-Crie um relatório de Observação com solicitações para que os usuários pesquisem facilmente por comentários/atualizações em um projeto.
+Crie um relatório de Observação com prompts para os usuários pesquisarem facilmente por comentários/atualizações em um projeto.
 
 
 
 **Veja o porquê**
 
-Se você tiver muitos threads de atualização em um projeto, pode ser difícil encontrar uma atualização específica, especialmente porque Ctrl/Command F não pesquisará nos threads. Um relatório de Nota torna possível verificar facilmente todas as atualizações com base nas suas opções de prompt sem ter que abrir cada thread. As opções comuns de prompt seriam:
+Se você tiver muitas threads de atualização em um projeto, pode ser difícil encontrar uma atualização específica, especialmente porque Ctrl/Command F não pesquisará nas threads. Um relatório de Observação possibilita verificar facilmente todas as atualizações com base nas opções de prompt sem precisar abrir cada thread. As opções comuns de prompt seriam:
 
 * Texto de auditoria
 * Texto da nota

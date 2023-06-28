@@ -1,27 +1,27 @@
 ---
-title: Revisar a terminologia de metadados e palavras-chave
-description: Saiba mais sobre o que são metadados, quais perguntas devem ser feitas ao desenvolver uma estratégia de metadados e mais em [!UICONTROL Workfront DAM].
+title: Revisar Terminologia de Metadados e Palavras-chave
+description: Saiba o que são metadados, quais perguntas devem ser feitas ao desenvolver uma estratégia de metadados e muito mais no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 team: Technical Marketing
-kt: 8971
+jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Metadados e palavras-chave: revisar a terminologia
+# Metadados e palavras-chave: revise a terminologia
 
 Neste vídeo, você aprenderá:
 
-* O que são metadados e de onde eles vêm
+* O que são metadados e sua origem
 * Quais perguntas devem ser feitas ao desenvolver uma estratégia de metadados
 * Como as palavras-chave são diferentes dos metadados
 * Como uma taxonomia de palavras-chave pode ser benéfica

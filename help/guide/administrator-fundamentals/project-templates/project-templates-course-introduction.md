@@ -1,21 +1,21 @@
 ---
-title: 'Modelos de projeto: Introdução do curso'
-description: Neste vídeo, você aprenderá como os modelos de projeto podem ajudar sua organização a capturar um fluxo de trabalho inteiro do início ao fim.
+title: 'Modelos de projeto: introdução ao curso'
+description: Neste vídeo, você aprenderá como os modelos de projeto podem ajudar sua organização a capturar um fluxo de trabalho inteiro do começo ao fim.
 topic: null
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Modelos de projeto: Introdução do curso
+# Modelos de projeto: introdução ao curso
 
-Neste vídeo, você aprenderá como os modelos de projeto podem ajudar sua organização a capturar um fluxo de trabalho inteiro do início ao fim.
+Neste vídeo, você aprenderá como os modelos de projeto podem ajudar sua organização a capturar um fluxo de trabalho inteiro do começo ao fim.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335209/?quality=12&learn=on)

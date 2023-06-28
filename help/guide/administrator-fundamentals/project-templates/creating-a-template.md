@@ -1,13 +1,13 @@
 ---
 title: Criação de um modelo
-description: Neste vídeo, saiba como criar um modelo de projeto do zero e de um projeto existente.
+description: Neste vídeo, aprenda a criar um modelo de projeto do zero e de um projeto existente.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 13%

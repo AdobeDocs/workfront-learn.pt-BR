@@ -1,16 +1,16 @@
 ---
 title: Teste e inicialização
-description: Saiba como iterar consistentemente por meio de design e teste e criar documentação detalhada e compartilhável ao usar [!DNL Adobe Workfront Fusion].
+description: Saiba como iterar consistentemente por meio de design e teste e criar documentação detalhada e compartilhável ao usar o [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9073
+jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 # Teste e inicialização
 
-O teste do Workfront Fusion deve concentrar-se na verificação de dados de entrada e saída entre as plataformas de software conectadas e as transformações de dados executadas em um cenário do Workfront Fusion. Além disso, o teste de integração do Workfront Fusion é realizado para avaliar a conformidade de seu cenário com os requisitos específicos da empresa. Basicamente, realizamos o teste do Workfront Fusion para garantir que a integração funcione conforme o esperado.
+O teste do Workfront Fusion deve se concentrar na verificação de dados de entrada e saída entre as plataformas de software conectadas e as transformações de dados executadas em um cenário do Workfront Fusion. Além disso, o teste de integração do Workfront Fusion é realizado para avaliar a conformidade de seu cenário para atender a requisitos específicos dos negócios. Basicamente, fazemos testes do Workfront Fusion para garantir que a integração funcione conforme o esperado.
 
-## Considerações sobre o teste
+## Considerações de teste
 
 Neste vídeo, você aprenderá a:
 
-* Considere testar de maneira consistente
-* Incluir sistemas de origem e de destino
+* Considerar testes de maneira consistente
+* Incluir sistemas de origem e destino
 * Iterar por meio de projeto e teste
 * Criar documentação detalhada e compartilhável
 * Profundidade, amplitude, complexidade e carga do teste
@@ -35,15 +35,15 @@ Neste vídeo, você aprenderá a:
 
 ## Lista de verificação de considerações de teste
 
-Seu objetivo no teste é garantir que os requisitos sejam seguidos, que não haja uma limpeza no escopo e capturar qualquer coisa que um usuário do Workfront Fusion possa fazer acidentalmente para quebrar as coisas.
+Seu objetivo no teste é garantir que os requisitos sejam seguidos, que não haja rastejamento de escopo e capturar qualquer coisa que qualquer usuário do Workfront Fusion possa fazer acidentalmente para quebrar as coisas.
 
-Lembre-se dessas diretrizes para garantir que seu teste seja consistente e capture todos os elementos essenciais.
+Lembre-se dessas diretrizes para garantir que seus testes sejam consistentes e capturem todos os elementos essenciais.
 
 * Determine quais dados de teste são necessários com base nos requisitos. Normalmente, o teste mais eficaz é baseado em requisitos bem definidos e documentados.
-* Planeje e comunique como gerar os dados necessários para testar a profundidade, a amplitude, a complexidade e a carga. Evite testar apenas o &quot;caminho feliz&quot;. Pense em todas as maneiras como os usuários podem interagir com as automações e na grande variedade de dados possíveis que serão processados.
-* Considere os dados de entrada e saída necessários entre os sistemas conectados. Verifique a entrada e a saída nesses sistemas, não apenas no Workfront Fusion.
+* Planeje e comunique como gerar os dados necessários para testar a profundidade, a amplitude, a complexidade e a carga. Evite testes somente de &quot;caminho feliz&quot;. Pense em todas as maneiras como os usuários podem interagir com as automações e na grande variedade de dados possíveis que serão processados.
+* Considere os dados de entrada e saída necessários entre sistemas conectados. Verifique a entrada e a saída nesses sistemas, não apenas no Workfront Fusion.
 
-Priorize os testes em todo o ciclo de vida da implementação do Workfront Fusion. Ao projetar, pense em como você pode testar se as decisões de design atendem aos requisitos. Analise como dados inesperados podem resultar em erros e adicione tratamento de erros relevante durante a criação. Planeje a iteração por meio de protótipos viáveis à medida que você testar continuamente.
+Priorizar testes em todo o ciclo de vida da implementação do Workfront Fusion. Ao projetar, pense em como você pode testar se as decisões de design atendem aos requisitos. Pense como dados inesperados podem resultar em erros e adicione o tratamento de erros relevante à medida que você cria. Planeje a iteração por meio de protótipos funcionais, à medida que você testar continuamente.
 
 ## Quer saber mais? Recomendamos o seguinte:
 
