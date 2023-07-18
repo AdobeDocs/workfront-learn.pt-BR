@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +37,9 @@ Consulte este artigo para obter mais informações: [Converter problemas](https:
 
 **Onde encontro uma fila de solicitações para fazer edições?**
 
-Você pode usar a variável [!UICONTROL Pesquisar] na barra de navegação ou localize-o listado no [!UICONTROL Projetos] área.
+Você pode usar o [!UICONTROL Pesquisar] na barra de navegação ou localize-o listado no [!UICONTROL Projetos] área.
+
+Se abrir uma solicitação da fila de solicitações, você pode clicar no nome do projeto na área de navegação estrutural.
 
 **Posso transferir as informações de um formulário personalizado de solicitação para um projeto?**
 
@@ -44,4 +47,10 @@ Sim. Isso envolve criar um formulário personalizado e selecionar ambos [!UICONT
 
 **Estou vendo um relatório de projeto ou tarefa. Como posso descobrir de que solicitação esse objeto se originou?**
 
-Você pode aproveitar o **[!UICONTROL Originador de problema convertida]** fonte do campo para adicionar essas informações aos relatórios de projeto e tarefa.
+Você pode acessar campos na variável **[!UICONTROL Problema convertido]** e a variável **[!UICONTROL Originador de problema convertida]** fontes de campo para adicionar essas informações aos relatórios de projeto e tarefa.
+
+**Qual é a melhor maneira de filtrar por filas de solicitações em um relatório?**
+
+Se o filtro do seu projeto incluir **Fila>>É pública>>Igual>>Nenhuma** seu relatório mostrará apenas os projetos que estão **NOT** filas de solicitações.
+
+Se o filtro do seu projeto incluir **Fila>>É Pública>>Não Igual>>Nenhuma** seu relatório mostrará somente projetos que **SÃO** filas de solicitações.
