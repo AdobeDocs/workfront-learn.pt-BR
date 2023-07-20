@@ -2,7 +2,7 @@
 title: Bem-vindo aos relatórios avançados
 description: Saiba como usar o [!UICONTROL API Explorer] e modo de texto para criar filtros, visualizações e agrupamentos avançados que vão além dos recursos do [!UICONTROL Interface de relatórios].
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%

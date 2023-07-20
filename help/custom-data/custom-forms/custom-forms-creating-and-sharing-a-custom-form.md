@@ -1,7 +1,7 @@
 ---
 title: Criar e compartilhar um formulário personalizado
 description: Saiba como criar um formulário personalizado, adicionar campos exclusivos ao formulário, organizar campos usando seções e lógicas e compartilhar formulários com usuários.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ thumbnail: 335172.png
 jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 5%

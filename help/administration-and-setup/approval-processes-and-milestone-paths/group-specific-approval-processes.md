@@ -1,7 +1,7 @@
 ---
 title: Entender os processos de aprovação específicos de grupo
 description: Saiba como os administradores de grupo podem criar ou editar processos de aprovação para os grupos que gerenciam.
-feature: System Setup and Administration
+feature: Approvals
 activity: deploy
 type: Tutorial
 team: Technical Marketing
@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate
 jira: KT-10017
 exl-id: 138989b2-32d7-43e5-9660-d7b4172f232a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%

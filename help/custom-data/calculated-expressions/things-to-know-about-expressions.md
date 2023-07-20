@@ -1,7 +1,7 @@
 ---
 title: O que você deve saber sobre expressões de campo calculado
 description: Dê uma olhada numa lista de conceitos úteis ao trabalhar com campos calculados personalizados em [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -38,7 +38,7 @@ As horas no banco de dados do Workfront são armazenadas em minutos. Se você es
 
 A maneira recomendada de escrever expressões é com pouco ou nenhum espaçamento entre cada expressão.
 
-* IF(ISBLANK({description}),&quot;Sem descrição&quot;,&quot;Tem descrição&quot;)
+* IF( ISBLANK ({description}),&quot;Sem descrição&quot;,&quot;Tem descrição&quot;)
 
 ![Expressões sem espaçamento entre campos](assets/T2K02.png)
 
@@ -109,7 +109,7 @@ Quando um campo personalizado calculado é selecionado na biblioteca de campos e
 
 Por exemplo, você criou um campo calculado, &quot;Dias para concluir&quot;, para determinar quanto tempo levou para concluir uma tarefa em um projeto.
 
-* WEEKDAYDIFF({atualStartDate},{atualCompletionDate})
+* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
 Você deseja fazer a mesma coisa para uma iteração. Você pode usar a mesma expressão; no entanto, os campos disponíveis para um objeto de tarefa nem sempre estão disponíveis para um objeto de iteração. Então [!DNL Workfront] dá a você a chance de construir o cálculo com os campos de objeto corretos.
 
@@ -121,4 +121,4 @@ Dependendo da necessidade, os campos calculados em formulários personalizados p
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

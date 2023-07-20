@@ -1,7 +1,7 @@
 ---
 title: Criar uma expressão de dados SUB, SUM, DIV ou PROD
 description: Saiba como usar e criar as expressões matemáticas básicas em um campo calculado em Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Se o formato for alterado para Number ao criar o campo calculado no formulário 
 
 ![Relatório do balanceador de carga de trabalho com utilização](assets/round01.png)
 
-No entanto, se o formato do campo ao criar um campo personalizado for deixado como Texto, o formato não poderá ser facilmente alterado na exibição. A expressão ROUND deve ser usada para evitar que números como este sejam vistos em seu projeto:
+No entanto, se o formato do campo ao criar um campo personalizado for deixado como Texto, o formato não poderá ser facilmente alterado no modo de exibição. A expressão ROUND deve ser usada para evitar que números como este sejam vistos em seu projeto:
 
 ![Relatório do balanceador de carga de trabalho com utilização](assets/round02.png)
 
@@ -57,7 +57,7 @@ A expressão ROUND inclui o nome da expressão (ROUND) e, normalmente, dois pont
 
 Uma expressão seria estruturada assim: ROUND(ponto de dados, #)
 
-Na expressão que calcula a diferença entre as horas planejadas e reais, use esta expressão —DIV(SUB({workRequired},{actualWorkRequired}),60) — como o primeiro ponto de dados. Em seguida, verifique se qualquer número proveniente dessa expressão não ultrapassa 2 casas decimais à direita.
+Na expressão que calcula a diferença entre as horas planejadas e reais, use esta expressão —DIV(SUB({workRequired},{actualWorkRequired}),60) — como o primeiro ponto de dados. Em seguida, verifique se qualquer número proveniente dessa expressão não ultrapassa 2 casas decimais.
 
 ![Relatório do balanceador de carga de trabalho com utilização](assets/round03.png)
 

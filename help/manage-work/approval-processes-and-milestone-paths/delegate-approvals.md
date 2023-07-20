@@ -2,7 +2,7 @@
 title: Delegar tarefas, problemas e aprovações
 description: Saiba como delegar aprovações de projetos, tarefas, problemas e cartões de ponto a outro usuário do Workfront. Saiba também como delegar atribuições de tarefas e problemas.
 activity: use
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
@@ -11,7 +11,7 @@ thumbnail: 336094.png
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
