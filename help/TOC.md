@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2387'
 ht-degree: 2%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 2%
       + [Acompanhar o progresso geral do projeto](manage-work/projects/track-overall-project-progress.md)
       + [Acompanhar o progresso do trabalho com métricas de projeto](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Compreender o [!UICONTROL Gantt] exibir](manage-work/projects/understand-the-gantt-view.md)
-      + [Fechar o projeto](manage-work/projects/change-the-project-status.md)
 
    + Tarefas {#tasks}
       + [Criar tarefas](manage-work/tasks/how-to-create-tasks.md)
@@ -176,6 +175,7 @@ ht-degree: 2%
 
    + Fechar um projeto {#close-a-project}
       + [Fechar um projeto](manage-work/close-a-project/close-a-project-in-workfront.md)
+      + [Alterar o status do projeto para concluído](manage-work/projects/change-the-project-status.md)
       + [Fechar tarefas e problemas](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Concluir aprovações](manage-work/close-a-project/complete-approvals.md)
       + [Fazer upload de ativos](manage-work/close-a-project/upload-assets.md)
