@@ -11,9 +11,9 @@ thumbnail: 335223.jpeg
 jira: KT-8960
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
@@ -24,33 +24,6 @@ Neste vídeo, você aprenderá a configurar tópicos da fila, grupos de tópicos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
-## Perguntas frequentes
 
-**Por que posso ver uma fila de solicitações, mas meu usuário não pode?**
-
-Na guia Detalhes da fila do projeto/fila de solicitações, verifique se o usuário se ajusta aos critérios de &quot;Quem pode adicionar solicitações a esta fila?&quot; campo.
-
-**Concedi aos usuários acesso à fila, mas agora eles também podem ver o projeto da fila de solicitações. Porquê?**
-
-Isso tem a ver com a maneira como você deu a eles acesso à fila de solicitações.
-
-Se você usou a ferramenta Compartilhamento na página de aterrissagem do projeto da fila de solicitações, você deu a esses usuários acesso para ver o projeto na lista de projetos.
-
-No entanto, se você quiser conceder acesso apenas para enviar uma solicitação para a fila, vá para Configuração da fila e selecione a opção apropriada em &quot;Quem pode adicionar solicitações a este projeto&quot;.
-
-**Posso transformar minha solicitação em um projeto?**
-
-Sim. Você pode converter problemas em tarefas ou projetos, dependendo do que é necessário.
-
-**Onde encontro uma fila de solicitações para fazer edições?**
-Você pode usar o campo Pesquisar na barra de navegação ou localizá-lo listado na área Projetos.
-
-**Posso transferir as informações de um formulário personalizado de solicitação para um projeto?**
-
-Sim. Ao criar um formulário personalizado, selecione ambos [!UICONTROL Projeto] e [!UICONTROL Problema] como os tipos de objeto. Anexe o formulário personalizado à solicitação. Ao converter a solicitação em um projeto, o formulário personalizado será anexado automaticamente ao novo projeto e os valores contidos em quaisquer campos aparecerão tanto na solicitação quanto no projeto.
-
-**Estou olhando para um relatório de projeto ou tarefa. Como posso descobrir de que solicitação esse objeto se originou?**
-
-Você pode usar o **[!UICONTROL Nome do problema convertido]** para adicionar essas informações aos relatórios de projeto e tarefa.
 
 

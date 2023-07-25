@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ Você pode usar o [!UICONTROL Pesquisar] na barra de navegação ou localize-o l
 
 Se abrir uma solicitação da fila de solicitações, você pode clicar no nome do projeto na área de navegação estrutural.
 
-**Posso transferir as informações de um formulário personalizado de solicitação para um projeto?**
+**Posso transferir as informações de um formulário personalizado de solicitação para um formulário personalizado de projeto?**
 
-Sim. Isso envolve criar um formulário personalizado e selecionar ambos [!UICONTROL Problema] e [!UICONTROL Projeto] tipos de objeto.
+Sim. Ao criar um formulário personalizado, selecione ambos [!UICONTROL Projeto] e [!UICONTROL Problema] como os tipos de objeto. Anexe o formulário personalizado à solicitação. Quando você converter a solicitação em um projeto, o formulário personalizado será anexado automaticamente ao novo projeto e os valores contidos em quaisquer campos aparecerão nos formulários de solicitação e de projeto personalizado.
 
 **Estou vendo um relatório de projeto ou tarefa. Como posso descobrir de que solicitação esse objeto se originou?**
 

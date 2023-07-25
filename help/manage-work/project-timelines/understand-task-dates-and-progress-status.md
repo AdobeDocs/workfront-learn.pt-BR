@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ Neste vídeo, você aprenderá a:
 * Usar o status do progresso para ajudar a monitorar o progresso do trabalho
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Conforme mencionado no vídeo, é importante que as pessoas alterem o status de **[!UICONTROL Novo]** para **[!UICONTROL Em andamento]** quando eles iniciarem uma tarefa para que o [!UICONTROL Data do Início Efetivo] estará correto. Mas se eles se esquecerem de fazer isso quando iniciarem a tarefa, poderão voltar e editar o [!UICONTROL Data do Início Efetivo] a qualquer momento.
+
 
 <!---
 Task progress status overview
