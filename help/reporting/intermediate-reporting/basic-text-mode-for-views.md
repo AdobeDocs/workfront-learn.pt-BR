@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 0%
 >
 >Pré-requisitos:
 >
->* Entender os elementos de relatórios
->* Entender os componentes de relatórios
->* Criar uma exibição básica
+>* [Entender os elementos de relatórios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Entender os componentes de relatórios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Criar uma exibição básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
@@ -235,12 +235,19 @@ type=iterate
 
 ### Filtro de tarefa (opcional)
 
-**Mostre-me todas as tarefas que tenham pelo menos uma predecessora entre projetos**
+**Mostre-me todas as tarefas que tenham pelo menos uma predecessora entre projetos ou pelo menos uma sucessora entre projetos nos projetos atuais**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Tarefa - Mostrar nomes de predecessores e a predecessora do projeto está em
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando os predecessores e sucessores entre projetos](assets/cross-project-predecessors-and-successors.png)
+![Uma imagem de tela mostrando a visualização de predecessores e sucessores entre projetos](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Tarefa - Iteração que mostra todas as pessoas atribuídas e que atribuíram cada uma
