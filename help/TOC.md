@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2392'
 ht-degree: 2%
 
 ---
@@ -190,6 +190,7 @@ ht-degree: 2%
 
    + Projetos intermediários {#intermediate-projects}
       + [Entender e gerenciar tipos de duração e restrições de tarefa](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Entender predecessores de projetos cruzados](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + Relatórios {#reporting}
