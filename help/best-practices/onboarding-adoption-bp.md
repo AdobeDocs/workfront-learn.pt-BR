@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -151,3 +151,18 @@ Defina padrões ou expectativas para os usuários e certifique-se de que a lider
 
 
 Certifique-se de que a liderança envie comunicações declarando seu apoio.
+
+</br>
+</br>
+
+
+**Prática recomendada**
+
+Crie e implante uma Pesquisa de adoção de seus usuários para obter uma melhor compreensão de onde eles estão enfrentando desafios e onde estão vendo valor
+
+**Veja o porquê**
+
+Nossos clientes mais bem-sucedidos desenvolveram uma cadência regular para coletar feedback a fim de entender o que pode impedir uma melhor adoção da solução da Workfront. A coleta de dados de feedback capacitará os administradores a encontrar os recursos certos para ajudar a fazer melhorias. Este Guia para pesquisas de adoção aborda os estágios de execução, medição, planejamento e revisão da condução de uma pesquisa com seus usuários do Workfront.
+
+[Baixe o Guia da Workfront para a pesquisa de adoção](../assets/adoption-survey.pdf)
+
