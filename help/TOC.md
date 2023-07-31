@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2392'
+source-wordcount: '2401'
 ht-degree: 2%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 2%
       + [Restaurar objetos da lixeira](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + Configurar padrões do sistema {#configure-system-defaults}
-      + [Definir configurações globais padrão do projeto](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [Criar e gerenciar status de objetos](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Entender os tipos de problemas padrão](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Criar um status de problema](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [Criar status de problemas do sistema](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Criar e gerenciar agendas](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [Criar e gerenciar severidades de problemas](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personalizar tipos de problemas e terminologia](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurar preferências globais de problema padrão](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [Definir configurações globais padrão do projeto](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + Modelos de layout {#layout-templates}
       + [O que são modelos de layout?](administration-and-setup/layout-templates/what-are-layout-templates.md)
