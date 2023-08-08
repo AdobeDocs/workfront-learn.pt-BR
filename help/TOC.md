@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [Gerenciar colunas do quadro](boards/manage-board-columns.md)
       + [Adicionar cartões a um quadro](boards/add-cards-to-a-board.md)
       + [Gerenciar cartões em um quadro](boards/manage-cards-on-a-board.md)
+      + [Personalizar cartões em um quadro](boards/customize-cards-on-a-board.md)
       + [Adicionar e gerenciar membros da equipe em um quadro](boards/add-and-manage-team-members-for-a-board.md)
       + [Adicionar e editar configurações de coluna em um quadro](boards/add-and-edit-column-settings-on-a-board.md)
       + [Adicionar e gerenciar tags para cartões](boards/add-and-manage-tags-for-cards.md)
