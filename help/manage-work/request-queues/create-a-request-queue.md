@@ -11,9 +11,9 @@ thumbnail: 335221.jpeg
 jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 0%
 Neste vídeo, você aprenderá a:
 
 * Criar uma fila de solicitações criando primeiro um projeto
-* Configurar uma fila de solicitações
 * Configurar os detalhes da fila de solicitações
+* Tornar a fila ativa
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
@@ -34,14 +34,10 @@ Vamos analisar as informações que você acabou de apresentar.
 
 **Pergunta:** Qual das seguintes opções precisa estar em vigor para que uma Fila de solicitações seja ativada? (selecione todas as respostas corretas)
 
-1. Status do projeto = atual
+1. Status do projeto = Atual
 1. &quot;Problema&quot; do tipo de solicitação está selecionado
 1. &quot;Publicar como Fila de solicitação de ajuda&quot; está selecionado
 1. Status do Projeto = Atual ou Planejamento
 
-**Resposta:** 1) Status do projeto = atual e 3) &quot;Publicar como Fila de solicitação de ajuda&quot; está selecionado
-
-**Pergunta:** As solicitações podem ser feitas por email. Verdadeiro ou falso?
-
-**Resposta:** True
+**Resposta:** 1) Status do projeto = Atual e 3) &quot;Publicar como Fila de solicitação de ajuda&quot; está selecionado
 
