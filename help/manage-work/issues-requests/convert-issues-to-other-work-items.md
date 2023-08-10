@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Um problema pode ser suficientemente significativo para que o tempo e o esforço
 1. Clique no nome do problema para abri-lo.
 1. No menu de 3 pontos à direita do nome do problema, selecione **[!UICONTROL Converter em tarefa]**.
 1. Preencha o [!UICONTROL Converter em tarefa] formulário. Comece dando um nome e uma descrição à nova tarefa.
-1. Se a nova tarefa deve fazer parte de um projeto diferente, insira o nome do projeto.
+1. Se a nova tarefa precisar fazer parte de um projeto diferente, altere a variável [!UICONTROL Projeto de destino] nome.
 1. No [!UICONTROL Opções] marque as caixas para manter o problema original, permitir acesso à nova tarefa e manter a data de conclusão. Siga o fluxo de trabalho da sua organização ao fazer essas seleções.
 1. Anexe um formulário personalizado se quiser transferir dados de formulário personalizados do problema para a tarefa. (Todos os campos existentes no formulário de problema e no formulário de tarefa serão transferidos automaticamente para o formulário de tarefa.)
 1. Clique em **[!UICONTROL Converter em tarefa]** para terminar.
@@ -36,9 +36,9 @@ Um problema pode ser suficientemente significativo para que o tempo e o esforço
 
 Dependendo da organização [!DNL Workfront] configurações do sistema, você pode ou não conseguir alterar as configurações na seção Opções quando estiver convertendo a tarefa. Essas opções afetam o problema original e a nova tarefa.
 
-* **&quot;Conservar o problema original e vincular a sua resolução a esta tarefa&quot;** retém o problema original e informações relacionadas (horas, documentos, etc.). Com essa opção selecionada, quando a tarefa for concluída, o problema será marcado como resolvido. Se essa opção for **não** selecionado, o problema original será excluído na criação da tarefa. Isso pode afetar como sua organização rastreia e relata problemas.
-* A variável **&quot;Permitir que (nome de usuário) tenha acesso a esta tarefa&quot;** Esta opção permitirá que a pessoa que criou o problema tenha acesso a esta nova tarefa.
-* A variável **&quot;Manter a data de conclusão planejada do problema&quot;** permite manter a data de conclusão planejada já definida no problema. Isso define a restrição da tarefa como [!UICONTROL Não Terminar Depois De]. Se a caixa estiver desmarcada, as datas da tarefa serão definidas como se uma nova tarefa fosse criada dentro do projeto.
+* **Conservar o problema original e vincular a sua resolução a esta tarefa** retém o problema original e informações relacionadas (horas, documentos, etc.). Com essa opção selecionada, quando a tarefa for concluída, o problema será marcado como resolvido. Se essa opção for **não** selecionado, o problema original será excluído na criação da tarefa. Isso pode afetar como sua organização rastreia e relata problemas.
+* A variável **Permitir que (nome de usuário) tenha acesso a esta tarefa** Esta opção permitirá que a pessoa que criou o problema tenha acesso a esta nova tarefa.
+* A variável **Manter a data de conclusão planejada do problema** permite manter a data de conclusão planejada já definida no problema. Isso define a restrição da tarefa como [!UICONTROL Não Terminar Depois De]. Se a caixa estiver desmarcada, as datas da tarefa serão definidas como se uma nova tarefa fosse criada dentro do projeto.
 
 A nova tarefa é colocada na parte inferior da lista de tarefas do projeto. Mova a tarefa para o local desejado, atribua um usuário ou equipe ao trabalho, adicione horas e duração planejadas, etc.
 
