@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2414'
 ht-degree: 2%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 2%
    + Problemas/solicitações {#issues-requests}
       + [Lidar com trabalho não planejado](manage-work/issues-requests/handle-unplanned-work.md)
       + [Fazer uma solicitação](manage-work/issues-requests/make-a-request.md)
-      + [Localizar solicitações](manage-work/issues-requests/find-requests.md)
+      + [Localizar e gerenciar solicitações](manage-work/issues-requests/find-requests.md)
       + [Gerenciar atribuições de problemas](manage-work/issues-requests/manage-issue-assignments.md)
       + [Atualizar uma solicitação](manage-work/issues-requests/update-a-request.md)
       + [Converter um problema/solicitação em um projeto](manage-work/issues-requests/create-a-project-from-a-request.md)
@@ -647,6 +647,7 @@ ht-degree: 2%
 + [Qual é a metodologia Kanban e como ela funciona?](agile/what-is-the-kanban-methodology.md)
 + [Transição para o Agile](agile/transitioning-to-agile.md)
 + [Workfront para executivos](workfront-for-executives/workfront-for-executives.md)
++ [Gerenciar solicitações](manage-work/issues-requests/manage-incoming-requests.md)
 
 
 
