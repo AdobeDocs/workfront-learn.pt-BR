@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,9 @@ A janela de detalhes permite fazer alterações nas configurações do novo proj
 >
 >Para criar um projeto usando esse método, é necessário acessar a área Modelos do Workfront. Se não conseguir acessar modelos, você ainda poderá usar um modelo para criar um projeto na área Projetos ou ao converter um problema/tarefa.
 
-**Dica**: se houver um template que você usa com frequência, torne-o um favorito! Você verá o modelo listado no menu Novo projeto, além de ele aparecer no menu Favoritos e Recentes na barra de navegação.
+>[!TIP]
+>
+>Se houver um modelo que você usa com frequência, torne-o favorito! Você verá o modelo listado no menu Novo projeto, além de ele aparecer no menu Favoritos da barra de navegação.
+
 
 ![Novos modelos de projetos favoritos](assets/direct-template-03.png)

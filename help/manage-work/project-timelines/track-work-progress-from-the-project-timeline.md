@@ -7,12 +7,13 @@ feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-16T00:00:00Z
 level: Intermediate
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -23,14 +24,20 @@ Verifique se as tarefas estão progredindo da maneira que deveriam para atingir 
 
 ## Percentual completo
 
-O percentual concluído em cada tarefa às vezes é usado para medir o progresso do trabalho. É importante observar que... esse campo deve ser ajustado manualmente, pois é a estimativa do destinatário de quanto tempo eles estão.
+O percentual concluído em cada tarefa de trabalho é usado às vezes para medir o progresso do trabalho. É importante observar que... esse campo deve ser ajustado manualmente, pois é a estimativa do destinatário de quanto tempo eles estão.
+
+>[!TIP]
+>
+>Embora o percentual de conclusão das tarefas de trabalho precise ser atualizado manualmente, o percentual de conclusão de uma tarefa pai é calculado pela Workfront com base no percentual de conclusão e na duração ou nas horas planejadas de cada tarefa filho. Isso significa que você obterá uma precisão percentual concluída melhor se dividir tarefas grandes em subtarefas menores.
+
 
 ![Lista de tarefas do projeto em exibição [!UICONTROL Percentual Completo] coluna](assets/planner-fund-task-percent-complete.png)
 
-Há dois momentos em que a porcentagem concluída muda automaticamente:
+Há três vezes quando a porcentagem concluída muda automaticamente:
 
-Quando a tarefa [!UICONTROL Status] estiver definido como Concluído, a porcentagem concluída será alterada para 100.
-Se a tarefa [!UICONTROL Status] reverte para Novo, a porcentagem concluída é redefinida para 0.
+* Quando a tarefa [!UICONTROL Status] estiver definido como Concluído, a porcentagem concluída será alterada para 100.
+* Se a tarefa [!UICONTROL Status] reverte para Novo, a porcentagem concluída é redefinida para 0.
+* Em uma tarefa pai quando o percentual concluído de uma tarefa filho é alterado.
 
 ## Status
 
@@ -47,3 +54,5 @@ Inclua o [!UICONTROL Status] coluna em uma [!UICONTROL Exibir] para ver rapidame
 ![Lista de tarefas de projeto mostrando a coluna de restrição de tarefa](assets/planner-fund-task-constraint.png)
 
 Crie uma exibição personalizada que inclua o [!UICONTROL Restrição de Tarefa] para ver essas informações na lista de tarefas. Se você planejou o projeto a partir de uma data de início, deseja que suas tarefas tenham a [!UICONTROL O Mais Breve Possível] ([!UICONTROL ASAP]).
+
+Para obter mais detalhes sobre restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).

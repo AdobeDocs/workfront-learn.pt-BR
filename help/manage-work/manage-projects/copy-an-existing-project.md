@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ A janela Copiar projeto permite alterar o título e o status, bem como limpar v�
 
 ![Cr](assets/copy-existing-02.png)
 
-Selecionar Limpar Atribuições e/ou definir o status como Planejamento impede que o projeto copiado envie notificações de atribuição de tarefa logo após a cópia.
+Selecionar Limpar Atribuições ou definir o status como Planejamento impede que o projeto copiado envie notificações de atribuição de tarefa logo após a cópia.
