@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,8 @@ ht-degree: 0%
 
 Um dos primeiros passos para fechar um [!DNL Workfront] O projeto está garantindo que todas as tarefas e problemas tenham um status de Concluído, ou um status equivalente.
 
-Comece com a lista de tarefas e selecione um [!UICONTROL Exibir] que exibe o [!UICONTROL Percentual Completo] ou o [!UICONTROL Status] coluna ou ambas. Uma verificação rápida na lista de tarefas permite identificar quais tarefas não tiveram uma alteração de status.
+Se a variável [!UICONTROL Percentual Completo] no cabeçalho do projeto mostra 100% que você sabe que todas as tarefas estão marcadas como 100% concluídas. No entanto, uma tarefa que é [!UICONTROL Completo - Pendente de Aprovação] ainda será lido como 100%, portanto, não se esqueça de verificar esses. Consulte [Concluir aprovações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) para todas as dicas sobre aprovações.
 
-![Exibição do projeto [!UICONTROL Percentual Completo] coluna](assets/planner-fund-close-tasks-and-issues.png)
+Se houver problemas incompletos, mesmo os pendentes de aprovação, haverá um número ao lado da guia Problemas mostrando quantos. Se o número for zero, você não terá problemas incompletos.
 
-Nem todas as organizações usam [!DNL Workfront's] funcionalidade de problemas para registrar ou resolver problemas, pedidos de alteração etc. que surgiram durante o projeto. Mas se você fizer isso, mude para o [!UICONTROL Problemas] e verifique se todos os problemas foram resolvidos.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![Exibição do projeto [!UICONTROL Percentual Completo] e problemas em aberto](assets/close-tasks-and-issues.png)
