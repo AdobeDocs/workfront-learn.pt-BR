@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2414'
+source-wordcount: '2416'
 ht-degree: 2%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 2%
 
    + Portfólios {#portfolios}
       + [Visão geral dos portfólios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Introdução ao Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Priorizar e gerenciar o trabalho com portfólios](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Compreender o [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Use o [!UICONTROL Otimizador de Portfolio] para priorizar e gerenciar o trabalho](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processos de aprovação e caminhos de etapas {#approval-processes-and-milestone-paths}
       + [Criar um processo de aprovação de uso único](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)

@@ -1,94 +1,96 @@
 ---
-title: Como usar um [!UICONTROL Caso de negócios] em [!DNL  Workfront]
-description: Saiba como usar um [!UICONTROL Caso de negócios] em [!DNL  Workfront] para que você obtenha as informações necessárias sobre os projetos para tomar decisões informadas.
+title: Compreender o [!UICONTROL Business Case]
+description: Saiba como usar o [!UICONTROL Business Case] no Workfront para avaliar projetos solicitados e compará-los com outros projetos em seu portfólio.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial
+last-substantial-update: 2023-08-18T00:00:00Z
+jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
 
-# Introdução ao [!UICONTROL Caso de negócios]
+# Compreender o [!UICONTROL Business Case]
 
-Como gerente, o objetivo é garantir que os projetos contribuam para as metas e iniciativas gerais da empresa de maneira positiva. Para tomar decisões informadas, você precisa de informações dos gerentes do projeto sobre o que eles precisarão para que seus projetos avancem. Isso pode ser feito por meio da [!UICONTROL Caso de negócios].
+Como gerente, é seu objetivo garantir que os projetos contribuam para as metas e iniciativas gerais da empresa de forma positiva. Para tomar decisões conscientes, você precisa de informações dos gerentes de projeto sobre o que eles precisarão para que seus projetos avancem. Isso pode ser feito por meio da [!UICONTROL Business Case].
 
-## O que é um [!UICONTROL Caso de negócios]?
+## O que é uma [!UICONTROL Business Case]?
 
-Pense em um [!UICONTROL Caso de negócios] como projeto ou proposta para o trabalho que é necessário realizar. Ele captura estimativas preliminares de alto nível que ajudam a planejar e gerenciar portfólios. É onde as despesas, os recursos e os riscos potenciais são inseridos para criar um &quot;caso&quot; pelo qual este projeto beneficiaria a empresa.
+Pense em um [!UICONTROL Business Case] como um blueprint ou proposta para o trabalho que precisa ser feito. Ele captura estimativas preliminares de alto nível que ajudam a planejar e gerenciar portfólios. É onde possíveis despesas, recursos e riscos são inseridos para criar um &quot;caso&quot; sobre por que esse projeto beneficiaria a empresa.
 
-## [!UICONTROL Caso de negócios] campos recomendados para priorização de projeto
+## [!UICONTROL Business Case] campos recomendados para priorização de projeto
 
-Cada seção do [!UICONTROL Caso de negócios] O fornece informações exclusivas e importantes sobre o projeto. Vamos analisar as seções que fornecem informações para a [!UICONTROL Portfolio Otimizer] , que ajudará a priorizar os projetos no seu portfólio.
+Cada seção do [!UICONTROL Business Case] O fornece informações exclusivas e importantes sobre o projeto. Vamos analisar as seções que fornecem informações para o [!UICONTROL Otimizador de Portfolio] , que ajudará você a priorizar os projetos no seu portfólio.
 
 ## [!UICONTROL Informações do Projeto]
 
-A maioria das informações inseridas no [!UICONTROL Informações do projeto] A seção envolve detalhes gerais do projeto, como o patrocinador do projeto e o programa ao qual o projeto pertence.
+A maioria das informações inseridas no [!UICONTROL Informações do projeto] Esta seção envolve detalhes gerais do projeto, como o patrocinador do projeto e o programa ao qual o projeto pertence.
 
-No entanto, há uma informação que pode afetar a priorização do projeto —[!UICONTROL Benefício planejado].
+No entanto, há uma informação que pode afetar a priorização do projeto...[!UICONTROL Benefício Planejado].
 
-![Uma imagem da [!UICONTROL Benefício planejado] na [!UICONTROL Informações do projeto] da seção [!UICONTROL Caso de negócios]](assets/05-portfolio-management4.png)
+![Uma imagem do [!UICONTROL Benefício Planejado] na área [!UICONTROL Informações do projeto] seção do [!UICONTROL Business Case]](assets/05-portfolio-management4.png)
 
-O [!UICONTROL Benefício planejado] representa o valor estimado em dólar que sua empresa pode se beneficiar se o projeto for concluído.
+A variável [!UICONTROL Benefício Planejado] representa o valor em dólar estimado do qual sua empresa pode se beneficiar se o projeto for concluído.
 
-Esta é uma das seções que pode ser um ponto de partida para fazer com que sua empresa avance com esse projeto. Se você puder mostrar que o projeto contribuirá significativamente para o resultado final da sua empresa, então as chances são maiores de que seja enviado mais rapidamente.
+Essa é uma das seções que podem ser um ponto de inflexão para fazer com que sua empresa avance com esse projeto. Se você puder mostrar que o projeto contribuirá significativamente para os resultados financeiros da sua empresa, então as chances são maiores de que ele possa ser enviado mais rapidamente.
 
 ## [!UICONTROL Despesas]
 
-[!UICONTROL Despesas] representam os custos não laborais que podem ser incorridos durante a vida de um projeto.
+[!UICONTROL Despesas] representam os custos não mão de obra que podem ser incorridos durante a vida útil de um projeto.
 
-![Uma imagem da [!UICONTROL Despesas] na seção [!UICONTROL Caso de negócios]](assets/06-portfolio-management5.png)
+![Uma imagem do [!UICONTROL Despesas] na seção [!UICONTROL Business Case]](assets/06-portfolio-management5.png)
 
-Por exemplo, as despesas de uma conferência de usuários podem incluir pagamento do local, itens de sacos de presente ou sinais do lobby do local.
+Por exemplo, as despesas de uma conferência de usuários podem incluir o pagamento do local, itens para sacos de presente ou sinais para o lobby do local.
 
 ## [!UICONTROL Estimativa de Recurso]
 
-O [!UICONTROL Orçamentação de Recursos] permite estimar a mão de obra que você acha necessária para que o projeto avance. As informações são obtidas de [!DNL Workfront’s] [!UICONTROL Planejador de recursos].
+A variável [!UICONTROL Estimativa de Recursos] permite estimar a mão de obra que você acha que será necessária para o projeto avançar. As informações são extraídas do [!DNL Workfront's] [!UICONTROL Planejador de recursos].
 
-![Uma imagem da [!UICONTROL Orçamentação de Recursos] na seção [!UICONTROL Caso de negócios]](assets/07-portfolio-management6.png)
+![Uma imagem do [!UICONTROL Estimativa de Recursos] na seção [!UICONTROL Business Case]](assets/07-portfolio-management6.png)
 
-Inserindo necessidades estimadas para cada função de emprego, isso cria um orçamento possível necessário para o projeto e fornece informações sobre quanto do orçamento do portfólio pode ser usado para o projeto.
+Inserindo necessidades estimadas para cada função de trabalho, isso cria um orçamento possível necessário para o projeto e fornece informações sobre quanto do orçamento do portfólio pode ser usado para o projeto.
 
 >[!NOTE]
 >
->Você deve ter pools de recursos configurados em [!DNL Workfront] para usar esta seção do [!UICONTROL Caso de negócios].
+>É necessário ter conjuntos de recursos configurados em [!DNL Workfront] para usar esta seção do [!UICONTROL Business Case].
 
 ## [!UICONTROL Riscos]
 
-Você sempre tem a maior esperança de que seu projeto seja executado sem problemas. Mas é importante identificar os riscos e planejá-los adequadamente. É aí que a variável [!UICONTROL Riscos] na seção [!UICONTROL Caso de negócios] pode ajudar.
+Você sempre tem a maior esperança de que seu projeto funcione sem problemas. Mas é importante identificar os riscos e planejá-los de acordo. É aí que o [!UICONTROL Riscos] na seção [!UICONTROL Business Case] pode ajudar.
 
-![Uma imagem da [!UICONTROL Riscos] na seção [!UICONTROL Caso de negócios]](assets/08-portfolio-management7.png)
+![Uma imagem do [!UICONTROL Riscos] na seção [!UICONTROL Business Case]](assets/08-portfolio-management7.png)
 
-Você pode criar um brainstorm e listar as dificuldades que você pode encontrar durante a vida do projeto que podem fazer com que o projeto seja executado com atraso ou incorra em mais custos. Ele também oferece uma chance de planejar com antecedência o que você fará se esses riscos ocorrerem.
+Você deve fazer um brainstorming com sua equipe e identificar quaisquer riscos ao projeto. Para riscos em que você pode estimar o custo se o risco ocorrer e a probabilidade de que ele ocorrerá, certifique-se de inserir esses valores. A Workfront multiplicará o custo potencial pela probabilidade e colocará isso em uma [!UICONTROL Risco potencial] fundo que será subtraído do orçamento do projeto [!UICONTROL Benefício Planejado] ao calcular sua [!UICONTROL Valor Líquido].
 
 ## [!UICONTROL Scorecards]
 
-[!UICONTROL Scorecards] ajuda a determinar se um projeto proposto está alinhado com as metas e iniciativas gerais definidas para o portfólio ou a empresa.
+[!UICONTROL Scorecards] ajuda a determinar como um projeto proposto se alinha às metas e iniciativas gerais definidas para o portfólio ou para a empresa.
 
-Cada scorecard tem uma lista de perguntas e respostas que têm valores anexados a elas. Quando o scorecard é preenchido, [!DNL Workfront] O pode calcular o alinhamento do projeto com as metas predeterminadas de sua organização.
+Cada cartão de pontuação tem uma lista de perguntas e respostas com valores anexados a elas. Quando o cartão de pontuação é preenchido, [!DNL Workfront] O pode calcular o alinhamento do projeto com as metas predeterminadas de sua organização.
 
-![Uma imagem da [!UICONTROL Scorecards] na seção [!UICONTROL Caso de negócios]](assets/09-portfolio-management8.png)
-
->[!NOTE]
->
->Os gerentes de projeto não poderão ver os valores atribuídos a cada resposta. Somente os usuários que criam os scorecards podem ver os valores.
-
-## [!UICONTROL Caso de negócios] não obrigatório
-
-O [!UICONTROL Caso de negócios] é flexível. Você pode preencher apenas algumas seções ou nenhuma. Nenhum dos campos é obrigatório. No entanto, quanto mais informações você preencher, mais fácil será analisar e priorizar projetos disputando o mesmo orçamento ou recursos. É importante observar que as seções de informações, custos, alinhamento e riscos do projeto devem ser preenchidas para funcionar com a variável [!UICONTROL Portfolio Otimizer].
-
-Uma vez [!UICONTROL Caso de negócios] estiver preenchida, clique no botão **[!UICONTROL Enviar]** no painel de resumo, no lado direito da janela. Agora você está pronto para priorizar projetos.
+![Uma imagem do [!UICONTROL Scorecards] na seção [!UICONTROL Business Case]](assets/09-portfolio-management8.png)
 
 >[!NOTE]
 >
->A pontuação de alinhamento na variável [!UICONTROL Caso de negócios] o painel de resumo é gerado depois que você preenche o scorecard. A pontuação de alinhamento é um dos valores usados no cálculo da variável [!UICONTROL Portfolio Otimizer] pontuação.
+>Os gerentes de projeto não poderão ver os valores atribuídos a cada resposta. Somente os usuários que criam os cartões de pontuação podem ver os valores.
+
+## [!UICONTROL Business Case] não obrigatório
+
+A variável [!UICONTROL Business Case] O é flexível. Você pode preencher apenas algumas seções ou nenhuma. Nenhum dos campos é obrigatório. No entanto, quanto mais informações você preencher, mais fácil será analisar e priorizar projetos que disputam o mesmo orçamento ou recursos.
+
+Quando a variável [!UICONTROL Business Case] for preenchido, clique no link **[!UICONTROL Enviar]** no painel de resumo no lado direito da janela. Isso alterará o status do projeto para [!UICONTROL Solicitado]. Agora você está pronto para usar [!UICONTROL Otimização de Portfolio] para priorizar projetos no mesmo portfólio.
+
+>[!NOTE]
+>
+>A pontuação de alinhamento no [!UICONTROL Business Case] o painel de resumo é gerado ao preencher o cartão de pontuação. A pontuação de alinhamento é um dos valores usados no cálculo da [!UICONTROL Otimizador de Portfolio] pontuação.
 
 <!-- 
 Learn more graphic and links to documentation articles
