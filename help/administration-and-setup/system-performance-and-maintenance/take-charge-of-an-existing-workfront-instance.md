@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ Na lista de verificação de Instância herdada, você revisará um conjunto abr
 
 A lista de verificação foi criada como um Blueprint do Workfront e como uma planilha do Excel para download. Recomendamos usar o Blueprint para gerenciar e documentar seu trabalho diretamente no Workfront.
 
-Tanto o Blueprint quanto a planilha são organizados por tópico, em vez da linha do tempo, para que você possa avançar da maneira mais adequada para você e sua organização. . As durações fornecidas são apenas um exemplo e você deve ajustá-las para atender às suas necessidades específicas. Isto não tem de ser feito tudo numa única sessão!
+Tanto o Blueprint quanto a planilha são organizados por tópico, em vez da linha do tempo, para que você possa avançar da maneira mais adequada para você e sua organização. As durações fornecidas são apenas um exemplo e você deve ajustá-las para atender às suas necessidades específicas. Isto não tem de ser feito tudo numa única sessão!
 
 Sempre que possível, recomendamos que você trabalhe com outras pessoas em sua organização para revisar e documentar esses elementos e manter sua documentação atualizada se houver alterações importantes. Os futuros administradores na sua instância agradecerão.
 
-* Para baixar o Blueprint, navegue até o menu principal na sua própria instância do Workfront e selecione Blueprints. Encontre o blueprint intitulado &quot;Noções básicas sobre instâncias herdadas | Lista de verificação&quot; e clique em Instalar. Escolha o ambiente de produção ou sandbox e continue a configuração. Mais informações sobre como instalar e configurar blueprints podem ser encontradas [aqui](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>Para baixar o blueprint</b>, navegue até o menu principal na sua própria instância do Workfront e selecione Blueprints. Encontre o blueprint intitulado &quot;Noções básicas sobre instâncias herdadas | Lista de verificação&quot; e clique em Instalar. Escolha o ambiente de produção ou sandbox e continue a configuração. Mais informações sobre como instalar e configurar blueprints podem ser encontradas [aqui](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Para baixar a lista de verificação do Excel, clique em [aqui](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Para baixar o Excel</b> , clique em [aqui](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Se você usar o Blueprint ou a lista de verificação do Excel, poderá pensar nesse processo em três fases principais: descoberta, auditoria e documentação. As descrições e os resultados ideais estão listados abaixo.
 
