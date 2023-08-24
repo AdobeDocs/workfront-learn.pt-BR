@@ -10,9 +10,9 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,24 @@ ht-degree: 0%
 
 A coisa maravilhosa sobre o Workfront é que ele é tão personalizável. O desafio do Workfront é que ele é tão personalizável. E se você for um novo administrador de sistema, ou grupo, que assume uma instância existente do Workfront, pode ser difícil descobrir como ela foi originalmente configurada e configurada.
 
-No entanto, por meio da Lista de verificação de instância herdada, você pode aprender tudo o que precisa saber sobre sua instância.\
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Baixar a lista de verificação de instância herdada </span>
-</a>
+No entanto, por meio da Lista de verificação de instância herdada, você pode aprender tudo o que precisa saber sobre sua instância.
 
-![Imagem de lista de verificação de instância herdada](assets/wf-inherited-instance-imagel.jpg)
+![Imagem de lista de verificação de instância herdada](assets/wf-inherited-instance-image.png)
+<br></br>
 
-Nesta lista de verificação, você analisará um conjunto abrangente de perguntas, recursos e links para obter uma compreensão clara de como ele foi configurado.
+Na lista de verificação de Instância herdada, você revisará um conjunto abrangente de perguntas, recursos e links para obter uma compreensão clara de como ele foi configurado.
 
-Além disso, descrevemos três fases principais - Detecção, Auditoria e Documentação - com as durações sugeridas. Elas podem ser ajustadas para atender às suas necessidades específicas e não precisam ser realizadas em uma única sessão!
+A lista de verificação foi criada como um Blueprint do Workfront e como uma planilha do Excel para download. Recomendamos usar o Blueprint para gerenciar e documentar seu trabalho diretamente no Workfront.
 
-As guias na planilha são organizadas por tópico, em vez de por linha do tempo, para que você possa avançar pelo documento da maneira mais adequada para você e para sua organização.
+Tanto o Blueprint quanto a planilha são organizados por tópico, em vez da linha do tempo, para que você possa avançar da maneira mais adequada para você e sua organização. . As durações fornecidas são apenas um exemplo e você deve ajustá-las para atender às suas necessidades específicas. Isto não tem de ser feito tudo numa única sessão!
 
-Sempre que possível, recomendamos que você trabalhe com outras pessoas em sua organização para revisar e documentar esses elementos e manter esse documento atualizado se houver alterações importantes. Os futuros administradores na sua instância agradecerão.
+Sempre que possível, recomendamos que você trabalhe com outras pessoas em sua organização para revisar e documentar esses elementos e manter sua documentação atualizada se houver alterações importantes. Os futuros administradores na sua instância agradecerão.
 
+* Para baixar o Blueprint, navegue até o menu principal na sua própria instância do Workfront e selecione Blueprints. Encontre o blueprint intitulado &quot;Noções básicas sobre instâncias herdadas | Lista de verificação&quot; e clique em Instalar. Escolha o ambiente de produção ou sandbox e continue a configuração. Mais informações sobre como instalar e configurar blueprints podem ser encontradas [aqui](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Para baixar a lista de verificação do Excel, clique em [aqui](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Se você usar o Blueprint ou a lista de verificação do Excel, poderá pensar nesse processo em três fases principais: descoberta, auditoria e documentação. As descrições e os resultados ideais estão listados abaixo.
 
 <br>
 </br>
@@ -97,6 +98,7 @@ Ao percorrer cada fase e com a ajuda da lista de verificação de Instância her
 </br>
 
 Informações adicionais podem ser encontradas abaixo:
+* [Webinário: Dicas para assumir uma instância herdada](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Definição de objetivos para sua implementação do Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Publicação do blog: Patrocínio executivo e valor para a liderança](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Publicação do blog: Introdução aos KPIs do Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
