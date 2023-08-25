@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ A variável [!UICONTROL Nova prova] O email também contém informações essenc
 * O número da versão informa a versão da prova que você estará visualizando.
 * E, o mais importante, o prazo aparece em dois lugares no email: logo acima da seção de detalhes da prova e na barra cinza para o estágio do fluxo de trabalho do qual você faz parte.
 
-Quando estiver pronto para iniciar sua revisão, basta clicar no botão azul [!UICONTROL Ir para prova] e o arquivo será aberto automaticamente em [!DNL Workfront’s] revisor de provas.
+Quando estiver pronto para iniciar sua revisão, basta clicar no botão azul [!UICONTROL Ir para prova] e o arquivo será aberto automaticamente no [!DNL Workfront] revisor de provas.
 
 ### Abrir uma prova do [!UICONTROL Início]
 
