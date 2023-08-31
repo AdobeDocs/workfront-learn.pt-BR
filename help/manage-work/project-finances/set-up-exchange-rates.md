@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 As taxas de câmbio são gerenciadas por administradores do sistema. Moedas adicionais podem ser configuradas, conforme necessário, para a sua organização.
 
-[!DNL Workfront]A moeda base (padrão) de é o dólar americano. Essa é a moeda em que as informações financeiras serão calculadas por padrão, a menos que uma moeda diferente seja especificada em um projeto individual.
+A moeda base padrão da Workfront é o dólar americano. Esta é a moeda em que as informações financeiras serão calculadas por padrão. Esse padrão pode ser alterado globalmente e em projetos individuais.
 
 ## Configurar moedas e taxas de câmbio
 

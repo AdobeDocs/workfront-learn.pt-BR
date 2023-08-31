@@ -1,5 +1,5 @@
 ---
-title: Conexão de marca em [!UICONTROL DAM DO WORKFRONT] Explicado
+title: Entender a navegação e a pesquisa como usuário
 description: Saiba mais sobre o que a marca conecta no [!UICONTROL DAM DO WORKFRONT] é e como navegá-lo.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Conexão da marca: introdução
+# Brand Connect: entenda a navegação e a pesquisa como usuário
 
 Neste vídeo, você aprenderá:
 
@@ -68,7 +68,7 @@ As diretrizes da marca são um conjunto de regras que explicam como a marca da s
 * Uma visão geral da história, da visão, da personalidade e do tom de voz da sua marca.
 * O que fazer e o que não fazer ao usar o logotipo da empresa.
 * Exemplos de fontes aprovadas para impressão e uso na Web.
-* Detalhamentos das cores primária e secundária da empresa.
+* Detalhamentos das cores principal e secundária da empresa.
 * Exemplos de estilo de imagem e fotos que funcionam bem com a marca.
 
 Depois de fazer logon [!UICONTROL Conectar marca], acesse as diretrizes clicando em Diretrizes da marca na barra de navegação superior.
