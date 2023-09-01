@@ -1,6 +1,6 @@
 ---
 title: Workfront para executivos
-description: Saiba como acessar relatórios e painéis, fazer solicitações e revisar solicitações.
+description: Saiba como o Workfront pode ajudar você a gerenciar trabalhos em sua organização.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,17 +10,19 @@ team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: true
 hidefromtoc: true
-jira: KT-null
+jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
+source-git-commit: e272158326592cdb50195a00668b9cb60e4cb659
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
 # Workfront para executivos
+
+Saiba como o Workfront pode ajudar você a gerenciar trabalhos em sua organização.
 
 Como executivo, a Adobe Workfront pode:
 
