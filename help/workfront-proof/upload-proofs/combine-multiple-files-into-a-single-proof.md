@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -39,11 +39,18 @@ Para combinar provas:
 
 ![Uma imagem do [!UICONTROL Nova prova] com a lista de arquivos carregados e [!UICONTROL Prova única] seções destacadas.](assets/combine-proofs.png)
 
-Depois que a prova for carregada, você a verá como um arquivo ZIP na [!UICONTROL Documentos] guia.
+Após carregar a prova, você a verá como um arquivo ZIP na [!UICONTROL Documentos] guia.
 
 Nada mais é necessário para exibir o arquivo combinado. Basta clicar em [!UICONTROL Abrir prova] como de costume, e a prova é aberta no visualizador de prova.
 
 ![Uma imagem do visualizador de prova com uma prova de várias páginas visível.](assets/combine-proofs-2.png)
+
+## E quanto à combinação de arquivos de vídeo?
+
+Desculpe, a combinação de arquivos não é possível quando arquivos Rich Media como vídeos, animações e URLs interativos estão na sua lista.
+
+![Uma imagem de mensagem de erro explicando que não é possível combinar arquivos de vídeo.](assets/combine-proofs-2.png)
+
 
 ## Sua vez
 
@@ -54,7 +61,7 @@ Nada mais é necessário para exibir o arquivo combinado. Basta clicar em [!UICO
 
 Localizar três ou quatro arquivos (PDF, arquivo de texto etc.) no computador.
 
-1. Abra um projeto, tarefa ou problema que esteja usando para a prática prática no Workfront.
+1. Abra um projeto, tarefa ou problema que esteja usando para prática prática no Workfront.
 1. Carregue os arquivos, combinando-os em uma única prova.
 1. Ajuste a ordem dos arquivos movendo o último na lista para ser o primeiro na lista.
 1. Atribua o fluxo de trabalho de sua escolha (básico ou automatizado) e conclua o upload.
