@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Nada mais é necessário para exibir o arquivo combinado. Basta clicar em [!UICO
 
 Desculpe, a combinação de arquivos não é possível quando arquivos Rich Media como vídeos, animações e URLs interativos estão na sua lista.
 
-![Uma imagem de mensagem de erro explicando que não é possível combinar arquivos de vídeo.](assets/combine-proofs-2.png)
+![Uma imagem de mensagem de erro explicando que não é possível combinar arquivos de vídeo.](assets/combine-proofs-error.png)
 
 
 ## Sua vez
