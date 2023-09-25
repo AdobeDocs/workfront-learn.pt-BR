@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 90620c916e5b276c851d3d32c49b8f0ab33f3efb
+source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
 workflow-type: tm+mt
-source-wordcount: '2423'
+source-wordcount: '2430'
 ht-degree: 2%
 
 ---
@@ -246,7 +246,7 @@ ht-degree: 2%
       + [Entenda intervalos de datas e períodos](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
       + [Entender as horas planejadas e as visualizações de duração](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
       + [Entender as ações: clique com o botão do mouse, arraste e clique em](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [Entender KPIs](reporting/enhanced-analytics/10-kpis-overview.md)
+      + [Entenda os KPIs](reporting/enhanced-analytics/10-kpis-overview.md)
       + [Entender como navegar e revisar projetos](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
       + [Saiba mais usando cronogramas e gráficos adicionais](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
       + [Entender como navegar e revisar a atividade do projeto](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
@@ -571,6 +571,7 @@ ht-degree: 2%
       + [Trabalhar com ativos como usuário](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Página inicial {#home}
+   + [Remover, adicionar e reorganizar widgets na Página inicial](workfront-home/remove-add-and-rearrange-widgets.md)
    + [Encontre seu trabalho](workfront-home/find-your-work-in-workfront-home.md)
    + [Organizar sua lista de tarefas](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Priorizar seu trabalho](workfront-home/prioritize-your-work-in-workfront-home.md)
