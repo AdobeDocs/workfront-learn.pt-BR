@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -36,5 +36,5 @@ Neste vídeo, você aprenderá a criar um processo de aprovação de uso único 
 >
 >Você pode configurar uma aprovação de uso único em projetos e problemas da mesma forma descrita para tarefas no vídeo.
 >
->Se você quiser configurar aprovações automáticas de problemas, elas só poderão ser feitas usando um processo global de aprovação de problemas e aplicadas em um tópico da fila. Consulte [Criar uma fila de solicitações](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) para obter informações sobre como fazer isso.
+>Se você quiser configurar aprovações automáticas de problemas, elas só poderão ser feitas usando um processo global de aprovação de problemas e aplicadas em um tópico da fila. Consulte [Criar uma fila de solicitações](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) para obter informações sobre como fazer isso.
 
