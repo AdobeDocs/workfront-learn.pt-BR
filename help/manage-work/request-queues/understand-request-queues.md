@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Neste vídeo, você aprenderá:
 
 ## Os rascunhos das solicitações são salvos automaticamente
 
-Ao começar a preencher um formulário de solicitação, [!DNL Workfront] O salva um rascunho automaticamente depois que você preenche o [!UICONTROL Assunto] campo. Isso significa que você não perderá dados se precisar sair do [!UICONTROL Solicitações] para fazer outra coisa ou se precisar pausar no meio de sua solicitação para coletar mais informações.
+Ao começar a preencher um formulário de solicitação, [!DNL Workfront] O salva um rascunho automaticamente depois que você preenche o [!UICONTROL Assunto] campo. Isso significa que você não perderá dados se precisar sair do estado [!UICONTROL Solicitações] para fazer outra coisa ou se precisar pausar no meio de sua solicitação para coletar mais informações.
 
-Você verá uma indicação de que o rascunho foi salvo na parte superior da janela. [!DNL Workfront] O salvará um rascunho da solicitação, mesmo que os campos obrigatórios ainda não tenham sido preenchidos.
+Você verá uma indicação de que o rascunho foi salvo na parte superior da janela. [!DNL Workfront] O salvará um rascunho da sua solicitação, mesmo que os campos obrigatórios ainda não estejam preenchidos.
 
 ![imagem de um rascunho de criação de solicitação](assets/queue-mgt-make-a-request-draft-1.png)
 
