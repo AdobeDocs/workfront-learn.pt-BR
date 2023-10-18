@@ -1,5 +1,5 @@
 ---
-title: Estabelecer uma visão e uma estratégia
+title: Estabeleça uma visão e uma estratégia para sua organização
 description: Saiba mais sobre como articular o "quê" e o "por quê" durante a fase de planejamento, exemplos de metas e escopo de influência.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
 
-# Estabelecer uma visão e uma estratégia
+# Estabeleça uma visão e uma estratégia para sua organização
 
 Neste vídeo, você aprenderá sobre:
 
@@ -37,7 +37,7 @@ Uma cadência tradicional para um ciclo de planejamento de longo/curto prazo pod
 
 Considere esses conceitos ao determinar a cadência apropriada para sua organização.
 
-* No ambiente empresarial atual, fatores internos e externos são mais voláteis e mudam com frequência. A fim de abordar estes fatores de forma estratégica, as revisões e os ajustamentos dos objetivos a mais curto prazo devem ser, no mínimo, de três em três meses.
+* No ambiente de negócios atual, os fatores internos e externos são mais voláteis e mudam com frequência. A fim de abordar estes fatores de forma estratégica, as revisões e os ajustamentos dos objetivos a mais curto prazo devem ser, no mínimo, de três em três meses.
 
 * Cada revisão deve incluir tempo para refletir sobre as realizações e os esforços anteriores e avaliar a trajetória de negócios para o futuro. Pergunte a si mesmo e a suas equipes... ainda estamos no caminho certo?
 

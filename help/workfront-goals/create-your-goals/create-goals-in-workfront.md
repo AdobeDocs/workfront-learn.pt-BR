@@ -1,5 +1,5 @@
 ---
-title: Criar metas no [!DNL Workfront Goals]
+title: Criar metas
 description: Saiba como criar metas no [!DNL Workfront Goals] usando três opções diferentes.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
 
-# Criar metas no [!DNL Workfront Goals]
+# Criar metas
 
 Entrada [!DNL Workfront Goals]Os executivos e as equipes de liderança corporativa podem ver o progresso de toda a organização em cada nível, até o indivíduo. [!DNL Workfront Goals] O fornece a visibilidade para obter insights acionáveis principais para promover as prioridades mais altas, identificar objetivos que estão em risco, diagnosticar problemas em tempo real e corrigir o curso de forma proativa.
 

@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Entender intervalos de datas e períodos de tempo no [!UICONTROL Analítica aprimorada]
+# Entenda intervalos de datas e períodos
 
 Ao visualizar a variável [!DNL Enhanced analytics] gráficos, intervalos de datas são especificados usando o widget calendário. Os intervalos de tempo são criados em um gráfico quando você clica e arrasta para definir uma região específica, para que você possa ampliar e obter uma visão mais detalhada das informações durante esse período.
 

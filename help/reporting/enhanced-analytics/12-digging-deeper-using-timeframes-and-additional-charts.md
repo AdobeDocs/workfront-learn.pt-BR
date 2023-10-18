@@ -1,6 +1,6 @@
 ---
-title: Saiba mais sobre como usar cronogramas e gráficos adicionais no [!UICONTROL Analítica aprimorada]
-description: Saiba como detalhar um projeto no gráfico Plano de voo para fazer com que o gráfico Burndown e o gráfico Tarefas em voo apareçam no Workfront.
+title: Saiba mais usando cronogramas e gráficos adicionais
+description: Saiba como detalhar um projeto no gráfico Plano de voo para fazer com que o gráfico Burndown e o gráfico Tarefas em voo apareçam em [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Saiba mais sobre como usar cronogramas e gráficos adicionais no [!UICONTROL Analítica aprimorada]
+# Saiba mais usando cronogramas e gráficos adicionais
 
 Neste vídeo, você aprenderá:
 

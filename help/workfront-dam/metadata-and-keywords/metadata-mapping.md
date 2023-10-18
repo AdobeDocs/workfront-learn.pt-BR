@@ -1,5 +1,5 @@
 ---
-title: Configurar o mapeamento de metadados para [!UICONTROL DAM DO WORKFRONT]
+title: Configurar mapeamento de metadados
 description: Saiba como configurar o mapeamento de metadados para [!UICONTROL DAM DO WORKFRONT].
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: Admin
 level: Intermediate
 jira: KT-10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Mapeamento de metadados
+# Configurar mapeamento de metadados
 
 [!DNL Workfront]As informações relacionadas ao sobre um ativo podem ser transferidas do [!DNL Workfront] em [!UICONTROL DAM DO WORKFRONT] com o ativo. A opção de mapeamento de metadados no [!DNL Workfront] [!UICONTROL Configuração] permite essa transferência de informações.
 

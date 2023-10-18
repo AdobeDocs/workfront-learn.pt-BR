@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# O que é o [!UICONTROL Conectar marca]
+# O que é o [!UICONTROL Conectar marca]?
 
 [!UICONTROL Conectar marca] é a parte de [!UICONTROL DAM DO WORKFRONT] que os usuários finais acessarão para localizar e baixar os ativos aprovados da empresa. Esses usuários geralmente são usuários internos que solicitaram ativos ou estão procurando algo como o logotipo de uma empresa.
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Personalize a aparência do da sua organização [!UICONTROL Brand Portal] para ajudar os usuários a encontrar o que precisam rapidamente e garantir que os ativos mais recentes estejam facilmente disponíveis.
+Personalize a aparência da [!UICONTROL Brand Portal] para ajudar os usuários a encontrar o que precisam rapidamente e garantir que os ativos mais recentes estejam facilmente disponíveis.
 
 Neste vídeo, você vai:
 

@@ -1,5 +1,5 @@
 ---
-title: Definir e expressar o objetivo ou a meta final
+title: Criar uma declaração de objetivo clara
 description: Saiba como criar uma declaração objetiva clara, ou a intenção do comandante, e escrever objetivos empresariais ou organizacionais fortes.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# Definir e expressar o objetivo
+# Criar uma declaração de objetivo clara
 
 Neste vídeo, você aprenderá a:
 

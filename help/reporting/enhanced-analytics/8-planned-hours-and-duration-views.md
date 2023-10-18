@@ -1,5 +1,5 @@
 ---
-title: Entender as horas planejadas e as exibições de duração em [!UICONTROL Analítica aprimorada]
+title: Entender as horas planejadas e as visualizações de duração
 description: Nos gráficos de Burndown e de mapa de árvore do Projeto, é possível visualizar as informações por horas planejadas ou duração.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Entender as horas planejadas e as exibições de duração em [!UICONTROL Analítica aprimorada]
+# Entender as horas planejadas e as visualizações de duração
 
 Nos gráficos de Burndown e de mapa de árvore do projeto, é possível visualizar as informações por horas planejadas ou duração, dependendo do que você considera mais preciso para o ambiente do Workfront.
 

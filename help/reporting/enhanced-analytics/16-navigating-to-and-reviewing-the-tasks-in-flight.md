@@ -1,6 +1,6 @@
 ---
-title: Revisar as tarefas em andamento [!UICONTROL Analítica aprimorada]
-description: Saiba como acessar o gráfico de tarefas em andamento e como ver rapidamente quais tarefas não foram concluídas em um projeto, tudo no Workfront.
+title: Revisar as tarefas em andamento
+description: Saiba como acessar o Gráfico de tarefas em andamento e como ver rapidamente quais tarefas não foram concluídas em um projeto, tudo em [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Revisar as tarefas em andamento [!UICONTROL Analítica aprimorada]
+# Revisar as tarefas em andamento
 
 Neste vídeo, você aprenderá:
 
@@ -31,7 +31,7 @@ Neste vídeo, você aprenderá:
 
 O gráfico Tarefas em andamento permite que você se aprofunde nas tarefas de um projeto específico para ver a quantidade de trabalho concluído para cada tarefa ativa e a programação das tarefas. O gráfico permite compreender quais tarefas em um projeto precisam ser concluídas e qual é a porcentagem de conclusão dessas tarefas.
 
-Essas informações podem ajudar a determinar:
+Essas informações podem ajudar você a determinar:
 
 * Em que as pessoas estão trabalhando.
 * Quais tarefas poderiam estar colocando um projeto em risco.

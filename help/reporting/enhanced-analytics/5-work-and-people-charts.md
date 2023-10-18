@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---
 
-# Entender os gráficos de trabalho e de pessoas no [!UICONTROL Analítica aprimorada]
+# Entender gráficos de trabalho e pessoas
 
 Os gráficos de trabalho mostram a atividade da perspectiva de projeto e tarefa, enquanto os gráficos de Pessoas mostram a atividade da perspectiva de uma equipe inicial.
 

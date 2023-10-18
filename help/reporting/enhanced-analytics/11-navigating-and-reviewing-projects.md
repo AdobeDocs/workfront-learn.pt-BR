@@ -1,6 +1,6 @@
 ---
-title: Entender como navegar e revisar projetos no [!UICONTROL Analítica aprimorada]
-description: Saiba como ler o gráfico Plano de voo no Workfront.
+title: Entender como navegar e revisar projetos
+description: Saiba como ler o gráfico Plano de voo no [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
-# Entender como navegar e revisar projetos no [!UICONTROL Analítica aprimorada]
+# Entender como navegar e revisar projetos
 
 Neste vídeo, você aprenderá:
 

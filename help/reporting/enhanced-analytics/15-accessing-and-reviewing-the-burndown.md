@@ -1,6 +1,6 @@
 ---
-title: Entenda como acessar e revisar o gráfico de burndown no [!UICONTROL Analítica aprimorada]
-description: Saiba como acessar o gráfico de burndown e entender a relação entre as horas restantes, a condição do projeto e a velocidade do projeto no Workfront.
+title: Entenda como acessar e revisar o gráfico de burndown
+description: Saiba como acessar o gráfico de burndown e entender a relação entre as horas restantes, a condição do projeto e a velocidade do projeto no [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# Entenda como acessar e revisar o burndown no [!UICONTROL Analítica aprimorada]
+# Entender como acessar e revisar o burndown
 
 Neste vídeo, você aprenderá:
 

@@ -1,5 +1,5 @@
 ---
-title: Ativar uma meta alinhando-a a outra
+title: Ativar alinhando uma meta a outra
 description: Saiba como ativar uma meta no [!DNL Workfront Goals] alinhando-o a outra meta.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Ativar alinhando uma meta a outra em [!DNL Workfront Goals]
+# Ativar alinhando uma meta a outra
 
 Quando você alinha duas metas, uma se tornará a meta principal e a outra, a secundária. Uma meta principal pode ter várias metas secundárias, mas uma meta secundária só pode ser alinhada a uma meta principal.
 

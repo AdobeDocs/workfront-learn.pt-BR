@@ -1,6 +1,6 @@
 ---
-title: Entender a atividade pelo gráfico de equipe no [!UICONTROL Analítica aprimorada]
-description: O gráfico Atividade por equipe permite entender como as equipes domésticas da sua organização gastam seu tempo na Workfront.
+title: Entender a atividade por gráfico de equipe
+description: O gráfico Atividade por equipe no [!UICONTROL Analítica aprimorada] permite entender como as equipes domésticas da sua organização gastam seu tempo na Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-# Entender a atividade pelo gráfico de equipe no [!UICONTROL Analítica aprimorada]
+# Entender a atividade por gráfico de equipe
 
 O gráfico Atividade por equipe permite entender como as equipes domésticas da sua organização gastam seu tempo na Workfront. Os usuários do Workfront podem estar em várias equipes, mas só podem estar em uma equipe inicial. As equipes usadas nos gráficos de Pessoas são compostas apenas pelos usuários que têm essa equipe designada como sua equipe inicial.
 

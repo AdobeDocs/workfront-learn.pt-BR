@@ -1,5 +1,5 @@
 ---
-title: Configurar palavras-chave no [!UICONTROL DAM DO WORKFRONT]
+title: Configurar as palavras-chave de metadados
 description: Saiba mais sobre o que são palavras-chave, como configurar uma lista de palavras-chave e como criar e importar uma lista de palavras-chave no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
 
-# Metadados e palavras-chave: configuração de palavra-chave
+# Configurar as palavras-chave de metadados
 
 Neste vídeo, você vai:
 
@@ -37,7 +37,7 @@ Neste vídeo, você vai:
 * Não seja tão estreito. &quot;Keokuk, IA&quot; pode ser muito estreito para uma palavra-chave e completamente irreconhecível para os usuários. &quot;Sudeste de Iowa&quot; seria melhor.
 * Não seja tão amplo. &quot;Universidade&quot; pode não funcionar, especialmente se tudo em seu sistema se relaciona a uma universidade. Determine o que distinguirá os ativos, como um nome de faculdade específico.
 * Esteja atento à relevância. Apenas porque cada ativo tem um código de projeto não significa que será útil para usuários que dependem de palavras-chave encontrar ativos. Se essas informações precisarem permanecer com o ativo, considere adicioná-lo em outro campo de metadados.
-* Não use poucas palavras-chave; caso contrário, elas não ajudarão a limitar os resultados da pesquisa.
+* Não use poucas palavras-chave, caso contrário, elas não ajudarão a limitar os resultados da pesquisa.
 * Não dependa de palavras-chave para cada dado. Use campos de metadados para informações como nome ou localização do fotógrafo.
 
 ## Estratégia de palavra-chave

@@ -1,6 +1,6 @@
 ---
-title: Entender a capacidade da equipe no [!UICONTROL Analítica aprimorada]
-description: Saiba como o gráfico Capacidade da equipe mostra quando uma equipe doméstica foi superalocada ou subalocada.
+title: Entender a capacidade da equipe
+description: Saiba como o gráfico Capacidade da equipe no [!UICONTROL Analítica aprimorada] mostra quando uma equipe interna está superalocada ou subalocada.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,16 +10,16 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Entender a capacidade da equipe no [!UICONTROL Analítica aprimorada]
+# Entender a capacidade da equipe
 
-O gráfico Capacidade da equipe mostra quando uma equipe doméstica foi superalocada ou subalocada. O gráfico exibe o volume de trabalho atribuído à equipe da página inicial em um determinado dia e atribui uma cor azul mais escura quando eles estão se aproximando do esgotamento ou não estão sendo desafiados. Uma cor mais clara e transparente indica que a carga de trabalho está mais equilibrada.
+O gráfico Capacidade da equipe mostra quando uma equipe doméstica foi superalocada ou subalocada. O gráfico exibe o volume de trabalho atribuído à equipe da página inicial em um determinado dia e atribui uma cor azul mais escura quando eles estão se aproximando do esgotamento ou não estão sendo desafiados. Uma cor mais clara e transparente indica que a carga de trabalho é mais equilibrada.
 
 Ver essas informações ajuda a determinar:
 

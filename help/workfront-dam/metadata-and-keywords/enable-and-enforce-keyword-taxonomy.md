@@ -1,5 +1,5 @@
 ---
-title: Ativar e Impor Taxonomia de Palavras-chave
+title: Habilitar e impor taxonomia de palavras-chave
 description: Saiba como habilitar e impor a taxonomia de palavras-chave, quando os usuários podem inserir suas próprias palavras-chave, e configurar aspectos de pesquisa no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Metadados e palavras-chave: ativar e aplicar a taxonomia de palavras-chave
+# Habilitar e impor taxonomia de palavras-chave
 
 Neste vídeo, você aprenderá a:
 

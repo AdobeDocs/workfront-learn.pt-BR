@@ -1,5 +1,5 @@
 ---
-title: Personalizar ações para comentários de prova
+title: Personalizar ações de comentário de prova
 description: Saiba como as ações podem ser usadas em comentários de prova. Saiba como configurar e personalizar rótulos de ação para os recursos de prova do.
 activity: use
 feature: Workfront Proof
@@ -11,14 +11,14 @@ thumbnail: 335128.png
 jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Personalizar ações para comentários de prova
+# Personalizar ações de comentário de prova
 
 Neste vídeo, você aprenderá:
 

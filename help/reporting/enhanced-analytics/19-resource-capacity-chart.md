@@ -1,6 +1,6 @@
 ---
-title: Entender o gráfico de capacidade de recursos no [!UICONTROL Analítica aprimorada]
-description: Saiba como o gráfico Capacidade de recursos mostra o número de horas planejadas atribuídas a uma equipe doméstica dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
+title: Entender o gráfico de capacidade de recursos
+description: Saiba como o Gráfico de capacidade de recursos em [!UICONTROL Analítica aprimorada] mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Entender o gráfico de capacidade de recursos no [!UICONTROL Analítica aprimorada]
+# Entender o gráfico de capacidade de recursos
 
 O gráfico Capacidade de recursos mostra o número de horas planejadas atribuídas a uma equipe inicial dentro do período filtrado em comparação ao total de horas disponíveis da equipe.
 

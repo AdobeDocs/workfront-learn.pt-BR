@@ -1,5 +1,5 @@
 ---
-title: Entender grupos e usuários no [!UICONTROL DAM DO WORKFRONT]
+title: Configurar grupos e usuários
 description: Saiba como criar pastas, grupos e usuários no [!UICONTROL DAM DO WORKFRONT]. Entenda os tipos de função de usuário e conceda permissões para pastas.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-# Configuração do sistema: grupos e usuários
+# Configurar grupos e usuários
 
 Neste vídeo, você aprenderá a:
 
@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá a:
 
 ## Revisão de grupos e usuários
 
-À medida que você configura o [!UICONTROL DAM DO WORKFRONT] sistema, é importante considerar as funções que os usuários e grupos desempenham na visão geral.
+À medida que você configura o [!UICONTROL DAM DO WORKFRONT] importante considerar as funções que os usuários e grupos desempenham na visão geral.
 
 Os grupos controlam o acesso às pastas de ativos no [!UICONTROL DAM DO WORKFRONT]. As configurações de grupo também controlam o que os usuários podem fazer com os ativos (exibir, baixar, editar etc.) eles têm permissão para acessar.
 

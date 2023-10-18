@@ -1,5 +1,5 @@
 ---
-title: Desenvolver uma [!UICONTROL DAM DO WORKFRONT] Estratégia
+title: Analisar e planejar um [!UICONTROL DAM DO WORKFRONT] estratégia
 description: Saiba como analisar e planejar o desenvolvimento de um [!UICONTROL DAM DO WORKFRONT] estratégia.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
-# Analisar e planejar o desenvolvimento de um [!UICONTROL DAM DO WORKFRONT] estratégia
+# Analisar e planejar um [!UICONTROL DAM DO WORKFRONT] estratégia
 
 Antes de começar a configuração [!UICONTROL DAM DO WORKFRONT] para sua organização, é essencial estabelecer uma estratégia organizacional e uma estratégia de metadados/palavra-chave.
 

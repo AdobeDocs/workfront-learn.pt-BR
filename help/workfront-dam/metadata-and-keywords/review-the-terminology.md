@@ -1,5 +1,5 @@
 ---
-title: Revisar Terminologia de Metadados e Palavras-chave
+title: Revisar a terminologia de metadados
 description: Saiba o que são metadados, quais perguntas devem ser feitas ao desenvolver uma estratégia de metadados e muito mais no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Metadados e palavras-chave: revise a terminologia
+# Revisar a terminologia de metadados
 
 Neste vídeo, você aprenderá:
 

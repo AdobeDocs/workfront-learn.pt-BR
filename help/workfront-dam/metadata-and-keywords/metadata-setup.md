@@ -1,5 +1,5 @@
 ---
-title: Como configurar metadados no [!UICONTROL DAM DO WORKFRONT]
+title: Configurar os metadados
 description: Saiba como criar um esquema de metadados, entender os diferentes tipos de metadados, usar campos de metadados existentes e muito mais no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Metadados e palavras-chave: configuração de metadados
+# Configurar os metadados
 
 Neste vídeo, você aprenderá a:
 
