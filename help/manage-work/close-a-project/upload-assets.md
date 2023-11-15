@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Fazer upload de ativos
 
-Antes de fechar um [!DNL Workfront] projeto, certifique-se de que todos os arquivos relevantes estejam anexados no [!UICONTROL Documentos] seção. Faça upload desses itens como um documento ou uma prova, conforme determinado pelas diretrizes de sua organização.
+Antes de fechar um [!DNL Workfront] projeto, certifique-se de que todos os arquivos relevantes estejam anexados no [!UICONTROL Documentos] seção. Faça upload desses itens como um documento ou uma prova, conforme determinado pelas diretrizes da sua organização.
 
 Talvez seja necessário carregar o documento ou a prova como uma versão de um arquivo existente.
 

@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '1219'
 ht-degree: 1%
@@ -48,7 +48,7 @@ Não se preocupe... você não precisa preencher cada campo e caixa de seleção
 
    O status do Planning pode ser definido como o padrão global do Workfront para novos projetos pelo administrador do sistema.
 
-1. **Modo de Cronograma**
+1. **Modo de cronograma**
 
    Os projetos da Workfront podem ser agendados a partir de uma data de início ou de uma data de conclusão. Essa seleção importante determina como as datas planejadas de cada tarefa são calculadas.
 
@@ -62,7 +62,7 @@ Não se preocupe... você não precisa preencher cada campo e caixa de seleção
 
 1. **Grupo**
 
-   Um grupo é uma unidade organizacional da Workfront que geralmente se alinha a um departamento. Este campo pode ser definido no modelo de projeto. Caso contrário, o campo é automaticamente definido para o Grupo inicial da pessoa que está criando o projeto. Você pode alterar o grupo conforme necessário.
+   Um grupo é uma unidade organizacional da Workfront que geralmente se alinha a um departamento. Este campo pode ser definido no modelo de projeto. Caso contrário, o campo é automaticamente definido como o Grupo inicial da pessoa que está criando o projeto. Você pode alterar o grupo conforme necessário.
 
    Geralmente, a maioria das pessoas que trabalham no projeto vem desse grupo. Mas isso não restringe as pessoas de outros grupos que recebem trabalho no projeto.
 

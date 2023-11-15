@@ -6,10 +6,10 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%

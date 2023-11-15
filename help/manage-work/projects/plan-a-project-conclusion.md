@@ -6,10 +6,10 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 5%
@@ -26,7 +26,7 @@ Obtenha o seu [!DNL  Workfront] projetos ativos e em execução rapidamente usan
 1. Predecessoras
 1. Atribuições
 
-Depois que tudo estiver definido, altere o status do projeto para Atual para ativar o projeto. À medida que o projeto avança, você desejará acompanhar o trabalho que está sendo realizado, os problemas que surgem, as perguntas que precisam de resposta e muito mais. Lembre-se: você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!
+Depois que tudo estiver definido, altere o status do projeto para Atual para ativar o projeto. À medida que o projeto avança, convém acompanhar o andamento do trabalho, os problemas que surgem, as perguntas que precisam ser respondidas e muito mais. Lembre-se: você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!
 
 <!---
 footer urls for the LP
