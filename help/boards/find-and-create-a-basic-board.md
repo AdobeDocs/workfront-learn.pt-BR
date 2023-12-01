@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: 2744efec-9194-4bd9-8bc4-391cc796c5a4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Entenda melhor o que é um fórum e como ele pode beneficiar você e/ou sua equipe na gestão do trabalho. Veja onde acessar quadros e como criar um quadro básico.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548)
+>[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on)
