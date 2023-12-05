@@ -3,10 +3,10 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 2%
+source-wordcount: '2375'
+ht-degree: 1%
 
 ---
 
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + Dados personalizados {#custom-data}
-   + Formulários personalizados {#custom-forms}
+   + Forms personalizado {#custom-forms}
       + [Criar e compartilhar um formulário personalizado](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [Compartilhar campos personalizados](custom-data/custom-forms/share-custom-fields.md)
       + [Editar um formulário personalizado](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Anexar um formulário personalizado a um objeto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Adicionar quebras de seção e lógicas a um formulário personalizado](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar um formulário personalizado como um PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Expressões calculadas {#calculated-expressions}
@@ -151,7 +152,7 @@ ht-degree: 2%
       + [Criar um fluxo de solicitação](manage-work/request-queues/create-a-request-flow.md)
       + [Respostas a perguntas comuns sobre filas de solicitações](manage-work/request-queues/request-queue-faq.md)
 
-   + Portfólios {#portfolios}
+   + Portfolio {#portfolios}
       + [Visão geral dos portfólios](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Compreender o [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Use o [!UICONTROL Otimizador de Portfolio] para priorizar e gerenciar o trabalho](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -300,7 +301,7 @@ ht-degree: 2%
       + [Atualizar e copiar planos](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [Publicar um cenário](manage-resources/scenario-planner/publish-a-scenario.md)
 
-+ Workfront Goals {#workfront-goals}
++ Metas do Workfront {#workfront-goals}
    + Estabelecer uma visão para sua organização {#establish-a-vision-and-strategy}
       + [Compreender a visão por trás dos objetivos do Workfront](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Entender como o Workfront Goals funciona](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [Gerenciar comentários de prova](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Rastrear o progresso da prova](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ DAM DO WORKFRONT {#workfront-dam-program}
    + Configuração do sistema {#system-setup}
       + [Compreender [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Entender as configurações do sistema](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -570,7 +571,7 @@ ht-degree: 2%
       + [Entender os lightboxes como usuário](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [Trabalhar com ativos como usuário](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
-+ Página inicial {#home}
++ Início {#home}
    + [Remover, adicionar e reorganizar widgets na Página inicial](workfront-home/remove-add-and-rearrange-widgets.md)
    + [Encontre seu trabalho](workfront-home/find-your-work-in-workfront-home.md)
    + [Organizar sua lista de tarefas](workfront-home/organize-your-to-do-list-in-workfront-home.md)
@@ -584,10 +585,10 @@ ht-degree: 2%
    + [Revisar trabalho em [!UICONTROL Minhas atualizações] ou [!UICONTROL Início]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [Entender atualizações e notificações](manage-work/issues-requests/understand-updates-and-notifications.md)
 
-+ Ágil {#agile}
++ Agile {#agile}
 
    + Scrum {#scrum}
-      + [Criar uma equipe ágil de Scum](agile/create-a-scrum-agile-team.md)
+      + [Criar uma equipe ágil de Scrum](agile/create-a-scrum-agile-team.md)
       + [Gerenciar o trabalho como uma equipe Scrum](agile/manage-work-scrum-team.md)
       + [Removendo o backlog](agile/gooming-the-backlog.md)
       + [Planejar e criar uma iteração](agile/plan-and-create-an-iteration.md)
@@ -608,13 +609,13 @@ ht-degree: 2%
       + [Adicionar e gerenciar tags para cartões](boards/add-and-manage-tags-for-cards.md)
 
 + Práticas recomendadas {#best-practices}
-   + [Ágil](best-practices/agile-bp.md)
+   + [Agile](best-practices/agile-bp.md)
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [Business case e otimizador de portfólio](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Comunicação](best-practices/communication-bp.md)
-   + [Formulários personalizados](best-practices/custom-forms-bp.md)
+   + [Formulários personalizados no meu grupo](best-practices/custom-forms-bp.md)
    + [Relatórios personalizados](best-practices/custom-reports-bp.md)
-   + [Painéis](best-practices/dashboards-bp.md)
+   + [Painéis de Controle](best-practices/dashboards-bp.md)
    + [Documentos](best-practices/documents-bp.md)
    + [Filtros, visualizações e agrupamentos](best-practices/filters-views-groupings-bp.md)
    + [Funções de trabalho](best-practices/job-roles-bp.md)
@@ -628,7 +629,7 @@ ht-degree: 2%
    + [Modelos de projeto](best-practices/project-templates-bp.md)
    + [Prova do Workfront](best-practices/proofing-bp.md)
    + [Fila de solicitações](best-practices/request-queues-bp.md)
-   + [Planejador de recursos](best-practices/resource-planner-bp.md)
+   + [Planejamento de recursos](best-practices/resource-planner-bp.md)
    + [Conjunto de recursos](best-practices/resource-pools-bp.md)
    + [Planejador de cenários](best-practices/scenario-planner-bp.md)
    + [Cronogramas](best-practices/schedules-bp.md)
