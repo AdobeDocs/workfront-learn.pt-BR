@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,13 @@ O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a 
 
 Use o Business Case antes ou no início do seu projeto.
 
-**Veja o porquê**
+**Aqui está o porquê**
 
 Usar um business case antes do início do projeto, ou mesmo no início do projeto, permite que você realmente antecipe o que o projeto precisará — recursos (humanos e não humanos), orçamento, prazo — e como atenuar possíveis riscos que podem ocorrer antes que eles aconteçam.
 
 Ele também oferece a oportunidade de mostrar às partes interessadas como seu projeto contribui para as metas departamentais, regionais e/ou da empresa.
+
+Para obter instruções sobre como usar o Business Case, consulte [Entender o business case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
 
 </br>
 </br>
@@ -58,6 +60,11 @@ Ele também oferece a oportunidade de mostrar às partes interessadas como seu p
 
 Estime e ajuste informações importantes do projeto, como custo, alinhamento, valor líquido, risco e ROI no Business Case.
 
-**Veja o porquê**
+**Aqui está o porquê**
 
 Certificar-se de que essas informações estejam o mais próximo possível do que o projeto &quot;real&quot; implicará permite usar com precisão o recurso de pontuação no Otimizador de Portfolio para determinar a prioridade dos projetos listados. O Portfolio Otimizer é uma ótima ferramenta para garantir que seus projetos sejam priorizados com eficiência e estejam alinhados à estratégia e ao valor de sua empresa.
+
+Para obter instruções sobre como usar o Business Case, consulte [Entender o business case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+Para obter instruções sobre como usar o Otimizador de Portfolio, consulte [Usar o Otimizador de Portfolio para priorizar e gerenciar o trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+

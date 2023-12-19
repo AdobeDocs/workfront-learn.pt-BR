@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '376'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a 
 
 Use os workflows para determinar as notificações necessárias.
 
-**Veja o porquê**
+**Aqui está o porquê**
 
 Percorrer os workflows passo a passo facilita a identificação dos pontos de comunicação e garante que as notificações adequadas estejam habilitadas. Isso automatiza as notificações para a forma como sua organização já está funcionando, evitando o detalhamento de spam ou comunicação.
 
@@ -59,7 +59,7 @@ Crie um relatório de Observação com prompts para os usuários pesquisarem fac
 
 
 
-**Veja o porquê**
+**Aqui está o porquê**
 
 Se você tiver muitas threads de atualização em um projeto, pode ser difícil encontrar uma atualização específica, especialmente porque Ctrl/Command F não pesquisará nas threads. Um relatório de Observação possibilita verificar facilmente todas as atualizações com base nas opções de prompt sem precisar abrir cada thread. As opções comuns de prompt seriam:
 
@@ -67,3 +67,6 @@ Se você tiver muitas threads de atualização em um projeto, pode ser difícil 
 * Texto da nota
 * Nome do proprietário
 * Data de entrada
+
+Para obter instruções passo a passo sobre como criar um relatório de notas com prompts, assista ao [Criar um relatório de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) , em seguida, execute a atividade seguinte.
+
