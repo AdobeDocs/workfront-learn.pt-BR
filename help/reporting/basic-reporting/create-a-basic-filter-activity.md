@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
@@ -31,7 +31,7 @@ As instruções passo a passo estão incluídas abaixo.
 ![Uma imagem da tela para criar um novo filtro](assets/basic-filter-activity-1.png)
 
 1. Navegue até a [!UICONTROL Projetos] área a partir da [!UICONTROL Menu principal]. Você verá uma lista de projetos.
-1. Clique em **[!UICONTROL Filtro]** e selecione [!UICONTROL Filtros legados]
+1. Clique em **[!UICONTROL Filtro]** e selecione [!UICONTROL Filtros legados].
 1. Selecionar **[!UICONTROL Novo Filtro]**.
 1. Nomeie seu filtro como &quot;Todos os projetos no portfólio de marketing&quot;.
 1. Clique em **[!UICONTROL Adicionar Regra de Filtro]**.
@@ -39,7 +39,7 @@ As instruções passo a passo estão incluídas abaixo.
 1. Deixe a [!UICONTROL Igual] operador como está.
 1. Tipo &quot;[!UICONTROL marketing]&quot; no [!UICONTROL Comece a digitar o nome] campo.
 1. Selecionar [!UICONTROL Portfolio de marketing] supondo que você tenha um portfólio com esse nome no qual deseja filtrar. Se não estiver apenas usando o recurso de digitação antecipada para encontrar o portfólio desejado.
-1. Clique em **[!UICONTROL Salvar Filtro]**
+1. Clique em **[!UICONTROL Salvar Filtro]**.
 
 ## Atividade 2 - Projetos que possuo fechando este mês
 
@@ -54,7 +54,7 @@ As instruções passo a passo estão incluídas abaixo.
 ![Uma imagem da tela para criar um novo filtro](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. Navegue até a [!UICONTROL Projetos] área a partir da [!UICONTROL Menu principal]. Você verá uma lista de projetos.
-1. Clique em **[!UICONTROL Filtro]** e selecione [!UICONTROL Filtros legados]
+1. Clique em **[!UICONTROL Filtro]** e selecione [!UICONTROL Filtros legados].
 1. Selecionar **[!UICONTROL Novo Filtro]**.
 1. Nomeie seu filtro como &quot;Projetos que possuo fechando este mês&quot;.
 1. Clique em **[!UICONTROL Adicionar Regra de Filtro]**.
@@ -69,4 +69,4 @@ As instruções passo a passo estão incluídas abaixo.
 1. Clique em [!UICONTROL Adicionar Regra de Filtro] novamente.
 1. No [!UICONTROL Comece a digitar o nome do campo] tipo de campo &quot;planejado&quot;, selecione [!UICONTROL Data de Término Planejada] no [!UICONTROL Projeto] origem do campo.
 1. Altere o [!UICONTROL Igual] operador para [!UICONTROL Este mês].
-1. Clique em **[!UICONTROL Salvar Filtro]**
+1. Clique em **[!UICONTROL Salvar Filtro]**.

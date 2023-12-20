@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Reduza o número de relatórios personalizados que você cria utilizando filtros
 
 Criar relatórios de uso único para cada segmento de dados que você deseja ver é demorado e desorganiza o sistema do Workfront.
 
-Para obter instruções sobre como criar relatórios com prompts, consulte o capítulo rotulado &quot;Como configurar e usar prompts de relatório&quot; em [Entender as configurações do relatório](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Para obter instruções sobre como criar relatórios com prompts, consulte o capítulo rotulado &quot;Como configurar e usar prompts de relatório&quot; no [Entender as configurações do relatório](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) vídeo.
 
 Para obter instruções sobre como criar relatórios com prompts personalizados, consulte [Criar prompts personalizados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
