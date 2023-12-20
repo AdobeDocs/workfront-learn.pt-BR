@@ -3,9 +3,9 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '2375'
+source-wordcount: '2374'
 ht-degree: 1%
 
 ---
@@ -204,7 +204,7 @@ ht-degree: 1%
       + [Criar uma exibição básica](reporting/basic-reporting/create-a-basic-view.md)
       + [Adicionar formatação condicional básica a uma exibição](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Criar um filtro básico](reporting/basic-reporting/create-a-basic-filter.md)
-      + [Criar uma atividade básica de filtro](reporting/basic-reporting/create-a-basic-filter-activity.md)
+      + [Criar atividades básicas de filtro](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Criar um relatório simples](reporting/basic-reporting/create-a-simple-report.md)
       + [Criar um relatório de tarefas](reporting/basic-reporting/create-a-task-report.md)
       + [Criar relatórios com gráficos](reporting/basic-reporting/create-reports-with-charts.md)

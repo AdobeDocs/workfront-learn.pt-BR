@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,14 @@ O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a 
 
 Aproveite portfólios e programas para ajudar a gerenciar projetos e relatórios.
 
-**Veja o porquê**
+**Aqui está o porquê**
 
 Ao usar portfólios e programas, você pode usar ferramentas adicionais da Workfront com mais eficiência. Por exemplo, em um relatório, é possível exibir apenas um conjunto de projetos que têm os mesmos objetivos ou estão disputando o mesmo orçamento. Ao organizar projetos em um portfólio e/ou programa, você pode filtrar facilmente esses projetos por esse portfólio, em vez de vários outros critérios para restringir o relatório.
 
 Além disso, você pode empregar ferramentas adicionais, como o relatório de Utilização, que ajuda a entender como e onde os usuários estão trabalhando, ou o Otimizador de Portfolio, que facilita a priorização de projetos e o alinhamento com as metas e estratégias gerais da empresa.
+
+Para entender como filtrar uma lista de projetos por um portfólio específico, consulte &quot;Atividade 1 - Todos os projetos no portfólio de marketing&quot; em [Criar atividades básicas de filtro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+
+Para entender o relatório de Utilização, consulte o artigo [Acompanhe o progresso, o custo e a receita com o relatório de Utilização](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+
+Para saber mais sobre o Otimizador de Portfolio, consulte [Usar o Otimizador de Portfolio para priorizar e gerenciar o trabalho](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).

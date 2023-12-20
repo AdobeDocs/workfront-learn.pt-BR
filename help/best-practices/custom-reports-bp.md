@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,6 @@ O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a 
 * Considere o uso de prompts de relatório para restringir os resultados de um relatório, em vez de criar vários relatórios semelhantes ou criar estruturas de filtro complicadas em um relatório.
 
 * Acelere a criação de relatórios copiando um relatório existente semelhante para criar seu novo relatório a partir do.
-
-* Use a funcionalidade de relatório pronta para uso sempre que possível, em vez do modo de texto.
 
 * Use curingas com base no usuário para criar relatórios dinâmicos de modo que o usuário que visualiza o relatório veja informações relevantes para ele.
 
@@ -88,7 +86,7 @@ Os curingas com base no usuário tornam os relatórios mais flexíveis, permitin
 </br>
 </br>
 
-Para obter instruções sobre como usar curingas baseados no usuário em relatórios, consulte [Criar filtros com curingas baseados no usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Para obter instruções sobre como usar curingas baseados no usuário em relatórios, consulte [Criar filtros com curingas baseados no usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Prática recomendada**
 
