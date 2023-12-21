@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
+source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -49,9 +49,9 @@ Use os workflows para determinar as notificações necessárias.
 
 Percorrer os workflows passo a passo facilita a identificação dos pontos de comunicação e garante que as notificações adequadas estejam habilitadas. Isso automatiza as notificações para a forma como sua organização já está funcionando, evitando o detalhamento de spam ou comunicação.
 
-Para obter instruções sobre como configurar notificações de eventos, consulte [Configurar notificações de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+Para obter instruções sobre como configurar notificações de eventos, consulte [Configurar notificações de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-Para obter instruções sobre como gerenciar notificações de eventos, consulte [Gerenciar notificações de eventos no aplicativo e por email](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
+Para obter instruções sobre como gerenciar notificações de eventos, consulte [Gerenciar notificações de eventos no aplicativo e por email](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
