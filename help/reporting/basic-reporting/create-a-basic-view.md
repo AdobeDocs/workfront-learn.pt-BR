@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 6%
+source-wordcount: '827'
+ht-degree: 1%
 
 ---
 
@@ -38,9 +38,9 @@ Crie uma exibição de tarefa chamada &quot;Exibição do status da tarefa&quot;
 * [!UICONTROL Nome da tarefa]
 * [!UICONTROL Atribuições]
 * [!UICONTROL Duração]
-* [!UICONTROL Percentual concluído]
+* [!UICONTROL Percentual Completo]
 * [!UICONTROL Status]
-* [!UICONTROL Progresso - Status de Progresso]
+* [!UICONTROL Status do progresso]
 * [!UICONTROL Ícones de Status]
 
 ## Resposta da Atividade 1
@@ -72,8 +72,8 @@ Crie uma visualização de tarefa chamada &quot;Visualização de marco&quot; co
 * [!UICONTROL Horas planejadas]
 * [!UICONTROL Etapa: Nome]
 * [!UICONTROL Início em]
-* [!UICONTROL Concluir em]
-* [!UICONTROL Percentual concluído]
+* [!UICONTROL Prazo final]
+* [!UICONTROL Percentual Completo]
 
 
 ## Resposta da Atividade 2
@@ -97,11 +97,11 @@ Crie uma exibição de tarefa chamada &quot;Tipos de duração e exibição de r
 * [!UICONTROL Nome da tarefa]
 * [!UICONTROL Atribuições]
 * [!UICONTROL Duração]
-* [!UICONTROL Duração Planejada]
+* [!UICONTROL Duração planejada]
 * [!UICONTROL Horas planejadas]
-* [!UICONTROL Predecessoras]
+* [!UICONTROL Predecessores]
 * [!UICONTROL Início em]
-* [!UICONTROL Concluir em]
+* [!UICONTROL Prazo final]
 * [!UICONTROL Tipo de Duração]
 * [!UICONTROL Restrição de Tarefa]
 * [!UICONTROL Data de Restrição]
@@ -129,3 +129,29 @@ Altere o [!UICONTROL Formato do campo] no [!UICONTROL Início em] e [!UICONTROL 
 1. Selecione o [!UICONTROL Prazo final] e clique em [!UICONTROL Opções avançadas].
 1. No [!UICONTROL Formato do campo] seleção suspensa [!UICONTROL &quot;17/10/60 3:00&quot;].
 1. Clique em **[!UICONTROL Salvar]**.
+
+## Atividade 4: criar uma exibição de status ativa do modelo de projeto
+
+Qualquer pessoa que gerencia modelos de projeto apreciará a visualização do status ativo (Verdadeiro ou Falso) de cada modelo em uma lista. Melhor ainda, o campo é editável em linha.
+
+Crie uma visualização de modelo de projeto chamada &quot;Status ativo do modelo de projeto&quot; com as seguintes colunas:
+
+* [!UICONTROL Nome]
+* [!UICONTROL Proprietário]
+* [!UICONTROL Duração]
+* [!UICONTROL Horas planejadas]
+* [!UICONTROL Custo Planejado]
+* [!UICONTROL Sinalizadores]
+* [!UICONTROL Nome do grupo]
+* [!UICONTROL Está ativo]
+
+
+## Resposta da Atividade 4
+
+![Uma imagem da tela para mostrar um modo de exibição de status ativo do modelo de projeto](assets/view-activity-4.png)
+
+1. Em uma lista de modelos de projeto, vá para a **[!UICONTROL Exibir]** e selecione **[!UICONTROL Nova visualização]**.
+1. Nomeie sua exibição como &quot;Status padrão+ativo&quot;.
+1. Clique em **[!UICONTROL Adicionar coluna]**.
+1. No [!UICONTROL Mostrar nesta coluna] digite &quot;é &quot; e selecione &quot;Está ativo&quot; no campo [!UICONTROL Modelo] origem do campo.
+1. Clique em **[!UICONTROL Salvar visualização]**.
