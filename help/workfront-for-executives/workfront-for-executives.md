@@ -14,9 +14,9 @@ jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
 source-git-commit: e272158326592cdb50195a00668b9cb60e4cb659
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '510'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -24,67 +24,67 @@ ht-degree: 0%
 
 Saiba como o Workfront pode ajudar você a gerenciar trabalhos em sua organização.
 
-Como executivo, a Adobe Workfront pode:
+Como executivo, o Adobe Workfront lhe permite:
 
-* Mantenha-o informado sobre o progresso do trabalho que lhe preocupa durante **relatórios e painéis**
-* Ofereça uma maneira fácil de **comunicar-se com as partes interessadas do projeto usando atualizações**
-* Ofereça uma maneira fácil de **fazer uma solicitação de trabalho**
-* Dê a você uma maneira fácil de ver **itens aguardando sua aprovação**
+* Receber informações sobre o progresso de um trabalho de seu interesse por meio de **relatórios e painéis**
+* **Comunicar-se facilmente com as partes interessadas do projeto por meio de atualizações**
+* **Fazer uma solicitação de trabalho** com facilidade
+* **Identificar itens que aguardam sua aprovação** com facilidade
 
 ## Relatórios e painéis de controle
 
 ### Relatórios
 
-Os relatórios no Workfront são a espinha dorsal para tomar decisões melhores e mais rápidas. Você pode vê-las em todos os lugares aonde for: na área de projetos, na área de pessoas ou em uma landing page de tarefas.
+Os relatórios do Workfront são a base para tomar decisões melhores e mais rápidas. Você pode vê-los em qualquer lugar: na área de projetos, na área de pessoas ou na página de destino de uma tarefa.
 
-Líderes e executivos podem navegar até a área de relatório para visualizar relatórios personalizados com informações específicas. Para aumentar a visibilidade dos relatórios mais importantes, o Workfront usa painéis.
+Líderes e executivos podem navegar até a área de relatórios para visualizar relatórios personalizados com informações específicas. Para aumentar a visibilidade dos relatórios mais importantes, o Workfront usa painéis.
 
 ### Painéis
 
-Ao usar um painel, os líderes podem visualizar e detalhar rapidamente qualquer parte do trabalho em que sua organização está trabalhando no momento.O painel é simplesmente uma coleção de relatórios que fornecem informações que os líderes podem precisar ver regularmente. Os painéis são totalmente personalizáveis para que qualquer pessoa que use o Workfront possa ver o trabalho que é importante para ela.
+Ao usar um painel, líderes podem visualizar e fazer uma busca detalhada e rápida em qualquer parte do trabalho atual de sua organização. O painel é simplesmente uma coleção de relatórios que fornecem informações necessárias para líderes com frequência. Os painéis são totalmente personalizáveis para que qualquer pessoa que utilize o Workfront possa ver o trabalho que é importante para ela.
 
-Clique em Painéis no ícone do menu Principal no canto superior direito para acessar a área Painéis.
+Clique em Painéis no ícone do menu principal no canto superior direito para acessar a área de painéis.
 
 ![Uma imagem da opção Painéis no menu principal](assets/workfront-4-executives-1.png)
 
-Os líderes podem acessar os diferentes painéis disponíveis para eles na navegação do painel esquerdo.
+Líderes podem acessar os diferentes painéis disponíveis utilizando a navegação do painel esquerdo.
 
 ![Uma imagem da página Painéis](assets/workfront-4-executives-2.png)
 
-* **Todos os painéis**: exibe os painéis que você ou outros usuários criaram e que você tem permissões para, pelo menos, exibir.
-* **Meus Painéis**: exibe os painéis que você criou.
+* **Todos os painéis**: exibe os painéis que você ou outros usuários criaram e para os quais você tem ao menos uma permissão de visualização.
+* **Meus painéis**: exibe os painéis que você criou.
 * **Painéis compartilhados**: exibe os painéis que foram criados por outros usuários e compartilhados com você.
 
-Com um painel de controle, os líderes podem revisar coisas como &quot;Custos, Receitas e Orçamentos&quot; para projetos importantes e abrir questões com as quais suas equipes estão lidando. Eles também podem ver projetos que estão em risco, bem como uma lista de itens que precisam de aprovação executiva.
+Um painel permite que líderes revisem informações como “Custos, receitas e orçamentos” referentes a projetos importantes, bem como problemas com os quais suas equipes estão lidando. Os painéis também permitem ver os projetos que estão em risco, além de uma lista de itens que precisam de aprovação executiva.
 
-Os relatórios no Workfront podem ajudar a aumentar a responsabilidade de seus funcionários. A chave para aproveitar os relatórios é estabelecer um fluxo de trabalho claro para a maneira como sua organização os está usando. Certifique-se de que todos tenham uma noção clara de quais relatórios estão sendo usados para medir o sucesso.
+Os relatórios do Workfront podem ajudar a desenvolver um senso de responsabilidade em seus funcionários. A chave para aproveitar os relatórios é estabelecer um fluxo de trabalho claro, de acordo com a maneira que sua organização os utiliza. Certifique-se de que todos(as) tenham uma compreensão clara de quais relatórios estão sendo usados para medir o sucesso.
 
 ![Exemplo de relatórios em um painel no Workfront ](assets/workfront-4-executives-3.png)
 
 Exemplo de relatórios em um painel no Workfront
 
-## Comunicar com as partes interessadas do projeto usando atualizações
+## Comunique-se com as partes interessadas do projeto utilizando as atualizações
 
-Comunique-se com a equipe do projeto dentro do próprio projeto para que todas as comunicações do projeto sejam facilmente acessíveis.
+Comunique-se com a equipe do projeto dentro do próprio projeto para que as informações relevantes sejam facilmente acessíveis.
 
-![Uma imagem da página de Atualizações](assets/workfront-4-executives-4.png)
+![Uma imagem da página Atualizações](assets/workfront-4-executives-4.png)
 
 
 ## Fazer uma solicitação
 
-Em muitas organizações, a primeira etapa para iniciar um novo projeto, desenvolver um novo produto ou criar um produto é fazer uma solicitação no Workfront. Você pode acompanhar o progresso da solicitação e fornecer informações adicionais quando necessário.
+Em muitas organizações, o primeiro passo para iniciar um novo projeto, desenvolver um novo produto ou criar entregáveis é fazer uma solicitação no Workfront. Você pode acompanhar o progresso da solicitação e fornecer informações adicionais quando necessário.
 
 Neste vídeo, você aprenderá a:
 
 * Navegue até a área de solicitação
 * Fazer uma solicitação
-* Exibir suas solicitações enviadas
+* Visualize as solicitações enviadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
-## Itens aguardando sua aprovação
+## Itens que aguardam sua aprovação
 
-Entrada [!UICONTROL Início] você pode encontrar facilmente itens aguardando sua aprovação.
+Na [!UICONTROL página inicial] você pode encontrar itens que aguardam sua aprovação com facilidade.
 
-![Uma imagem da Home page](assets/workfront-4-executives-5.png)
+![Uma imagem da página inicial](assets/workfront-4-executives-5.png)
 
