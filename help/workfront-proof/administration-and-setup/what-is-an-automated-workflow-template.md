@@ -1,6 +1,6 @@
 ---
 title: O que é um modelo de fluxo de trabalho automatizado?
-description: Saiba o que é um modelo de fluxo de trabalho de prova automatizada e como os usuários de prova podem se beneficiar dos modelos. Comece a planejar quais modelos criar.
+description: Saiba o que é um modelo de fluxo de trabalho de revisão automatizado e como os usuários de provas podem se beneficiar deles. Comece planejando quais modelos serão criados.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* O que é um template de workflow automatizado
+* O que é um modelo de fluxo de trabalho automatizado
 * Como os usuários de prova podem se beneficiar dos modelos de fluxo de trabalho
-* Como começar a planejar quais modelos criar
+* Como começar a planejar quais modelos serão criados
 
 >[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on)
 
