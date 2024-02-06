@@ -1,6 +1,6 @@
 ---
-title: Configurar tipos de despesas
-description: Saiba como usar tipos de despesas pré-criados ao inserir despesas e como criar novos tipos de despesas.
+title: Configurar tipos de despesa
+description: Aprenda a usar tipos de despesas predefinidos ao inserir despesas e criar novos tipos de despesas.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Configurar tipos de despesas
+# Configurar tipos de despesa
 
-Despesas em [!DNL Workfront] representam custos não mão de obra associados a projetos e outros trabalhos. As despesas podem ser, por exemplo, despesas de viagem ao visitar um cliente ou a compra de suprimentos necessários para concluir uma sessão fotográfica. Essas despesas devem ser registradas no projeto para que os custos planejados e os custos reais possam ser calculados e relatados para qualquer projeto.
+No [!DNL Workfront], as despesas representam custos não laborais associados a projetos e outros trabalhos. As despesas podem ser, por exemplo, despesas de viagem durante a visita a um cliente ou a compra de materiais necessários para concluir uma sessão fotográfica. Essas despesas devem ser registradas no projeto para que os custos planejados e os custos reais possam ser calculados e relatados nos projetos.
 
-[!DNL Workfront] O tem tipos de despesas pré-criados que podem ser usados ao inserir despesas. Os padrões não podem ser excluídos ou modificados, mas novos podem ser adicionados.
+O [!DNL Workfront] possui tipos de despesas predefinidos que podem ser usados ao inserir despesas. Os padrões não podem ser excluídos ou modificados, mas novos podem ser adicionados.
 
 * Propaganda
 * Consultoria
@@ -32,24 +32,24 @@ Despesas em [!DNL Workfront] representam custos não mão de obra associados a p
 * Envio
 * Viagens
 
-Um administrador do sistema pode adicionar os tipos de despesas necessários para sua organização. Esses tipos de despesas adicionais podem ser modificados, ocultos ou excluídos para dar suporte aos relatórios financeiros necessários em sua organização.
+Admins de sistema podem adicionar tipos de despesas necessários à organização. Esses tipos de despesas adicionais podem ser modificados, ocultos ou excluídos para auxiliar a criação de relatórios financeiros necessários na organização.
 
-Gerentes de projeto, executivos e outros podem gerar relatórios de despesas — agrupando as despesas individuais por tipo, se desejado — para tarefas, projetos, programas ou portfólios dentro do [!DNL Workfront]. As finanças do projeto tornam-se muito mais gerenciáveis usando tipos de despesas.
+Gerentes de projetos, executivos e outras pessoas podem gerar relatórios de despesas (também é possível agrupar despesas individuais por tipo, se necessário) para tarefas, projetos, programas ou portfólios dentro do [!DNL Workfront]. Utilizar tipos de despesas facilita muito o gerenciamento das informações financeiras do projeto.
 
 ## Criar um tipo de despesa
 
-**Selecionar [!UICONTROL Configuração] no menu principal**
+**Selecione [!UICONTROL Configuração] no menu principal**
 
-1. Clique em **[!UICONTROL Tipos de Despesas]** no menu do painel esquerdo.
-1. Clique em **[!UICONTROL Novo Tipo de Despesa]** botão.
-1. Nomeie o tipo de despesa.
+1. Clique em **[!UICONTROL Tipos de despesas]** no menu do painel esquerdo.
+1. Clique no botão **[!UICONTROL Novo tipo de despesa]**.
+1. Dê um nome para o tipo de despesa.
 1. Adicione uma descrição, se necessário.
-1. Clique em **[!UICONTROL Salvar]** botão.
+1. Clique no botão **[!UICONTROL Salvar]**.
 
-![Uma imagem da criação de um novo [!UICONTROL Tipo de Despesa]](assets/setting-up-finances-6.png)
+![Uma imagem da criação de um novo [!UICONTROL Tipo de despesa]](assets/setting-up-finances-6.png)
 
-## Uso de tipos de despesas
+## Utilizar tipos de despesas
 
-As opções de despesa são exibidas na caixa **[!UICONTROL Tipo de Despesa]** lista suspensa quando os usuários criam uma despesa em um projeto ou tarefa no [!DNL Workfront].
+As opções de despesas aparecem no menu suspenso **[!UICONTROL Tipo de despesa]** quando os usuários criam uma despesa em um projeto ou tarefa no [!DNL Workfront].
 
-![Uma imagem da adição de uma nova despesa](assets/setting-up-finances-7.png)
+![Uma imagem mostrando a adição de uma nova despesa](assets/setting-up-finances-7.png)
