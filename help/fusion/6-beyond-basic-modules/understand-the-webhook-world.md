@@ -1,6 +1,6 @@
 ---
-title: Entender o mundo do webhook
-description: Saiba como usar webhooks como acionadores e como criar filas para dados recebidos com webhooks, tudo em [!DNL Adobe Workfront Fusion].
+title: Entenda o mundo dos webhooks
+description: Aprenda a usar webhooks como gatilhos e como criar filas para dados recebidos com webhooks, tudo no [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,13 +11,13 @@ jira: KT-9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender o mundo do webhook
+# Entenda o mundo dos webhooks
 
 Neste vídeo, você aprenderá:
 
