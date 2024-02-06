@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '202'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 # Configurar padrões de receita e custo da tarefa
 
-O tipo de receita e o tipo de custo são usados para calcular as informações financeiras planejadas e reais de uma tarefa. As informações padrão para cada uma delas podem ser definidas em todo o sistema, de modo que se aplicam a cada nova tarefa criada. As informações podem ser alteradas em projetos individuais ou definidas em modelos de projeto.
+O tipo de receita e o tipo de custo são usados para calcular as informações financeiras planejadas e reais de uma tarefa. As informações padrão para cada uma delas podem ser definidas em todo o sistema, para que se apliquem a cada nova tarefa criada. As informações podem ser alteradas em projetos individuais ou registradas em modelos de projeto.
 
-**Cinco tipos de receita padrão estão disponíveis:**
+**Há cinco tipos de receita padrão disponíveis:**
 
 * Não Faturável
 * Horas por Valor da Hora do Recurso
@@ -29,7 +29,7 @@ O tipo de receita e o tipo de custo são usados para calcular as informações f
 * Horas por Valor de Hora Fixo
 * Receita com Valor Fixo
 
-**E quatro tipos de custo padrão estão disponíveis:**
+**E há quatro tipos de custo padrão disponíveis:**
 
 * Sem Custo
 * Horas por Valor de Hora Fixo
@@ -38,15 +38,15 @@ O tipo de receita e o tipo de custo são usados para calcular as informações f
 
 >[!NOTE]
 >
->Quando os tipos de receita ou custo são definidos como Não Faturável ou Sem Custo, as estimativas de receita e custo não são geradas para a tarefa. Portanto, o trabalho na tarefa não contribui para a receita ou os custos no nível do projeto.
+>Quando os tipos de receita ou custo são definidos como Não faturável ou Sem custo, as estimativas de receita e custo não são geradas para a tarefa. Portanto, o trabalho na tarefa não contribui para a receita ou os custos do projeto.
 
 ## Definir padrões de receita e custo
 
-Selecionar **[!UICONTROL Configuração]** no menu principal.
+Selecione **[!UICONTROL Configurar]** no menu principal.
 
 1. Clique em **[!UICONTROL Preferências do projeto]** no menu do painel esquerdo.
-1. Clique em **[!UICONTROL Tarefas e problemas]**.
-1. No [!UICONTROL Padrão de nova tarefa] selecione a opção desejada [!UICONTROL Tipo de receita] e [!UICONTROL Tipo de Custo].
+1. Em seguida, clique em **[!UICONTROL Tarefas e problemas]**.
+1. Na seção [!UICONTROL Novo padrão de tarefa], selecione o [!UICONTROL Tipo de receita] e [!UICONTROL Tipo de custo] desejado.
 1. Clique em Salvar ao concluir.
 
 ![Uma imagem da configuração de padrões de receita e custo](assets/setting-up-finances-3.png)
