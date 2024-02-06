@@ -1,6 +1,6 @@
 ---
 title: Trabalhar com tarefas
-description: Saiba como editar tarefas existentes, adicionar e excluir tarefas e alterar a ordem das tarefas em um projeto no [!DNL  Workfront].
+description: Saiba como editar tarefas existentes, adicionar e excluir tarefas e alterar a ordem das tarefas em um projeto no  [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -12,9 +12,9 @@ jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 Neste vídeo, você aprenderá:
 
 * Como editar tarefas existentes em um projeto
-* Maneiras de adicionar e excluir tarefas
+* Formas de adicionar e excluir tarefas
 * Como alterar a ordem das tarefas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on)
