@@ -1,17 +1,17 @@
 ---
-title: Workfront Tutorials
-description: Uma biblioteca de vídeos e artigos de treinamento projetada para ajudá-lo a entender melhor os recursos e as configurações do Workfront.  Inclui uma coleção de práticas recomendadas, exercícios preparados e outros recursos que ajudarão você e sua organização a ter sucesso com o Workfront.
+title: Tutoriais do Workfront
+description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.  Está incluída uma coleção de práticas recomendadas, exercícios selecionados e outros recursos que ajudarão tanto você quanto sua organização a ter sucesso com o Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront Tutorials {#overview}
+# Tutoriais do Workfront {#overview}
 
-Uma biblioteca de vídeos e artigos de treinamento projetada para ajudá-lo a entender melhor os recursos e as configurações do Workfront.  Inclui uma coleção de práticas recomendadas, exercícios preparados e outros recursos que ajudarão você e sua organização a ter sucesso com o Workfront.
+Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.  Está incluída uma coleção de práticas recomendadas, exercícios selecionados e outros recursos que ajudarão tanto você quanto sua organização a ter sucesso com o Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
@@ -24,13 +24,13 @@ See other user landing pages to get ideas.
 
 <div id="whats-new-section">
 
-## Quais são as novidades?
+## Novidades?
 
-Explore as atualizações mais recentes feitas nos tutoriais para cada versão de produto do Workfront. Veja o que foi atualizado com a versão mais recente:
+Explore as atualizações mais recentes feitas nos tutoriais de cada versão do produto do Workfront. Veja o que foi atualizado com a versão mais recente:
 
-* Os favoritos e os recentes ícones foram separados na navegação superior no Workfront. Um breve resumo de cada um pode ser encontrado no <a href="/help/manage-work/projects/find-projects.md">Localizar Projetos</a> tutorial.
+* Os ícones de favoritos e recentes foram separados na navegação superior do Workfront. Um breve resumo de cada um pode ser encontrado no tutorial <a href="/help/manage-work/projects/find-projects.md">Encontrar projetos</a>.
 
-* Configure um formulário personalizado para funcionar com vários tipos de objeto. Veja como na <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">criar e compartilhar um formulário personalizado</a> tutorial.
+* Configure um formulário personalizado para trabalhar com vários tipos de objetos. Veja como, no tutorial <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">criar e compartilhar um formulário personalizado</a>.
 
 </div>
 
@@ -43,7 +43,7 @@ Explore as atualizações mais recentes feitas nos tutoriais para cada versão d
 
 <div id="staff-picks-section">
 
-## Escolhas do pessoal
+## Escolhas de pessoal
 
 <table style="margin-top: 0 !important">
   <tr>
@@ -55,7 +55,7 @@ Explore as atualizações mais recentes feitas nos tutoriais para cada versão d
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Localizar e criar modelos de layout</strong></a>
       </div>
       <p>
-         <em>Saiba como criar um modelo básico de layout.</em>
+         <em>Aprender a criar um modelo de layout básico.</em>
       </p>
     </td>
    <td>
@@ -71,7 +71,7 @@ Explore as atualizações mais recentes feitas nos tutoriais para cada versão d
 
 <td>
       <a href="/help/reporting/basic-reporting/create-a-simple-report.md">
-      <img alt="Criar um relatório simples" src="./assets/sreport_01.png"/>
+      <img alt="Crie um relatório simples" src="./assets/sreport_01.png"/>
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Criar um relatório simples</strong></a>
