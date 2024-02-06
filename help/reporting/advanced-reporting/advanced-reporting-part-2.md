@@ -1,5 +1,5 @@
 ---
-title: Relatório avançado, parte 2
+title: Relatórios avançados parte 2
 description: Entenda um estudo detalhado sobre as exibições do modo de texto, detalhes adicionais sobre a estrutura do modo de texto, dados personalizados calculados e colunas calculadas.
 activity: use
 feature: Text Mode Reporting
@@ -12,13 +12,13 @@ jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Relatório avançado, parte 2
+# Relatórios avançados parte 2
 
 Neste vídeo, você aprenderá:
 
@@ -32,4 +32,4 @@ Neste vídeo, você aprenderá:
 
 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manual avançado de relatórios](/help/assets/advanced-reporting-manual.pdf)
+[Manual de relatórios avançados](/help/assets/advanced-reporting-manual.pdf)
