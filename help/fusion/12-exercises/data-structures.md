@@ -1,6 +1,6 @@
 ---
 title: Estruturas de dados
-description: Transforme dados de um arquivo de origem em um arquivo de destino. (Deve ter entre 60 e 160 caracteres, mas tem 58 caracteres)
+description: Transforme dados de um arquivo de origem em um arquivo de destino. (Deve ter entre 60 e 160 caracteres, mas tem 58)
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-11054
 thumbnail: KT11054.png
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1048'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Transforme dados de um arquivo de origem em um arquivo de destino.
 
 ## Visão geral do exercício
 
-Abra um arquivo CSV que contenha uma lista de entradas de tempo. Essas entradas de tempo são para minutos registrados em determinados dias por vários usuários. O objetivo é obter essas informações e produzir um novo CSV que mostre o tempo total, em horas, registrado por cada usuário, a cada dia.
+Abra um arquivo CSV que contém uma lista de registros de horário. Esses registros de horário são para minutos registrados em determinados dias por vários usuários. A meta é coletar essas informações e produzir um novo CSV que mostre o tempo total (em horas) que cada usuário permaneceu conectado a cada dia.
 
-![Estruturas de dados Imagem 1](../12-exercises/assets/data-structures-walkthrough-1.png)
+![Estruturas de dados - Imagem 1](../12-exercises/assets/data-structures-walkthrough-1.png)
 
-![Estruturas de dados Imagem 2](../12-exercises/assets/data-structures-walkthrough-2.png)
+![Estruturas de dados - Imagem 2](../12-exercises/assets/data-structures-walkthrough-2.png)
 
 
-Nesse cenário, você abrirá um arquivo com uma lista de entradas de tempo para minutos trabalhados, incluindo a data e a hora, quantos minutos foram inseridos e o endereço de email de quem fez a entrada. Há 100 entradas de tempo, algumas feitas pelos mesmos indivíduos e algumas delas foram feitas no mesmo dia que outras.
+Neste cenário, você abrirá um arquivo que contém uma lista de registro de minutos trabalhados, incluindo a data e hora, quantos minutos foram inseridos e o endereço de email de quem fez o registro. Há 100 registros de horário, alguns feitos pelas mesmas pessoas e outros que foram feitos no mesmo dia que outras pessoas.
 
-Para produzir um arquivo que mostre o tempo total, em horas, trabalhado todos os dias por cada indivíduo, siga estas etapas:
+Para produzir um arquivo que mostre o tempo total (em horas) que cada pessoa trabalhou todos os dias, siga estas etapas:
 
-1. No módulo do acionador, obtenha um arquivo da pasta Workfront. Baixe o arquivo.
-1. No primeiro módulo CSV, analise os dados de entrada de tempo para gerar um pacote para cada entrada de tempo. Este é um iterador.
-1. O primeiro módulo de Ferramentas é um agregador numérico. Isso SOMARÁ todos os minutos e agrupará as linhas por endereço de email e, em seguida, por data. O resultado é o total de minutos trabalhados por dia pelo endereço de email.
-1. O segundo módulo Ferramentas é um módulo Definir variável. Use isto para formatar os minutos a serem divididos por 60 e arredondados para 2 decimais.
+1. No módulo acionador, obtenha um arquivo da pasta Workfront. Baixe o arquivo.
+1. No primeiro módulo CSV, analise os dados de registro de horário para gerar um pacote para cada um. Este é um iterador.
+1. O primeiro módulo de ferramentas é um agregador numérico. Ele somará todos os minutos e agrupará as linhas por endereço de email e depois por data. O resultado é o total de minutos que cada endereço de email trabalhou por dia.
+1. O segundo módulo de ferramentas é do tipo Definir variável. Use isso para formatar os minutos, dividindo-os por 60 e arredondando com 2 casas decimais.
 1. No segundo módulo CSV, configure o arquivo de saída.
 1. No módulo final, faça upload do arquivo CSV para o Workfront.
 
@@ -45,105 +45,105 @@ Para produzir um arquivo que mostre o tempo total, em horas, trabalhado todos os
 
 **Baixe o arquivo do Workfront.**
 
-1. Na pasta &quot;Arquivos de exercício de fusão&quot; do Workfront, selecione &quot;_Fusion1.0JanTime.csv&quot; e clique em Detalhes do documento.
-1. Copie o primeiro número de ID do endereço do URL.
-1. Crie um novo cenário. Nomeie-o como &quot;Criação e uso de estruturas de dados&quot;.
+1. Na pasta “Arquivos de exercícios do Fusion” do Workfront, selecione “_Fusion1.0JanTime.csv” e clique em Detalhes do documento.
+1. Copie o primeiro número de ID do endereço URL.
+1. Crie um novo cenário. Nomeie-o como “Criar e usar estruturas de dados”.
 1. Comece com o módulo Baixar documento do aplicativo Workfront.
 1. Configure sua conexão com o Workfront e inclua a ID do documento copiada do URL do Workfront.
 
-   ![Estruturas de dados Imagem 3](../12-exercises/assets/data-structures-walkthrough-3.png)
+   ![Estruturas de dados - Imagem 3](../12-exercises/assets/data-structures-walkthrough-3.png)
 
-   **Analise os dados de entrada de tempo.**
+   **Analise os dados de registro de horário.**
 
 1. Adicione outro módulo, selecionando Analisar CSV.
-1. Configure o CSV de análise para 7 colunas. Marque a caixa CSV contains headers. Escolha o tipo de delimitador de vírgula e coloque os dados no campo CSV.
+1. Configure uma análise de CSV para 7 colunas. Marque a caixa CSV contém cabeçalhos. Escolha Vírgula como o tipo de delimitador e insira os dados no campo CSV.
 
-   ![Estruturas de dados Imagem 4](../12-exercises/assets/data-structures-walkthrough-4.png)
+   ![Estruturas de dados - Imagem 4](../12-exercises/assets/data-structures-walkthrough-4.png)
 
-1. Clique em Executar uma vez para exibir a saída.
-1. Abra o inspetor de execução para ver as entradas e saídas do módulo Analisar CSV. Há um pacote (um arquivo CSV) como entrada e vários pacotes como saídas (um pacote para cada linha no arquivo CSV). Deve ser semelhante a:
+1. Clique em Executar uma vez para ver o resultado.
+1. Abra o inspetor de execução para ver as entradas e saídas do módulo Analisar CSV. Há um pacote (um arquivo CSV) como entrada e vários pacotes como saídas (um pacote para cada linha no arquivo CSV). A aparência deve ser semelhante a esta:
 
-   ![Estruturas de dados Imagem 5](../12-exercises/assets/data-structures-walkthrough-5.png)
+   ![Estruturas de dados - Imagem 5](../12-exercises/assets/data-structures-walkthrough-5.png)
 
-   **Em seguida, transforme os dados no formulário de saída desejado, com totais de tempo agregados expressos em horas em vez de minutos.**
+   **Em seguida, transforme os dados no formulário de saída desejado, com os totais de tempo agregados expressos em horas em vez de minutos.**
 
-1. Adicione um módulo de ferramenta Numeric Aggregator.
-1. Selecione o módulo de origem, que é o módulo Analisar CSV.
-1. Selecione SUM para a função agregada.
-1. O campo Value é a coluna 7 do arquivo CSV. Estes são os minutos registrados por cada usuário.
-1. Para somar os campos por grupo, clique em Advanced Settings e defina Group by para enviar um email (coluna 4), data (coluna 5).
+1. Adicione um módulo de ferramenta Agregador Numérico.
+1. Selecione o módulo de origem: Analisar CSV.
+1. Selecione SOMA como a função agregada.
+1. O campo Valor é a coluna 7 do arquivo CSV. Isto representa quantos minutos cada usuário permaneceu conectado.
+1. Para somar os campos por grupo, clique em Configurações avançadas e defina “Agrupar por” como Email (na coluna 4) e Data (na coluna 5).
 
-   + Essa soma será usada para cada combinação de email e data. Certifique-se de colocar uma vírgula entre a coluna 4 e a coluna 5. Isso será usado como delimitador posteriormente.
+   + Isso somará cada combinação de email e data. Certifique-se de colocar uma vírgula entre as colunas 4 e 5. Isso será usado como um delimitador posteriormente.
 
    **Seu painel de mapeamento deve ter esta aparência:**
 
-   ![Estruturas de dados Imagem 6](../12-exercises/assets/data-structures-walkthrough-6.png)
+   ![Estruturas de dados - Imagem 6](../12-exercises/assets/data-structures-walkthrough-6.png)
 
 1. Clique em Executar uma vez para verificar a saída da agregação.
 
    **Os pacotes de saída devem ter esta aparência:**
 
-   ![Estruturas de dados Imagem 7](../12-exercises/assets/data-structures-walkthrough-7.png)
+   ![Estruturas de dados - Imagem 7](../12-exercises/assets/data-structures-walkthrough-7.png)
 
    **Agora converta os minutos agregados em horas.**
 
 1. Adicione outro módulo de ferramentas, selecionando Definir variável.
-1. Nomeie a variável &quot;Horas&quot;.
+1. Nomeie a variável como “Horas”.
 1. Defina o valor da variável como formatNumber(result/60;2;.;,)
 
    **Seu painel de mapeamento deve ter esta aparência:**
 
-   ![Estruturas de dados Imagem 8](../12-exercises/assets/data-structures-walkthrough-8.png)
+   ![Estruturas de dados - Imagem 8](../12-exercises/assets/data-structures-walkthrough-8.png)
 
-   **Em seguida, configure os valores para o arquivo de saída. Você deseja que a ID do usuário e o valor de data sejam usados para os agrupamentos. Você também quer as horas que foram calculadas.**
+   **Em seguida, configure os valores do arquivo de saída. Utilize os valores de ID de usuário e data para os agrupamentos. Além disso, utilize as horas que foram calculadas.**
 
-1. Adicione outro módulo CSV de módulo usando o agregador Criar CSV (avançado).
+1. Adicione outro módulo CSV usando o agregador Criar CSV (avançado).
 1. O módulo de origem é Ferramentas - Agregador numérico.
-1. Clique em Add by the Data structure e nomeie nossa estrutura de dados como &quot;Time Logged Daily Sum&quot;.
+1. Clique em Adicionar no campo Estrutura de dados e nomeie a estrutura como “Soma diária de tempo conectado”.
 1. Clique em Adicionar item para criar o primeiro item.
-1. Nomeie o item &quot;UserID&quot; e defina o tipo como Texto. Clique em Adicionar.
+1. Nomeie o item como “ID de usuário” e defina o tipo como Texto. Clique em Adicionar.
 1. Clique em Adicionar item novamente para criar o segundo item.
-1. Nomeie o item &quot;Data&quot;, defina o tipo como Data e clique em Adicionar.
+1. Nomeie o item como “Data”, defina o tipo como Data e clique em Adicionar.
 1. Clique em Adicionar item mais uma vez.
-1. Nomeie o item como &quot;Horas&quot;, defina o tipo como Número e clique em Adicionar.
+1. Nomeie o item como “Horas”, defina o tipo como Número e clique em Adicionar.
 
-   **Sua estrutura de dados deve ser semelhante a:**
+   **Sua estrutura de dados deve ter esta aparência:**
 
-   ![Estruturas de dados Imagem 9](../12-exercises/assets/data-structures-walkthrough-9.png)
+   ![Estruturas de dados - Imagem 9](../12-exercises/assets/data-structures-walkthrough-9.png)
 
-1. Clique em Salvar para concluir a estrutura de dados Soma diária registrada com data e hora.
+1. Clique em Salvar para finalizar a estrutura de dados Soma diária de tempo conectado.
 
-   **Agora, forneça os valores para os três campos que acabou de criar. Você deve ver esses três campos no painel Mapeamento CSV.**
+   **Agora forneça valores para os três campos que acabou de criar. Você deverá ver esses três campos no painel de mapeamento do CSV.**
 
-1. Clique no campo ID do usuário e escolha GET na guia funções gerais. No primeiro parâmetro, coloque SPLIT na guia text and binary functions. O primeiro parâmetro da função SPLIT é o campo Key. Adicione uma vírgula como delimitador e 1 como índice. Isso indica que você deseja que o GET recupere o primeiro campo na Matriz principal.
-1. Copie essa expressão no campo Date. Altere o índice de 1 a 2 para GET o segundo valor na matriz.
-1. Para o campo Horas, adicione o campo Horas da ferramenta Definir variável.
+1. Clique no campo ID do usuário e escolha OBTER na guia de funções gerais. No primeiro parâmetro, selecione DIVISÃO na guia de texto e funções binárias. O primeiro parâmetro para a função DIVISÃO é o campo Chave. Adicione uma vírgula como delimitador e 1 como índice. Isso orienta a função OBTER a recuperar o primeiro campo na matriz Chave.
+1. Copie esta expressão para o campo Data. Altere o índice de 1 para 2 para OBTER o segundo valor da matriz.
+1. No campo Horas, adicione o campo Horas da ferramenta Definir variável.
 
-   **O painel Mapeamento de CSV deve ter esta aparência:**
+   **O painel de mapeamento do CSV deve ter esta aparência:**
 
-   ![Estruturas de dados Imagem 10](../12-exercises/assets/data-structures-walkthrough-10.png)
+   ![Estruturas de dados - Imagem 10](../12-exercises/assets/data-structures-walkthrough-10.png)
 
    **Se você executar o cenário agora, verá esta saída:**
 
-   ![Estruturas de dados Imagem 11](../12-exercises/assets/data-structures-walkthrough-11.png)
+   ![Estruturas de dados - Imagem 11](../12-exercises/assets/data-structures-walkthrough-11.png)
 
-   **Agora, adicione um módulo para pegar essa saída e carregá-la como um documento em um projeto existente no Workfront.**
+   **Agora, adicione um módulo para coletar essa saída e carregá-la como um documento em um projeto existente no Workfront.**
 
-1. Abra o projeto no Workfront e copie a ID do projeto do URL.
-1. Retorne ao cenário no Fusion e adicione outro módulo — o módulo Upload de documento do aplicativo Workfront.
+1. Abra o projeto no Workfront e copie a ID do projeto contida no URL.
+1. Retorne ao cenário no Fusion e adicione o módulo Fazer upload de documento do aplicativo do Workfront.
 1. Cole a ID do projeto no campo ID de registro relacionada.
-1. Escolha Projeto para o Tipo de Registro Relacionado.
-1. Escolha a opção Mapear para o arquivo de Origem.
-1. Para o Nome do documento, use o nome do arquivo baixado, adicionando &quot;Atualizado&quot; na frente dele.
+1. Escolha Projeto como o tipo de registro relacionado.
+1. Escolha a opção Mapear para o arquivo de origem.
+1. Em Nome do documento, use o nome do arquivo que você baixou e adicione “Atualizado” na frente dele.
 1. Para o conteúdo Arquivo, use a saída de texto do módulo Criar CSV.
 
    **Seu painel de mapeamento deve ter esta aparência:**
 
-   ![Estruturas de dados Imagem 12](../12-exercises/assets/data-structures-walkthrough-12.png)
+   ![Estruturas de dados - Imagem 12](../12-exercises/assets/data-structures-walkthrough-12.png)
 
 1. Clique em OK e salve o cenário.
 1. Clique em Executar uma vez para executar o cenário.
 
-   **Verifique o inspetor de execução no módulo Carregar documento para confirmar se o documento foi carregado.**
+   **Verifique o inspetor de execução no módulo Fazer upload de documento para confirmar se o documento foi carregado.**
 
-   ![Estruturas de dados Imagem 13](../12-exercises/assets/data-structures-walkthrough-13.png)
+   ![Estruturas de dados - Imagem 13](../12-exercises/assets/data-structures-walkthrough-13.png)
