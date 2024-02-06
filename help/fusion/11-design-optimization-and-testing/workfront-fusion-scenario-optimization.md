@@ -11,9 +11,9 @@ jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,18 +21,18 @@ ht-degree: 0%
 
 O que é &quot;otimização de cenário&quot; e o que você pode fazer para otimizar seus cenários?
 
-Otimização de cenário é uma habilidade praticada que leva tempo e dedicação para se desenvolver. Sua primeira tentativa de criar um cenário para um resultado comercial não deve ser a última. Os cenários devem ser repetidos desde o primeiro dia até o início da integração. Mesmo após o lançamento, os cenários devem ser revisados e atualizados ao longo de sua vida útil para acompanhar as mudanças de negócios e de comportamento.
+A otimização de cenários é uma habilidade prática que requer tempo e dedicação para ser desenvolvida. Sua primeira tentativa de criar um cenário para um resultado comercial não deve ser a última. Os cenários devem ser iterados desde o primeiro dia até o lançamento da integração. Mesmo após o lançamento, os cenários devem ser revisados e atualizados ao longo de sua vida útil para acompanhar as mudanças nos negócios e no comportamento.
 
-Os cenários exigem manutenção. Os desenvolvedores do Workfront Fusion devem ter uma cadência regular de análise de cenários para oportunidades de reconstrução, reestruturação ou otimização. Os cenários do Workfront Fusion exigem atenção, manutenção e manutenção regulares.
+Os cenários requerem manutenção. Os desenvolvedores do Workfront Fusion devem ter uma cadência regular de revisão de cenários em busca de oportunidades de reconstrução, reestruturação ou otimização. Os cenários do Workfront Fusion precisam de atenção, conservação e manutenção regulares.
 
 Neste vídeo, você aprenderá a:
 
-* Realizar menos operações
-* Enviar menos chamadas de API
-* Usar menos módulos
+* Execute menos operações
+* Envie menos chamadas de API
+* Use menos módulos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
 
 ## Quer saber mais? Recomendamos o seguinte:
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=br)
