@@ -1,6 +1,6 @@
 ---
 title: Configurar notificações de eventos
-description: Saiba como controlar quais emails e notificações no aplicativo os usuários recebem gerenciando notificações de eventos.
+description: Saiba como controlar quais emails e notificações no aplicativo os usuários recebem, gerenciando as notificações de eventos.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,9 +11,9 @@ thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '621'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -29,83 +29,83 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->Devido a uma implantação em fases, a funcionalidade que permite aos administradores de sistema e grupo gerenciar notificações de eventos não está disponível temporariamente para alguns [!DNL Workfront] clientes. Siga este artigo para obter atualizações sobre a versão: Desbloquear a configuração de notificações de eventos para grupos.
+>Devido à implementação em fases, a funcionalidade que permite que admins de sistema e de grupo gerenciem notificações de eventos está temporariamente indisponível para alguns clientes do [!DNL Workfront]. Siga este artigo para receber atualizações sobre a versão: “Desbloquear a configuração de notificações de eventos para grupos”.
 
-Os administradores do sistema determinam quais notificações os usuários devem receber por meio do [!DNL Workfront].
+Admins de sistema determinam quais notificações os usuários devem receber por meio do [!DNL Workfront].
 
-![[!UICONTROL Notificações por email] na janela [!UICONTROL Configuração] área](assets/admin-fund-notifications-1.png)
+A janela ![[!UICONTROL Notificações por email] na área [!UICONTROL Configuração]](assets/admin-fund-notifications-1.png)
 
-A variável [!UICONTROL Notificações de Eventos] é agrupada por tipo. Para cada notificação de evento listada, você verá cinco informações:
+A lista [!UICONTROL Notificações de eventos] é agrupada por tipo. Para cada notificação de evento listada, você verá cinco informações:
 
-* **[!UICONTROL Ativo] —** A variável [!UICONTROL Ativo] permite ativar ou desativar uma notificação em um nível do sistema.
-* **[!UICONTROL Nome] —** Este é o nome da notificação em [!DNL Workfront].
-* **[!UICONTROL Descrição] —** A descrição fornece uma breve explicação de qual ação ocorreu para acionar uma notificação ou precisa ser executada em resposta ao recebimento da notificação.
-* **[!UICONTROL Assunto do email] —** O que será exibido ao usuário na linha de assunto quando o email for enviado aos usuários.
-* **[!UICONTROL Acesso de grupo] —** Desbloqueie as notificações para que elas possam ser gerenciadas por administradores de grupo.
+* **[!UICONTROL Ativo]:** a coluna [!UICONTROL Ativo] permite ativar ou desativar uma notificação em todo o sistema.
+* **[!UICONTROL Nome]:** este é o nome da notificação dentro do [!DNL Workfront].
+* **[!UICONTROL Descrição]:** a descrição fornece uma breve explicação sobre a ação que acionou a notificação ou que precisa ser tomada em resposta ao recebimento da notificação.
+* **[!UICONTROL Assunto do email]:** o que será exibido ao usuário na linha de assunto quando o email for enviado.
+* **[!UICONTROL Acesso ao grupo]:** desbloqueia as notificações, para que possam ser gerenciadas por admins de grupo.
 
 ## Ativar notificações
 
-Para gerenciar notificações em um nível de sistema global, verifique se a barra de pesquisa diz [!UICONTROL Notificações de Eventos do Sistema].
+Para gerenciar notificações em todo o sistema, certifique-se de que a barra de pesquisa exiba [!UICONTROL Notificações de eventos do sistema].
 
-Ative uma notificação específica para disponibilizá-la a todos os usuários clicando no botão de alternância para que o azul seja exibido. Se o azul estiver oculto, a notificação estará desativada.
+Ative uma notificação específica para disponibilizá-la para todos os usuários, clicando no botão de alternância até que mostre uma cor azul. Se a cor do botão não estiver azul, a notificação está desativada.
 
-![[!UICONTROL Ativo] coluna em [!UICONTROL Notificações por email] página](assets/admin-fund-notifications-2.png)
+Coluna ![[!UICONTROL Ativo] na página [!UICONTROL Notificações por email]](assets/admin-fund-notifications-2.png)
 
-Quando uma notificação de evento é ativada, as mensagens são enviadas instantaneamente quando o evento ocorre.
+Quando uma notificação de evento é ativada, as mensagens são enviadas assim que o evento ocorre.
 
-## Permitir controle de administrador de grupo
+## Permitir controle de admins de grupo
 
-Os administradores de grupo podem receber permissão, por administradores de sistema, para personalizar ainda mais a lista de notificações com base em como seus grupos e subgrupos funcionam e quais são seus workflows.
+Admins de grupo podem receber permissão de admins de sistema para personalizar ainda mais a lista de notificações com base em como seus grupos e subgrupos operam e em quais são seus fluxos de trabalho.
 
-![[!UICONTROL Acesso de grupo] coluna em [!UICONTROL Notificações por email] página](assets/ganotifications_01.png)
+Coluna ![[!UICONTROL Acesso ao grupo] na página [!UICONTROL Notificações por email]](assets/ganotifications_01.png)
 
-Para conceder aos administradores de grupos a capacidade de gerenciar notificações para seus grupos e subgrupos, as notificações no nível do sistema precisam ser desbloqueadas.
+Para conceder a admins de grupo a capacidade de gerenciar as notificações de seus grupos e subgrupos, é preciso desbloquear as notificações em todo o sistema.
 
-* Navegue até a guia Notificação de Eventos da página Notificações por Email.
+* Navegue até a guia “Notificação de eventos” da página “Notificações por email”.
 
-* Certifique-se de que a barra de pesquisa diga Notificações de eventos do sistema.
+* Certifique-se de que a barra de pesquisa exiba “Notificações de eventos do sistema”.
 
-* Desbloqueie uma única notificação para todos os administradores de grupo clicando na alternância na coluna Acesso de grupo para que o azul apareça.
+* Desbloqueie uma única notificação para todos os(as) admins de grupo clicando no botão de alternância da coluna “Acesso ao grupo” até que ele apresente uma cor azul.
 
-* Desbloqueie várias notificações de uma vez, marcando a caixa à esquerda de cada notificação e clicando no ícone de desbloqueio na barra de ferramentas acima da lista.
+* Desbloqueie várias notificações de uma vez marcando a caixa à esquerda de cada notificação e clicando no ícone de “cadeado aberto”, na barra de ferramentas acima da lista.
 
-![[!UICONTROL Acesso de grupo] coluna em [!UICONTROL Notificações por email] página](assets/ganotifications_02.png)
+Coluna ![[!UICONTROL Acesso ao grupo] na página [!UICONTROL Notificações por email]](assets/ganotifications_02.png)
 
-Bloqueie uma notificação desbloqueada clicando no botão de alternância para que a cor cinza apareça. Bloquear várias notificações ao mesmo tempo marcando as caixas de seleção e clicando no ícone de desbloqueio na barra de ferramentas.
+Bloqueie uma notificação desbloqueada clicando no botão de alternância até que ele apresente uma cor cinza. Bloqueie várias notificações ao mesmo tempo marcando as caixas de seleção e clicando no ícone de “cadeado aberto”, na barra de ferramentas.
 
-![[!UICONTROL Acesso de grupo] coluna em [!UICONTROL Notificações por email] página](assets/ganotifications_03.png)
+Coluna ![[!UICONTROL Acesso ao grupo] na página [!UICONTROL Notificações por email]](assets/ganotifications_03.png)
 
-As notificações desbloqueadas são exibidas para administradores de grupos de nível superior para determinar se essa notificação é necessária para seus grupos e subgrupos. Os subgrupos herdam as configurações de notificação do grupo principal. ﻿
+As notificações desbloqueadas são exibidas a admins de grupo de nível superior para que determinem se tais notificações são necessárias para seus grupos e subgrupos. Os subgrupos herdam as configurações de notificação do grupo principal. ﻿
 
 
 ## Gerenciar notificações de grupo
 
-Depois que o administrador do sistema tiver desbloqueado as opções de notificação, os administradores de grupo poderão gerenciar as notificações de um grupo na página Grupo individual, clicando em Notificações de evento no menu do painel esquerdo. Em seguida, você poderá ativar ou desativar as opções de notificação.
+Depois que o(a) admin de sistema desbloquear as opções de notificação, admins de grupo poderão gerenciar as notificações de um grupo na página individual do grupo, clicando em “Notificações de eventos” no menu do painel esquerdo. Em seguida, é possível ativar ou desativar as opções de notificação.
 
-![[!UICONTROL Acesso de grupo] coluna em [!UICONTROL Notificações por email] página](assets/managegroupnotifications_01.png)
+Coluna ![[!UICONTROL Acesso ao grupo] na página [!UICONTROL Notificações por email]](assets/managegroupnotifications_01.png)
 
-Se necessário, os administradores do sistema podem gerenciar as notificações de um grupo na página Notificações digitando o nome do grupo na barra de pesquisa na parte superior da janela.
+Se necessário, admins de sistema podem gerenciar as notificações de um grupo na página “Notificações”, digitando o nome do grupo na barra de pesquisa na parte superior da janela.
 
-![[!UICONTROL Acesso de grupo] coluna em [!UICONTROL Notificações por email] página](assets/managegroupnotifications_02.png)
+Coluna ![[!UICONTROL Acesso ao grupo] na página [!UICONTROL Notificações por email]](assets/managegroupnotifications_02.png)
 
 ## Dicas profissionais
 
-Há algumas notificações [!DNL Workfront] A recomenda disponibilizar o para seus usuários.
+O [!DNL Workfront] recomenda disponibilizar algumas notificações para os usuários.
 
 Para a maioria dos usuários:
 
 * [!UICONTROL Quando uma tarefa for concluída, enviar email para os usuários atribuídos primariamente de todas as tarefas dependentes]
-* [!UICONTROL Alguém tiver me incluído em uma atualização direcionada]
-* [!UICONTROL Quando alguém comentar no meu item de trabalho, envie email para os atribuídos]
-* [!UICONTROL A data de conclusão de uma tarefa atribuída a mim mudou]
+* [!UICONTROL Alguém me inclui em uma atualização direcionada]
+* [!UICONTROL Alguém comenta no meu item de trabalho]
+* [!UICONTROL A data de vencimento de uma tarefa à qual fui atribuído é alterada]
 
 
 Especificamente para gerentes de projeto:
 
-* [!UICONTROL Quando uma status de projeto for alterada de ideia/aprovado/solicitado/em planejamento para atual, enviar email para a equipe]
+* [!UICONTROL Um projeto do qual participo é ativado]
 * [!UICONTROL Quando um projeto for alterado de uma status positiva de progresso (no prazo) para uma status negativa de progresso (em atraso), enviar email para o proprietário do projeto]
-* [!UICONTROL Quando um problema for adicionada enviar email para o proprietário do projeto.]
-* [!UICONTROL Quando uma etapa for concluída, enviar email para o proprietário do projeto]
+* [!UICONTROL Quando um problema for adicionada enviar email para o proprietário do projeto]
+* [!UICONTROL Uma tarefa marco foi concluída em um projeto de minha propriedade]
 
 <!---
 learn more URLs
