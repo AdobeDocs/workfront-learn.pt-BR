@@ -1,6 +1,6 @@
 ---
-title: Entender o acesso financeiro
-description: Saiba como os direitos de acesso financeiro permitem que os administradores controlem quem pode ver e editar as informações financeiras rastreadas no Workfront.
+title: Entenda o acesso financeiro
+description: Saiba como os direitos de acesso financeiro permitem que admins controlem quem pode ver e editar as informações financeiras registradas no Workfront.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,72 +11,72 @@ level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Entender o acesso financeiro
+# Entenda o acesso financeiro
 
-Se sua organização estiver capturando dados financeiros com [!DNL Workfront], como administrador do sistema, é sua responsabilidade proteger e gerenciar quem tem acesso para visualizar e editar essas informações.
+Se sua organização estiver capturando dados financeiros com o [!DNL Workfront], como admin de sistema, é sua responsabilidade proteger o acesso a essas informações, definindo quem pode visualizá-las e editá-las.
 
 São necessárias duas coisas para que um usuário visualize ou edite informações financeiras:
 
-1. Os direitos de acesso devem ser ativados no [!UICONTROL Nível de acesso].
-2. A permissão para usar esses direitos de acesso deve ser concedida por objeto.
+1. Os direitos de acesso devem ser habilitados no [!UICONTROL Nível de acesso].
+2. A permissão para usar esses direitos de acesso deve ser concedida em cada objeto.
 
-Por exemplo, um usuário pode receber direitos para exibir dados financeiros em seu nível de acesso, mas só poderá exibir dados financeiros em uma tarefa que esteja compartilhada com ele e a exibição financeira esteja habilitada no compartilhamento dessa tarefa.
+Por exemplo, um usuário pode receber direitos para visualizar dados financeiros em seu nível de acesso, mas só poderá visualizar dados financeiros de uma tarefa que seja compartilhada com ele e na qual a visualização de dados financeiros foi habilitada durante o compartilhamento dessa tarefa.
 
-Portanto, é possível para um usuário com [!UICONTROL Nível de acesso] direitos de visualização de finanças para poder visualizar as finanças de alguns objetos e não de outros, dependendo das opções individuais de compartilhamento desses objetos. No entanto, nenhum usuário pode visualizar dados financeiros sobre qualquer objeto, a menos que tenha o direito concedido a ele em suas [!UICONTROL Nível de acesso].
+Portanto, é possível que um usuário que recebeu direitos de [!UICONTROL nível de acesso] para visualizar informações financeiras veja informações financeiras de alguns objetos e não de outros, pois isso dependerá das opções individuais de compartilhamento desses objetos. No entanto, nenhum usuário pode visualizar as informações financeiras de um objeto a menos que tenha recebido o direito para isso em seu [!UICONTROL Nível de acesso].
 
-## [!UICONTROL Nível de acesso] configurações
+## Configurações de [!UICONTROL Nível de acesso]
 
-O acesso geral aos dados financeiros é concedido em primeiro lugar [!DNL Workfront] tipo de licença.
+O acesso geral aos dados financeiros é concedido primeiro pelo tipo de licença do [!DNL Workfront].
 
-**[!UICONTROL Plano] as licenças podem:**
+As licenças de **[!UICONTROL Plano] podem:**
 
-* Gerenciar registros de cobrança
-* Gerenciar e exibir taxas de custo e cobrança de função
-* Gerenciar e exibir taxas de custo e cobrança de usuário
+* Gerenciar registros de faturamento
+* Gerenciar e visualizar o faturamento de funções e as taxas de custo
+* Gerenciar e visualizar o faturamento de usuários e as taxas de custo
 * Gerenciar despesas
-* Exibir e editar finanças
+* Visualizar e editar informações financeiras
 
-**[!UICONTROL Trabalho] as licenças podem:**
+As licenças de **[!UICONTROL Trabalho] podem:**
 
 * Gerenciar despesas
-* Exibir finanças
+* Visualizar informações financeiras
 
-**[!UICONTROL Revisão] as licenças podem:**
+As licenças de **[!UICONTROL Revisão] podem:**
 
-* Exibir finanças
+* Visualizar informações financeiras
 
-**As permissões podem ser modificadas pelo [!UICONTROL Nível de acesso]. As três opções para acesso a dados financeiros são:**
+**As permissões podem ser modificadas pelo [!UICONTROL Nível de acesso]. As três opções de acesso a dados financeiros são:**
 
-* [!UICONTROL Sem acesso] — O usuário não poderá ver as informações financeiras.
-* [!UICONTROL Exibir] — o usuário pode revisar e compartilhar as informações.
-* [!UICONTROL Editar] — o usuário pode criar, editar, excluir e compartilhar as informações. (Disponível somente para uma licença de Plano.)
+* [!UICONTROL Sem acesso] - O usuário não poderá ver informações financeiras.
+* [!UICONTROL Visualizar] - O usuário pode analisar e compartilhar as informações.
+* [!UICONTROL Editar] - O usuário pode criar, editar, excluir e compartilhar as informações. (Disponível somente para licenças de Plano.)
 
-![Uma imagem mostrando as opções gerais de Dados financeiros em um nível de acesso](assets/setting-up-finances-8.png)
+![Uma imagem que mostra as opções gerais de dados financeiros em um nível de acesso](assets/setting-up-finances-8.png)
 
-É importante observar que a variável [!UICONTROL Exibir] e [!UICONTROL Editar] opções têm configurações adicionais para uma [!UICONTROL Plano] licença. Clique na engrenagem no [!UICONTROL Exibir] botão para estas opções:
+É importante notar que as opções [!UICONTROL Visualizar] e [!UICONTROL  Editar] têm configurações adicionais para uma licença de [!UICONTROL Plano]. Clique no ícone de engrenagem do botão [!UICONTROL Visualizar] destas opções:
 
 **[!UICONTROL Exibir]**
 
 * Ver taxas de custo e cobrança de função
 * Ver taxas de custo e cobrança de usuário
 
-![Uma imagem mostrando as opções de visualização de Dados financeiros em um nível de acesso](assets/setting-up-finances-9.png)
+![Uma imagem que mostra as opções de visualização de dados financeiros em um nível de acesso](assets/setting-up-finances-9.png)
 
 **[!UICONTROL Editar]**
 
-Essas duas opções estão disponíveis no [!UICONTROL Editar] juntamente com:
+Essas duas opções estão disponíveis para a opção [!UICONTROL Editar], além de:
 
 * Editar taxas de custo e cobrança de função
 * Editar taxas de custo e cobrança de usuário
 
-![Uma imagem mostrando as opções de edição de Dados Financeiros em um nível de acesso](assets/setting-up-finances-10.png)
+![Uma imagem que mostra as opções de edição de dados financeiros em um nível de acesso](assets/setting-up-finances-10.png)
 
 >[!NOTE]
 >
->Um usuário com acesso para adicionar despesas também pode visualizar as despesas adicionadas, bem como as despesas adicionadas por seus subordinados diretos.
+>Usuário que têm permissão para adicionar despesas também podem visualizar as despesas adicionadas, bem como as despesas adicionadas por seus subordinados diretos.
