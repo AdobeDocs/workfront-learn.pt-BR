@@ -1,6 +1,6 @@
 ---
-title: Editar um template de workflow automatizado
-description: Saiba como fazer alterações em um modelo de fluxo de trabalho de comprovação automatizada existente no [!DNL  Workfront].
+title: Editar um modelo de fluxo de trabalho automatizado
+description: Saiba como fazer alterações em um modelo de fluxo de trabalho de revisão automatizado que já exista no  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,63 +12,63 @@ jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Editar um template de workflow automatizado
+# Editar um modelo de fluxo de trabalho automatizado
 
-À medida que os processos de revisão e aprovação de prova são refinados ou que alterações organizacionais são feitas, os modelos automatizados de fluxo de trabalho devem ser atualizados para refletir as operações atuais das equipes que usam o Workfront.
+À medida que os processos de revisão e aprovação de prova são melhorados ou recebem alterações organizacionais, os modelos automatizados de fluxo de trabalho devem ser atualizados para refletir as operações atuais das equipes que usam o Workfront.
 
-Manter os modelos atualizados garante a consistência em seus processos de revisão e aprovação, além de economizar tempo para essas provas de upload, pois elas não precisam ajustar constantemente um fluxo de trabalho.
+Manter os modelos atualizados garante consistência nos processos de revisão e aprovação, além de economizar tempo no upload de provas, visto que não é necessário ajustar constantemente um fluxo de trabalho.
 
-1. Selecionar **[!UICONTROL Prova]** do **[!UICONTROL Menu principal]** in [!DNL Workfront].
-1. Nesse ponto, selecione **[!UICONTROL Fluxos de trabalho]** no menu do painel esquerdo.
-1. Clique no menu de 3 pontos na extremidade direita do nome do modelo e selecione **[!UICONTROL Exibir detalhes do modelo]**.
+1. Selecione **[!UICONTROL Revisão]** no **[!UICONTROL Menu principal]** do [!DNL Workfront].
+1. Em seguida, selecione **[!UICONTROL Fluxos de trabalho]** no menu do painel esquerdo.
+1. Clique no menu de três pontos na extremidade direita do nome do modelo e selecione **[!UICONTROL Exibir detalhes do modelo]**.
 
-As opções para compartilhar, copiar e excluir o modelo estão na parte superior da janela de detalhes de cada modelo. A exclusão de um modelo não afeta as provas em andamento que têm esse modelo aplicado, mas significa que o modelo não está mais disponível para uso.
+As opções para compartilhar, copiar e excluir o modelo estão localizadas na parte superior da janela de detalhes de cada modelo. A exclusão de um modelo não afeta as provas em andamento que utilizam esse modelo, mas significa que o modelo não estará mais disponível para uso.
 
-![Janela Detalhes do modelo](assets/proof-system-setup-edit-templates-details-area.png)
+![Janela de detalhes do modelo](assets/proof-system-setup-edit-templates-details-area.png)
 
 <!--
 Lean More URLs
 -->
 
-Clique na seta para expandir a [!UICONTROL Detalhes] para alterar coisas como o nome do template ou o fuso horário do template.
+Clique na seta para expandir a seção [!UICONTROL Detalhes] e alterar informações como o nome ou o fuso horário do modelo.
 
-## Fazer alterações em estágios e destinatários
+## Faça alterações nos estágios e destinatários
 
-As alterações podem ser necessárias no [!UICONTROL Fluxo de trabalho] área em que um processo simplificado significa um prazo mais curto ou quando alguém entra na equipe do e revisará as provas.
+Pode ser necessário fazer alterações na área do [!UICONTROL fluxo de trabalho] quando um processo simplificado gera um prazo mais curto ou quando alguém se junta à equipe para revisar provas.
 
-Cada estágio de um fluxo de trabalho automatizado tem sua própria seção, que permite que os prazos, a privacidade, os recipients de prova e outras informações sejam modificados independentemente.
+Cada estágio de um fluxo de trabalho automatizado possui sua própria seção, o que permite que os prazos, a privacidade, os destinatários das provas e outras informações sejam modificadas de forma independente.
 
-Este vídeo demonstra brevemente algumas das alterações que você pode fazer no [!UICONTROL Fluxo de trabalho] área. Consulte a lista com marcadores neste vídeo, que analisa essas configurações. Não há áudio neste vídeo.
+Este vídeo demonstra brevemente algumas das alterações que você pode fazer na área de [!UICONTROL Fluxo de trabalho]. Consulte a lista com marcadores neste vídeo, que descreve essas configurações. Este vídeo não tem áudio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
-Como revisão, estas são as alterações de modelo de prova que você pode fazer no [!UICONTROL Fluxo de trabalho] seção:
+Veja novamente as alterações do modelo de prova que você pode fazer na seção [!UICONTROL Fluxo de trabalho]:
 
-* Clique em na [!UICONTROL nome do estágio] ou a variável [!UICONTROL prazo] para atualizar essas informações.
-* Selecione a seta ao lado da [!UICONTROL prazo] para bloquear o estágio, determine quando o estágio é ativado ou exija apenas uma decisão.
-* Na lista de destinatários, clique na guia [!UICONTROL Função] ou [!UICONTROL Alertas de email] para selecionar outra opção.
-* Acesse o menu de 3 pontos na extremidade direita do nome de um destinatário para excluí-lo da lista, torná-lo o principal responsável pela tomada de decisões nesse estágio do fluxo de trabalho ou edite as informações de função de prova e alerta de email.
-* Você tem duas opções para adicionar recipients à lista. Depois de abrir o [!UICONTROL Adicionar pessoas ao estágio] clique no estágio ao qual deseja adicioná-los. Em seguida, insira seu nome ou endereço de email na lista de recipients e atribua uma função de prova e um alerta por email. Clique em [!UICONTROL Adicionar pessoas] quando terminar.
-   1. No canto superior direito de cada seção de estágio, vá para a [!UICONTROL Mais] e selecione [!UICONTROL Adicionar pessoas ao estágio].
-   1. Na parte superior do [!UICONTROL Fluxo de trabalho] , selecione [!UICONTROL Adicionar pessoas ao estágio].
+* Clique no campo [!UICONTROL nome do estágio] ou [!UICONTROL prazo final] para atualizar essas informações.
+* Selecione a seta ao lado do [!UICONTROL prazo final] para bloquear o estágio, determinar quando ele será ativado ou exigir apenas uma decisão.
+* Na lista de destinatários, clique nos campos [!UICONTROL Função] ou [!UICONTROL Alertas de email] para selecionar outra opção.
+* Use o menu de três pontos à direita do nome de um destinatário para excluí-lo da lista, torná-lo o principal tomador de decisões nesse estágio do fluxo de trabalho ou editar a função de prova e as informações de alerta por email.
+* Você tem duas opções para adicionar destinatários à lista. Depois de abrir a janela [!UICONTROL Adicionar pessoas ao estágio], clique no estágio ao qual deseja adicioná-las. Em seguida, insira o nome ou endereço de email na lista de destinatários e atribua uma função de prova e um alerta por email. Ao terminar, clique no botão [!UICONTROL Adicionar pessoas].
+   1. No canto superior direito de cada seção do estágio, acesse o menu [!UICONTROL Mais] e selecione [!UICONTROL Adicionar pessoas ao estágio].
+   1. Na parte superior da área [!UICONTROL Fluxo de trabalho], selecione [!UICONTROL Adicionar pessoas ao estágio].
 
 ## Compartilhamento de modelo
 
-A variável [!UICONTROL Compartilhado com] exibe os usuários de prova que podem usar o modelo. Remova as pessoas que não precisam mais usar o modelo clicando no menu de 3 pontos à direita do nome e selecionando [!UICONTROL Remover].
+A área [!UICONTROL Compartilhado com] exibe os usuários de prova que podem usar o modelo. Remova as pessoas que não precisam mais usar o modelo clicando no menu de três pontos à direita do nome e selecionando [!UICONTROL Remover].
 
-![[!UICONTROL Compartilhado com] lista](assets/proof-system-setups-edit-template-shared-with.png)
+Lista ![[!UICONTROL Compartilhado com]](assets/proof-system-setups-edit-template-shared-with.png)
 
-No entanto, não é possível adicionar pessoas à lista de compartilhamento nesta seção. Para fazer isso, volte para a parte superior da janela de detalhes do modelo e clique na guia [!UICONTROL Compartilhar modelo] botão.
+No entanto, não é possível adicionar pessoas à lista de compartilhamento nesta seção. Para fazer isso, volte à parte superior da janela de detalhes do modelo e clique no botão [!UICONTROL Compartilhar modelo].
 
-## seção Atividade
+## Seção de atividades
 
-[!DNL Workfront] mantém um histórico de auditoria de quando as alterações foram feitas no modelo. Você pode ver a data, quem fez a alteração e algumas informações resumidas sobre quais alterações foram feitas.
+O [!DNL Workfront] mantém um histórico de auditoria de quando foram feitas alterações no modelo. É possível ver a data, quem fez a alteração e algumas informações breves sobre quais alterações foram feitas.
 
 Esta seção não registra informações sobre quando o modelo foi usado em provas.
 
