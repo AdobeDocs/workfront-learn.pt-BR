@@ -1,6 +1,6 @@
 ---
-title: Personalizar cartões em um quadro
-description: Saiba como personalizar quais informações são exibidas em um cartão em um quadro, para exibição completa ou condensada.
+title: Personalize cartões em um quadro
+description: Aprenda a personalizar quais informações são exibidas em um cartão no quadro, seja para visualização completa ou condensada.
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
@@ -10,14 +10,14 @@ jira: KT-13776
 thumbnail: 3422520.jpeg
 exl-id: ff3ec41f-2a8d-4e09-aa8e-5c57d69cff36
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personalizar cartões em um quadro
+# Personalize cartões em um quadro
 
-Saiba como personalizar quais informações são exibidas em um cartão em um quadro, para exibição completa ou condensada.
+Aprenda a personalizar quais informações são exibidas em um cartão no quadro, seja para visualização completa ou condensada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on)
