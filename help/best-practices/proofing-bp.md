@@ -1,139 +1,139 @@
 ---
-title: Prática recomendada - Prova
-description: Explore as recomendações de práticas recomendadas dos especialistas do Adobe Workfront sobre a configuração, gerenciamento e uso de provas no Workfront.
+title: 'Prática recomendada: revisão'
+description: Conheça as sugestões de práticas recomendadas por especialistas do Adobe Workfront para configurar, gerenciar e usar revisões no Workfront.
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Prática recomendada - Prova
+# Prática recomendada: revisão
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
-
-</br>
-</br>
-
-## Prova nas práticas recomendadas do Workfront
-
-* Reserve tempo para criar modelos de fluxo de trabalho de provas.
-
-* Desative a configuração &quot;Enviar emails do Workfront quando um comentário for feito em uma prova&quot; nas configurações do Workfront.
-
-* Use somente leitura ou Revisor para a configuração &quot;Funções para não destinatários que abrem uma prova de documento&quot; no Workfront.
-
-* Ajuste as configurações de back-end da prova para que os usuários vejam os prazos em um formato de relógio de 12 horas.
-
-* Estabeleça um prazo de prova padrão como parte das configurações do sistema.
-
-* Oculte a opção Não relevante para decisão de prova.
-
-* Não reordene as opções de decisão da prova nas configurações de prova.
-
-* Defina os padrões do usuário para funções de prova e alertas de email.
-
-* Defina a função de prova do criador da prova como Revisor.
-
-* Evite usar a função de prova Aprovador.
-
-* Evite a opção de alerta por email de prova de Todas as atividades.
+A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Práticas recomendadas para revisão no Workfront
+
+* Reserve um tempo para criar modelos de fluxo de trabalho de revisão.
+
+* Desative a configuração “Enviar emails do Workfront quando um comentário for feito em uma revisão” nas configurações do Workfront.
+
+* Use “Somente leitura” ou “Revisor” para a configuração “Funções para não recipients que abrirem uma revisão de documento” no Workfront.
+
+* Ajuste as configurações de back-end de revisão, para que os usuários vejam os prazos no formato de 12 horas.
+
+* Estabeleça um prazo de revisão padrão como parte das configurações do sistema.
+
+* Oculte a opção de revisão de prova “Não relevante”.
+
+* Não reordene as opções de decisão de revisão nas configurações de revisão.
+
+* Defina os padrões do usuário para funções de revisão e alertas por email.
+
+* Defina a função de revisão do criador da revisão como “Revisor”.
+
+* Evite usar a função de revisão “Aprovador”.
+
+* Evite a opção de alerta por email de revisão “Todas as atividades”.
+
+</br>
+</br>
+
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
-Reserve tempo para criar modelos de fluxo de trabalho de provas.
+Reserve um tempo para criar modelos de fluxo de trabalho de revisão.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Os modelos não apenas aceleram e simplificam o processo de criação e atribuição de provas, como também fornecem consistência entre fluxos de trabalho de prova para tipos semelhantes de ativos. Elas também garantem que cada recipient de prova receba a função de prova e o alerta de email adequados, e que um prazo tenha sido definido.
-
-</br>
-</br>
-
-**Prática recomendada**
-
-Desative a configuração &quot;Enviar emails do Workfront quando um comentário for feito em uma prova&quot; nas configurações do Workfront.
-
-
-
-**Veja o porquê**
-
-Quando essa configuração estiver ativada (que é por padrão), os usuários têm o potencial de obter várias notificações por email para cada comentário em uma prova, uma da funcionalidade de prova e outra do próprio Workfront. Essas notificações duplicadas causam confusão e interrupção de notificações por email, bem como uma caixa de entrada de email completa, que pode resultar no ignoramento de notificações de prova recebidas pelos usuários. O que, por sua vez, poderia significar o não cumprimento de prazos.
-
-
-
-**Nota**: essa configuração é encontrada no Menu principal do Workfront > Configuração > Email > Revisão e aprovação.
+Além de acelerar e simplificar o processo de criação e atribuição de revisões, os modelos também fornecem consistência em workflows de revisão para tipos semelhantes de ativo. Eles também garantem que cada recipient da revisão receba a função de revisão e o alerta por email adequados, e que um prazo tenha sido definido.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Use somente leitura ou Revisor para a configuração &quot;Funções para não destinatários que abrem uma prova de documento&quot; no Workfront.
+Desative a configuração “Enviar emails do Workfront quando um comentário for feito em uma revisão” nas configurações do Workfront.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-As outras opções dessa configuração exigem que seja tomada uma decisão de prova, o que pode prejudicar seu fluxo de trabalho de prova. Geralmente, as pessoas que não são adicionadas ao fluxo de trabalho de prova precisam apenas visualizar a prova ou fazer comentários, não aprovar realmente a prova, portanto, as opções Somente leitura ou Revisor são a melhor opção.
-
-
-
-**Nota**: essa configuração é encontrada no Menu principal do Workfront > Configuração > Revisão e aprovação.
-
-</br>
-</br>
-
-**Prática recomendada**
-
-Ajuste as configurações de back-end da prova para que os usuários vejam os prazos em um formato de relógio de 12 horas.
+Quando essa configuração está habilitada (por padrão), os usuários têm a possibilidade de receber diversas notificações por email para cada comentário em uma revisão, uma da funcionalidade de revisão e outra do próprio Workfront. Essas notificações duplicadas levam à interrupção e confusão das notificações por email, bem como a uma caixa de entrada de email cheia, o que pode fazer com que os usuários ignorem as notificações de revisão recebidas. O que, por sua vez, pode significar prazos perdidos.
 
 
 
-**Veja o porquê**
-
-Selecione a opção F j, Y, gi:a nas configurações de prova para usuários que desejam ver prazos/horas de prova em um formato AM/PM. Para áreas que usam um relógio de 12 horas, isso ajuda na clareza do prazo.
-
-
-
-**Nota**: essa configuração é encontrada acessando o Menu principal do Workfront > Revisão > Configurações da conta > Usuários > e editando o campo Formato de data para cada usuário.
+**Observação**: esta configuração do Workfront é encontrada em Menu principal > Configuração > Email > Revisão e aprovação.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Estabeleça um prazo de prova padrão como parte das configurações do sistema.
+Use “Somente leitura” ou “Revisor” para a configuração “Funções para não recipients que abrirem uma revisão de documento” no Workfront.
+
+
+
+**Entenda o porquê**
+
+Todas as outras opções dessa configuração exigem que uma decisão de revisão seja tomada, o que pode atrapalhar seu fluxo de trabalho de revisão. Geralmente, as pessoas que não são adicionadas ao fluxo de trabalho da revisão só precisam visualizar a revisão ou fazer comentários, não aprovar a revisão; portanto, as opções “Somente leitura” ou “Revisor” são a sua melhor escolha.
+
+
+
+**Observação**: esta configuração do Workfront é encontrada em Menu principal > Configuração > Revisão e aprovação.
+
+</br>
+</br>
+
+**Prática recomendada**
+
+Ajuste as configurações de back-end de revisão, para que os usuários vejam os prazos no formato de 12 horas.
+
+
+
+**Entenda o porquê**
+
+Selecione a opção F j, Y, gi:a nas configurações de revisão para usuários que queiram ver os prazos/horários das revisões no formato AM/PM. Para regiões que usam um relógio de 12 horas, isso ajuda a deixar os prazos mais claros.
+
+
+
+**Observação**: esta configuração do Workfront é encontrada em Menu principal > Revisão > Configurações da conta > Usuários, e editando-se o campo “Formato de data” para cada usuário.
+
+</br>
+</br>
+
+**Prática recomendada**
+
+Estabeleça um prazo de revisão padrão como parte das configurações do sistema.
 
 
 
 **Veja o porquê**
 
-Quando um prazo de prova padrão é definido (a data de upload + x número de dias úteis), se o criador da prova esquecer de adicionar um prazo, a Workfront aplicará automaticamente esse prazo a todas as provas carregadas.
+Quando um prazo de revisão padrão é definido (a data de upload x a quantidade de dias úteis), se o criador da revisão se esquecer de adicionar um prazo, o Workfront aplicará automaticamente esse prazo a todas as revisões carregadas.
 
 
 
-**Nota**: essa configuração é encontrada no campo Menu principal do Workfront > Revisão > Configurações da conta > Configurações > Padrões de prova > Prazo final (+ dias úteis).
+**Observação**: esta configuração do Workfront é encontrada em Menu principal > Revisão > Configurações da conta > Configurações > Padrões de revisão > Prazo (+ dias úteis).
 
 </br>
 </br>
@@ -141,88 +141,88 @@ Quando um prazo de prova padrão é definido (a data de upload + x número de di
 
 **Prática recomendada**
 
-Oculte a opção Não relevante para decisão de prova.
+Oculte a opção de revisão de prova “Não relevante”.
 
 
 
 **Veja o porquê**
 
-Essa opção de decisão geralmente causa confusão entre aprovadores, já que as organizações geralmente não definem quando a opção Não relevante deve ser usada. A opção Não relevante geralmente indica que a prova não é relevante para o recipient da prova e que ele não precisa tomar uma decisão aprovada ou rejeitada. Ao selecionar Não relevante, permite que o fluxo de trabalho de prova continue.
+Essa opção de decisão muitas vezes causa confusão entre os aprovadores, pois muitas vezes as organizações não definem quando a opção “Não relevante” deve ser usada. A opção “Não relevante” geralmente indica que a revisão não é relevante para o destinatário da revisão e que ele não precisa tomar nenhuma decisão de aprovação ou rejeição. Selecionar “Não relevante” permite que o fluxo de trabalho de revisão continue.
 
 
-A opção Not Relevant não é necessária na maioria dos workflows de prova.
+A opção “Não relevante” não é necessária na maioria dos workflows de revisão.
 
-**Nota**: essa configuração é encontrada acessando o Menu principal do Workfront > Revisão > Configurações da conta > Decisões.
+**Observação**: esta configuração do Workfront é encontrada em Menu principal > Revisão > Configurações da conta > Decisões.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Não reordene as opções de decisão da prova nas configurações de prova.
+Não reordene as opções de decisão de revisão nas configurações de revisão.
 
 
 
 **Veja o porquê**
 
-Cada configuração de decisão de prova contém um valor/peso específico que, se reordenado, pode causar confusão nas configurações da prova. A ordem de decisão e o valor/peso são usados como acionadores de ativação do estágio de prova e nos relatórios.
+Cada configuração de decisão de revisão contém um valor/peso específico que, se reordenado, pode causar confusão nas suas configurações de revisão. A ordem de decisão e o valor/peso são usados como desencadeadores de ativação do estágio de revisão e nos relatórios.
 
 
 
-**Nota**: essa configuração é encontrada acessando o Menu principal do Workfront > Revisão > Configurações da conta > Decisões.
+**Observação**: esta configuração do Workfront é encontrada em Menu principal > Revisão > Configurações da conta > Decisões.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Defina os padrões do usuário para funções de prova e alertas de email.
+Defina os padrões do usuário para funções de revisão e alertas por email.
 
 
 
 **Veja o porquê**
 
-Essas configurações são preenchidas automaticamente ao atribuir um fluxo de trabalho de prova, acelerar o processo e contribuir para a consistência entre fluxos de trabalho de prova.
+Essas configurações são preenchidas automaticamente quando um fluxo de trabalho de revisão é atribuído, acelerando o processo e contribuindo para a consistência entre os workflows de revisão.
 
 
 
-**Nota**: as configurações padrão do usuário são encontradas ao acessar o Menu principal do Workfront > Revisão de texto > Configurações da conta > Usuários > e selecionar o usuário para o qual definir os padrões.
+**Observação**: as configurações padrão do usuário são encontradas acessando o Menu principal do Workfront > Revisão > Configurações da conta > Usuários > e selecionando o usuário para o qual deseja definir os padrões.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Defina a função de prova do criador da prova como Revisor.
+Defina a função de revisão do criador da revisão como “Revisor”.
 
 
 
 **Veja o porquê**
 
-A função de prova Revisor garante que o criador da prova possa fazer comentários e acessar comentários deixados por outros. Na maioria das vezes, o criador da prova não é obrigado a tomar uma decisão sobre uma prova que carregou. As funções de prova Aprovador, Revisor e Aprovador, Autor ou Moderador exigem que seja tomada uma decisão. Se o criador da prova receber uma dessas funções de prova, mas nunca tomar uma decisão, isso poderá afetar negativamente os prazos de prova.
+A função de prova “Revisor” garante que o criador da prova possa fazer comentários e acessar comentários feitos por outras pessoas. Na maioria das vezes, o criador da prova não é obrigado a tomar uma decisão sobre a prova de que fez upload. As funções de prova “Aprovador”, “Revisor e Aprovador”, “Autor” ou “Moderador” exigem a tomada de uma decisão. Se o criador da prova receber uma dessas funções, mas não tomar nenhum decisão, isso poderá afetar negativamente os prazos das provas.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Evite usar a função de prova Aprovador.
+Evite usar a função de revisão “Aprovador”.
 
 
 
 **Veja o porquê**
 
-A função de Aprovador de prova não permite que o usuário faça comentários nesta prova. Isso pode levar um usuário a rejeitar a prova, sem qualquer explicação, porque não pode fazer comentários. Em vez disso, use a função de prova Revisor e Aprovador para que o usuário possa fornecer feedback.
+A função “Aprovador” não permite que o usuário faça comentários nesta prova. Isso poderia levar um usuário a rejeitar a prova, sem qualquer explicação, pois não seria possível fazer comentários. Utilize a função de prova “Revisor e Aprovador” para que o usuário possa fornecer feedback.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Evite a opção de alerta por email de prova de Todas as atividades.
+Evite a opção de alerta por email de revisão “Todas as atividades”.
 
-**Veja o porquê**
+**Aqui está o motivo**
 
-Essa opção envia uma notificação por email de prova sempre que algo acontece com uma prova: um comentário é feito, uma resposta é postada, uma decisão é tomada, etc. O recipient está essencialmente vendo a atividade de prova à medida que ela acontece.
+Esta opção envia uma notificação por email sobre a prova sempre que algo acontece, como quando um comentário é feito, uma resposta é postada, uma decisão é tomada etc. O recipient essencialmente vê a atividade da prova conforme ela acontece.
 
-Para proprietários e criadores de provas, o alerta por email de Decisões funciona melhor para fluxos de trabalho de prova de vários estágios e a Decisão final funciona melhor para fluxos de trabalho de estágio único. Geralmente, todos os outros podem ser definidos como Desativado, a menos que queiram ser notificados sobre outras pessoas que estejam fazendo comentários ou tomando decisões (nesse caso, uma das opções de resumo de email pode funcionar melhor).
+Para proprietários e criadores de provas, o alerta por email de Decisões funciona melhor para workflows de prova de vários estágios e a Decisão final funciona melhor para workflows de estágio único. Geralmente, todos os outros usuários podem ser definidos como Desabilitados, a menos que queiram ser notificados sobre comentários ou decisões de outras pessoas (nesse caso, uma das opções de resumo por email pode funcionar melhor).
