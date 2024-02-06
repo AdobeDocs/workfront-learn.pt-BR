@@ -1,6 +1,6 @@
 ---
-title: Criar um modelo de layout para [!DNL Workfront Goals] usuários
-description: Saiba como criar um modelo de layout com o [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminologia adequada à sua organização.
+title: Criar um modelo de layout para usuários do  [!DNL Workfront Goals]
+description: Saiba como criar um modelo de layout com uma terminologia do  [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals]  adequada à sua organização.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,23 +11,23 @@ jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Criar um modelo de layout para [!DNL Workfront Goals] usuários
+# Criar um modelo de layout para usuários do [!DNL Workfront Goals] 
 
-No **[!UICONTROL Configuração]** também é possível criar e atribuir um modelo de layout que inclua [!DNL Workfront Goals] para que você e seus usuários possam acessá-lo mais facilmente.
+Na área de **[!UICONTROL Configuração]**, também é possível criar e atribuir um modelo de layout que inclua o [!DNL Workfront Goals] para que você e seus usuários possam acessá-lo mais facilmente.
 
 Neste vídeo, você aprenderá a:
 
 * Criar um modelo de layout
 * Atribuir o modelo de layout aos usuários
-* Adicionar [!DNL Goals] para um modelo de layout
-* Alterar [!DNL Goals] terminologia adequada à sua organização
-* Adicionar [!DNL Goals] para o [!DNL Workfront] [!UICONTROL Menu principal]
+* Adicionar o [!DNL Goals] em um modelo de layout
+* Alterar a terminologia do [!DNL Goals] para adequar-se à sua organização
+* Adicionar o [!DNL Goals] ao [!UICONTROL menu principal] do [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
