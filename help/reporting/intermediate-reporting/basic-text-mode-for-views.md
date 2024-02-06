@@ -1,6 +1,6 @@
 ---
-title: Entender o modo de texto básico para exibições
-description: Saiba o que é modo de texto, o que é camel case e conheça modos de texto básicos de "plug and play" que podem ser usados em suas visualizações no Workfront.
+title: Entenda o modo de texto básico para visualizações
+description: Aprenda o que é o modo de texto, o que é “Camel case” e veja alguns modos de texto “plug and play” básicos que você pode usar em suas visualizações no Workfront.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,41 +12,41 @@ jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
 source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender o modo de texto básico para exibições
+# Entenda o modo de texto básico para visualizações
 
 
 >[!IMPORTANT]
 >
 >Pré-requisitos:
 >
->* [Entender os elementos de relatórios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Entender os componentes de relatórios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [Criar uma exibição básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+>* [Entenda os elementos dos relatórios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=pt-BR)
+>* [Entenda os componentes dos relatórios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=pt-BR)
+>* [Criar uma visualização básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR)
 
 >[!TIP]
 >
->* Para obter uma compreensão mais detalhada do modo de texto, recomendamos assistir ao evento gravado do webinário [Pergunte a um especialista - Introdução aos relatórios no modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), que tem uma hora de duração.
->* Para saber ainda mais sobre o modo de texto, recomendamos assistir ao [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutoriais, que juntos têm cinco horas e meia de duração.
+>* Para entender a fundo o modo de texto, recomendamos assistir ao webinário gravado [Pergunte a especialistas - Introdução aos relatórios do modo de texto](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=br), que tem uma hora de duração.
+>* Para aprender ainda mais sobre o modo de texto, recomendamos assistir aos tutoriais sobre [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=pt-BR), que juntos têm cinco horas e meia de duração.
 
 Neste vídeo, você aprenderá:
 
-* O que é modo texto
-* O que camel case é
-* Alguns modos básicos de texto &quot;plug and play&quot; que podem ser usados em suas visualizações
+* O que é o modo de texto
+* O que é camel case
+* Alguns modos de texto “plug and play” básicos que você pode usar em suas visualizações
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Tarefa - exibição com 4 pais
+## Tarefa - Visualização das 4 principais
 
-Primeiro, crie uma coluna para o Nome da Tarefa e o Nome do Pai e, em seguida, use o seguinte modo de texto para criar as outras três colunas.
+Crie primeiro uma coluna para o Nome da tarefa e o Nome da principal e, depois, use o modo de texto a seguir para criar as outras três colunas.
 
-### Tarefa - Pai do Nome do Pai
+### Tarefa - Principal do nome da principal
 
 ```
 displayname=Parent of Parent Name
@@ -60,7 +60,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Tarefa - Pai do Nome do Pai
+### Tarefa - Principal da principal do nome da principal
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -74,7 +74,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Tarefa - Pai do Pai do Nome do Pai
+### Tarefa - Principal da principal da principal do nome da principal
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -88,11 +88,11 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando a exibição com 4 pais](assets/4-parents-view.png)
+![Imagem de tela mostrando a visualização das 4 principais](assets/4-parents-view.png)
 
-## Usuário - Iterações mostrando listas em visualizações do usuário
+## Usuário - Iterações mostrando listas nas visualizações do usuário
 
-### Usuário - Todas as funções de trabalho
+### Usuário - Todas as funções
 
 ```
 displayname=All job roles
@@ -104,7 +104,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### Usuário - Todas as funções de trabalho mostrando o principal
+### Usuário - Todas as funções de trabalho mostrando opções primárias
 
 ```
 displayname=All Job Roles showing primary
@@ -130,7 +130,7 @@ valueformat=HTML
 
 >[!NOTE]
 >
->Há um campo Equipe acessível por meio da interface do usuário que mostra todos os grupos, separados por vírgulas, mas usando o modo de texto acima, cada grupo será exibido em uma linha separada.
+>A interface disponibiliza um campo de Equipe que mostra todas as equipes separadas por vírgulas, mas ao usar o modo de texto acima, cada equipe é exibida em uma linha separada.
 
 
 ### Usuário - Todos os grupos
@@ -145,7 +145,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### Usuário - Todos os grupos que mostram o grupo inicial
+### Usuário - Todos os grupos mostrando o grupo inicial
 
 ```
 displayname=All groups showing home group
@@ -170,7 +170,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### Usuário - PTO futuro
+### Usuário - Folga futura
 
 ```
 displayname=Future PTO
@@ -184,9 +184,9 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando a visualização Listas de usuários](assets/user-lists-view-large.png)
+![Imagem da tela que mostra a visualização de Listas de usuários](assets/user-lists-view-large.png)
 
-## Tarefa - Como exibir as atribuições de tarefas e o status de trabalho
+## Tarefa - Como exibir atribuições de tarefas e status de trabalho
 
 ```
 displayname=Assignments and Status
@@ -200,10 +200,10 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando a exibição de Atribuições e Status](assets/assignments-and-status-view.png)
+![Imagem da tela que mostra a visualização de Atribuições e Status](assets/assignments-and-status-view.png)
 
 
-## Tarefa - Como mostrar a função e a alocação em atribuições de várias tarefas
+## Tarefa - Como mostrar a função e alocação em atribuições de várias tarefas
 
 ### Tarefa - Função + horas
 
@@ -217,7 +217,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Tarefa - Atribuição + porcentagem de alocação
+### Tarefa - Atribuição + percentual de alocação
 
 ```
 displayname=Assignment+percent
@@ -229,13 +229,13 @@ textmode=true
 type=iterate
 ```
 
-![Uma imagem de tela mostrando a exibição de Atribuições e Funções](assets/assignments-roles-and-percent-view.png)
+![Imagem da tela que mostra a visualização de Atribuições e Funções](assets/assignments-roles-and-percent-view.png)
 
-## Tarefa - predecessores e sucessores entre projetos
+## Tarefa - Predecessoras e sucessoras entre projetos
 
 ### Filtro de tarefa (opcional)
 
-**Mostre-me todas as tarefas que tenham pelo menos uma predecessora entre projetos ou pelo menos uma sucessora entre projetos nos projetos atuais**
+**Mostrar todas as tarefas que têm pelo menos uma predecessora ou sucessora entre os projetos atuais**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -250,7 +250,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### Tarefa - Mostrar nomes de predecessores e a predecessora do projeto está em
+### Tarefa - Mostrar nomes das predecessoras e os projetos nos quais elas estão
 
 ```
 displayname=Predecessor names
@@ -264,7 +264,7 @@ valueformat=HTML
 width=150
 ```
 
-### Tarefa - Mostrar nomes de sucessores e o sucessor do projeto está em
+### Tarefa - Mostrar os nomes das sucessoras e os projetos nos quais elas estão
 
 ```
 displayname=Successor names
@@ -278,7 +278,7 @@ valueformat=HTML
 width=150
 ```
 
-### Tarefa - Mostra a data de conclusão projetada dos predecessores
+### Tarefa - Mostrar data de conclusão projetada das predecessoras
 
 ```
 displayname=Predecessor projected completion dates
@@ -293,7 +293,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Tarefa - Mostrar status do progresso dos predecessores
+### Tarefa - Mostrar status do progresso das predecessoras
 
 ```
 displayname=Predecessor progress status
@@ -308,7 +308,7 @@ valueformat=HTML
 width=90
 ```
 
-### Tarefa - Mostra o percentual concluído do projeto da predecessora entre projetos
+### Tarefa - Mostrar percentual concluído do projeto da predecessora entre projetos
 
 ```
 displayname=Predecessor project percent complete
@@ -322,10 +322,10 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando a visualização de predecessores e sucessores entre projetos](assets/cross-project-predecessors-and-successors.png)
+![Imagem da tela que mostra a visualização de predecessoras e sucessoras entre projetos](assets/cross-project-predecessors-and-successors.png)
 
 
-## Tarefa - Iteração que mostra todas as pessoas atribuídas e que atribuíram cada uma
+## Tarefa - Iteração mostrando todas as pessoas atribuídas e quem as atribuiu
 
 ```
 displayname=All assignees and requesters
@@ -337,9 +337,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando todas as pessoas atribuídas e que atribuíram cada uma](assets/all-assignees-and-requesters.png)
+![Imagem da tela que mostra todas as pessoas atribuídas e quem as atribuiu](assets/all-assignees-and-requesters.png)
 
-## Tarefa/Projeto - Iteração que mostra todos os formulários personalizados em um projeto ou tarefa
+## Tarefa e projeto - Iteração mostrando todos os formulários personalizados em um projeto ou tarefa
 
 ```
 displayname=All Forms Assigned
@@ -351,10 +351,10 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando todos os formulários personalizados em um projeto](assets/all-custom-forms-on-a-project.png)
+![Imagem da tela que mostra todos os formulários personalizados em um projeto](assets/all-custom-forms-on-a-project.png)
 
 
-## Projeto - Iteração mostrando todos os contatos principais para contas a resolver na exibição de projeto
+## Projeto - Iteração mostrando todos os contatos primários para problemas resolvíveis na visualização do projeto
 
 ```
 displayname=Requestor
@@ -368,7 +368,7 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando os contatos principais para contas a resolver](assets/primary-contacts-for-resolvables.png)
+![Imagem da tela que mostra os contatos primários para problemas resolvíveis](assets/primary-contacts-for-resolvables.png)
 
 ## Projeto - Iteração mostrando todos os membros da equipe do projeto
 
@@ -383,7 +383,7 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando todos os membros da equipe do projeto](assets/all-project-team-members.png)
+![Imagem da tela que mostra todos os membros da equipe do projeto](assets/all-project-team-members.png)
 
 ## Projeto - Iteração mostrando a entryDate de todos os problemas resolvíveis de um projeto
 
@@ -401,9 +401,9 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando a entryDate de todos os problemas resolvíveis de um projeto](assets/resolvables-entry-date.png)
+![Imagem de tela mostrando a entryDate de todos os problemas resolvíveis de um projeto](assets/resolvables-entry-date.png)
 
-## Projeto - Mostra o grupo inicial do solicitante do projeto original
+## Projeto - Mostra o grupo inicial do solicitante original do projeto
 
 ```
 displayname=Requestor home group
@@ -415,9 +415,9 @@ valuefield=convertedOpTaskOriginator:homeGroup:name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando o grupo inicial do solicitante do projeto](assets/requestor-home-group.png)
+![Imagem de tela mostrando o grupo inicial do solicitante do projeto](assets/requestor-home-group.png)
 
-## Projeto - Mostrar se o projeto é uma fila de solicitações
+## Projeto - Mostra se o projeto é uma fila de solicitações
 
 ```
 querysort=queueDef:isPublic
@@ -433,9 +433,9 @@ enumclass=com.attask.common.constants.ProjectStatusEnum
 displayname=Public Selection
 ```
 
-![Uma imagem de tela mostrando se o projeto é uma fila de solicitações](assets/project-is-a-request-queue.png)
+![Imagem de tela mostrando se o projeto é uma fila de solicitações](assets/project-is-a-request-queue.png)
 
-## Problema - Iteração mostrando todos os membros da equipe de resolução de projetos
+## Problema - Iteração mostrando todos os membros da equipe do projeto resolutivo
 
 ```
 displayname=Resolve Project: Team Members
@@ -449,9 +449,9 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando todos os membros da equipe do projeto resolvidos](assets/all-resolve-project-team-members.png)
+![Imagem de tela mostrando todos os membros da equipe do projeto resolutivo](assets/all-resolve-project-team-members.png)
 
-## Problema - Iteração que mostra todas as equipes do contato principal do problema
+## Problema – Iteração mostrando todas as equipes do contato principal do problema
 
 ```
 displayname=Requestor Teams
@@ -465,9 +465,9 @@ valueformat=HTML
 width=150
 ```
 
-![Uma imagem de tela mostrando todas as equipes de contato principais](assets/all-primary-contact-teams.png)
+![Imagem de tela mostrando todas as equipes de contato principais](assets/all-primary-contact-teams.png)
 
-## Documento - Iteração que mostra a pasta em um relatório de documento
+## Documento - Iteração mostrando pasta em um relatório de documento
 
 ```
 displayname=Folder
@@ -479,9 +479,9 @@ valuefield=name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando a pasta no relatório de um documento](assets/folder-in-a-document-report.png)
+![Imagem de tela mostrando a pasta no relatório de um documento](assets/folder-in-a-document-report.png)
 
-## Documento - Iteração que mostra a pasta principal em um relatório de documento
+## Documento - Iteração mostrando a pasta principal em um relatório de documento
 
 ```
 displayname=Parent Folder
@@ -493,9 +493,9 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando a pasta principal em um relatório de documento](assets/parent-folder-in-a-document-report.png)
+![Imagem de tela mostrando a pasta principal em um relatório de documento](assets/parent-folder-in-a-document-report.png)
 
-## Documento - Datas de aprovação de documentos
+## Documento - Datas de aprovação do documento
 
 ```
 displayname=Document approval dates
@@ -511,11 +511,11 @@ shortview=false
 section=0
 ```
 
-![Uma imagem de tela mostrando a exibição das datas de aprovação do documento](assets/document-approval-dates.png)
+![Imagem de tela mostrando a visualização das datas de aprovação do documento](assets/document-approval-dates.png)
 
 ## Aprovações de revisões
 
-### Aprovação da prova - Mostrar nome do projeto
+### Aprovação de prova - Mostrar nome do projeto
 
 ```
 displayname=Project Name
@@ -524,7 +524,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Aprovação da prova - Mostrar nome da tarefa
+### Aprovação de prova - Mostrar nome da tarefa
 
 ```
 displayname=Task Name
@@ -533,4 +533,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![Uma imagem de tela mostrando o projeto e a tarefa de uma aprovação de prova](assets/proof-approval-project-and-task.png)
+![Imagem de tela mostrando o projeto e a tarefa de uma aprovação de prova](assets/proof-approval-project-and-task.png)
