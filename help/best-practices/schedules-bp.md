@@ -1,84 +1,84 @@
 ---
 title: Prática recomendada - Cronogramas
-description: Explore as recomendações de práticas recomendadas dos especialistas da Adobe Workfront sobre a configuração, o gerenciamento e o uso das programações do Workfront.
+description: Conheça as práticas recomendadas de especialistas do Adobe Workfront sobre a configuração, gerenciamento e uso dos cronogramas do Workfront.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '536'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Prática recomendada - Cronogramas
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
-
-</br>
-</br>
-
-## Programa de práticas recomendadas
-
-* Limite o número de programações criadas no Adobe Workfront.
-
-* O total de horas de trabalho em cada dia de trabalho na agenda deve ser igual ao número de horas em um dia especificado nas preferências globais do projeto.
-
-* Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar os Agendamentos em um horário definido a cada ano.
+A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Práticas recomendadas de cronogramas
+
+* Limite o número de cronogramas criados no Adobe Workfront.
+
+* O total de horas úteis em cada dia de trabalho no cronograma deve ser igual ao número de horas do dia especificado nas preferências globais do projeto.
+
+* Adicione um lembrete no calendário do(a) admin de sistema do Adobe Workfront para atualizar os cronogramas em uma determinada data todos os anos.
+
+</br>
+</br>
+
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
-Limite o número de programações criadas no Adobe Workfront.
+Limite o número de cronogramas criados no Adobe Workfront.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Não crie dezenas de programações para diferentes grupos, equipes ou indivíduos. Menos agendamentos significa menos manutenção por parte dos administradores de sistema ou de grupo.
+Não crie dezenas de cronogramas para diferentes grupos, equipes ou pessoas. Utilizar menos cronogramas facilita o processo de manutenção por parte de admins de sistema ou de grupo.
 
 
 
-Agendamentos separados podem ser necessários quando:
+Cronogramas separados podem ser necessários quando:
 
-* Os funcionários estão em fusos horários diferentes (Pacífico dos EUA e Leste dos EUA) ou em regiões diferentes (EMEA e APAC).
+* Funcionários(as) estiverem em fusos horários diferentes (Pacífico dos EUA e Leste dos EUA) ou em regiões diferentes (EMEA e APAC).
 
-* Você tem trabalhadores a tempo parcial que trabalham menos de 40 horas por semana.
+* Você tem trabalhadores em meio período que trabalham menos de 40 horas por semana.
 
-* Os trabalhadores não trabalham com o padrão de 8 horas por dia, de segunda a sexta-feira, como os trabalhadores de fim de semana ou aqueles que trabalham quatro dias de 10 horas.
+* Essas pessoas não trabalham no padrão de 8 horas por dia, de segunda a sexta-feira, como trabalhadores de fim de semana ou que trabalham em quatro dias de 10 horas.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-O total de horas de trabalho em cada dia de trabalho na agenda deve ser igual ao número de horas em um dia especificado nas preferências globais do projeto.
+O total de horas úteis em cada dia de trabalho no cronograma deve ser igual ao número de horas do dia especificado nas preferências globais do projeto.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Se o total de horas de trabalho não corresponder, isso pode resultar em cálculos de data e hora aparentemente incorretos na linha do tempo e nos relatórios do seu projeto.
+Se o total de horas de trabalho não corresponder, isso pode resultar em cálculos de data e hora aparentemente incorretos na linha do tempo e nos relatórios do projeto.
 
-Por exemplo, se a preferência do sistema for de oito horas por dia e o agendamento atribuído a um projeto tiver apenas sete horas de trabalho por dia, você observará que uma tarefa com duração de um dia demora mais de um dia para ser concluída, porque está tentando se ajustar às oito horas.
+Por exemplo, se a preferência do sistema for de oito horas por dia e o cronograma atribuído a um projeto tiver apenas sete, você perceberá que uma tarefa com duração de um dia demorará mais do que isso para ser concluída, por conta do ajuste ao padrão de oito horas.
 
-**Nota**: as configurações globais do projeto do sistema são feitas em Configuração > Preferências do projeto > Cálculos de linha do tempo > Horas típicas por dia de trabalho.
+**Nota**: as configurações globais do projeto são definidas em Configuração > Preferências do projeto > Cálculos de linha do tempo > Padrão de horas por dia de trabalho.
 
 </br>
 </br>
@@ -86,8 +86,8 @@ Por exemplo, se a preferência do sistema for de oito horas por dia e o agendame
 
 **Prática recomendada**
 
-Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar os Agendamentos em um horário definido a cada ano.
+Adicione um lembrete no calendário do(a) admin de sistema do Adobe Workfront para atualizar os cronogramas em uma determinada data todos os anos.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Atualize os cronogramas em sua instância do Workfront com feriados nacionais, feriados da empresa e outros dias em que os usuários não estarão trabalhando. Faça isso em um horário definido a cada ano, no final do ano ou quando os cronogramas de feriados forem liberados pelos recursos humanos, de modo que as linhas do tempo do projeto, o planejamento de recursos etc. reflitam a disponibilidade precisa do usuário.
+Atualize os cronogramas em sua instância do Workfront com feriados nacionais, feriados empresariais e outros dias em que os usuários não estarão trabalhando. Faça isso em uma data definida todos os anos, seja no final do ano ou quando os cronogramas dos feriados forem liberados pelo departamento de recursos humanos, a fim de que as linhas do tempo do projeto, o planejamento de recursos, entre outros elementos, reflitam a disponibilidade exata dos usuários.
