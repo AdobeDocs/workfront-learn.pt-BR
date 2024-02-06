@@ -12,80 +12,80 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '628'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 # Gerenciar notificações de eventos no aplicativo e por email
 
-O e-mail faz parte do trabalho diário e, em alguns dias, a quantidade de e-mails que você recebe é enorme. No entanto, com [!DNL Workfront]Além disso, os administradores do sistema podem garantir que todos recebam emails relevantes e úteis sobre o trabalho com o qual estão envolvidos.
+Os emails fazem parte de nossa vida profissional diária, mas às vezes a quantidade de emails recebidos é muito grande. No entanto, com o [!DNL Workfront], admins de sistema podem garantir que todos recebam emails relevantes e úteis sobre o trabalho no qual estão envolvidos.
 
-Há vários tipos de notificações que o Workfront pode enviar aos usuários. Algumas dessas notificações são controladas no nível do sistema e afetam todos os usuários. Algumas notificações podem ser definidas para gerar emails instantaneamente, em um resumo diário. Ou desative os emails para gerar apenas notificações dentro do Workfront.
+Existem vários tipos de notificação que o Workfront pode enviar aos usuários. Algumas dessas notificações são controladas no nível do sistema e afetam todos os usuários. Algumas notificações podem ser configuradas para gerar emails de resumo diário instantaneamente. Também é possível desativar as notificações por email e gerá-las apenas dentro do Workfront.
 
 ## Notificações de Eventos
 
-Um evento é algo como uma alteração no status, um comentário publicado ou uma atribuição feita, e pode acionar uma notificação no aplicativo no [!DNL Workfront].
+Um evento pode ser uma alteração no status, um comentário publicado ou uma atribuição feita, e ele pode acionar uma notificação no aplicativo do [!DNL Workfront].
 
 ![Lista de notificações](assets/admin-fund-user-notifications-01.png)
 
-No entanto, você pode determinar para quais eventos gostaria de receber notificações por email selecionando ou desmarcando as opções em suas preferências.
+No entanto, você pode determinar sobre quais eventos gostaria de receber notificações por email, marcando ou desmarcando as opções nas preferências.
 
-Para fazer essas alterações, clique no seu nome na [!UICONTROL Menu principal].
+Para fazer essas alterações, clique no seu nome no [!UICONTROL Menu principal].
 
-![Nome de usuário em [!UICONTROL Menu principal]](assets/admin-fund-user-notifications-02.png)
+![Nome do usuário no [!UICONTROL Menu principal]](assets/admin-fund-user-notifications-02.png)
 
-Clique em [!UICONTROL Editar] do [!UICONTROL Mais] menu.
+Clique em [!UICONTROL Editar] no menu [!UICONTROL Mais].
 
-![Menu na página de perfil do usuário](assets/admin-fund-user-notifications-03.png)
+![Menu na página do perfil do usuário](assets/admin-fund-user-notifications-03.png)
 
-Clique em [!UICONTROL Notificação] no [!UICONTROL Editar pessoa] pop-up.
+Clique em [!UICONTROL Notificações] na caixa pop-up [!UICONTROL Editar pessoa].
 
-![[!UICONTROL Editar pessoa] janela](assets/admin-fund-user-notifications-04.png)
+Janela ![[!UICONTROL Editar pessoa]](assets/admin-fund-user-notifications-04.png)
 
-A partir daqui, você pode decidir quais notificações deseja receber instantaneamente, diariamente ou mesmo não receber. Quaisquer alterações feitas aqui são específicas para você e não afetam nenhum outro usuário no Workfront.
+Aqui é possível definir quais notificações você gostaria de receber instantaneamente, diariamente ou nunca. Quaisquer alterações feitas nesta área são específicas para você e não afetam nenhum outro usuário do Workfront.
 
 **[!UICONTROL Diariamente]**
 
-Por padrão, os emails são configurados para serem enviados instantaneamente. No entanto, é possível alternar a frequência de notificação por email de [!UICONTROL Instantâneo] para [!UICONTROL Diariamente], garantindo que você obtenha as informações necessárias, quando desejar.
+Por padrão, os emails são configurados para ser enviados instantaneamente. No entanto, é possível alterar a frequência de notificação por email de [!UICONTROL Instantânea] para [!UICONTROL Diária], garantindo que você obtenha as informações necessárias quando desejar.
 
-![[!UICONTROL Notificação] seção de [!UICONTROL Editar pessoa] janela](assets/admin-fund-user-notifications-05.png)
+Seção ![[!UICONTROL Notificação] da janela [!UICONTROL Editar pessoa]](assets/admin-fund-user-notifications-05.png)
 
-A opção diariamente envia um resumo dos eventos do dia em um email. Os usuários recebem um email para cada agrupamento que veem no [!UICONTROL Notificação] seção.
+A opção Diária envia um resumo dos eventos do dia em um email. Os usuários recebem um email para cada agrupamento disponível na seção [!UICONTROL Notificações].
 
-Por exemplo, a variável [!UICONTROL Informações sobre Projetos dos quais sou proprietário] gerará um email diário, a variável [!UICONTROL Ação necessária] gerará um email diário, etc.
+Por exemplo, a seção [!UICONTROL Informações sobre projetos que possuo] gerará um email diário, a seção [!UICONTROL Ação necessária] gerará um email diário etc.
 
-![[!UICONTROL Resumo diário] email para [!UICONTROL Informações sobre Projetos dos quais sou proprietário]](assets/admin-fund-user-notifications-06.png)
+Email de ![[!UICONTROL Resumo diário] de [!UICONTROL Informações sobre projetos que possuo]](assets/admin-fund-user-notifications-06.png)
 
-![[!UICONTROL Resumo diário] email para [!UICONTROL Ação necessária]](assets/admin-fund-user-notifications-07.png)
+Email de ![[!UICONTROL Resumo diário] de [!UICONTROL Ação necessária]](assets/admin-fund-user-notifications-07.png)
 
-Além de selecionar a opção daily, defina um time para que esses emails sejam enviados. Dependendo do que funcionar melhor, emails de resumo podem ser enviados antes de você entrar no trabalho pela manhã ou antes de sair do dia.
+Além de selecionar a opção diária, defina um horário para o envio desses emails. Dependendo da sua escolha, os emails de resumo podem ser enviados antes de você chegar ao trabalho pela manhã ou logo antes de finalizar suas atividades do dia.
 
-![[!UICONTROL Enviar o resumo diário por email depois de] menu suspenso no [!UICONTROL Editar pessoa] janela](assets/admin-fund-user-notifications-08.png)
+Menu suspenso ![[!UICONTROL Enviar resumo diário por email depois] na janela [!UICONTROL Editar pessoa]](assets/admin-fund-user-notifications-08.png)
 
-**De jeito nenhum**
+**Nunca**
 
-A opção final é desativar completamente as notificações por email.
+A opção final desativa completamente as notificações por email.
 
-![Notificação selecionada desativada em [!UICONTROL Editar pessoa] janela](assets/admin-fund-user-notifications-09.png)
+![Notificação selecionada desativada na janela [!UICONTROL Editar pessoa]](assets/admin-fund-user-notifications-09.png)
 
-Se você decidir fazer isso, saiba que, embora não esteja recebendo emails, o trabalho ainda está sendo atribuído, comentado e atualizado no [!DNL Workfront]. Ao desativar todas as notificações, você pode estar sem informações importantes que precisam ser conhecidas.
+Se decidir fazer isso, saiba que, embora não esteja recebendo emails, o trabalho ainda será atribuído, comentado e atualizado dentro do [!DNL Workfront]. Ao desativar todas as notificações, você poderá perder informações importantes das quais precisa estar ciente.
 
-Há algumas instâncias em que [!DNL Workfront] O viu usuários desativarem as notificações por email. Por exemplo, se você fizer a maior parte do seu trabalho [!DNL Workfront] aplicativo móvel, você pode desativar as notificações por email e receber notificações somente pelo aplicativo.
+Em alguns casos, os usuários do [!DNL Workfront] decidem desativar as notificações por email. Por exemplo, caso você faça a maior parte do seu trabalho no aplicativo móvel do [!DNL Workfront], você pode desativar as notificações por email e recebê-las somente por meio do aplicativo.
 
-Independentemente do [!UICONTROL Notificações de Eventos] Se você decidir receber notificações, elas serão importantes para o sucesso do trabalho que está sendo feito para as metas da sua organização.
+Independentemente do tipo de [!UICONTROL notificações de eventos] que decidir receber, elas são importantes para o sucesso do trabalho realizado para atingir os objetivos da sua organização.
 
 
-## Recommendations
+## Recomendações
 
-Há algumas notificações que [!DNL Workfront] A recomenda deixar a opção marcada, seja para um email instantâneo ou resumo diário.
+O [!DNL Workfront] recomenda deixar algumas opções de notificação marcadas, seja para um email instantâneo ou um resumo diário.
 
 Para a maioria dos usuários:
 
 * [!UICONTROL Quando uma tarefa for concluída, enviar email para os usuários atribuídos primariamente de todas as tarefas dependentes]
-* [!UICONTROL Alguém tiver me incluído em uma atualização direcionada]
-* [!UICONTROL Quando alguém comentar no meu item de trabalho, envie email para os atribuídos]
+* [!UICONTROL Alguém me inclui em uma atualização direcionada]
+* [!UICONTROL Alguém comenta no meu item de trabalho]
 * [!UICONTROL A data de conclusão de uma tarefa atribuída a mim mudou]
 
 
@@ -93,8 +93,8 @@ Especificamente para gerentes de projeto:
 
 * [!UICONTROL Quando uma status de projeto for alterada de ideia/aprovado/solicitado/em planejamento para atual, enviar email para a equipe]
 * [!UICONTROL Quando um projeto for alterado de uma status positiva de progresso (no prazo) para uma status negativa de progresso (em atraso), enviar email para o proprietário do projeto]
-* [!UICONTROL Quando um problema for adicionada enviar email para o proprietário do projeto.]
-* [!UICONTROL Quando uma etapa for concluída, enviar email para o proprietário do projeto]
+* [!UICONTROL Quando um problema for adicionada enviar email para o proprietário do projeto]
+* [!UICONTROL A tarefa marco foi concluída em um projeto que possuo]
 
 
 <!---
