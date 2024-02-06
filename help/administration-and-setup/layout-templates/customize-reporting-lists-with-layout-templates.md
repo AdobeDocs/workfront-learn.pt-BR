@@ -12,9 +12,9 @@ jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -28,29 +28,29 @@ Neste vídeo, você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)
 
-## Definir padrões da lista
+## Definir padrões de lista
 
-Definir filtros, visualizações e/ou agrupamentos padrão para os usuários oferece a eles acesso mais rápido a informações vitais que podem levar o trabalho adiante com mais rapidez.
+Definir filtros, visualizações e/ou agrupamentos padrão para os usuários garante um acesso mais rápido a informações importantes, o que pode acelerar o andamento do trabalho.
 
-Como administrador de sistema ou de grupo, você pode determinar o que os usuários veem inicialmente ao consultar uma lista de projetos, tarefas, problemas etc., definindo um filtro, uma visualização e/ou um agrupamento padrão por meio de um modelo de layout.
+Como admin de sistema ou de grupo, você pode determinar o que os usuários veem inicialmente ao consultar uma lista de projetos, tarefas, problemas etc., definindo um filtro, uma visualização e/ou um agrupamento padrão através de um modelo de layout.
 
-![Modelo de layout [!UICONTROL Listas] janela](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+![Janela [!UICONTROL Listas] do modelo de layout](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
->Embora um filtro, visualização e/ou agrupamento padrão possa ser configurado, o sistema é fixo e mostrará qualquer filtro, visualização e/ou agrupamento que tenha sido usado pela última vez pelo usuário.
+>Embora seja possível configurar um filtro, visualização e/ou agrupamento padrão, o sistema geralmente mostrará qualquer filtro, visualização e/ou agrupamento que o usuário tenha utilizado por último.
 
 
-Se quiser definir um padrão de lista, você poderá:
+Se quiser definir uma lista padrão, você pode:
 
-* Passe o mouse sobre uma opção já listada e clique em [!UICONTROL Definir como padrão].
+* Passar o mouse sobre uma opção já listada e clicar em [!UICONTROL Definir como padrão].
 
-![Modelo de layout [!UICONTROL Listas] janela com [!UICONTROL Definir como padrão] visível](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+![Janela [!UICONTROL Listas] do modelo de layout com a opção [!UICONTROL Definir como padrão] visível](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
-* Ou adicione um filtro, exibição ou agrupamento personalizado e marque a caixa ao lado de [!UICONTROL Definir padrão].
+* Ou adicionar um filtro, visualização ou agrupamento personalizado e marcar a caixa ao lado de [!UICONTROL Definir padrão].
 
-![[!UICONTROL Adicionar uma visualização existente] janela](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+Janela ![Adicionar uma visualização já existente](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-Depois de concluído, você verá o [!UICONTROL Padrão] tag.
+Depois de concluir, você verá a tag [!UICONTROL Padrão].
 
-![[!UICONTROL Padrão] opção marcar próximo à lista](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+Tag ![[!UICONTROL Padrão] próxima à opção de lista](assets/admin-fund-layout-template-default-lists-1-4.JPG)
