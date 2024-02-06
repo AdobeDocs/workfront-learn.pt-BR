@@ -1,6 +1,6 @@
 ---
-title: Faça uma atualização qualitativa no [!DNL Workfront Goals]
-description: Saiba como fazer uma atualização qualitativa ou por escrito no [!DNL Goals].
+title: Fazer uma atualização qualitativa no  [!DNL Workfront Goals]
+description: Saiba como fazer uma atualização qualitativa (ou escrita) no [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Faça uma atualização qualitativa
+# Fazer uma atualização qualitativa
 
-Atualizações qualitativas ou escritas podem ser feitas em várias áreas de [!DNL Workfront Goals]. Você pode adicionar comentários às metas no [!UICONTROL Detalhes da meta] painel, o [!UICONTROL Check-in] seção, ou a [!UICONTROL Pulso] seção. Embora o processo de adicionar comentários às metas seja semelhante nessas áreas, há diferenças em poder editar, excluir ou reagir a um comentário ao usar uma área em relação a outra. Quando você insere um comentário em qualquer uma dessas áreas, ele fica visível em todas as áreas em que os comentários da meta são exibidos.
+Atualizações qualitativas (ou escritas) podem ser feitas em diversas áreas do [!DNL Workfront Goals]. Você pode adicionar comentários às metas no painel [!UICONTROL Detalhes da meta], na seção [!UICONTROL Check-in] ou na seção [!UICONTROL Pulso]. Embora o processo de adicionar comentários às metas seja semelhante nessas áreas, elas apresentam diferenças na capacidade de editar, excluir ou reagir a um comentário. Ao inserir um comentário em qualquer uma dessas áreas, ele fica visível em todas as áreas nas quais os comentários da meta são exibidos.
 
 Neste vídeo, você aprenderá a:
 
-* Fazer uma atualização qualitativa ou por escrito
+* Fazer uma atualização qualitativa (ou escrita)
 
 >[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on)
