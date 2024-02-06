@@ -1,6 +1,6 @@
 ---
 title: Revisar trabalho em [!DNL My Updates] ou [!DNL Home]
-description: '[!DNL  Workfront] O fornece dois locais para acessar o trabalho atribuído a você para revisão e aprovação - [!DNL My Updates] e [!DNL Home] '
+description: '“O [!DNL  Workfront] fornece dois locais para acessar trabalhos atribuídos para revisão e aprovação: as páginas  [!DNL My Updates]  e  [!DNL Home] ”'
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,25 +11,25 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Revisar trabalho em [!DNL My Updates] ou [!DNL Home]
 
-O Workfront fornece dois locais para acessar o trabalho atribuído a você para revisão e aprovação:
+O Workfront fornece dois locais para acessar trabalhos atribuídos para revisão e aprovação:
 
 * [!DNL My Updates]
 * [!DNL Home]
 
-A variável [!DNL My Updates] A página simplifica o processo, mostrando todas as solicitações de aprovação atribuídas a você, além das atualizações nas quais você está incluído. Essa página é carregada por padrão para usuários de licença de revisão quando você faz logon no Workfront, a menos que o administrador de sistema da organização tenha definido uma página de aterrissagem diferente.
+A página [!DNL My Updates] possui uma experiência simplificada e mostra todas as solicitações de aprovação atribuídas a você, além de atualizações nas quais você está incluído(a). Esta página é carregada por padrão para usuários com uma licença de Revisão ao fazer logon no Workfront, a menos que o(a) admin de sistema da organização tenha definido uma página de destino diferente.
 
-![Uma imagem do [!DNL My Updates] página](assets/my-updates-overview.png)
+![Uma imagem da página [!DNL My Updates]](assets/my-updates-overview.png)
 
-[!DNL Home] pode ser usado para mais do que apenas aprovações. Se você tiver uma licença de Trabalho ou Plano no Workfront, suas atribuições de projetos e solicitações serão encontradas na Página inicial. A Página inicial pode ser a página que você acessa ao fazer logon no Workfront ou, como alternativa, talvez seja necessário selecionar Página inicial no Menu principal, dependendo das configurações de sistema do Workfront de sua organização.
+A página [!DNL Home] pode ser usada para mais do que apenas aprovações. Se você tiver uma licença de Trabalho ou de Planejamento no Workfront, suas atribuições a projetos e solicitações serão encontradas na página Home. A página Home pode ser a página inicial exibida ao fazer logon no Workfront ou, alternativamente, pode ser necessário selecioná-la no Menu principal, dependendo das configurações do Workfront na sua organização.
 
-![Uma imagem do [!DNL Home] página](assets/home-overview.png)
+![Uma imagem da página [!DNL Home]](assets/home-overview.png)
 
-A seção usada para gerenciar as solicitações de aprovação depende dos processos de revisão e aprovação de trabalho da organização. Consulte seu gerente, administrador do sistema ou equipe interna da Workfront para determinar qual você deve usar para oferecer o melhor suporte ao seu fluxo de trabalho.
+A seção que permite gerenciar suas solicitações de aprovação depende dos processos de revisão e aprovação de trabalho da sua organização. Consulte o(a) gerente, admin de sistema ou a equipe interna do Workfront para determinar qual a melhor opção para auxiliar seu fluxo de trabalho.
