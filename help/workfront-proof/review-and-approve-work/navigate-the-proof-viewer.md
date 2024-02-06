@@ -1,6 +1,6 @@
 ---
 title: Navegar pelo visualizador de prova
-description: Saiba como mover uma prova, aumentar/diminuir o zoom do conteúdo, usar a coluna de miniatura, filtrar comentários de prova e muito mais no [!DNL  Workfront] revisor de provas.
+description: Saiba como mover uma prova, aumentar e diminuir o zoom do conteúdo, usar a coluna de miniatura, filtrar comentários de prova e muito mais no visualizador de provas do  [!DNL  Workfront] .
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Mover uma prova e aumentar/diminuir o zoom no conteúdo
-* Use a coluna de miniatura para visualizar e navegar pelas páginas de uma prova
+* Mover uma prova e aumentar ou diminuir o zoom do conteúdo
+* Usar a coluna de miniatura para visualizar e navegar pelas páginas de uma prova
 * Filtrar a coluna de comentários
 * Fechar a prova
 
