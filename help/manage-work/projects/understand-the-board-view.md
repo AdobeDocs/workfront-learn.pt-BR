@@ -1,6 +1,6 @@
 ---
-title: Compreender o [!UICONTROL Quadro] exibir
-description: Saiba como usar o [!UICONTROL Quadro] visualização na página de aterrissagem do projeto.
+title: Entenda a visualização de [!UICONTROL Quadro]
+description: Saiba como usar a visualização de [!UICONTROL Quadro] na página de destino do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,19 +10,20 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-03T00:00:00Z
 jira: KT-13743
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
-workflow-type: tm+mt
+exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Compreender o [!UICONTROL Quadro] exibir
+# Entenda a visualização de [!UICONTROL Quadro]
 
 Neste vídeo, você aprenderá:
 
-* Onde encontrar o [!UICONTROL Quadro] exibir
-* Como usar o [!UICONTROL Quadro] exibir
+* Onde encontrar a visualização de [!UICONTROL Quadro]
+* Como usar a visualização de [!UICONTROL Quadro]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
