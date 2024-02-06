@@ -1,6 +1,6 @@
 ---
-title: Compreender o [!UICONTROL Gantt] exibir
-description: Saiba como usar o Gráfico de Gantt para visualizar rapidamente suas tarefas e projetos de alto nível com uma quantidade surpreendente de detalhes.
+title: Entenda a visualização de [!UICONTROL Gantt]
+description: Aprenda a usar o gráfico de Gantt para ver rapidamente suas tarefas e projetos em alto nível e com uma quantidade surpreendente de detalhes.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,19 +12,19 @@ last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
-# Compreender o [!UICONTROL Gantt] exibir
+# Entenda a visualização de [!UICONTROL Gantt]
 
 Neste vídeo, você aprenderá a usar:
 
 * O gráfico de Gantt do projeto
-* O gráfico de Gantt da tarefa
+* O gráfico de Gantt de tarefas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
 
-Você pode saber mais online com o artigo, [Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
+Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
