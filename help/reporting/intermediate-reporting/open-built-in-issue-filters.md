@@ -1,6 +1,6 @@
 ---
-title: Entender os filtros de problema integrados
-description: Saiba como revisar filtros de problemas integrados para ver como eles são criados e criar seu próprio filtro de problemas no Workfront.
+title: Entenda os filtros de problemas integrados
+description: Aprenda como revisar filtros de problemas integrados para ver como são criados e crie o seu próprio filtro de problemas no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -12,38 +12,38 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender os filtros de problema integrados
+# Entenda os filtros de problemas integrados
 
-Neste vídeo, você vai:
+Neste vídeo, você:
 
-* Revise os filtros de problema integrados para ver como eles são criados
-* Saiba mais sobre alguns elementos úteis de relatórios de problemas
-* Saiba como criar seu próprio filtro de problemas
+* Revise os filtros de problemas integrados para ver como são criados
+* Saiba mais sobre alguns elementos úteis para relatar problemas
+* Aprenda a criar o seu próprio filtro de problemas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 ## Atividade: criar um relatório de problemas
 
-Você deseja ver todos os problemas que ainda precisam ser resolvidos em todos os projetos ativos que possui, incluindo problemas com um objeto de resolução. Crie um relatório de problemas e nomeie-o como &quot;Problemas não resolvidos em projetos que possuo&quot;.
+Você deseja ver todos os problemas que ainda precisam ser resolvidos em todos os projetos ativos que possui, incluindo problemas com um objeto de resolução. Crie um relatório de problemas e nomeie-o como “Problemas não resolvidos em projetos que possuo”.
 
-## Resposta
+## Responder
 
-Esta é a aparência do filtro:
+Esta deve ser a aparência do filtro:
 
-![Uma imagem da tela para criar um filtro de problema](assets/opening-built-in-issue-filters-1.png)
+![Uma imagem da tela de criação de filtros de problemas](assets/opening-built-in-issue-filters-1.png)
 
-No filtro integrado &quot;Meus problemas abertos&quot;, uma das regras de filtro excluiu todos os problemas em que havia um objeto de resolução. O raciocínio por trás disso é que você não precisa se preocupar com essas questões. Alguém já criou um projeto, uma tarefa ou um problema que irá resolvê-los, então, o que precisa se preocupar? Mas elas ainda não foram resolvidas e, em nosso exemplo, estamos incluindo elas para facilitar a identificação e verificar como estão se saindo.
+No filtro integrado “Meus problemas em aberto”, uma das regras de filtro excluía todos os problemas que continham um objeto de resolução. Isso acontece porque você não deve se preocupar com esses problemas. Alguém já criou um projeto, tarefa ou problema que o resolverá, portanto, por que se preocupar? Porém, eles ainda não foram resolvidos e, no nosso exemplo, nós os incluímos para que seja fácil identificar e verificar o seu andamento.
 
-Para fazer isso, é necessário adicionar uma coluna na guia de exibição para &quot;Problema >> Objeto de resolução&quot;. Isso mostra o nome do objeto de resolução, se houver, se é um projeto, tarefa ou problema. Ao clicar no nome, você é direcionado ao objeto de resolução.
+Para isso, você precisa adicionar uma coluna na guia de visualização “Problema >> Objeto de resolução”. Isso mostra o nome do objeto de resolução (se houver), seja um projeto, tarefa ou problema. Clicar no nome leva ao objeto de resolução.
 
 Talvez você queira agrupar a lista com base no nome do projeto.
 
-Esta é a aparência do relatório:
+Esta deve ser a aparência do relatório:
 
 ![Uma imagem de um relatório de problemas](assets/opening-built-in-issue-filters-2.png)
