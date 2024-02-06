@@ -1,6 +1,6 @@
 ---
-title: Fechar uma atividade de projeto
-description: Encontre um projeto do Workfront com o qual você tem praticado durante o treinamento e prepare-o para fechar.
+title: Fechar uma atividade do projeto
+description: Encontre um projeto do Workfront com o qual você praticou durante o treinamento e prepare-se para encerrá-lo.
 activity: use
 feature: Work Management
 thumbnail: close-a-project-activity.png
@@ -11,26 +11,26 @@ team: Technical Marketing
 jira: KT-null
 exl-id: ffbe2169-d475-4907-a78f-5c092b923900
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Fechar uma atividade de projeto
+# Fechar uma atividade do projeto
 
-Encontre um projeto do Workfront com o qual você tem praticado durante o treinamento e prepare-o para fechar. Conclua estas etapas do Workfront:
+Encontre um projeto do Workfront com o qual você praticou durante o treinamento e prepare-se para encerrá-lo. Conclua estas etapas do Workfront:
 
 * Fechar tarefas e problemas
 * Resolver aprovações
 * Fazer upload de documentos
-* Revisar horas reportadas (se aplicável)
+* Revisar as horas registradas (se aplicável)
 * Revisar informações financeiras (se aplicável)
 * Alterar o status do projeto
 
-Converse com seu gerente ou com a equipe interna da Workfront para saber quais etapas seguir para fechar um projeto na organização. Quais dessas etapas estão no Workfront? Quais estão fora do Workfront?
+Converse com o(a) gerente ou a equipe interna do Workfront para saber quais etapas você precisa seguir para encerrar um projeto na organização. Quais dessas etapas são realizadas no Workfront? Quais são realizadas fora do Workfront?
 
-Como gerente de projeto, manter sessões de &quot;lições aprendidas&quot; pode fornecer informações valiosas.
+Como gerente de projeto, conduzir sessões de aprendizado pode fornecer informações valiosas.
 
-* Pense em alguns dos projetos que você gerenciou no ano passado. Que tipos de perguntas você faria ou informações coletaria em uma sessão de &quot;lições aprendidas&quot;?
-* Decida se deseja incorporar as &quot;lições aprendidas&quot; em seus projetos do. Em seguida, decida como. Por exemplo, você pode fazer algo informal, como um rápido diálogo com sua equipe. Ou ele pode ser incorporado ao seu plano de projeto.
+* Pense em alguns dos projetos que você gerenciou no ano passado. Que tipos de pergunta você faria ou quais informações coletaria em uma sessão de aprendizado?
+* Decida se deseja incorporar esses aprendizados em seus projetos. Em seguida, decida como fazer isso. Por exemplo, você pode fazer algo informal, como uma reunião rápida com a sua equipe. Ou pode incorporar isso no seu plano de projeto.
