@@ -11,9 +11,9 @@ jira: KT-11049
 thumbnail: KT11049.png
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '282'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,33 +23,33 @@ Revise e audite detalhes sobre execuções anteriores e configurações de cená
 
 ## Visão geral do exercício
 
-Revise o histórico de execução para o cenário &quot;Uso do filtro poderoso&quot; para entender o que aconteceu quando as execuções ocorreram e como elas foram estruturadas quando foram executadas.
+Revise o histórico de execução para o cenário “Uso do filtro poderoso” para entender o que aconteceu quando as execuções ocorreram e como elas foram estruturadas quando foram executadas.
 
-![Histórico de execução Imagem 1](../12-exercises/assets/execution-history-walkthrough-1.png)
+![Imagem 1 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-1.png)
 
 ## Etapas a serem seguidas
 
-1. Abra o cenário &quot;Usando o filtro de potência&quot;.
+1. Abra o cenário “Usando o filtro de potência”.
 1. Na página de visão geral, clique na guia Histórico (na parte superior, abaixo do nome do cenário).
 
    ![Imagem 2 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-2.png)
 
-1. Localize uma execução e clique no botão de detalhes para abrir uma página que mostra as operações específicas executadas (ou não executadas) no painel direito. No painel esquerdo, é possível examinar o cenário como estava no momento da execução.
+1. Encontre uma execução e clique no botão de detalhes para abrir uma página que mostra as operações específicas realizadas (ou não realizadas), no painel direito. No painel esquerdo, é possível examinar o cenário como estava no momento da execução.
 
    ![Imagem 3 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-3.png)
 
-1. Quando você clica em um módulo no painel de cenários, um painel inspetor de módulos é exibido, exibindo informações sobre as configurações do módulo. Clique no inspetor de execução ao lado de um módulo ou filtro para ver em quais conjuntos de informações foram executadas.
+1. Ao clicar em um módulo no painel de cenário, um painel inspetor de módulo é mostrado, exibindo informações sobre as configurações do módulo. Clique no inspetor de execução ao lado de um módulo ou filtro para ver em quais conjuntos de informações foram executados.
 
    ![Imagem 4 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-4.png)
 
    ![Imagem 5 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-5.png)
 
 
-1. No painel direito, role ou clique pelo registro Simples para exibir detalhes da &quot;reprodução por reprodução&quot; da execução.
+1. No painel direito, role ou clique no log Simples para exibir detalhes “passo a passo” da execução.
 
-   + Você pode ver quando as operações foram concluídas em módulos e quando os pacotes passaram (ou não) pelos filtros.
+   + Você pode ver quando as operações foram concluídas nos módulos e quando os pacotes passaram (ou não) pelos filtros.
 
-   ![Imagem 6 do Histórico de Execução](../12-exercises/assets/execution-history-walkthrough-6.png)
+   ![Imagem 6 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-6.png)
 
    + Clique em um item de log para abrir o painel de operação no painel de cenário. Os logs são listados em ordem cronológica de quando ocorreram.
 
@@ -57,6 +57,6 @@ Revise o histórico de execução para o cenário &quot;Uso do filtro poderoso&q
    ![Imagem 7 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-7.png)
 
 
-1. O registro Advanced mostra informações semelhantes. No entanto, ele fornece mais informações sobre quantos ciclos foram executados por execução e permite que você descubra quais pacotes de informações foram processados em cada ciclo.
+1. O log avançado mostra informações semelhantes. No entanto, ele fornece mais informações sobre quantos ciclos foram realizados por execução e permite aprofundar-se em quais pacotes de informações foram processados em cada ciclo.
 
 ![Imagem 8 do histórico de execução](../12-exercises/assets/execution-history-walkthrough-8.png)
