@@ -1,6 +1,6 @@
 ---
-title: Como priorizar o trabalho no [!UICONTROL Início]
-description: Saiba como marcar itens no [!UICONTROL Lista de trabalho] como atribuições de prioridade na página inicial. Em seguida, filtre a lista para ver seu trabalho priorizado em [!DNL  Workfront].
+title: Como priorizar o Trabalho no [!UICONTROL Início]
+description: Aprenda como marcar itens na [!UICONTROL Lista de Trabalho] como atribuições prioritárias na página inicial. Em seguida, filtre a lista para ver seu trabalho priorizado em [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Priorize o seu trabalho no [!DNL Workfront] [!UICONTROL Início]
+# Priorize o seu trabalho na [!DNL Workfront] [!UICONTROL Página inicial]
 
 Neste vídeo, você aprenderá a:
 
 * Marcar trabalho como atribuições de prioridade
-* Filtre o [!UICONTROL Lista de trabalho] para ver somente o trabalho prioritário
+* Filtre a [!UICONTROL Lista de trabalho] para ver somente o trabalho prioritário
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)
