@@ -1,60 +1,60 @@
 ---
-title: Prática recomendada - Agile
-description: Explore as recomendações de práticas recomendadas dos especialistas da Adobe Workfront sobre a Agile.
+title: Prática recomendada - Ágil
+description: Explore sugestões de práticas recomendadas dos especialistas do Adobe Workfront sobre o Ágil.
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10901
 exl-id: c0c05fb4-a61b-41bd-b994-b23571c78788
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '609'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Prática recomendada - Agile
+# Prática recomendada - Ágil
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
-
-</br>
-</br>
-
-## Práticas recomendadas do Agile
-
-* Se você está apenas começando a usar o Agile, comece com um simples painel.
-
-* Fale sobre o seu fluxo de trabalho como uma equipe antes de criar colunas no quadro, mas seja simples!
-* Faça seus experimentos usando a exibição de placa.
-
-* Crie um relatório de Velocidade média (Histórias movidas para conclusão durante uma iteração ou caixa de tempo) e use-o para tornar o planejamento de sua equipe mais preciso.
-
-* Gerar o backlog na visualização &quot;Projeto&quot; — você pode se referir a isso como um Epic, Recurso, Campanha ou outro. Se você tiver vários Projetos, use a visualização Programa e ative a opção Agrupar por Projeto. Para ver a prioridade geral da sua equipe, desative o agrupamento.
-
-* Fixe e marque seu quadro de equipe como favorito.
+A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Prática recomendada do Ágil
+
+* Se você está apenas começando com o Ágil, comece com um quadro simples.
+
+* Converse sobre seu fluxo de trabalho em equipe antes de criar colunas no quadro, mas mantenha-o simples.
+* Faça suas reuniões usando a visualização do quadro.
+
+* Crie um relatório de velocidade média (histórias movidas para concluído durante uma iteração ou intervalo de tempo) e use-o para tornar o planejamento da sua equipe mais preciso.
+
+* Gere sua lista de pendências na visualização “Projeto”; você pode se referir a isso como Épico, Recurso, Campanha ou outro. Se você tiver vários projetos, use a visualização Programa e ative agrupar por projeto. Para ver a prioridade geral da sua equipe, desative o agrupamento.
+
+* Fixe e marque o quadro da sua equipe.
+
+</br>
+</br>
+
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
-Se você está apenas começando a usar o Agile, comece com um simples painel.
+Se você está apenas começando com o Ágil, comece com um quadro simples.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Começar a colocar seu trabalho em um quadro e puxar itens de trabalho ajudará você a praticar e dará mais estrutura posteriormente à medida que você começa a organizar e avaliar a prioridade dos itens de trabalho
+Começar colocando seu trabalho em um quadro e distribuindo os itens de trabalho vai ajudar você a praticar e fornecerá mais estrutura posteriormente, à medida que você começar a organizar e avaliar a prioridade dos itens de trabalho
 
 </br>
 </br>
@@ -62,42 +62,42 @@ Começar a colocar seu trabalho em um quadro e puxar itens de trabalho ajudará 
 
 **Prática recomendada**
 
-Fale sobre o seu fluxo de trabalho como uma equipe antes de criar colunas no quadro - - mas mantenha simples!
+Converse sobre seu fluxo de trabalho em equipe antes de criar colunas no quadro, mas mantenha-o simples.
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Muitas vezes, as equipes criam muita complexidade no quadro, criando trabalho extra que realmente não agrega valor. Comece com apenas algumas colunas pelas quais seu trabalho é realizado e depois faça os ajustes à medida que você avança.
-
-</br>
-</br>
-
-**Prática recomendada**
-
-Faça seus experimentos usando a exibição de placa.
-
-**Veja o porquê**
-
-É fácil esquecer qual trabalho é, na verdade, a prioridade mais alta, pois as interrupções diárias podem se sentir mais urgentes. Fique de olho nos compromissos originais observando o painel.
+Muitas vezes, as equipes criam muita complexidade no quadro, criando trabalho extra que não agrega nenhum valor. Comece com apenas algumas colunas pelas quais o trabalho passa e, em seguida, ajuste conforme for avançando.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Crie um relatório de Velocidade média (Histórias movidas para conclusão durante uma iteração ou caixa de tempo) e use-o para tornar o planejamento de sua equipe mais preciso.
+Faça suas reuniões usando a visualização do quadro.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-É fácil ser muito otimista sobre o quanto podemos conseguir a qualquer momento. Observar a velocidade regularmente e ser mais realista sobre nossos compromissos ajuda a criar uma verdadeira previsibilidade e nos protege contra sobrecarga de trabalho
+É fácil esquecer qual trabalho é realmente de maior prioridade porque as interrupções diárias podem parecer mais urgentes. Fique de olho nos compromissos originais consultando o quadro.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Gerar o backlog na visualização &quot;Projeto&quot; — você pode se referir a isso como um Epic, Recurso, Campanha ou outro. Se você tiver vários Projetos, use a visualização Programa e ative a opção Agrupar por Projeto. Para ver a prioridade geral da sua equipe, desative o agrupamento.
+Crie um relatório de velocidade média (histórias movidas para concluído durante uma iteração ou intervalo de tempo) e use-o para tornar o planejamento da sua equipe mais preciso.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Um backlog em um quadro pode não representar todo o trabalho necessário para criar um valor maior. Analisar o projeto pode ajudar a concentrar a equipe no valor mais alto que você está tentando oferecer ao seu cliente. A partir daí, você pode refinar e priorizar o trabalho e colocá-lo em um quadro.
+É fácil ser excessivamente otimista sobre o quanto podemos fazer de uma só vez. Observar a velocidade regularmente e ser mais realista em relação aos compromissos ajuda a criar uma previsibilidade real e protege da sobrecarga de trabalho
+
+</br>
+</br>
+
+**Prática recomendada**
+
+Gere sua lista de pendências na visualização “Projeto”; você pode se referir a isso como Épico, Recurso, Campanha ou outro. Se você tiver vários projetos, use a visualização Programa e ative agrupar por projeto. Para ver a prioridade geral da sua equipe, desative o agrupamento.
+
+**Entenda o porquê**
+
+Uma lista de pendências em um quadro pode não representar todo o trabalho necessário para gerar maior valor. Analisar o Projeto pode ajudar a focar a equipe no maior valor que você está tentando entregar ao seu cliente. A partir daí, você pode refinar e priorizar o trabalho e colocá-lo em um quadro.
