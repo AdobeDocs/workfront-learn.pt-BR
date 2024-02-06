@@ -1,6 +1,6 @@
 ---
-title: Criar um projeto diretamente de um modelo
-description: Saiba como criar um projeto iniciando com um modelo já criado .
+title: Criar um projeto diretamente a partir de um modelo
+description: Saiba como criar um projeto a partir de um modelo já criado.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,15 +11,15 @@ level: Beginner
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Criar um projeto diretamente de um modelo
+# Criar um projeto diretamente a partir de um modelo
 
-Se você estiver trabalhando em um modelo e precisar criar um projeto usando esse modelo, clique no menu de 3 pontos ao lado do nome do modelo. Em seguida, selecione Criar projeto.
+Se você estiver trabalhando em um modelo e precisar criar um projeto usando esse modelo, clique no menu de três pontos próximo ao nome do modelo. Em seguida, selecione Criar projeto.
 
 ![Opção Criar projeto no menu](assets/direct-template-01.png)
 
@@ -29,11 +29,11 @@ A janela de detalhes permite fazer alterações nas configurações do novo proj
 
 >[!NOTE]
 >
->Para criar um projeto usando esse método, é necessário acessar a área Modelos do Workfront. Se não conseguir acessar modelos, você ainda poderá usar um modelo para criar um projeto na área Projetos ou ao converter um problema/tarefa.
+>Para criar um projeto utilizando este método, você precisa acessar a área de Modelos do Workfront. Se não conseguir acessar os modelos, você ainda poderá usar um modelo para criar um projeto na área Projetos ou ao converter um problema ou tarefa.
 
 >[!TIP]
 >
->Se houver um modelo que você usa com frequência, torne-o favorito! Você verá o modelo listado no menu Novo projeto, além de ele aparecer no menu Favoritos da barra de navegação.
+>Se você utiliza um modelo com frequência, adicione-o aos favoritos. Você verá o modelo listado no menu Novo projeto, bem como no menu Favoritos da barra de navegação.
 
 
-![Novos modelos de projetos favoritos](assets/direct-template-03.png)
+![Modelos favoritos para novo projeto](assets/direct-template-03.png)
