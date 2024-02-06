@@ -1,6 +1,6 @@
 ---
-title: Apresentação dos storages
-description: Analise os exercícios anteriores de explicação passo a passo em que arrays simples e complexos foram usados em [!DNL Adobe Workfront Fusion].
+title: Tutorial sobre matrizes
+description: Revise os exercícios anteriores nos quais matrizes simples e complexas foram usadas no [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,25 +11,25 @@ jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Apresentação dos storages
+# Tutorial sobre matrizes
 
-Analise os exercícios anteriores de explicação passo a passo em que arrays simples e complexos foram usados. Examinaremos como os encontramos e como utilizar as informações usando funções de array, se necessário.
+Revise os exercícios anteriores nos quais matrizes simples e complexas foram usadas. Vamos revisar como as encontramos e como utilizar as informações por meio de funções de matriz, se necessário.
 
-![Uma imagem de um cenário do Fusion](assets/final-functional-bits-and-bobs-1.png)
+![Imagem de um cenário do Fusion](assets/final-functional-bits-and-bobs-1.png)
 
-## Apresentação dos storages
+## Tutorial sobre matrizes
 
-A Workfront recomenda assistir ao vídeo de apresentação do exercício antes de tentar recriá-lo em seu próprio ambiente.
+O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o exercício em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
 
 
 ## Quer saber mais? Recomendamos o seguinte:
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=br)
