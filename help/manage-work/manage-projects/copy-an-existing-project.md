@@ -11,22 +11,22 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Copiar um projeto existente
 
-Às vezes, em vez de usar um modelo para criar um projeto, você só precisa copiar um projeto para outro uso único. Para fazer isso, é necessário ter uma licença de Plano, com acesso para Editar e Criar aos projetos.
+Às vezes, em vez de usar um modelo para criar um projeto, você só precisa copiar um projeto para outro uso único. Para fazer isso, você precisa de uma licença “Plano”, com acesso para “Editar” e “Criar” projetos.
 
-Navegue até o projeto que deseja copiar e clique no menu de três pontos ao lado do nome do projeto. Em seguida, selecione Copiar.
+Navegue até o projeto que deseja copiar e clique no menu de três pontos ao lado do nome do projeto. Em seguida, selecione “Copiar”.
 
 ![Cr](assets/copy-existing-01.png)
 
-A janela Copiar projeto permite alterar o título e o status, bem como limpar vários dados associados ao projeto — opções como atribuições, documentos e dados personalizados.
+A janela “Copiar projeto” permite alterar o título e o status, bem como limpar uma variedade de dados associados ao projeto; opções como tarefas, documentos e dados personalizados.
 
 ![Cr](assets/copy-existing-02.png)
 
-Selecionar Limpar Atribuições ou definir o status como Planejamento impede que o projeto copiado envie notificações de atribuição de tarefa logo após a cópia.
+Selecionar “Limpar atribuições” ou definir o status como “Em planejamento” evita que o projeto copiado envie notificações de atribuição de tarefas logo após a cópia.
