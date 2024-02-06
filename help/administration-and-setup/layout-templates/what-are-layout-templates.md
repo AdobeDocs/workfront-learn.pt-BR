@@ -11,31 +11,31 @@ thumbnail: 10099.jpeg
 jira: KT-10099
 exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # O que são modelos de layout?
 
-O Workfront tem muitas ferramentas boas para ajudar você a realizar seu trabalho. Mas uma coisa boa demais pode ser esmagadora.
+O Workfront possui muitas ferramentas úteis para ajudar você a realizar o trabalho. Mas mesmo que sejam úteis, o excesso de recursos também pode sobrecarregar.
 
-![Início e Menu Principal](assets/what-are-layout-templates-01.png)
+![Página inicial e menu principal](assets/what-are-layout-templates-01.png)
 
-Os modelos de layout permitem que os administradores de sistema e de grupo personalizem a experiência do usuário e permitam que esses usuários se concentrem no que é importante para eles.
+Os modelos de layout permitem que admins de sistema e de grupo personalizem a experiência do usuário e aumentem o foco no que realmente é importante.
 
-![Início e Menu Principal](assets/what-are-layout-templates-02.png)
+![Página inicial e menu principal](assets/what-are-layout-templates-02.png)
 
-Por exemplo, a maioria de sua organização não registra tempo. No entanto, a equipe de consultores cobra os clientes, portanto, eles precisam registrar o tempo para garantir uma cobrança precisa. Com um modelo de layout, as folhas de horas podem ser ocultadas para quem não precisa e mostradas para quem precisa.
+Por exemplo, a maior parte da sua organização não registra o tempo gasto. No entanto, a equipe de consultoria envia faturas para os clientes, por isso ela precisa registrar o tempo gasto para garantir um faturamento preciso. Com um modelo de layout, as folhas de horas podem ser ocultadas para quem não precisa delas e exibidas para quem precisa.
 
-![Início e Menu Principal](assets/what-are-layout-templates-03.png)
+![Página inicial e menu principal](assets/what-are-layout-templates-03.png)
 
-![Início e Menu Principal](assets/what-are-layout-templates-04.png)
+![Página inicial e menu principal](assets/what-are-layout-templates-04.png)
 
 
 ## Antes de criar
 
-A Workfront recomenda conversar com seus usuários antes de criar um modelo de layout. Envolver aqueles que usarão o modelo de layout, como os administradores de grupo, tornará muito mais fácil colocar as informações e as ferramentas certas na frente das pessoas certas.
+O Workfront recomenda conversar com seus usuários antes de criar um modelo de layout. Envolver as pessoas que usarão o modelo de layout no processo, como admins de grupo, tornará muito mais fácil disponibilizar as informações e ferramentas certas para cada usuário.
 
-E não tenha medo de fazer alterações depois que um modelo for criado. Continue a obter feedback sobre o que eles precisam e desejam ver e acessar. Lembre-se, os modelos de layout destinam-se a criar uma experiência limpa e fácil para seus usuários.
+Além disso, não tenha medo de fazer alterações após a criação de um modelo. Continue solicitando feedback sobre o que precisam (e desejam) ver e acessar. Lembre-se de que os modelos de layout têm como objetivo criar uma experiência simples e fácil para usuários.
