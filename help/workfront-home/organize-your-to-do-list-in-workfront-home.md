@@ -1,6 +1,6 @@
 ---
-title: Organizar sua lista de tarefas em [!DNL Workfront] [!UICONTROL Início]
-description: Saiba como filtrar e classificar o trabalho atribuído, identificar o trabalho pronto para iniciar e aceitar atribuições de trabalho no [!DNL  Workfront].
+title: Organizar sua lista de tarefas na página inicial] do  [!DNL Workfront] [!UICONTROL
+description: Aprenda a filtrar e classificar trabalhos atribuídos, identificar trabalhos que estão prontos para iniciar e aceitar atribuições de trabalho no  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,29 +12,29 @@ jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Organizar sua lista de tarefas em [!DNL Workfront] [!UICONTROL Início]
+# Organizar sua lista de tarefas na [!UICONTROL página inicial] do [!DNL Workfront]
 
 >[!NOTE]
 >
->A variável [!UICONTROL [!DNL Sort by]] opção no [!UICONTROL Lista de trabalho] foi renomeado para [!UICONTROL Agrupar por]e tarefas e problemas também podem ser agrupados por seus [!UICONTROL Data de Início Planejada].
+>A opção [!UICONTROL [!DNL Sort by]] na [!UICONTROL Lista de trabalho] foi renomeada como [!UICONTROL Agrupar por], e tarefas e problemas também podem ser agrupados por sua [!UICONTROL Data inicial planejada].
 
 Neste vídeo, você aprenderá a:
 
 * Classificar atribuições de trabalho
 * Filtrar atribuições de trabalho por tipo
-* Identificar o trabalho que está pronto para começar
+* Identificar trabalhos que estão prontos para iniciar
 * Aceitar atribuições de trabalho
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Por padrão, os itens de vencimento mais antigos aparecem na parte superior do [!UICONTROL Lista de trabalho]. Se desejar que seus itens de trabalho sejam exibidos em ordem decrescente, clique nas setas à direita da área Agrupar por.
+>Por padrão, os itens com prazo mais próximo aparecem na parte superior da [!UICONTROL Lista de trabalho]. Se desejar que seus itens de trabalho sejam exibidos em ordem decrescente, clique nas setas à direita da área Agrupar por.
 
 ![Imagem de uma tela mostrando sua lista de trabalho agrupada por data de vencimento.](assets/work-list-arrows.png)
