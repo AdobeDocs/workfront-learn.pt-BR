@@ -11,16 +11,16 @@ jira: KT-9041
 exl-id: 31c10236-fc5f-4467-b6a1-23b85f6bd0f7
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Introdução ao histórico de execução
 
-Neste vídeo, você aprenderá como:
+Neste vídeo você aprenderá como:
 
-* O histórico de execução ajuda a oferecer suporte e solucionar problemas do Workfront Fusion
+* O histórico de execução ajuda você a oferecer suporte e solucionar problemas do Workfront Fusion
 
 >[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on)
