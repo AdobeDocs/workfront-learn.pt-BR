@@ -1,6 +1,6 @@
 ---
 title: Filtros
-description: Saiba como usar o filtro entre módulos para permitir somente determinados tipos de pacotes.
+description: Saiba como usar o filtro em vários módulos para encontrar somente determinados tipos de pacotes.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,42 +11,42 @@ jira: KT-11040
 thumbnail: KT1101.png
 exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Filtros
 
-Saiba como usar o filtro entre módulos para permitir somente determinados tipos de pacotes.
+Saiba como usar o filtro em vários módulos para encontrar somente determinados tipos de pacotes.
 
 ## Visão geral do exercício
 
-Adicione um filtro entre os dois módulos no cenário Além do mapeamento básico para criar projetos com uma cor de projeto &quot;Vermelho&quot; no arquivo CSV.
+Adicione um filtro para os dois módulos no cenário Além do mapeamento básico para criar apenas projetos que tenham a cor “Vermelho” no arquivo CSV.
 
-![Imagem de filtros 1](../12-exercises/assets/filters-walkthrough-1.png)
+![Filtros - Imagem 1](../12-exercises/assets/filters-walkthrough-1.png)
 
 ## Etapas a serem seguidas
 
-1. Crie um clone do cenário &quot;Além do mapeamento básico&quot; e o nomeie como &quot;Usando o filtro poderoso&quot;.
+1. Crie um clone do cenário “Além do mapeamento básico” e nomeie-o como “Usar o filtro avançado”.
 
-   **Adicione um filtro antes do módulo Criar projetos Workfront para permitir que somente projetos vermelhos sejam criados.**
+   **Adicione um filtro no módulo Criar projetos do Workfront para permitir a criação apenas de projetos em vermelho.**
 
-   ![Imagem de filtros 2](../12-exercises/assets/filters-walkthrough-2.png)
+   ![Filtros - Imagem 2](../12-exercises/assets/filters-walkthrough-2.png)
 
-1. Adicione um filtro clicando na linha pontilhada que conecta os módulos ou clicando na chave inglesa e selecionando Set up a filter.
-1. Use o campo Rótulo para nomear o filtro como &quot;Somente projetos vermelhos&quot;.
-1. No campo Condição, mapeie o campo Cor do projeto (coluna 3 no arquivo CSV). Selecione o operador Equal to (não diferencia maiúsculas de minúsculas) e digite &quot;red&quot;.
+1. Adicione um filtro clicando na linha pontilhada que conecta os módulos ou no ícone de chave inglesa e selecionando Configurar um filtro.
+1. Use o campo Rótulo para nomear o filtro como “Somente projetos em vermelho”.
+1. No campo Condição, mapeie o campo Cor do projeto (coluna 3 no arquivo CSV). Selecione o operador Igual a (sem distinção entre maiúsculas e minúsculas) e digite “vermelho”.
 1. Clique em OK.
 
-   ![Imagem de filtros 3](../12-exercises/assets/filters-walkthrough-3.png)
+   ![Filtros - Imagem 3](../12-exercises/assets/filters-walkthrough-3.png)
 
    **Teste o filtro e verifique os resultados.**
 
-1. Clique em Salvar para salvar o cenário e em Executar uma vez.
-1. Clique no inspetor de execução do filtro para ver como cada pacote foi examinado pelo filtro e passou ou falhou ao seguir para o módulo Criar projetos Workfront.
+1. Salve o cenário e clique em Executar uma vez.
+1. Clique no inspetor de execução do filtro para ver como cada pacote foi examinado pelo filtro e se eles foram bem-sucedidos ou falharam na transição para o módulo Criar projetos do Workfront.
 
-   ![Imagem de filtros 4](../12-exercises/assets/filters-walkthrough-4.png)
+   ![Filtros - Imagem 4](../12-exercises/assets/filters-walkthrough-4.png)
 
 1. Encontre os projetos criados na sua instância do Workfront.
