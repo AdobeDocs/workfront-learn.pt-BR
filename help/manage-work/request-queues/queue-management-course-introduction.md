@@ -1,6 +1,6 @@
 ---
-title: Introdução ao curso de gerenciamento de fila
-description: Saiba como [!DNL  Workfront] as filas de solicitações podem centralizar o gerenciamento de demanda.
+title: Introdução ao Curso de Gerenciamento de filas
+description: Saiba como as filas de solicitações do [!DNL  Workfront] podem centralizar o gerenciamento da demanda.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8956
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '27'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Introdução ao curso de gerenciamento de fila
+# Introdução ao Curso de Gerenciamento de filas
 
-Neste vídeo, saiba como [!DNL  Workfront] as filas de solicitações podem centralizar o gerenciamento de demanda.
+Neste vídeo, aprenda como as filas de solicitações do [!DNL  Workfront] podem centralizar o gerenciamento da demanda.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on)
