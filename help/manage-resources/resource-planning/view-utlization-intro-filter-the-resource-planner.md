@@ -1,6 +1,6 @@
 ---
-title: Exibir a utilização e filtrar o Planejador de recursos
-description: Saiba como visualizar a utilização de usuários e filtrar o Planejador de recursos.
+title: Visualize a utilização e filtre o Planejador de recursos
+description: Saiba como visualizar a utilização do usuário e filtrar o Planejador de recursos.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,31 +11,31 @@ thumbnail: view-utilization.png
 jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Visualizar a utilização e filtrar o Planejador de recursos
+# Visualizar utilização e filtrar o Planejador de recursos
 
-Com o Planejador de recursos, você obtém uma visão clara dos projetos em que está interessado e uma visão em tempo real de como sua força de trabalho se empilha para executá-los.
+Com o Planejador de recursos, você obtém uma visão clara dos projetos nos quais está interessado e um olhar em tempo real em como sua força de trabalho se prepara para executá-los.
 
-* Por exemplo, você quer saber o que acontece com a capacidade quando a iniciativa de atualização de servidor mais recente se torna a sua prioridade máxima.
+* Por exemplo, você deseja saber o que acontece com a capacidade quando a iniciativa de atualização mais recente do servidor se torna sua principal prioridade.
 
-* O Planejador de recursos mostra a disponibilidade de seus funcionários e como a alocação de recursos para um projeto afetará a disponibilidade em projetos de prioridade mais baixa.
+* O Planejador de recursos mostra a disponibilidade do seu pessoal e como a alocação de recursos para um projeto afetará essa disponibilidade em projetos de prioridade mais baixa.
 
 
-Você poderá ver não apenas como a alocação de recursos afeta o trabalho de hoje, mas como você olha além das necessidades imediatas de programação de recursos, pode avaliar as alocações de recursos de longo prazo para entender se os indivíduos estão acima (ou abaixo) da alocação.
+Você poderá ver não apenas como a alocação de recursos afeta o trabalho atual, mas ao olhar além de suas necessidades imediatas de agendamento de recursos, você poderá avaliar as alocações de recursos de longo prazo para entender se as pessoas estão alocadas em excesso (ou a menos).
 
 ## Filtrar o Planejador de recursos
 
-O Planejador de recursos é aberto automaticamente com um conjunto padrão de filtros. Você editará esses filtros ao:
+O Planejador de recursos se abre automaticamente com um conjunto padrão de filtros. Você desejará editar esses filtros por:
 
-* Período de tempo
-* Portfolio/Programa
+* Intervalo de tempo
+* Portfólio/Programa
 * Conjuntos de recursos etc.
 
-![filtro do planejador de recursos](assets/TRP01.png)
+![filtro planejador de recursos](assets/TRP01.png)
 
 Isso permite que você se concentre em quais recursos estão disponíveis e quando.
