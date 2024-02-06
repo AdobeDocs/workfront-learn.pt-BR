@@ -1,5 +1,5 @@
 ---
-title: Restaurar Objetos da Lixeira
+title: Restaurar objetos da lixeira
 description: Saiba como localizar e restaurar projetos, tarefas ou problemas excluídos da Lixeira.
 feature: System Setup and Administration
 activity: deploy
@@ -11,39 +11,39 @@ thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Restaurar objetos da Lixeira
 
-O trabalho do projeto passa por muitas mudanças. Você pode excluir algo, somente para perceber, 30 minutos depois, que a tarefa era necessária ou que o documento era vital para o problema que você está tentando resolver.
+O trabalho do projeto passa por muitas mudanças. Você pode excluir algo e, 30 minutos depois, perceber que a tarefa era necessária ou que o documento era essencial para o problema que você está tentando resolver.
 
-Com a Lixeira, quando o objeto é excluído, o Workfront o coloca na por até 30 dias. O administrador do sistema pode restaurar o objeto para sua posição original no Workfront, juntamente com todas as suas informações (atualizações, horas registradas, documentos etc.).
+Porém, quando o objeto é excluído, o Workfront o coloca na Lixeira por até 30 dias. Admins de sistema podem restaurar o objeto à sua posição original no Workfront, juntamente com todas as suas informações (atualizações, horas registradas, documentos etc.).
 
 ## Restaurar um objeto
 
-1. Selecione o **Configuração** na área **Menu principal**.
-1. Clique em **Lixeira** no painel esquerdo.
-1. Selecionar **Excluídos recentemente**.
+1. Selecione a área **Configuração** no **Menu principal**.
+1. Clique na **Lixeira** no painel esquerdo.
+1. Selecione **Excluído recentemente**.
 
-![Seção Lixeira excluída recentemente na área Configuração](assets/admin-fund-recycle-bin-1.png)
+![Seção Excluídos recentemente da lixeira na área Configuração](assets/admin-fund-recycle-bin-1.png)
 
-Cada objeto restaurável tem uma guia para facilitar a localização do item específico a ser restaurado.
+Cada objeto restaurável possui uma guia que facilita a localização do item específico a ser restaurado.
 
 1. Clique na guia do objeto desejado.
 1. Marque a caixa ao lado dos objetos a serem restaurados.
-1. Clique em **Restaurar** botão.
+1. Clique no botão **Restaurar**.
 
 ![Itens selecionados na Lixeira](assets/admin-fund-recycle-bin-2.png)
 
-O(s) objeto(s) sendo restaurado(s) aparecerá(ão) brevemente em um [!UICONTROL Em andamento] seção. Quando a tela for atualizada, os objetos não aparecerão mais na tela porque ela foi restaurada. Os itens aparecem onde estavam anteriormente em [!DNL Workfront], que você pode verificar no [!UICONTROL Restaurados recentemente] tela.
+Os objetos que estão sendo restaurados aparecerão brevemente em uma seção [!UICONTROL Em progresso]. Depois que a tela for atualizada, os objetos desaparecerão dessa área, visto que foram restaurados. Os itens aparecem onde estavam anteriormente no [!DNL Workfront], o que pode ser verificado na tela [!UICONTROL Restaurados recentemente].
 
-![Seção Recentemente Restaurada da Lixeira na área Configuração](assets/admin-fund-recycle-bin-3.png)
+![Seção Restaurados recentemente da lixeira na área de configuração](assets/admin-fund-recycle-bin-3.png)
 
-Os administradores de grupo podem restaurar um projeto que esteja associado ao grupo que gerenciam, juntamente com quaisquer tarefas, problemas ou documentos associados ao projeto.
+Admins de grupo podem restaurar um projeto que esteja associado ao grupo que gerenciam, juntamente com quaisquer tarefas, problemas ou documentos associados.
 
 <!---
 learn more URL
