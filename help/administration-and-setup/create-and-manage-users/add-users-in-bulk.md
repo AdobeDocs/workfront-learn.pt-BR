@@ -1,6 +1,6 @@
 ---
 title: Adicionar usuário em massa
-description: Saiba como adicionar vários usuários de cada vez usando uma planilha para um modelo de início.
+description: Aprenda como adicionar vários usuários ao mesmo tempo usando uma planilha como modelo de início rápido.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,43 +11,43 @@ thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Adicionar usuários em massa
 
-Adicionar usuários, um de cada vez, pode ser demorado e trabalhoso. [!DNL Workfront] O permite que um administrador do sistema adicione vários usuários ao mesmo tempo usando o recurso de importação.
+Adicionar usuários um de cada vez pode ser demorado e cansativo. O [!DNL Workfront] permite que quem administra o sistema adicione vários usuários ao mesmo tempo usando o recurso de importação.
 
-![[!UICONTROL Importar pessoas] opção de menu](assets/admin-fund-adding-users-5.png)
+Opção de menu ![[!UICONTROL Importar pessoas]](assets/admin-fund-adding-users-5.png)
 
-1. Selecionar **[!UICONTROL Usuários]** do [!UICONTROL Menu principal].
-1. Selecione a seta na **[!UICONTROL Nova pessoa]** e selecione **[!UICONTROL Importar pessoas]**.
-1. A janela que abre o orienta pela criação de uma planilha dos usuários a serem importados.
-1. Baixe o arquivo de amostra, que é um [!DNL Excel] planilha eletrônica.
-1. Atualize a planilha com as informações do usuário — nome, sobrenome, endereço de email, nível de acesso — seguindo as instruções no próprio arquivo.
-1. Selecione o **[!UICONTROL Escolher arquivo]** assim que a lista de usuários é salva.
-1. Navegue até o arquivo de planilha do usuário e selecione-o.
+1. Selecione **[!UICONTROL Usuários]** no [!UICONTROL  Menu principal].
+1. Selecione a seta no botão **[!UICONTROL Nova pessoa]** e clique em **[!UICONTROL Importar pessoas]**.
+1. A janela que se abre orienta você na criação de uma planilha dos usuários a serem importados.
+1. Baixe o arquivo de amostra, que é uma planilha do [!DNL Excel].
+1. Atualize a planilha com as informações do usuário, como nome, sobrenome, endereço de email, nível de acesso, seguindo as instruções do próprio arquivo.
+1. Clique no botão **[!UICONTROL Escolher arquivo]** assim que a lista de usuários for salva.
+1. Navegue até o arquivo da planilha do usuário e o selecione.
 
-![Janela Importar Pessoas](assets/admin-fund-adding-users-6.png)
+![Janela Importar pessoas](assets/admin-fund-adding-users-6.png)
 
-Os usuários importados são exibidos no [!UICONTROL Usuários] lista. Edite as informações sobre usuários individuais ou múltiplos usuários, se necessário.
+Os usuários importados aparecem na lista [!UICONTROL Usuários]. Edite as informações sobre usuários individuais ou vários usuários, se necessário.
 
 ![Lista de usuários](assets/admin-fund-adding-users-7.png)
 
-## Importar usuários: usar inícios
+## Importar usuários: usando inícios rápidos
 
-[!DNL Workfront] O fornece um modelo de início para importar dados para o sistema. Ele também pode ser usado para importar usuários. Antes de usar o início, [!DNL Workfront] A recomenda que você trabalhe com o seu [!DNL Workfront] consultor, pois há considerações que você deve conhecer.
+O [!DNL Workfront] fornece um modelo de início rápido para importar dados para o sistema. Também pode ser usado para importar usuários. Antes de usar o início rápido, o [!DNL Workfront] recomenda que você trabalhe com a pessoa responsável pela consultoria do [!DNL Workfront], pois há considerações das quais você deve estar ciente.
 
 <!---
 paragraph below needs URL to article
 --->
 
-Consulte Importar dados para o Workfront por meio de Kick-Starts para obter informações detalhadas.
+Consulte Importar dados para o Workfront por meio de inícios rápidos para obter informações detalhadas.
 
-![[!UICONTROL Importar dados] ([!UICONTROL Início]) janela no [!UICONTROL Configuração] área](assets/admin-fund-adding-users-8.png)
+![[!UICONTROL Importar dados] (Janela [!UICONTROL Inícios rápidos]) na área [!UICONTROL Configuração] ](assets/admin-fund-adding-users-8.png)
 
 <!--
 Learn more URLs
