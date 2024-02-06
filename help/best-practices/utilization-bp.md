@@ -1,69 +1,69 @@
 ---
-title: Prática recomendada - Utilização
-description: Explore as recomendações de práticas recomendadas dos especialistas da Adobe Workfront sobre como configurar, gerenciar e usar o relatório de Utilização.
+title: 'Prática recomendada: utilização'
+description: Explore as práticas recomendadas de especialistas do Adobe Workfront sobre configurar, gerenciar e usar o relatório de utilização.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10931
 exl-id: 553aae90-1f98-4659-a516-db96b682012e
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '408'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Prática recomendada - Utilização
+# Prática recomendada: utilização
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
+A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
 ## Práticas recomendadas de utilização
 
-* Acompanhe o andamento, o custo e a receita com o relatório de Utilização.
+* Acompanhe o progresso, custos e a receita com o relatório de utilização.
 
-* Atribua recursos a tarefas filhas em vez de tarefas pai para controlar o total de horas registradas nos relatórios de utilização.
+* Atribua recursos a tarefas secundárias em vez de tarefas principais para monitorar o total de horas registradas nos relatórios de utilização.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
-Acompanhe o andamento, o custo e a receita com o relatório de Utilização.
+Acompanhe o progresso, custos e a receita com o relatório de utilização.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Aproveite ao máximo seus recursos de pessoal, analisando o progresso, o custo ou a receita de um projeto, programa ou portfólio com o relatório de Utilização. Esse relatório único é uma ferramenta essencial para gerentes de recursos, gerentes de projeto ou outros gerentes de pessoas, pois também pode comparar a receita planejada ou real com o custo, de modo que você possa tomar decisões mais relevantes e medir totalmente os diferentes tipos e números de recursos que uma tarefa ou um projeto específico possa exigir.
+Aproveite ao máximo os seus recursos humanos, analisando o progresso, o custo ou a receita de um projeto, programa ou portfólio com o relatório de utilização. Esse relatório é uma ferramenta essencial para gerentes de recursos, projetos ou que gerenciam outros assuntos, pois também permite comparar a receita planejada ou real com o custo, de modo que você possa tomar decisões bem informadas e medir totalmente os diferentes tipos e quantidades de recursos que uma tarefa ou projeto específico pode exigir.
 
 
 
-Nota: As informações de utilização do recurso são encontradas no Menu Principal do Workfront > Recurso > Utilização.
+Observação: as informações de utilização de recursos podem ser encontradas no menu principal do Workfront > Recursos > Utilização.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Atribua recursos a tarefas filhas em vez de tarefas pai para controlar o total de horas registradas nos relatórios de utilização.
+Atribua recursos a tarefas secundárias em vez de tarefas principais para monitorar o total de horas registradas nos relatórios de utilização.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Quando o relatório de Utilização é criado, ele inclui horas registradas no projeto, tarefas filhas, problemas e tarefas pai que têm pelo menos uma atribuição. No entanto, ela não rastreia as horas registradas em tarefas pai sem nenhuma atribuição. Para obter uma boa representação do total de horas gastas nas tarefas, problemas ou projetos, não use tarefas pai como tarefas de trabalho e atribua usuários somente a tarefas filho.
+Quando o relatório de utilização é criado, ele inclui horas registradas no projeto, tarefas secundárias, problemas e tarefas principais que possuem pelo menos uma atribuição. No entanto, ele não monitora as horas registradas nas tarefas principais sem nenhuma atribuição. Para obter uma boa visão do total de horas dedicadas às tarefas, problemas ou projetos, não use tarefas principais como tarefas de trabalho e atribua usuários somente a tarefas secundárias.
