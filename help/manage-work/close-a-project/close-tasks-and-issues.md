@@ -1,6 +1,6 @@
 ---
 title: Fechar tarefas e problemas
-description: Saiba como garantir que tarefas e problemas sejam fechados antes de fechar um projeto no [!DNL  Workfront].
+description: Aprenda como garantir que tarefas e problemas sejam encerrados antes de fechar um projeto no [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,18 +12,18 @@ last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '150'
+ht-degree: 100%
 
 ---
 
 # Fechar tarefas e problemas
 
-Um dos primeiros passos para fechar um [!DNL Workfront] O projeto está garantindo que todas as tarefas e problemas tenham um status de Concluído, ou um status equivalente.
+Uma das primeiras etapas para encerrar um projeto do [!DNL Workfront] é garantir que todas as tarefas e problemas tenham o status Concluído ou equivalente.
 
-Se a variável [!UICONTROL Percentual Completo] no cabeçalho do projeto mostra 100% que você sabe que todas as tarefas estão marcadas como 100% concluídas. No entanto, uma tarefa que é [!UICONTROL Completo - Pendente de Aprovação] ainda será lido como 100%, portanto, não se esqueça de verificar esses. Consulte [Concluir aprovações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) para todas as dicas sobre aprovações.
+Se o campo [!UICONTROL Percentual concluído] no cabeçalho do projeto mostrar 100%, você sabe que todas as suas tarefas estão marcadas como 100% concluídas. No entanto, uma tarefa que está [!UICONTROL Concluída - Aprovação pendente] ainda será lida como 100%, então não se esqueça de verificá-las. Consulte [Aprovações concluídas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=br) para conferir todas as dicas sobre aprovações.
 
-Se houver problemas incompletos, mesmo os pendentes de aprovação, haverá um número ao lado da guia Problemas mostrando quantos. Se o número for zero, você não terá problemas incompletos.
+Se você tiver algum problema incompleto, mesmo aqueles com aprovação pendente, haverá um número próximo à guia Problemas mostrando quantos. Se o número for zero, você não terá problemas incompletos.
 
-![Exibição do projeto [!UICONTROL Percentual Completo] e problemas em aberto](assets/close-tasks-and-issues.png)
+![Projeto exibindo [!UICONTROL Porcentagem concluída] e problemas em aberto](assets/close-tasks-and-issues.png)
