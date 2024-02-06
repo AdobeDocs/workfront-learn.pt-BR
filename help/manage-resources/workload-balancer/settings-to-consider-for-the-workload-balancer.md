@@ -1,6 +1,6 @@
 ---
 title: Configurações a serem consideradas no Balanceador de carga de trabalho
-description: Veja quais configurações considerar ao mergulhar nas cargas de trabalho individuais de seus usuários.
+description: Veja quais configurações considerar ao se aprofundar nas cargas de trabalho individuais de seus usuários.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,36 +11,36 @@ thumbnail: settings-to-consider.png
 jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 # Configurações a serem consideradas no Balanceador de carga de trabalho
 
-Há algumas configurações do Balanceador de carga de trabalho que devem ser consideradas ao mergulhar nas cargas de trabalho individuais de seus usuários:
+Há algumas configurações do Balanceador de carga de trabalho a serem consideradas à medida que você se aprofunda nas cargas de trabalho individuais de seus usuários:
 
 * Atribuições de problemas
 * Datas Projetadas
 * Trabalho concluído
 
 
-Elas podem ser ativadas ou desativadas pelo ícone Configurações do balanceador de carga de trabalho.
+Eles podem ser ativados ou desativados por meio do ícone Configurações do Balanceador de carga de trabalho.
 
 ![Ícone de configurações do Balanceador de carga de trabalho](assets/STC_01.png)
 
 ## Incluir horas de problemas
 
-Por padrão, o Balanceador de carga de trabalho mostra somente tarefas. No entanto, os usuários podem ser atribuídos a solicitações e problemas que precisam ser atendidos ou resolvidos e que consomem tempo que podem gastar no trabalho do projeto.
+Por padrão, o Balanceador de carga de trabalho mostra apenas tarefas. No entanto, os usuários podem ser atribuídos a solicitações e problemas que precisam ser atendidos ou resolvidos e que consomem tempo que eles podem gastar no trabalho do projeto.
 
-Para entender melhor a carga de trabalho completa de um usuário, a Workfront recomenda que os problemas sejam incluídos na lista de trabalho do usuário atribuído.
+Para entender melhor a carga de trabalho completa de um usuário, o Workfront recomenda que os problemas sejam incluídos na lista de trabalho do usuário atribuído.
 
-Marque a opção Incluir horas de problemas na área Configurações do balanceador de carga de trabalho.
+Basta marcar a opção Incluir horas de problemas na área Configurações do Balanceador de carga de trabalho.
 
 ![incluir horas de problemas](assets/STC_02.png)
 
-Na área Trabalho atribuído, os problemas são exibidos como barras borboletas claras.
+Na área Trabalho Atribuído, os problemas aparecem como barras marrons claras.
 
 ![realce de problemas](assets/STC_03.png)
 
@@ -52,7 +52,7 @@ A configuração padrão mostra o trabalho atribuído com base nas datas planeja
 
 ![trabalho atribuído com intervalo de tempo](assets/STC_04.png)
 
-Como as datas projetadas são baseadas no progresso e na conclusão de tarefas anteriores no projeto, você pode obter uma visualização em &quot;tempo real&quot; de quando uma tarefa será iniciada ou concluída, o que é especialmente útil ao observar cargas de trabalho.
+Como as datas projetadas são baseadas no progresso e na conclusão de tarefas anteriores do projeto, você pode obter uma visão em “tempo real” de quando uma tarefa será iniciada ou concluída, o que é especialmente útil ao analisar cargas de trabalho.
 
 ![intervalo em tempo real](assets/STC_05.png)
 
@@ -62,8 +62,8 @@ Você pode alternar entre a exibição de datas planejadas e projetadas com a op
 
 ### Tarefas concluídas
 
-As tarefas concluídas são mostradas no Balanceador de carga de trabalho juntamente com aquelas que estão em andamento ou prestes a começar. Para entender melhor o trabalho adicional que os usuários podem realizar, você pode excluir o trabalho concluído.
+As tarefas concluídas são mostradas no Balanceador de carga de trabalho junto àquelas em andamento ou prestes a começar. Para entender melhor o trabalho adicional que os usuários podem realizar, você pode excluir o trabalho concluído.
 
 Desmarque a opção Mostrar trabalho concluído nas configurações do Balanceador de carga de trabalho.
 
-![mostrar trabalho concluído](assets/STC_07.png)
+![mostrar o trabalho concluído](assets/STC_07.png)
