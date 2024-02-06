@@ -1,6 +1,6 @@
 ---
 title: Criar um relatório de calendário personalizado
-description: Saiba como criar seu próprio calendário personalizado mostrando seus itens de trabalho e folgas pessoais.
+description: Saiba como criar seu próprio calendário personalizado, para mostrar seus itens de trabalho e dias de folga.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,15 +12,15 @@ thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # Criar um relatório de calendário personalizado
 
-Um relatório de calendário é um relatório dinâmico que mostra o trabalho e a folga em uma exibição de calendário. Você pode exibir informações de data em um relatório de calendário para os seguintes objetos:
+Um relatório de calendário é um relatório dinâmico que exibe períodos de trabalho e folga em um calendário. Você pode ver informações de data em um relatório de calendário para os seguintes objetos:
 
 * Tarefas
 * Projetos
@@ -30,9 +30,9 @@ Um relatório de calendário é um relatório dinâmico que mostra o trabalho e 
 Neste vídeo, você aprenderá a:
 
 * Criar um novo calendário
-* Criar um agrupamento de calendário
-* Adicionar itens de trabalho ao agrupamento de calendário
-* Criar um calendário de folga
+* Criar um agrupamento de calendários
+* Adicionar itens de trabalho ao agrupamento de calendários
+* Criar um calendário de folgas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on)
 
