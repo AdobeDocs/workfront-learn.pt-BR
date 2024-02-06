@@ -1,42 +1,42 @@
 ---
-title: Prática recomendada - Funções de trabalho
-description: Explore as recomendações de práticas recomendadas dos especialistas do Adobe Workfront sobre a configuração, o gerenciamento e o uso das funções de trabalho do Workfront.
+title: 'Prática recomendada: funções de trabalho'
+description: Confira as práticas recomendadas dos especialistas do Adobe Workfront sobre a configuração, o gerenciamento e o uso das funções de trabalho do Workfront.
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Prática recomendada - Funções de trabalho
+# Prática recomendada: funções de trabalho
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
+A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
 ## Práticas recomendadas para funções de trabalho
 
-* Use convenções de nomenclatura para funções de trabalho usadas na organização.
+* Use convenções de nomeação para funções de trabalho usadas na organização.
 
 * Atribuir tarefas a funções de trabalho ao criar modelos de projeto.
 
-* Não crie funções de trabalho por títulos de trabalho.
+* Não crie funções de trabalho por cargos.
 
 * Ao criar funções de trabalho, tenha cuidado para não torná-las muito granulares.
 
@@ -45,15 +45,15 @@ O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
-Use convenções de nomenclatura para funções de trabalho usadas na organização.
+Use convenções de nomeação para funções de trabalho usadas na organização.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-As funções de trabalho são globais. Se você quiser diferenciar e gerenciar funções de trabalho com o mesmo nome em vários grupos na organização, as convenções de nomenclatura são o melhor método. Use uma convenção de nomenclatura que atenda às suas necessidades, mas lembre-se de mantê-la simples.
+As funções de trabalho são globais. Se você quiser diferenciar e gerenciar funções com o mesmo nome em vários grupos da sua organização, as convenções de nomeação são o melhor método. Use uma convenção de nomeação que atenda às suas necessidades, mas lembre-se de mantê-la simples.
 
 </br>
 </br>
@@ -62,22 +62,22 @@ As funções de trabalho são globais. Se você quiser diferenciar e gerenciar f
 
 Atribuir tarefas a funções de trabalho ao criar modelos de projeto.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Quando usuários individuais são atribuídos a tarefas em modelos de projeto, isso pode causar problemas de equipe quando um usuário muda de função ou deixa a organização. Isso torna a manutenção do modelo e do projeto mais demorada.
+Quando usuários individuais são atribuídos a tarefas em modelos de projeto, isso pode causar problemas na equipe quando um usuário muda de função ou sai da organização. Isso torna a manutenção do modelo e do projeto mais demorada.
 
-Além disso, ter funções de trabalho atribuídas a tarefas ajuda a prever suas necessidades de recursos e atribuir trabalho usando as ferramentas de gerenciamento de recursos da Workfront.
+Além disso, ter funções de trabalho atribuídas a tarefas ajuda a prever suas necessidades de recursos e atribuir trabalho usando as ferramentas de gerenciamento de recursos do Workfront.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Não crie funções de trabalho por títulos de trabalho.
+Não crie funções de trabalho por cargos.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-As funções de trabalho representam o conjunto de habilidades que um usuário possui para concluir uma tarefa. Os títulos de trabalho nem sempre refletem o conjunto de habilidades ou o tipo de trabalho do usuário.
+As funções de trabalho representam o conjunto de habilidades que um usuário tem para concluir uma tarefa. Os cargos nem sempre refletem o conjunto de habilidades ou o tipo de trabalho do usuário.
 
 </br>
 </br>
@@ -86,9 +86,9 @@ As funções de trabalho representam o conjunto de habilidades que um usuário p
 
 Ao criar funções de trabalho, tenha cuidado para não torná-las muito granulares.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Você pode associar um usuário a várias funções de trabalho, mas pode não precisar de uma função de trabalho para cada habilidade que um usuário tem. Baseie as funções de trabalho nas suas necessidades de atribuição de tarefas e no nível desejado de detalhes necessários nos relatórios de gerenciamento de recursos.
+Você pode associar um usuário a diversas funções, mas talvez não precise de uma função para cada habilidade que um usuário tem. Baseie as funções de trabalho nas suas necessidades de atribuição de tarefas e no nível desejado de detalhes necessários nos relatórios de gerenciamento de recursos.
 
 </br>
 </br>
@@ -97,13 +97,13 @@ Você pode associar um usuário a várias funções de trabalho, mas pode não p
 
 Somente crie funções de trabalho semelhantes quando for necessária uma distinção clara.
 
-**Veja o porquê**
+**Entenda o porquê**
 
-Na maioria dos casos, não há necessidade de várias funções de trabalho representarem o mesmo conjunto de habilidades. No entanto, serão necessárias várias funções de trabalho se:
+Na maioria dos casos, não há necessidade de vários cargos representarem o mesmo conjunto de habilidades. No entanto, serão necessárias várias funções de trabalho se:
 
-A taxa de cobrança é diferente. Por exemplo, um designer gráfico sênior pode ser cobrado a uma taxa diferente de um designer gráfico.
-As atribuições de trabalho exigem um tipo específico de função de trabalho. Por exemplo, uma tarefa deve ser feita por um gerente de projeto, mas não por um coordenador.
-Você precisa gerenciar recursos pelas funções de trabalho. Por exemplo, você pode ter 600 horas de design gráfico, mas apenas 200 horas de direção de arte sênior.
+A taxa de faturamento for diferente. Por exemplo, um designer gráfico sênior pode ser cobrado a uma taxa diferente de um designer gráfico.
+As atribuições de trabalho exigirem um tipo específico de função. Por exemplo, uma tarefa deve ser realizada por um gerente de projeto, mas não por um coordenador.
+Você precisa gerenciar os recursos pelas funções de trabalho. Por exemplo, você pode ter 600 horas de design gráfico, mas apenas 200 horas de direção de arte sênior.
 
 
-Se você criar funções de trabalho semelhantes, use o campo de descrição em cada uma para indicar as diferenças entre as funções, quando e como elas são usadas, etc.
+Se você criar funções de trabalho semelhantes, use o campo de descrição em cada uma para indicar as diferenças entre as funções, quando e como elas são usadas etc.
