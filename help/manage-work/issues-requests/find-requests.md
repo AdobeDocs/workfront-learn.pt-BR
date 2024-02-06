@@ -1,6 +1,6 @@
 ---
 title: Localizar e gerenciar solicitações
-description: Saiba como usar painéis, [!UICONTROL Início], o [!UICONTROL Solicitações] e a [!UICONTROL Equipes] página para localizar solicitações recebidas feitas por meio de uma fila de solicitações.
+description: Saiba como usar painéis, a [!UICONTROL página inicial], a área [!UICONTROL Solicitações] e a página [!UICONTROL Equipes] para localizar solicitações que foram feitas por meio de uma fila de solicitações.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -24,12 +24,12 @@ Neste vídeo, você aprenderá a encontrar solicitações às quais está atribu
 
 Você aprenderá a encontrar essas solicitações nos seguintes locais:
 
-* Workfront [!UICONTROL Início]
-* A variável [!UICONTROL Solicitações] área
-* A variável [!UICONTROL Equipes] página
+* Na [!UICONTROL página inicial] do Workfront
+* Na área [!UICONTROL Solicitações]
+* Na página [!UICONTROL Equipes]
 * Em um painel personalizado
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
-Se quiser saber como criar relatórios personalizados e colocá-los em um painel, consulte [Curso básico de criação de relatório](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).
+Se quiser saber como criar relatórios personalizados e colocá-los em um painel, consulte [Curso básico de criação de relatórios](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html?lang=pt-BR).
