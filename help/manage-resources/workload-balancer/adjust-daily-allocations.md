@@ -1,6 +1,6 @@
 ---
 title: Ajustar alocações diárias no Balanceador de carga de trabalho
-description: Saiba como redistribuir horas ou porcentagens alocadas e reatribuir trabalho de um usuário para outro.
+description: Saiba como redistribuir horas ou porcentagens alocadas, e reatribuir tarefas de um usuário a outro.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,9 +12,9 @@ jira: KT-8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 Neste vídeo, você aprenderá a:
 
 * Redistribuir horas ou porcentagens alocadas
-* Reatribuir trabalho de um usuário para outro
+* Reatribuir tarefas de um usuário a outro
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)
