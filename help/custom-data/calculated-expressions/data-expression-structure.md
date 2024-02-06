@@ -12,9 +12,9 @@ jira: KT-8911
 exl-id: 9696c36a-ffde-491c-a8c2-12f20f6bc374
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* Os elementos padrão usados ao criar expressões em [!DNL Workfront]
+* Os elementos padrão usados ao construir expressões no [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on)
