@@ -1,6 +1,6 @@
 ---
-title: Entender organizações, equipes e usuários
-description: Saiba como usar, criar e navegar entre organizações, equipes e usuários no [!DNL Adobe Workfront Fusion].
+title: Entenda sobre as organizações, equipes e usuários
+description: Saiba como usar, criar e navegar entre organizações, equipes e usuários no  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,13 +11,13 @@ jira: KT-9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender organizações, equipes e usuários
+# Entenda sobre as organizações, equipes e usuários
 
 Neste vídeo, você aprenderá:
 
