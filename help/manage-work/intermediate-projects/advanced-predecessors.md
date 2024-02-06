@@ -1,6 +1,6 @@
 ---
-title: Predecessoras avançadas
-description: Saiba mais sobre tipos de dependência de predecessores, tipos de atraso, predecessores impostos, erros de loop de dependência e alguns atalhos e práticas recomendadas.
+title: Predecessores avançados
+description: Aprenda sobre tipos de dependência de predecessores, tipos de defasagem, predecessores impostos, erros de loop de dependência, bem como alguns atalhos e práticas recomendadas.
 feature: Work Management
 thumbnail: 3424287.jpg
 type: Tutorial
@@ -11,34 +11,35 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
-workflow-type: tm+mt
+exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Predecessoras avançadas
+# Predecessores avançados
 
 >[!IMPORTANT]
 >
 >Pré-requisitos:
 >
->* [Saiba como sequenciar tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
->* Ou você já se sente confortável em usar predecessores em seus projetos
+>* [Saiba como sequenciar tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
+>* Ou você já compreende bem o uso de predecessores em seus projetos?
 
 Neste vídeo, você aprenderá sobre:
 
 * Dependências de tarefas
 * Tipos de defasagem
-* Predecessoras aplicadas
+* Predecessores impostos
 * Erros de loop de dependência
 * Atalhos e práticas recomendadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
-Para obter mais informações sobre o uso de predecessores, consulte [Usar predecessores da tarefa](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Para obter mais informações sobre o uso de predecessores, consulte [Usar predecessores de tarefa](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=pt-BR).
 
-Para obter mais informações sobre restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Para obter mais informações sobre restrições de tarefas, consulte [Compreender e gerenciar tipos de duração e restrições de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=pt-BR).
 
-Para obter mais informações sobre predecessoras entre projetos, consulte [Entender predecessores de projetos cruzados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Para obter mais informações sobre predecessores entre projetos, consulte [Compreender os predecessores entre projetos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=pt-BR).
