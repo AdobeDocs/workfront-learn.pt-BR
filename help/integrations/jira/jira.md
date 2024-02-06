@@ -1,6 +1,6 @@
 ---
-title: Crie visibilidade com o [!DNL Jira] Integração
-description: Dê uma olhada em como o [!DNL Jira] A integração do pode criar visibilidade sobre o que sua equipe está fazendo.
+title: Criar visibilidade com a integração do  [!DNL Jira]
+description: Veja como a integração do  [!DNL Jira]  pode criar visibilidade sobre o que sua equipe está fazendo.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,40 +10,40 @@ team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '365'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crie visibilidade com o [!DNL Jira] Integração
+# Criar visibilidade com a integração do [!DNL Jira]
 
-[!DNL Jira]  O é um produto usado para rastrear projetos e problemas para equipes de desenvolvimento e suporte técnico. Embora muitas equipes usem o Jira para rastrear o progresso do nível da tarefa, elas usam [!DNL Workfront] para fazer um verdadeiro gerenciamento de projetos, pois eles podem obter uma visualização de progresso de alto nível. Com o [!DNL Jira]  integração nativa, essas informações podem ser transferidas automaticamente entre os dois aplicativos.
+O [!DNL Jira] é um produto usado para monitorar projetos e problemas para equipes de desenvolvimento e suporte técnico. Embora muitas equipes usem o Jira para monitorar o progresso em nível de tarefa, elas usam o [!DNL Workfront] para realizar um gerenciamento efetivo de projetos, pois ele oferece uma visão mais detalhada do progresso. Com a integração nativa do [!DNL Jira], essas informações podem ser transferidas automaticamente entre os dois aplicativos.
 
-## O que é o [!DNL Jira] ?
+## O que é o [!DNL Jira]?
 
-[!DNL Jira]  é um produto criado por [!DNL Atlassian] Acompanhar projetos e problemas de equipes de desenvolvimento e suporte técnico. Muitas equipes usam [!DNL Jira]  para rastrear o progresso no nível da tarefa, mas também usam [!DNL Workfront] para gerenciar projetos. Isso significa que as equipes duplicam seus esforços criando tarefas em [!DNL Workfront] e [!DNL Jira] . No entanto, com o [!DNL Jira]  integração nativa, esse tipo de informação pode ser transferido automaticamente entre os dois aplicativos.
+O [!DNL Jira] é um produto criado pela [!DNL Atlassian] para que equipes de desenvolvimento e suporte técnico possam monitorar projetos e problemas. Muitas equipes usam o [!DNL Jira] para monitorar o progresso em nível de tarefa, mas também usam o [!DNL Workfront] para gerenciar projetos. Isso representa um esforço duplicado, pois é necessário criar tarefas no [!DNL Workfront] e no [!DNL Jira]. No entanto, com a integração nativa do [!DNL Jira], esse tipo de informação pode ser transferido automaticamente entre os dois aplicativos.
 
-## Como posso instalar o Adobe Workfront para Jira?
+## Como instalar o Adobe Workfront para Jira?
 
-Ir para [Adobe Workfront para Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) para saber como instalar e configurar o Adobe Workfront para Jira.
+Acesse [Adobe Workfront para Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=pt-BR) para saber como instalar e configurar o Adobe Workfront para Jira.
 
-## O que pode um [!DNL Jira]  integração faz?
+## O que a integração com o [!DNL Jira] pode fazer?
 
-Aqui temos um sprint [!DNL Workfront] intitulado &quot;[!DNL Workfront] Story Spring.&quot;
+Aqui temos um sprint do [!DNL Workfront] intitulado “História de abertura do [!DNL Workfront]”.
 
 ![Gráfico de burndown do storyboard](assets/Jira01.png)
 
-Joan Harris, líder da equipe Agile do Dev-Jedi Council, usa o quadro de scrum e o gráfico de burndown como uma maneira de medir o progresso da velocidade geral. Ele dá à equipe uma boa representação visual do que está acontecendo. Além disso, essas informações estão sendo incluídas em um relatório executivo que é revisado a cada trimestre. No entanto, a maioria das equipes atualiza seus dados no [!DNL Jira] , não [!DNL Workfront].
+Joan Harris, líder da equipe Ágil do conselho para desenvolvedores Jedi, usa o quadro de scrum e o gráfico de burndown para medir o progresso de sprint geral. Isso proporciona à equipe uma representação visual clara do que está acontecendo. Além disso, essas informações são inseridas em um relatório executivo que é revisado trimestralmente. No entanto, a maioria das equipes atualiza seus dados no [!DNL Jira], não no [!DNL Workfront].
 
-A equipe de Joan tem usado [!DNL Jira]  por vários anos e acho que é uma boa maneira de rastrear tarefas individuais e/ou bugs em que foram designados para trabalhar. Mas Joan realmente precisa dessa informação para se conectar [!DNL Workfront] e, por fim, forneça esses relatórios executivos.
+A equipe de Joan tem usado o [!DNL Jira] há vários anos e o consideram um bom recurso para acompanhar tarefas individuais e/ou falhas nas quais precisam trabalhar. Mas Joan precisa dessa informação para se conectar ao [!DNL Workfront] e, por fim, gerar esses relatórios executivos.
 
-![Jira Storyboard](assets/Jira02.png)
+![Storyboard do Jira](assets/Jira02.png)
 
-Por meio da [!DNL Jira]  integração nativa, todas as atualizações feitas em tarefas, histórias ou bugs podem atualizar automaticamente as tarefas, histórias e/ou problemas no [!DNL Workfront].
+Através da integração nativa do [!DNL Jira], todas as alterações feitas em tarefas, histórias ou falhas são atualizadas automaticamente no [!DNL Workfront].
 
-Assim, quando o membro da equipe atribuído à matéria Revisar requisito de hardware fizer uma atualização do status no [!DNL Jira] , movendo-a de &quot;Novo&quot; para &quot;Em andamento&quot;, essa atualização alterará automaticamente o status da história no [!DNL Workfront] também.
+Assim, quando o membro da equipe atribuído à história Revisar requisito de hardware fizer uma atualização de status no [!DNL Jira], alterando-a de “Novo” para “Em andamento”, isso também atualizará automaticamente o status da história no [!DNL Workfront].
 
-![Página de status da Jira](assets/Jira03.png)
+![Página de status do Jira](assets/Jira03.png)
 
 ![Colunas de status](assets/Jira04.png)
