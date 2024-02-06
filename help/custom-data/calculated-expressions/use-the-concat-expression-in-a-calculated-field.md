@@ -1,6 +1,6 @@
 ---
-title: Use a expressão CONCAT em um campo calculado
-description: Saiba como usar a expressão CONCAT em um campo calculado em Adobe [!DNL Workfront].
+title: Usar a expressão CONCAT em um campo calculado
+description: Aprenda a usar a expressão CONCAT em um campo calculado no Adobe  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -12,13 +12,13 @@ jira: KT-8915
 exl-id: 25223b40-1fef-4ae1-8a9b-3235f88ec30f
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Use a expressão CONCAT em um campo calculado
+# Usar a expressão CONCAT em um campo calculado
 
 Neste vídeo, você aprenderá:
 
