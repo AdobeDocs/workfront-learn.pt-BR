@@ -1,6 +1,6 @@
 ---
-title: Acessar um Plano no [!UICONTROL Planejador de cenários]
-description: Saiba o que [!DNL  Workfront] as permissões do são necessárias para que os usuários acessem planos no [!UICONTROL Planejador de cenários].
+title: Acessar um plano no [!UICONTROL Planejador de cenários]
+description: Descubra quais  [!DNL  Workfront] permissões são necessárias para que os usuários acessem os planos no[!UICONTROL  Planejador de cenário].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,14 +11,14 @@ thumbnail: access-a-plan.png
 jira: KT-10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Acessar um plano na [!DNL Scenario Planner]
+# Acessar um plano no [!DNL Scenario Planner]
 
-Semelhante a um com projetos em [!DNL Workfront], mesmo que um usuário tenha recebido permissão em um nível de acesso para visualizar ou gerenciar um plano no [!DNL Workfront] [!UICONTROL Planejador de cenários], isso não significa que eles possam visualizar ou gerenciar cada plano incorporado ao sistema. Esse recurso depende de o criador do plano ter compartilhado o plano com ele e concedido permissão para exibir ou gerenciar o plano específico.
+Assim como acontece com projetos no [!DNL Workfront], mesmo que um usuário tenha recebido permissão em um nível de acesso para visualizar ou gerenciar um plano no [!UICONTROL Planejador de cenários] do [!DNL Workfront], isso não significa que esse usuário pode visualizar ou gerenciar todos os planos criados no sistema. Essa capacidade depende do criador do plano ter compartilhado o plano com os usuários e fornecido permissão para visualizar ou gerenciar esse plano específico.
 
-A grande diferença em relação aos planos é que os administradores do sistema não têm a capacidade de visualizar todos os planos criados no Workfront. Eles também precisarão ser compartilhados com eles.
+A grande diferença dos planos é que admins de sistema não têm a capacidade de ver todos os planos criados no Workfront. Os planos também precisam ser compartilhados com tais admins.
