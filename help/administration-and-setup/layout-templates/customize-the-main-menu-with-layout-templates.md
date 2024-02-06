@@ -1,6 +1,6 @@
 ---
-title: Personalize o [!UICONTROL Menu principal] com modelos de layout
-description: Saiba como usar um modelo de layout para personalizar o [!UICONTROL Menu principal].
+title: Personalizar o [!UICONTROL menu principal] com modelos de layout
+description: Saiba como usar um modelo de layout para personalizar o [!UICONTROL menu principal].
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,19 +12,19 @@ jira: KT-8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personalize o [!UICONTROL Menu principal] com modelos de layout
+# Personalizar o [!UICONTROL menu principal] com modelos de layout
 
 Neste vídeo, você aprenderá a:
 
-* Configurar o [!UICONTROL Menu principal]
-* Remover itens da [!UICONTROL Menu principal]
-* Adicionar itens à [!UICONTROL Menu principal]
+* Configurar o [!UICONTROL menu principal]
+* Remover itens do [!UICONTROL menu principal]
+* Adicionar itens no [!UICONTROL menu principal]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)
