@@ -11,9 +11,9 @@ jira: KT-11039
 thumbnail: KT11039.png
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,33 +23,33 @@ Saiba como usar as fórmulas do painel de mapeamento para manipular ou converter
 
 ## Visão geral do exercício
 
-Altere o nome do projeto, a data de início planejada e a prioridade dos exercícios de explicação Além do mapeamento básico, usando as fórmulas do painel de mapeamento.
+Altere o nome do projeto, a data de início planejada e a prioridade a partir dos exercícios do tutorial Além do mapeamento básico, que utilizam as fórmulas do painel de mapeamento.
 
-![Além da imagem básica de mapeamento 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![Além do mapeamento básico - Imagem 1](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
 
 ## Etapas a serem seguidas
 
-**Faça um clone de seu cenário de design de cenário inicial.**
+**Crie um design idêntico ao utilizado no cenário inicial.**
 
-1. Selecione a opção Clone à direita do design de cenário inicial na seção de cenário, conforme mostrado abaixo. Nomeie-o como &quot;Além do mapeamento básico&quot;.
+1. Selecione a opção Clonar à direita do design inicial na seção Cenário, conforme mostrado abaixo. Nomeie-o como “Além do mapeamento básico”.
 
-   ![Além da imagem básica de mapeamento 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
+   ![Além do mapeamento básico - Imagem 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
-   **Agora vamos usar o painel de mapeamento no módulo Criar projetos Workfront para configurar o nome do projeto, a data de início planejada e os campos de prioridade.**
+   **Agora vamos usar o painel de mapeamento no módulo Criar projetos do Workfront para configurar o nome do projeto, a data de início planejada e os campos prioritários.**
 
-1. Clique no módulo Criar projetos Workfront para editar as configurações. Usando o painel de mapeamento, altere o campo Nome para &quot;[Nome do Meu Projeto] por [Patrocinador].&quot;
+1. Clique no módulo Criar projetos do Workfront para editar as configurações. Usando o painel de mapeamento, altere o campo Nome para “[Nome do meu projeto] de [Patrocinador]”.
 
-   + A variável [Nome do Meu Projeto] é a coluna 1 do módulo Analisar CSV e [Patrocinador] é a coluna 6. A palavra &quot;by&quot; é simplesmente digitada entre os dois.
+   + O [Nome do meu projeto] é a coluna 1 do módulo Analisar CSV e o[ Patrocinador] é a coluna 6. A palavra “de” é apenas inserida entre as duas.
 
-1. Em seguida, vá para a Data de início planejada e use a fórmula addDays para adicionar 15 dias ao campo, conforme descrito no vídeo detalhado Beyond basic mapping.
-1. Localize o campo Prioridade e alterne o botão Mapa na parte superior direita do campo. O menu da lista de opções muda para um número. Crie uma declaração if para rotular um projeto como de alta prioridade (4) se a classificação de confiança do arquivo CSV for menor que 100, caso contrário, poderá ser Normal (2).
+1. Em seguida, vá para a data de início planejada e use a fórmula addDays para adicionar 15 dias ao campo, conforme descrito no tutorial em vídeo Além do mapeamento básico.
+1. Encontre o campo Prioridade e alterne o botão Mapa no canto superior direito do campo. O menu da lista de opções muda para um número. Crie uma instrução SE para rotular um projeto com prioridade Alta (4) se a classificação de confiança do arquivo CSV for inferior a 100; caso contrário, a prioridade pode ser Normal (2).
 
-   + A classificação de confiança está na Coluna 4.
+   + A classificação de confiança está na coluna 4.
 
-   **Neste ponto, o painel de mapeamento deve ter esta aparência:**
+   **A essa altura, o painel de mapeamento deve ter esta aparência:**
 
-   ![Além da imagem básica de mapeamento 3](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
+   ![Além do mapeamento básico - Imagem 3](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
 
-1. Clique em OK e, em seguida, clique em Executar uma vez.
-1. Encontre o projeto na instância do Workfront para garantir que tudo foi mapeado corretamente.
+1. Clique em OK e selecione Executar uma vez.
+1. Encontre o projeto na sua instância do Workfront para garantir que tudo foi mapeado corretamente.
 1. Salve seu cenário.
