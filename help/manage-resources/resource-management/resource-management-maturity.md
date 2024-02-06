@@ -1,6 +1,6 @@
 ---
 title: Maturidade do gerenciamento de recursos
-description: Saiba como instalar o Suplemento do Microsoft Outlook
+description: Saiba como instalar o complemento do Microsoft Outlook
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,43 +12,43 @@ jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Maturidade do gerenciamento de recursos
 
-Saber quais recursos estão disponíveis e quando em uma organização pode ser complicado e demorado. Há muitas partes móveis, atitudes e opiniões que podem turvar as águas.
+Saber quais recursos estão disponíveis dentro de uma organização (e quando) pode ser complicado e demorado. Existem muitos elementos, atitudes e opiniões que podem dificultar o processo.
 
-Muitas organizações decidem comprar um software de gerenciamento de recursos com todos os sinos e assobios pensando que resolverá todos os seus problemas de recursos. Isso geralmente resulta em mais partes móveis, detalhes mais profundos que os processos atuais não implicam e leva a menos pessoas usando o sistema que você adquiriu para resolver o problema.
+Muitas organizações decidem adquirir um software de gerenciamento de recursos com vários detalhes supérfluos, pensando que resolverá todos os problemas de recursos. Isso muitas vezes gera mais tarefas, atividades e envolve configurações mais complexas do que necessário para o processo atual, o que resulta em um menor número de pessoas utilizando o sistema que você adquiriu para resolver o problema.
 
-Então, como você destrói as necessidades de recursos para obter clareza sobre sua capacidade de recursos?
+Então, como descobrir quais são suas necessidades de recursos e entender tudo sobre sua capacidade atual?
 
-A primeira conclusão a ser alcançada é que seus problemas de recursos não serão resolvidos da noite para o dia ou em um mês. Aprender a entender e gerenciar seus recursos é uma habilidade que requer tempo e esforço para ser principal.
+A primeira constatação é que seus problemas de recursos não serão resolvidos da noite para o dia ou em um único mês. Aprender a compreender e gerenciar seus recursos é uma habilidade que demanda tempo e esforço para ser dominada.
 
-No entanto, alguns de vocês podem estar mais adiantados na jornada do domínio do gerenciamento de recursos do que pensam. Analise cada estágio do Modelo de maturidade de recursos e veja se você reconhece sua organização em um deles.
+No entanto, algumas pessoas podem estar mais adiantadas do que imaginam nessa jornada rumo ao domínio do gerenciamento de recursos. Observe cada estágio do modelo de Maturidade de recursos e veja se você reconhece sua organização em algum deles.
 
 ## Quatro estágios de maturidade do gerenciamento de recursos
 
 >[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on)
 
 
-## Aonde ir daqui
+## Para onde ir a partir daqui
 
-Você viu sua organização em uma dessas etapas? Se você fez, ótimo. Aqui, você pode começar a planejar o restante da jornada de gerenciamento de recursos.
+Você identificou sua organização em algum desses estágios? Se sim, ótimo. A partir daqui você pode começar a planejar o restante de sua jornada de gerenciamento de recursos.
 
-&lt;!Along with this learning path, you’ll find a guide, Resource maturity growth, that presents ideas on how to progress from one resource management stage to another.&gt;
+&lt;!Juntamente com este roteiro de aprendizagem, você verá o manual para o “Desenvolvimento da maturidade de recursos”, que apresenta ideias sobre como progredir de um estágio de gerenciamento de recursos para outro.&gt;
 
-Se não, não se preocupe. Mesmo com essas definições, pode ser complicado determinar exatamente onde você está.
+Se ainda não, não se preocupe. Mesmo com essas definições, pode ser complicado determinar exatamente onde você está.
 
-Tenha uma visão honesta e discuta onde você está atualmente com seus processos de gerenciamento de recursos. Endereçar e poder responder perguntas como:
+Realize uma análise honesta para determinar em que ponto se encontram seus processos de gerenciamento de recursos atuais. Você deve abordar e ser capaz de responder perguntas como:
 
-* Como rastrear a capacidade?
-* Quem rastreia a capacidade?
-* Os recursos humanos estão organizados e, em caso afirmativo, como?
-* Há uma ou várias pessoas dividindo recursos para o trabalho priorizado?
-* Como esse trabalho é priorizado?, etc.
+* Como monitoramos a capacidade?
+* Quem monitora a capacidade?
+* Nossos recursos humanos estão organizados? Se sim, como?
+* Os recursos para trabalhos prioritários são divididos entre uma ou mais pessoas?
+* Como esse trabalho é priorizado?, entre outras perguntas.
 
-Obtenha essas respostas e identifique em que estágio de maturidade de recursos sua organização está atualmente. Isso lhe dará um ponto de partida quando você pensar sobre como o gerenciamento de recursos deve funcionar para sua organização.
+Com base nas respostas a essas perguntas, identifique em que estágio de maturidade de recursos sua organização está atualmente. Isso lhe dará um ponto de partida para pensar sobre como o gerenciamento de recursos funcionará na sua organização.
