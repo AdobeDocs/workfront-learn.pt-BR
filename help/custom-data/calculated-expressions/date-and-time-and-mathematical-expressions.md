@@ -1,6 +1,6 @@
 ---
-title: Entender Data & hora e Expressões matemáticas
-description: Saiba quais são a data, hora e expressões matemáticas e quais estão disponíveis para uso ao criar dados personalizados no Adobe [!UICONTROL Workfront].
+title: Compreenda data e hora e expressões matemáticas
+description: Aprenda o que são data, hora e expressões matemáticas e quais estão disponíveis para uso ao criar dados personalizados no Adobe[!UICONTROL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -10,38 +10,38 @@ team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender Data &amp; hora e Expressões matemáticas
+# Compreenda data e hora e expressões matemáticas
 
 ## Expressões de data e hora
 
-As expressões de data e hora permitem puxar datas importantes para a frente dos seus relatórios, calcular automaticamente o número de dias úteis para concluir uma tarefa ou remover carimbos de data e hora da exibição quando não são necessários.
+As expressões de data e hora permitem que você coloque datas importantes em primeiro plano em seus relatórios, calcule automaticamente o número de dias úteis necessários para concluir uma tarefa ou remova as marcações de data e hora da visualização quando elas não forem necessárias.
 
-Ao observar as expressões de data e hora disponíveis, você encontrará várias opções disponíveis.
+Ao observar as expressões de data e hora disponíveis, você encontrará diversas opções disponíveis.
 
-![Expressões de data e hora de exemplo](assets/datetimeexpressions01.png)
+![Exemplos de expressões de data e hora](assets/datetimeexpressions01.png)
 
-Há dois conjuntos de expressões de data e hora usados com mais frequência pelo [!DNL Workfront] clientes:
+Existem dois conjuntos de expressões de data e hora usados com mais frequência pelos clientes do [!DNL Workfront]:
 
-* ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEARS e
+* ADDDAYS/ADDWEEKS/ADMONTHS/ADDYEARS e
 * DATEDIFF / WEEKDAYDIFF
 
 ## Expressões matemáticas
 
-Expressões matemáticas permitem [!DNL Workfront] fazer cálculos automaticamente, sejam eles simples ou complicados.
+Expressões matemáticas permitem que o [!DNL Workfront] faça cálculos automaticamente, sejam eles simples ou complicados.
 
-Ao observar as expressões de data e hora disponíveis, você descobrirá que tem várias opções disponíveis.
+Ao observar as expressões de data e hora disponíveis, você descobrirá que há várias opções disponíveis.
 
 ![Exemplos de expressões matemáticas](assets/datetimeexpressions02.png)
 
-Os clientes do Workfront geralmente usam esses dois conjuntos de expressões matemáticas:
+Os clientes do Workfront geralmente usam estes dois conjuntos de expressões matemáticas:
 
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>NOTA</b>: Para obter uma lista completa de expressões e mais informações sobre cada uma, consulte a página de documentação &quot;Expressões de dados calculadas&quot;.
+<b>OBSERVAÇÃO</b>: para obter uma lista completa de expressões e mais informações sobre cada uma delas, consulte a página de documentação &quot;Expressões de dados calculadas&quot;.
