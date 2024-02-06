@@ -1,6 +1,6 @@
 ---
-title: Explicação dos Lightboxes no Brand Connect
-description: Saiba como criar, usar, gerenciar, compartilhar e colaborar em um lighbox no Brand Connect de [!UICONTROL DAM DO WORKFRONT].
+title: Explicação sobre lightboxes no Brand Connect
+description: Saiba como criar, usar, gerenciar, compartilhar e colaborar em uma lightbox no Brand Connect do [!UICONTROL DAM do Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,24 +11,24 @@ jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Conexão da marca: lightboxes
+# Brand Connect: lightboxes
 
 Neste vídeo, você aprenderá a:
 
-* Use um lightbox para coletar ativos e facilitar o acesso
-* Criar um lightbox e adicionar arquivos
+* Usar uma lightbox para reunir ativos e facilitar o acesso
+* Criar uma lightbox e adicionar arquivos
 * Compartilhar uma lightbox
-* Assista e gerencie lightboxes
+* Monitorar e gerenciar lightboxes
 * Colaborar em uma lightbox
 
 >[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on)
 
-## Lightboxes versus pastas
+## Comparação entre lightboxes e pastas
 
-As pastas são usadas para armazenar e organizar ativos. Não é possível criar pastas no Brand Connect. Os Lightboxes permitem coletar links para ativos de diferentes pastas em um único local. Por exemplo, você pode usar um Lightbox para coletar ativos relacionados aos materiais publicitários de venda de inverno.
+As pastas são usadas para armazenar e organizar ativos. Não é possível criar pastas no Brand Connect. As lightboxes permitem coletar links que levam a ativos de diferentes pastas em um só lugar. Por exemplo, você pode usar uma lightbox para reunir ativos relacionados aos materiais da campanha publicitária de inverno.
