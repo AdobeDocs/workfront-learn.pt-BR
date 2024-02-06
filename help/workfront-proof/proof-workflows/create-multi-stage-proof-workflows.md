@@ -1,6 +1,6 @@
 ---
 title: Introdução aos fluxos de trabalho automatizados
-description: Saiba o que é um fluxo de trabalho de prova automatizado [!DNL  Workfront] e como ele é diferente de um fluxo de trabalho básico.
+description: Saiba o que é um fluxo de trabalho de prova automatizado no  [!DNL  Workfront]  e como ele difere de um fluxo de trabalho básico.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,19 +8,19 @@ level: Intermediate
 jira: KT-10164
 exl-id: f480db0a-0b78-41d1-bf99-634c6845f277
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Criar fluxos de trabalho de prova em vários estágios
+# Criar fluxos de trabalho de prova de vários estágios
 
-Os fluxos de trabalho de prova podem ser simples, com apenas alguns revisores e um único prazo. Ou podem ser mais complicados, com prazos múltiplos e pessoas olhando a prova em uma ordem específica.
+Os fluxos de trabalho de prova podem ser simples, com apenas alguns revisores e um único prazo. Mas também podem ser mais complicados, com vários prazos e pessoas analisando a prova em uma ordem específica.
 
-[!DNL Workfront] O tem dois tipos de workflows de prova: básicos e automatizados, às vezes chamados de avançados.
+O [!DNL Workfront] tem dois tipos de fluxos de trabalho de prova: básico e automatizado (às vezes chamado de avançado).
 
-Um fluxo de trabalho automatizado tem vários estágios, ou etapas, que precisam ser concluídos em uma determinada ordem. Cada estágio tem seu próprio conjunto de recipients (revisores e aprovadores), além de seu próprio prazo final.
+Um fluxo de trabalho automatizado apresenta vários estágios, ou etapas, que precisam ser concluídos em uma determinada ordem. Cada estágio tem seu próprio conjunto de destinatários (revisores e aprovadores), além de seu próprio prazo final.
 
 <!--
 Note by Chuck Middleton, 6-28-22:
