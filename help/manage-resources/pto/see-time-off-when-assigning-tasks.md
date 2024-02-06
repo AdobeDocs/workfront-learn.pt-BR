@@ -1,6 +1,6 @@
 ---
-title: Consulte folga ao atribuir tarefas
-description: Descubra como ver o tempo de folga do usuário ao tentar fazer atribuições de tarefas.
+title: Veja as folgas ao atribuir tarefas
+description: Descubra como ver as folgas do usuário ao tentar fazer atribuições de tarefas.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,20 +10,20 @@ team: Technical Marketing
 jira: KT-10182
 exl-id: 34058a8e-1a81-4833-b9e2-a9d3f2713efb
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Consulte folga ao atribuir tarefas
+# Veja as folgas ao atribuir tarefas
 
-Um ícone pequeno indica que um usuário tem uma folga marcada em seu calendário pessoal durante a duração da tarefa, quando você está atribuindo usuários.
+Um pequeno ícone indica que um usuário tem folga marcada em seu calendário pessoal durante a tarefa quando você está atribuindo usuários.
 
-Ao atribuir do plano de projeto digitando o nome de um usuário, você vê o nome dele esmaecido e um pequeno ícone de aviso azul ao lado da imagem do avatar.
+Ao atribuir a partir do plano do projeto, digitando o nome de um usuário, você verá o nome dele esmaecido e um pequeno ícone de aviso azul próximo à imagem do avatar.
 
 ![usuário esmaecido para pto](assets/toat_01.png)
 
-Se estiver fazendo uma atribuição a partir do cabeçalho da página de tarefas, você verá um pequeno ícone de avião azul ao lado do avatar da pessoa para alertá-lo de que ela tem uma folga durante a duração dessa tarefa.
+Se você estiver atribuindo a partir do cabeçalho da página de tarefas, verá um pequeno ícone de avião azul próximo ao avatar da pessoa para alertar que ela terá uma folga durante a tarefa.
 
-![atribuição de tarefa do usuário](assets/toat_02.png)
+![atribuição de tarefas a usuários](assets/toat_02.png)
