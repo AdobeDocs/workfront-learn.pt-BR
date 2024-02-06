@@ -1,6 +1,6 @@
 ---
 title: Introdução ao gerenciamento de um projeto
-description: Saiba o que é sua função como gerente de projeto e o que observar ao monitorar o trabalho do projeto.
+description: Saiba qual é a sua função como gerente de projeto e o que observar ao monitorar o trabalho do projeto.
 activity: use
 feature: Work Management
 thumbnail: 335094.jpeg
@@ -12,9 +12,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -27,20 +27,20 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
-## Gerenciar um projeto - analisar
+## Gerenciar um projeto - revisão
 
-Com cada projeto gerenciado, você se estabelecerá em uma rotina de quando revisar projetos e o que deseja revisar a cada vez. Manter-se a par de seus projetos e conduzi-los ao sucesso é o que significa ser um gerente de projeto.
+Em cada projeto gerenciado, você estabelecerá uma rotina de quando revisá-los e o que deseja revisar a cada vez. Manter o controle dos seus projetos e conduzi-los ao sucesso é o que significa ser um gerente de projetos.
 
-Cada gerente de projeto lida com seus projetos de forma um pouco diferente. E cada equipe, departamento ou organização pode ter requisitos e necessidades de projeto diferentes.
+Cada gerente de projeto lida com os projetos de maneira um pouco diferente. E cada equipe, departamento ou organização pode ter requisitos e necessidades de projeto diferentes.
 
-Mas não importa como você gerencia um projeto, convém:
+Mas não importa como você gerencia um projeto, você vai querer:
 
-* Garanta que o trabalho esteja sendo concluído no prazo.
+* Garantir que o trabalho esteja sendo concluído no prazo.
 * Antecipar problemas e riscos.
-* Comunique-se com as partes interessadas.
-* Comemore as vitórias ao longo do caminho.
+* Comunicar-se com as partes interessadas.
+* Comemorar as vitórias ao longo do caminho.
 
-Em última análise, seu principal trabalho é direcionar o projeto para a conclusão bem-sucedida. [!DNL Workfront] O pode ajudá-lo a monitorar o trabalho que está sendo feito por meio da linha do tempo do projeto; filtros, visualizações e agrupamentos; atualizações; relatórios... e muito mais.
+Em última análise, sua principal tarefa é conduzir o projeto até a conclusão bem-sucedida. O [!DNL Workfront] pode ajudar você a monitorar o trabalho que está sendo realizado ao longo da linha do tempo do projeto; filtros, visualizações e agrupamentos; atualizações; relatórios... e muito mais.
 
 <!---
 learn more urls
