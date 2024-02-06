@@ -1,6 +1,6 @@
 ---
-title: Entender atualizações e notificações
-description: Saiba como fazer atualizações nas solicitações de aprovação e encontrar suas notificações no Workfront.
+title: Entenda sobre as atualizações e notificações
+description: Saiba como atualizar as solicitações de aprovação e encontrar as notificações no Workfront.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8809
 exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender atualizações e notificações
+# Entenda sobre as atualizações e notificações
 
 Neste vídeo, você aprenderá a:
 
-* Faça suas próprias atualizações nas solicitações de aprovação
-* Localizar notificações do Workfront
+* Atualize manualmente suas solicitações de aprovação
+* Encontre as notificações do Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on)
 
