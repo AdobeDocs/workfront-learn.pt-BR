@@ -1,6 +1,6 @@
 ---
-title: Editar um fluxo de trabalho de prova
-description: Saiba como atualizar um prazo de prova, adicionar usuários a um fluxo de trabalho existente e alternar um fluxo de trabalho existente para um fluxo de trabalho automatizado no [!DNL  Workfront].
+title: Editar um fluxo de trabalho de revisão
+description: Saiba como atualizar um prazo de revisão, adicionar usuários a um fluxo de trabalho existente e mudar e automatizar um fluxo de trabalho no [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,19 +12,19 @@ jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Editar um fluxo de trabalho de prova
+# Editar um fluxo de trabalho de revisão
 
 Neste vídeo, você aprenderá a:
 
-* Atualizar o prazo da prova
+* Atualizar o prazo da revisão
 * Adicionar usuários a um fluxo de trabalho existente
-* Alternar um fluxo de trabalho existente para um fluxo de trabalho automatizado
+* Automatizar um fluxo de trabalho existente
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
@@ -32,10 +32,10 @@ Neste vídeo, você aprenderá a:
 
 >[!IMPORTANT]
 >
->Não se esqueça de lembrar a todos os colegas de trabalho atribuídos a um fluxo de trabalho de prova que você está trabalhando com provas como parte de seu treinamento do Workfront.
+>Não se esqueça de informar colegas de trabalho atribuídos a um fluxo de trabalho de prova que você está trabalhando com provas como parte do treinamento do Workfront.
 
-1. Encontre uma prova que você carregou no Workfront. Use a janela Fluxo de trabalho de revisão para fazer o seguinte: prolongue o prazo por um dia e altere um Revisor para um Revisor e Aprovador.
-1. Verifique se a prova tem um fluxo de trabalho automatizado atribuído e adicione um template à prova.
+1. Encontre uma prova que você carregou no Workfront. Use a janela “”Fluxo de trabalho de revisão” para adiar o prazo em um dia e alterar um “Revisor” para “Revisor e aprovador”.
+1. Certifique-se de que a prova tenha um fluxo de trabalho automatizado atribuído e adicione um modelo.
 
 
 
