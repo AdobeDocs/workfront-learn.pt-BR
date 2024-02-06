@@ -1,6 +1,6 @@
 ---
-title: Entender as configurações do relatório
-description: Saiba como acessar as configurações de relatório do Workfront e para que algumas configurações de relatório comuns são usadas.
+title: Entenda as configurações de relatório
+description: Saiba como acessar as configurações de relatório do Workfront e entenda para que algumas configurações de relatório comuns são usadas.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender as configurações do relatório
+# Entenda as configurações de relatório
 
 Neste vídeo, você aprenderá:
 
-* Como acessar as configurações do relatório
-* Para que algumas configurações comuns de relatório são usadas
+* Como acessar as configurações de relatório
+* Para que são usadas algumas configurações de relatório comuns
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)
