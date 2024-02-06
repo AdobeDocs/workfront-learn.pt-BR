@@ -1,6 +1,6 @@
 ---
-title: Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud
-description: Integre o Workfront com o Creative Cloud para encontrar e atualizar o trabalho atribuído a você no Workfront sem sair dos seguintes aplicativos Creative Cloud - Photoshop,, InDesign, Illustrator, XD e Premiere Pro After Effects
+title: Use plug-ins do Adobe Workfront para a integração com a Creative Cloud
+description: 'Integre o Workfront à Creative Cloud para encontrar e atualizar trabalhos atribuídos a você no Workfront sem sair dos seguintes aplicativos da Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro e After Effects'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -14,15 +14,15 @@ badgeIntegration: label="Integração" type="positive"
 feature-set: Workfront
 topic: Integrations
 source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Usar plug-ins do Adobe Workfront para integrar com o Creative Cloud
+# Use plug-ins do Adobe Workfront para a integração com a Creative Cloud
 
-Integre o Workfront com o Creative Cloud para encontrar e atualizar o trabalho atribuído a você no Adobe Workfront sem sair dos seguintes aplicativos da Adobe Creative Cloud:
+Integre o Workfront à Creative Cloud para encontrar e atualizar trabalhos atribuídos a você no Adobe Workfront sem sair dos seguintes aplicativos da Adobe Creative Cloud:
 
 * Photoshop
 * XD
@@ -31,24 +31,24 @@ Integre o Workfront com o Creative Cloud para encontrar e atualizar o trabalho a
 * Premiere Pro
 * After Effects
 
-Você deve instalar o plug-in correto para o aplicativo Adobe Creative Cloud que está usando:
+Você deve instalar o plug-in correto para o aplicativo da Adobe Creative Cloud que está utilizando:
 
-* Para o Photoshop, consulte [Instalar e abrir o Adobe Workfront para Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* Para XD, consulte [Instalar e abrir o Adobe Workfront para XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* Para InDesign, Illustrator, Premiere Pro e After Effects, consulte [Instalar e abrir o Adobe Workfront para design e vídeo](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* Para o Photoshop, consulte [Instalar e abrir o Adobe Workfront para Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=pt-BR)
+* Para o XD, consulte [Instalar e abrir o Adobe Workfront para XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=pt-BR)
+* Para o InDesign, Illustrator, Premiere Pro e After Effects, consulte [Instalar e abrir o Adobe Workfront para design e vídeo](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=pt-BR)
 
 >[!NOTE]
 >
->**Premiere Pro** e **After Effects** o upload de vídeo, a revisão e a aprovação no Workfront não estão disponíveis no momento por meio do plug-in.
+>Os recursos do **Premiere Pro** e **After Effects** para upload de vídeo, revisão e aprovação no Workfront não estão disponíveis para este plug-in no momento.
 
 
-Neste vídeo, você aprenderá a fazer o seguinte no aplicativo Creative Cloud:
+Neste vídeo, você aprenderá a utilizar o aplicativo da Creative Cloud para:
 
-* Encontre suas atribuições do Workfront
+* Encontrar suas atribuições do Workfront
 * Fazer upload de arquivos para o Workfront
 * Adicionar comentários e marcar membros da equipe
 * Solicitar aprovações de documentos
-* Fazer upload de provas e atribuir um fluxo de trabalho de prova
+* Fazer upload de provas e atribuir um fluxo de trabalho de revisão
 * Registrar de tempo
 * Marcar seu trabalho como concluído
 
