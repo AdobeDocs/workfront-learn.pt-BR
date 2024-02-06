@@ -1,5 +1,5 @@
 ---
-title: Criar filtros com curingas baseados no usuário
+title: Crie filtros com curingas baseados no usuário
 description: Saiba como usar curingas com base no usuário e como criar um filtro com base no usuário conectado.
 activity: use
 feature: Reports and Dashboards
@@ -12,46 +12,46 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Criar filtros com curingas baseados no usuário
+# Crie filtros com curingas baseados no usuário
 
 Neste vídeo, você aprenderá a:
 
-* Entender por que usar curingas
-* Criar um filtro com um curinga baseado no usuário
+* Entenda por que usar curingas
+* Crie um filtro com um curinga baseado no usuário
 
 >[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Use a origem e o nome do campo Usuários de atribuição >> ID ao criar filtros que observam informações de atribuição de tarefas ou problemas.  Essa opção analisa todos os usuários atribuídos à tarefa ou problema, não apenas o &quot;proprietário&quot; ou o responsável principal.
+>Use origem e nome do campo Usuários atribuídos >> ID, quando criar filtros que exibam uma informação de atribuição de tarefa ou problema.  Essa opção analisa todos os usuários atribuídos à tarefa ou problema, não apenas o “proprietário” ou responsável principal.
 
 >[!TIP]
 >
->Use o $$USER.ID (em vez do seu nome) mesmo ao criar filtros para si mesmo. Dessa forma, se alguém vir um filtro que você está executando e disser &quot;compartilhe isso comigo&quot;, o filtro já está configurado para que cada pessoa que o usa veja suas próprias informações.
+>Use $$USER.ID (em vez do seu nome) mesmo ao criar filtros para você mesmo. Dessa forma, se alguém vir um filtro que você está executando e disser “compartilhe isso comigo”, o filtro já está configurado para que cada pessoa que o utilizar veja as próprias informações.
 
 >[!TIP]
 >
->Você sempre deve usar o qualificador de filtro Igual ao usar curingas com base no usuário.
+>Você sempre deve usar o qualificador de filtro “Igual” ao usar curingas com base no usuário.
 
 ## Atividade
 
-Você tem um pouco de tempo extra esta semana, então você quer ver se há alguém na sua equipe que poderia usar alguma assistência em suas tarefas. Crie um filtro de tarefa para encontrar tarefas com vencimento nesta semana que ainda não foram concluídas.
+Você tem um pouco de tempo extra esta semana, então quer ver se há alguém em sua equipe que poderia precisar de ajuda nas tarefas. Crie um filtro de tarefas para encontrar tarefas para esta semana que ainda não foram concluídas.
 
-## Resposta
+## Responder
 
 Você é incrível por ajudar seus colegas de equipe! Com o filtro configurado como a imagem abaixo, você encontrará tarefas:
 
-* Que não foram concluídas (o que significa que não têm uma [!UICONTROL Concluído] status ou status que equivale a [!UICONTROL Concluído]);
-* Que estejam em projetos com uma [!UICONTROL Atual] status (afinal, você não quer encontrar tarefas para projetos que ainda não foram iniciados);
-* Que são atribuídos a alguém da sua equipe inicial, conforme definido pelas configurações da equipe do Workfront;
-* E que tenham uma data de conclusão em algum momento desta semana (essa regra usou o filtro de datas pré-criado para definir &quot;esta semana&quot;).
+* Que não foram concluídas (o que significa que elas não têm um status [!UICONTROL Concluído] ou que equivalha a [!UICONTROL Concluído]);
+* Que estejam em projetos com status [!UICONTROL Atual] (afinal, você não quer encontrar tarefas para projetos que ainda não foram lançados);
+* Que estejam atribuídas a alguém da sua equipe interna, conforme definido nas configurações de equipe do Workfront;
+* E que tenham uma data de conclusão para esta semana (esta regra usou o filtro de data pré-construído para definir “esta semana”).
 
 ![Uma imagem da tela para criar um filtro de tarefa com um curinga baseado no usuário](assets/user-wildcard-exercise-answer.png)
 
-Talvez seja necessário adicionar alguns filtros adicionais para limitar a lista um pouco mais. Por exemplo, você pode adicionar uma regra de filtro que procura um programa ou portfólio específico do qual sua equipe trabalha.
+Pode ser necessário adicionar alguns filtros adicionais se precisar limitar um pouco mais a lista. Por exemplo, você pode querer adicionar uma regra de filtro que analise um programa ou portfólio específico no qual sua equipe trabalha.
