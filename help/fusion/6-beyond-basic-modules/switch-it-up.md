@@ -1,6 +1,6 @@
 ---
-title: Mudar para cima
-description: Saiba o que são funções de switch e módulos de switch e quando usar uma função de switch em comparação a um módulo de switch no [!DNL Adobe Workfront Fusion].
+title: Alternar
+description: Saiba o que são funções e módulos de comutação e quando usar uma função de comutação versus um módulo de comutação no [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,15 +13,15 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Mudar para cima
+# Alternar
 
 Neste vídeo, você aprenderá:
 
-* O que são funções e módulos de switch e como eles diferem
-* Quando usar uma função de comutação vs um módulo de comutação
+* O que são funções e módulos de comutação e como eles diferem
+* Quando usar uma função de comutação versus um módulo de comutação
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

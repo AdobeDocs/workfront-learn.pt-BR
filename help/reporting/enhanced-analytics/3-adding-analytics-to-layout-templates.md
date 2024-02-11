@@ -1,6 +1,6 @@
 ---
 title: Adicionar análises aos modelos de layout
-description: Saiba como os administradores de sistema e grupo concedem acesso ao Analytics.
+description: Saiba como os administradores de sistemas e grupos concedem acesso à análise.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c1062c7f19c623a149710a13d2b980f45b117147
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

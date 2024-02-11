@@ -1,6 +1,6 @@
 ---
-title: Criar uma exibição básica
-description: Saiba o que é uma visualização, como criá-la e como compartilhá-la com outros usuários no Workfront.
+title: Criar uma visualização básica
+description: Aprenda o que é uma visualização e como criá-la e compartilhá-la com outros usuários no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -15,11 +15,11 @@ doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
 source-wordcount: '826'
-ht-degree: 1%
+ht-degree: 86%
 
 ---
 
-# Criar uma exibição básica
+# Criar uma visualização básica
 
 Neste vídeo, você aprenderá:
 
@@ -29,105 +29,105 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Atividade 1: criar uma exibição de status de tarefa
+## Atividade 1: criar uma visualização do status da tarefa
 
-Como gerente de projeto, líder de equipe ou gerente de recursos, você deseja acompanhar o andamento do trabalho da tarefa. Com essa visualização, você obtém vários indicadores de status de uma tarefa em uma linha da lista ou do relatório.
+Como gerente de projeto, líder de equipe ou gerente de recursos, você deseja acompanhar o andamento das tarefas que estão sendo realizadas. Com essa visualização, você pode observar vários indicadores de status de uma tarefa em uma linha da lista ou do relatório.
 
-Crie uma exibição de tarefa chamada &quot;Exibição do status da tarefa&quot; com as seguintes colunas:
+Crie uma visualização de tarefas chamada “Visualização de status da tarefa” com as seguintes colunas:
 
 * [!UICONTROL Nome da tarefa]
 * [!UICONTROL Atribuições]
 * [!UICONTROL Duração]
-* [!UICONTROL Percentual Completo]
+* [!UICONTROL Percentual concluído]
 * [!UICONTROL Status]
-* [!UICONTROL Status do progresso]
+* [!UICONTROL Status do Progresso]
 * [!UICONTROL Ícones de Status]
 
-## Resposta da Atividade 1
+## Resposta da atividade 1
 
-![Uma imagem da tela para criar uma exibição de status de tarefa](assets/view-exercise.png)
+![Uma imagem da tela de criação de uma visualização do status da tarefa](assets/view-exercise.png)
 
-1. Em um relatório de lista de tarefas, vá para a **[!UICONTROL Exibir]** e selecione **[!UICONTROL Nova visualização]**.
-1. Nomeie sua exibição como &quot;Exibição do status da tarefa&quot;.
-1. Remover estas colunas: [!UICONTROL Horas planejadas], [!UICONTROL Predecessores], [!UICONTROL Início em], e [!UICONTROL Prazo final].
+1. Em um relatório de lista de tarefas, acesse o menu suspenso **[!UICONTROL Visualização]** e selecione **[!UICONTROL Nova visualização]**.
+1. Nomeie sua visualização como “Visualização do status da tarefa”.
+1. Remova estas colunas: [!UICONTROL Horas planejadas], [!UICONTROL Predecessores], [!UICONTROL Data de início] e [!UICONTROL Data de expiração]. 
 1. Clique em **[!UICONTROL Adicionar coluna]**.
-1. No [!UICONTROL Mostrar nesta coluna] digite &quot;status&quot; e selecione &quot;Status&quot; na caixa suspensa [!UICONTROL Tarefa] origem do campo.
+1. No campo [!UICONTROL Exibir nesta coluna], digite “status” e selecione a opção “Status” na origem do campo [!UICONTROL Tarefa].
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
-1. No [!UICONTROL Mostrar nesta coluna] digite &quot;status&quot; e selecione &quot;Status do progresso&quot; na caixa [!UICONTROL Tarefa] origem do campo.
+1. No campo [!UICONTROL Exibir nesta coluna], digite “status” e selecione a opção “Status do progresso” na origem do campo [!UICONTROL Tarefa].
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
-1. No [!UICONTROL Mostrar nesta coluna] digite &quot;status&quot; e depois selecione &quot;Ícones de Status&quot; na origem do campo Tarefa.
+1. No campo [!UICONTROL Exibir nesta coluna], digite “status” e selecione “Ícones de status” na origem do campo Tarefa.
 1. Clique em **[!UICONTROL Salvar]**.
 
-Passe o mouse sobre cada um dos ícones no [!UICONTROL Ícones de Status] para ver o que eles representam. Se estiverem esmaecidos, significa que a tarefa não tem notas, documentos, processos de aprovação etc. Se um ícone for exibido em cores, há pelo menos um desse item associado à tarefa. Você pode clicar nos ícones de nota ou documento para ir para esse item.
+Passe o mouse sobre cada um dos ícones na coluna [!UICONTROL Ícones de status] para ver o que eles representam. Se estiverem esmaecidos, significa que a tarefa não tem notas, documentos, processos de aprovação etc. Se um ícone aparecer em cores, há pelo menos um desse item associado à tarefa. Você pode clicar nos ícones da nota ou do documento para acessá-los.
 
-## Atividade 2: criar uma visualização de etapa
+## Atividade 2: criar uma visualização de marcos
 
-Se você usa marcos, essa exibição é a maneira mais fácil de ver marcos por nome e adicioná-los ou editá-los usando a edição em linha.
+Se você usa marcos, essa visualização é a maneira mais fácil de encontrá-los por nome e adicioná-los ou editá-los usando a edição em linha.
 
-Crie uma visualização de tarefa chamada &quot;Visualização de marco&quot; com as seguintes colunas:
+Crie uma visualização de tarefas chamada “Visualização de marcos” com as seguintes colunas:
 
 * [!UICONTROL Nome da tarefa]
 * [!UICONTROL Atribuições]
 * [!UICONTROL Duração]
 * [!UICONTROL Horas planejadas]
-* [!UICONTROL Etapa: Nome]
+* [!UICONTROL Marco: nome]
 * [!UICONTROL Início em]
-* [!UICONTROL Prazo final]
-* [!UICONTROL Percentual Completo]
+* [!UICONTROL Concluir em]
+* [!UICONTROL Percentual concluído]
 
 
-## Resposta da Atividade 2
+## Resposta da atividade 2
 
-![Uma imagem da tela para criar uma visualização de marco](assets/view-milestone-exercise-1.png)
+![Uma imagem da tela de criação de uma visualização de marco](assets/view-milestone-exercise-1.png)
 
-1. Em uma lista de tarefas de projeto, vá para a **[!UICONTROL Exibir]** e selecione **[!UICONTROL Nova visualização]**.
-1. Nomeie sua visualização como &quot;Visualização de marco&quot;.
-1. Clique no link [!UICONTROL Predecessores] para selecioná-la.
-1. No [!UICONTROL Mostrar nesta coluna] clique no ícone X na caixa [!UICONTROL Tarefa >> Predecessoras] e digite &quot;[!UICONTROL nome da etapa]&quot; e clique em &quot;[!UICONTROL Nome]&quot; na lista.
+1. Em uma lista de tarefas do projeto, acesse o menu suspenso **[!UICONTROL Visualização]** e selecione **[!UICONTROL Nova visualização]**.
+1. Nomeie sua visualização como “Visualização de marco”.
+1. Clique na coluna [!UICONTROL Predecessores] para selecioná-la.
+1. No campo [!UICONTROL Exibir nesta coluna], clique no ícone de X no campo [!UICONTROL Tarefa >> Predecessores] e digite o “[!UICONTROL nome do marco]” e clique no “[!UICONTROL  Nome]” na lista.
 1. Clique em **[!UICONTROL Salvar]**.
 
-![Imagem de uma lista de tarefas usando uma exibição de marco](assets/view-milestone-exercise-2.png)
+![Uma imagem de uma lista de tarefas usando uma visualização de marcos](assets/view-milestone-exercise-2.png)
 
-## Atividade 3: criar uma exibição de tipos de duração e restrições de tarefa
+## Atividade 3: criar uma visualização de tipos de duração e restrições de tarefas
 
-Essa visualização permitirá examinar e editar todos os tipos de durações e restrições de tarefa no projeto.
+Essa visualização permitirá examinar e editar todos os tipos de duração e restrições de tarefa no projeto.
 
-Crie uma exibição de tarefa chamada &quot;Tipos de duração e exibição de restrições de tarefa&quot; com as seguintes colunas:
+Crie uma visualização de tarefas chamada “Visualização de tipos de duração e restrições de tarefas” com as seguintes colunas:
 
 * [!UICONTROL Nome da tarefa]
 * [!UICONTROL Atribuições]
 * [!UICONTROL Duração]
-* [!UICONTROL Duração planejada]
+* [!UICONTROL Duração Planejada]
 * [!UICONTROL Horas planejadas]
-* [!UICONTROL Predecessores]
+* [!UICONTROL Predecessoras]
 * [!UICONTROL Início em]
-* [!UICONTROL Prazo final]
+* [!UICONTROL Concluir em]
 * [!UICONTROL Tipo de Duração]
 * [!UICONTROL Restrição de Tarefa]
 * [!UICONTROL Data de Restrição]
 
-Altere o [!UICONTROL Formato do campo] no [!UICONTROL Início em] e [!UICONTROL Prazo final] para exibir a data e a hora.
+Mude o [!UICONTROL Formato do campo] nas colunas [!UICONTROL Data de início] e [!UICONTROL Data de expiração] para exibir a data e a hora.
 
-## Resposta da Atividade 3
+## Resposta da atividade 3
 
-![Uma imagem da tela mostrando os tipos de duração e a exibição de restrições de tarefa](assets/view-activity-3.png)
+![Uma imagem da tela mostrando a visualização dos tipos de duração e as restrições da tarefa](assets/view-activity-3.png)
 
-1. Em uma lista de tarefas de projeto, vá para a **[!UICONTROL Exibir]** e selecione **[!UICONTROL Nova visualização]**.
-1. Nomeie sua exibição como &quot;Tipos de duração e exibição de restrições de tarefa&quot;.
-1. Remova o [!UICONTROL % concluído] coluna.
+1. Em uma lista de tarefas do projeto, acesse o menu suspenso **[!UICONTROL Visualização]** e selecione **[!UICONTROL Nova visualização]**.
+1. Nomeie sua visualização como “Visualização de tipos de duração e restrições de tarefa”.
+1. Remova a coluna [!UICONTROL % concluído].
 1. Clique em **[!UICONTROL Adicionar coluna]**.
-1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;duration&quot;] e selecione [!UICONTROL &quot;Duração planejada&quot;] no [!UICONTROL Tarefa] origem do campo.
-1. Mova esta coluna entre as colunas [!UICONTROL Duração] e a variável [!UICONTROL Horas planejadas] colunas.
+1. No campo [!UICONTROL Exibir nesta coluna], digite [!UICONTROL “duração”] e selecione [!UICONTROL “Duração planejada”] na origem do campo [!UICONTROL Tarefa].
+1. Mova esta coluna entre as colunas [!UICONTROL Duração] e [!UICONTROL Horas planejadas].
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
-1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;duration type&quot;] e selecione [!UICONTROL &quot;Tipo de duração&quot;] no [!UICONTROL Tarefa] origem do campo.
+1. No campo [!UICONTROL Exibir nesta coluna], digite [!UICONTROL “tipo de duração”] e selecione [!UICONTROL “Tipo de duração”] na origem do campo [!UICONTROL Tarefa].
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
-1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;restrição&quot;] e selecione [!UICONTROL &quot;Restrição de tarefa&quot;] na origem do campo Task.
+1. No campo [!UICONTROL Exibir nesta coluna], digite [!UICONTROL “restrição”] e selecione [!UICONTROL “Restrição de tarefa”] na origem do campo Tarefa.
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
-1. No [!UICONTROL Mostrar nesta coluna] campo, tipo [!UICONTROL &quot;restrição&quot;] e selecione [!UICONTROL &quot;Data de restrição&quot;] na origem do campo Task.
-1. Selecione o [!UICONTROL Início em] e clique em [!UICONTROL Opções avançadas].
-1. No [!UICONTROL Formato do campo] seleção suspensa [!UICONTROL &quot;17/10/60 3:00&quot;].
-1. Selecione o [!UICONTROL Prazo final] e clique em [!UICONTROL Opções avançadas].
-1. No [!UICONTROL Formato do campo] seleção suspensa [!UICONTROL &quot;17/10/60 3:00&quot;].
+1. No campo [!UICONTROL Exibir nesta coluna], digite [!UICONTROL “restrição”] e selecione [!UICONTROL “Data da restrição”] na origem do campo Tarefa.
+1. Selecione a coluna [!UICONTROL Data de início] e clique em [!UICONTROL Opções avançadas].
+1. No menu suspenso [!UICONTROL Formato do campo], selecione [!UICONTROL “17/10/60 3h00”].
+1. Selecione a coluna [!UICONTROL Data de expiração] e clique em [!UICONTROL Opções avançadas].
+1. No menu suspenso [!UICONTROL Formato do campo], selecione [!UICONTROL “17/10/60 3h00”].
 1. Clique em **[!UICONTROL Salvar]**.
 
 ## Atividade 4: criar uma exibição de status ativa do modelo de projeto
@@ -146,7 +146,7 @@ Crie uma exibição de modelo de projeto chamada &quot;Status padrão+ativo&quot
 * [!UICONTROL Está ativo]
 
 
-## Resposta da Atividade 4
+## Resposta da atividade 4
 
 ![Uma imagem da tela para mostrar um modo de exibição de status ativo do modelo de projeto](assets/view-activity-4.png)
 

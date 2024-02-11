@@ -1,6 +1,6 @@
 ---
-title: Prática recomendada - Business Case e Portfolio Otimizer
-description: Antes de mudar para uma metodologia ágil, consulte alguns conselhos e perguntas a serem feitas.
+title: 'Prática recomendada: Business Case e Otimizador de portfólios'
+description: Antes de mudar para uma metodologia ágil, leia alguns conselhos e perguntas a serem feitas.
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
@@ -9,28 +9,28 @@ exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 75%
 
 ---
 
-# Prática recomendada - Business Case e Portfolio Otimizer
+# Prática recomendada: Business Case e Otimizador de portfólios
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, primeiro você encontrará uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem se aprofundar nos detalhes do “porquê”.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
+A seção “Por que essas práticas recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
-## Práticas recomendadas para Business Case e Portfolio Otimizer
+## Práticas recomendadas do Business Case e do Otimizador de portfólios
 
 * Use o Business Case antes ou no início do seu projeto.
 
@@ -39,17 +39,17 @@ O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
 Use o Business Case antes ou no início do seu projeto.
 
-**Aqui está o porquê**
+**Entenda o porquê**
 
-Usar um business case antes do início do projeto, ou mesmo no início do projeto, permite que você realmente antecipe o que o projeto precisará — recursos (humanos e não humanos), orçamento, prazo — e como atenuar possíveis riscos que podem ocorrer antes que eles aconteçam.
+A utilização de um Business Case antes do início do projeto, ou mesmo no início do projeto, permite que você realmente antecipe o que o projeto precisará, recursos (humanos e não humanos), orçamento, período, e como mitigar quaisquer riscos potenciais antes que eles aconteçam.
 
-Ele também oferece a oportunidade de mostrar às partes interessadas como seu projeto contribui para as metas departamentais, regionais e/ou da empresa.
+Também dá a oportunidade de mostrar às partes interessadas como o seu projeto contribui para as metas do departamento, da região e/ou da empresa.
 
 Para obter instruções sobre como usar o Business Case, consulte [Entender o business case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
@@ -60,7 +60,7 @@ Para obter instruções sobre como usar o Business Case, consulte [Entender o bu
 
 Estime e ajuste informações importantes do projeto, como custo, alinhamento, valor líquido, risco e ROI no Business Case.
 
-**Aqui está o porquê**
+**Entenda o porquê**
 
 Certificar-se de que essas informações estejam o mais próximo possível do que o projeto &quot;real&quot; implicará permite usar com precisão o recurso de pontuação no Otimizador de Portfolio para determinar a prioridade dos projetos listados. O Portfolio Otimizer é uma ótima ferramenta para garantir que seus projetos sejam priorizados com eficiência e estejam alinhados à estratégia e ao valor de sua empresa.
 

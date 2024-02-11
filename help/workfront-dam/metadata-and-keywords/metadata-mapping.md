@@ -1,6 +1,6 @@
 ---
-title: Configurar mapeamento de metadados
-description: Saiba como configurar o mapeamento de metadados para [!UICONTROL DAM DO WORKFRONT].
+title: Configurar o mapeamento de metadados
+description: Saiba como configurar o mapeamento de metadados para o [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -12,39 +12,39 @@ exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configurar mapeamento de metadados
+# Configurar o mapeamento de metadados
 
-[!DNL Workfront]As informações relacionadas ao sobre um ativo podem ser transferidas do [!DNL Workfront] em [!UICONTROL DAM DO WORKFRONT] com o ativo. A opção de mapeamento de metadados no [!DNL Workfront] [!UICONTROL Configuração] permite essa transferência de informações.
+Informações relacionadas ao [!DNL Workfront] sobre um ativo podem ser transferidas do [!DNL Workfront] para o [!UICONTROL Workfront DAM] com o ativo. A opção de mapeamento de metadados na área [!UICONTROL Configuração] do [!DNL Workfront] permite essa transferência de informações.
 
-Fale com o seu [!DNL Workfront] consultor do para práticas recomendadas de configuração do mapeamento de metadados.
+Fale com o seu consultor do [!DNL Workfront] para saber quais são as práticas recomendadas para a configuração do mapeamento de metadados.
 
-Você deve ser um [!DNL Workfront] administrador e um [!UICONTROL DAM DO WORKFRONT] administrador para configurar o mapeamento de metadados. Antes de começar, você deve conectar seu [!DNL Workfront] e [!UICONTROL DAM DO WORKFRONT] contas.
+Você precisa ser a pessoa responsável pela administração do [!DNL Workfront] e do [!UICONTROL Workfront DAM] para configurar o mapeamento de metadados. Antes de começar, você precisa conectar as suas contas do [!DNL Workfront] e do [!UICONTROL Workfront DAM].
 
 ## Conectar contas
 
-1. Efetue logon no [!DNL Workfront].
-1. Abra um projeto, tarefa ou problema e clique no botão **[!UICONTROL Documentos]** guia.
-1. Clique em **[!UICONTROL Adicionar novo]** e selecione **[!UICONTROL Do DAM do Workfront]** no menu suspenso.
-1. Insira seu nome de logon e senha na [!UICONTROL DAM DO WORKFRONT] que aparece.
-1. Clique em **[!UICONTROL Sim]** para dar [!DNL Workfront] acesso à [!UICONTROL DAM] conta.
-1. Se necessário, atualize a página para atualizar o acesso ao [!UICONTROL DAM DO WORKFRONT].
+1. Faça logon no [!DNL Workfront].
+1. Abra um projeto, tarefa ou problema, e clique na guia **[!UICONTROL Documentos]**.
+1. Clique no botão **[!UICONTROL Adicionar novo]** e selecione **[!UICONTROL Do Workfront DAM]** no menu suspenso.
+1. Digite o seu nome de logon e senha na caixa de autorização do [!UICONTROL Workfront DAM] que aparece.
+1. Em seguida, clique em **[!UICONTROL Sim]** para dar ao [!DNL Workfront] acesso à conta do [!UICONTROL DAM].
+1. Se necessário, atualize a página para atualizar o acesso ao [!UICONTROL Workfront DAM].
 
-Com essa conexão estabelecida, agora é possível começar a mapear metadados entre os dois sistemas. Verifique se você já criou os campos de metadados necessários no [!UICONTROL DAM DO WORKFRONT] antes de iniciar o mapeamento.
+Com essa conexão estabelecida, agora você pode começar a mapear metadados entre os dois sistemas. Certifique-se de já ter criado os campos de metadados necessários no [!UICONTROL Workfront DAM] antes de começar a mapear.
 
 ## Configurar o mapeamento
 
-1. Efetue logon no [!DNL Workfront].
-1. Selecionar **[!UICONTROL Configuração]** do [!UICONTROL Menu principal].
-1. Expanda a **[!UICONTROL Documentos]** no menu do painel esquerdo.
-1. Depois clique em **[!UICONTROL Mapeamento de metadados]**.
-1. No campo Workfront, digite a origem do campo do [!DNL Workfront] para mapear.
-1. Em seguida, selecione o target ou correspondente **[!UICONTROL DAM DO WORKFRONT]** campo de metadados.
-1. Clique em **[!UICONTROL Adicionar mapeamento]** botão.
-1. Você verá o [!UICONTROL Origem do campo Workfront] e [!UICONTROL Campo alvo do Workfront DAM] no gráfico na parte inferior da janela.
+1. Faça logon no [!DNL Workfront].
+1. Selecione **[!UICONTROL Configuração]** no [!UICONTROL Menu principal].
+1. Expanda a seção **[!UICONTROL Documentos]** no menu do painel esquerdo.
+1. Então, clique em **[!UICONTROL Mapeamento de metadados]**.
+1. No campo do Workfront, digite a origem do campo do [!DNL Workfront] a ser mapeado.
+1. Em seguida, selecione o campo de metadados correspondente ou de destino do **[!UICONTROL Workfront DAM]**.
+1. Clique no botão **[!UICONTROL Adicionar mapeamento]**.
+1. Você verá a [!UICONTROL Origem do campo do Workfront] e o [!UICONTROL Campo de destino do Workfront DAM] no gráfico exibido na parte inferior da janela.
 1. Repita o procedimento para todos os campos de metadados desejados.
 
-![Uma captura de tela do [!UICONTROL Mapeamento de metadados] tela em [!DNL Workfront]](assets/01-metadata-mapping.png)
+![Uma captura de tela da tela [!UICONTROL Mapeamento de metadados] no [!DNL Workfront]](assets/01-metadata-mapping.png)

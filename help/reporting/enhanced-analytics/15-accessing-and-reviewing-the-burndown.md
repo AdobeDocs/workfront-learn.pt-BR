@@ -14,36 +14,36 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 90%
 
 ---
 
-# Entender como acessar e revisar o burndown
+# Entenda como acessar e revisar o gráfico de burndown
 
 Neste vídeo, você aprenderá:
 
 * Como acessar o gráfico de burndown
-* Como entender a relação entre as horas restantes, a condição do projeto e a velocidade em um projeto
+* Como entender a relação entre as horas restantes, a condição e a velocidade de um projeto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on)
 
-## Rastrear a velocidade do projeto
+## Monitorar a velocidade do projeto
 
-O gráfico de burndown permite entender a relação entre as horas restantes, a condição do projeto e a velocidade. A linha sólida mostra as horas gastas no projeto ao longo do tempo, bem como a condição do projeto a cada dia. A linha tracejada—que mostra a velocidade planejada desde a data de início até a data de conclusão planejada—ajusta-se à medida que as datas das tarefas são alteradas.
+O gráfico de burndown permite entender a relação entre as horas restantes, a condição e a velocidade do projeto. A linha sólida mostra as horas gastas no projeto ao longo do tempo, bem como a condição do projeto a cada dia. A linha tracejada, que mostra a velocidade planejada desde a data inicial até a data de conclusão planejada, se ajusta à medida que as datas das tarefas são alteradas.
 
-Ver essas informações ajuda a determinar:
+Essas informações ajudam a determinar:
 
-* Como os problemas que surgiam (trabalho não planejado) afetavam o trabalho planejado.
-* Quais eventos estenderam seu projeto além da data planejada de conclusão.
+* Como os problemas (trabalho não planejado) afetaram o trabalho planejado.
+* Quais eventos prolongaram seu projeto além da data de conclusão planejada.
 
-![Uma imagem que mostra um gráfico de burndown com números em áreas descritas nos marcadores abaixo](assets/section-2-9.png)
+![Uma imagem mostrando um gráfico de burndown com números nas áreas descritas nos marcadores abaixo](assets/section-2-9.png)
 
 No gráfico, você pode ver:
 
 1. Número de horas à esquerda.
-1. As datas são exibidas na parte inferior, incluindo a data de conclusão planejada do projeto se aparecer no intervalo de datas selecionado.
-1. A linha azul sólida mostra a velocidade do projeto (as horas planejadas ou a duração ao longo do tempo), transformando-se em uma linha vertical tracejada quando atingir a data de conclusão planejada para o projeto.
-1. As linhas verdes indicam quando a condição do projeto é No destino.
-1. As linhas laranjas indicam quando a condição do projeto é Em Risco.
-1. As linhas vermelhas indicam quando a condição do projeto é Com problema.
+1. As datas são exibidas na parte inferior, incluindo a data de conclusão planejada do projeto se ela aparecer no intervalo de datas selecionado.
+1. A linha azul sólida mostra a velocidade do projeto (sejam as horas planejadas ou a duração ao longo do tempo); ela se transforma em uma linha vertical tracejada quando atinge a data de conclusão planejada do projeto.
+1. As linhas verdes indicam quando a condição do projeto está “Na meta”.
+1. As linhas laranja indicam quando a condição do projeto está “Em risco.”.
+1. As linhas vermelhas indicam quando a condição do projeto está “Com problemas”.
 1. Informações sobre tarefas e horas (totais, quantidade adicionada e quantidade concluída) em um dia específico são exibidas abaixo do eixo x ao clicar em um ponto específico no gráfico.

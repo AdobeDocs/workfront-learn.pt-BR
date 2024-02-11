@@ -1,5 +1,5 @@
 ---
-title: Entenda as ações - passe o mouse, clique e arraste e clique em
+title: 'Entenda as ações: passar o mouse, clicar e arrastar e clicar'
 description: Saiba como obter mais informações passando o cursor do mouse sobre um gráfico, criando um período em um gráfico e fazendo com que gráficos adicionais apareçam, tudo em [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
@@ -14,42 +14,42 @@ doc-type: video
 source-git-commit: c1fd3897fad6e369a98c4fc904133ff99bf36925
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 91%
 
 ---
 
-# Entenda as ações - passe o mouse, clique e arraste e clique em
+# Entenda as ações: passar o mouse, clicar e arrastar e clicar
 
 Neste vídeo, você aprenderá:
 
 * Como obter mais informações passando o mouse sobre um gráfico
 * Criar um período em um gráfico
-* Como fazer com que gráficos adicionais apareçam
+* Como exibir gráficos adicionais
 
 >[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
 
 ## Clique em um gráfico para obter mais informações
 
-Clicar em determinadas partes de um gráfico revela gráficos adicionais ou um detalhamento das informações do gráfico.
+Clicar em determinadas partes de um gráfico revela gráficos adicionais ou mostra um detalhamento das informações do gráfico.
 
-* **Plano de voo**—Clique no nome do projeto para ver os gráficos de Burndown e Tarefas em andamento.
-* **Atividade do projeto**—Clique no nome do projeto para expandir o gráfico e ver a atividade do projeto por usuário.
-* **Mapa de árvore do projeto**—Clique em uma caixa de projeto para obter o Burndown e Tarefas em gráficos de voo.
-* **Atividade por equipe**—Clique no nome da equipe para expandir o gráfico e ver a atividade por usuário.
-* **Capacidade de recursos**—Clique no nome do grupo para ver o gráfico Capacidade do grupo.
+* **Plano de andamento**: clique no nome do projeto para ver os gráficos de Burndown e de Tarefas em andamento.
+* **Atividades do projeto**: clique no nome do projeto para expandir o gráfico e ver as atividades do projeto por usuário.
+* **Mapa de árvore do projeto**: clique em uma caixa de projeto para exibir os gráficos de Burndown e de Tarefas em andamento.
+* **Atividades por equipe**: clique no nome da equipe para expandir o gráfico e ver as atividades por usuário.
+* **Capacidade de recursos**: clique no nome da equipe para ver o gráfico de capacidade da equipe.
 
-## O que significa uma sombra mais escura e mais clara quando se trata de atividade de equipe?
+## O que representa uma sombra mais escura e mais clara nas atividades de equipe?
 
-**Usuários logados:** Caixas roxas mostram que as pessoas da equipe doméstica fizeram logon naquele dia. Um tom mais escuro indica um número maior de pessoas fazendo logon.
+**Usuários conectados:** as caixas roxas mostram que usuários da equipe interna fizeram logon naquele dia. Um tom mais escuro indica um número maior de pessoas que fizeram logon.
 
-![Uma imagem de caixas sombreadas roxas](assets/purple-shaded-boxes.png)
+![Uma imagem de caixas em vários tons de roxo](assets/purple-shaded-boxes.png)
 
-**Alteração do status da tarefa:** Caixas rosa mostram que as pessoas na equipe da página inicial alteraram o status de uma tarefa nesse dia. Uma sombra mais escura indica um número maior de status de tarefa em alteração.
+**Alteração de status da tarefa:** as caixas rosa mostram que usuários da equipe interna mudaram o status de uma tarefa naquele dia. Um tom mais escuro indica um número maior de alterações de status de tarefas.
 
-![Uma imagem de caixas sombreadas em rosa](assets/pink-shaded-boxes.png)
+![Uma imagem de caixas em vários tons de rosa](assets/pink-shaded-boxes.png)
 
-**Tarefas concluídas:** As caixas azuis mostram que as pessoas na equipe da casa concluíram uma tarefa naquele dia. Um tom mais escuro indica um número maior de tarefas sendo concluídas.
+**Tarefas concluídas:** as caixas azuis mostram que usuários da equipe interna concluíram uma tarefa naquele dia. Um tom mais escuro indica um maior número de tarefas concluídas.
 
-![Uma imagem de caixas sombreadas azuis](assets/blue-shaded-boxes.png)
+![Uma imagem de caixas em vários tons de azul](assets/blue-shaded-boxes.png)
 
-Para obter mais informações, consulte [Entender a visualização Atividade por equipe](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
+Para obter mais informações, consulte [Entenda a visualização de atividades por equipe](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=pt-BR).

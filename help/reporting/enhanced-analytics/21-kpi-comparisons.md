@@ -1,5 +1,5 @@
 ---
-title: Entender um caso de uso de comparações de KPI
+title: Entenda o caso de uso de comparação de KPI
 description: Saiba como comparar KPIs no [!UICONTROL Analítica aprimorada] do intervalo de datas atual para um intervalo de datas anterior e como comparar KPIs com dois filtros diferentes.
 activity: use
 feature: Reports and Dashboards
@@ -14,15 +14,15 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 64%
 
 ---
 
-# Entender um caso de uso de comparações de KPI
+# Entenda o caso de uso de comparação de KPI
 
 Neste vídeo, você aprenderá:
 
-* Como comparar KPIs do intervalo de datas atual ao intervalo de datas anterior
+* Como comparar KPIs de um intervalo de datas atual com o anterior
 * Como alterar o intervalo de datas
 * Como comparar KPIs com dois filtros diferentes lado a lado
 

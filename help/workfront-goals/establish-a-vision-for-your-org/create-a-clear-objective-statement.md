@@ -1,6 +1,6 @@
 ---
 title: Criar uma declaração de objetivo clara
-description: Saiba como criar uma declaração objetiva clara, ou a intenção do comandante, e escrever objetivos empresariais ou organizacionais fortes.
+description: Saiba como criar uma declaração de objetivo clara, ou “Intenção do comandante”, e formule metas empresariais ou organizacionais sólidas.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,8 +12,8 @@ exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá a:
 
-* Criar uma declaração objetiva clara, ou a intenção do comandante
-* Crie metas corporativas ou organizacionais fortes
+* Criar uma declaração de objetivo clara (ou uma “Intenção do comandante”)
+* Criar metas empresariais ou organizacionais sólidas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on)
 
@@ -30,22 +30,22 @@ Neste vídeo, você aprenderá a:
 Your turn graphic
 -->
 
-## Formular a intenção do seu comandante
+## Formular sua “Intenção do comandante”
 
-A finalidade desta etapa é indicar o objetivo ou a meta final desejada. Ao criar uma declaração clara que define os pilares estratégicos de sua visão, você estabelecerá os objetivos que suas equipes podem alinhar. Como líder, escreva uma declaração que expresse a meta final e o resultado desejado.
+O objetivo desta etapa é declarar o objetivo ou meta final desejada. Ao criar uma declaração clara que defina os pilares estratégicos da sua visão, você estabelecerá metas às quais suas equipes podem se alinhar. Como líder, crie uma declaração que descreva bem a meta final e o resultado desejado.
 
-Essa declaração é um produto não técnico, o que significa que é feita como uma prática recomendada comportamental fora do contexto do software. Ele serve como uma expressão de sua visão, como um líder, para seu povo e equipes. Essa declaração deve destacar as metas de nível superior conforme elas se encaixam na visão.
+Essa declaração é um entregável “não técnico”, o que significa que se trata de uma prática recomendada comportamental fora do contexto do software. Ela serve como uma expressão da sua visão de líder para o pessoal e as equipes. Esta declaração deve descrever as principais metas e como elas se alinham a sua visão.
 
-Esta afirmação compreende quatro partes. Abordar cada parte de forma independente ajuda a tornar a intenção do comandante clara e direta.
+Essa declaração possui quatro partes. Abordar cada parte de forma independente ajuda a esclarecer a “Intenção do comandante”.
 
-**Parte 1: Um resultado claro de alcançar nosso propósito parece...**
-A conclusão desta frase fornece o mais alto nível de orientação para seus funcionários e equipes. Essa declaração será mais focada do que suas declarações de missão e visão, mas provavelmente compartilhará alguns tons comuns. Descreva a aparência de sucesso da sua equipe.
+**Parte 1: “Um claro sinal de que alcançamos o nosso propósito seria…”**
+A conclusão dessa frase é o melhor recurso para orientar o pessoal e as equipes. Essa declaração será mais focada do que as relacionadas à sua missão e visão, mas provavelmente conterá alguns elementos em comum. Descreva o que é ser “bem-sucedido” para sua equipe.
 
-**Parte 2: A coisa mais importante que essa equipe pode fazer é...**
-Completar esta frase é a base da priorização. Ele estabelece expectativas claras de que, no fim das contas, há uma única coisa mais importante a ser apresentada. Esse resultado é mais do que provável o resultado final da conquista em muitas metas (como lançar um novo produto, remarcar sua empresa, entrar em um novo mercado etc.).
+**Parte 2: “A coisa mais importante que esta equipe pode fazer é...”**
+Completar essa frase é a base para a definição de prioridades. Ela estabelece expectativas claras de que, no final das contas, há uma coisa a ser entregue que é mais importante do que as outras. Esse entregável muito provavelmente é o ponto culminante de conquista de muitas metas (como lançar um novo produto, reformular a marca da empresa, entrar em um novo mercado etc.).
 
-**Parte 3: A equipe realizará seu objetivo até...**
-Quando você completa essa frase, você realmente começa a definir seus pilares estratégicos. Esses serão provavelmente os principais objetivos de nível superior que devem ser alcançados para impulsionar o resultado final.
+**Parte 3: “A equipe cumprirá seu objetivo ao...”**
+Ao completar essa frase, você realmente começa a definir seus pilares estratégicos. Essas serão provavelmente as principais metas que devem ser atingidas para alcançar o resultado final.
 
-**Parte 4: Nossas restrições operacionais incluem...**
-Concluir essa declaração indica os principais indicadores de sucesso, como você medirá seu progresso e quais resultados devem ser atingidos para considerar o sucesso. Defina quais desafios e riscos sua equipe deve considerar. A identificação dessas restrições ajudará você a decidir se a meta é &quot;ir&quot; ou &quot;não ir&quot;.
+**Parte 4: “Nossas restrições operacionais incluem…”**
+Preencher essa declaração estabelece os principais indicadores de sucesso, como você medirá seu progresso e quais resultados devem ser alcançados para que a conquista seja considerada bem-sucedida. Defina quais desafios e riscos sua equipe deve levar em consideração. Identificar essas restrições ajudará você a decidir se a meta é válida ou não.

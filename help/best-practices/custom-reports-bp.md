@@ -1,6 +1,6 @@
 ---
 title: Prática recomendada - Relatórios personalizados
-description: Explore as práticas recomendadas dos especialistas da Adobe Workfront para configurar, gerenciar e usar os relatórios personalizados da Workfront.
+description: Explore práticas recomendadas de especialistas do Adobe Workfront sobre como configurar, gerenciar e usar relatórios personalizados do Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
@@ -9,79 +9,79 @@ exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 0%
+ht-degree: 84%
 
 ---
 
 # Prática recomendada - Relatórios personalizados
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, primeiro você encontrará uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem se aprofundar nos detalhes do “porquê”.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
+A seção “Por que essas práticas recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
 ## Práticas recomendadas para relatórios personalizados
 
-* Considere o uso de prompts de relatório para restringir os resultados de um relatório, em vez de criar vários relatórios semelhantes ou criar estruturas de filtro complicadas em um relatório.
+* Considere usar solicitações de relatório para restringir os resultados, em vez de criar vários relatórios semelhantes ou estruturas de filtro complicadas em um relatório.
 
-* Acelere a criação de relatórios copiando um relatório existente semelhante para criar seu novo relatório a partir do.
+* Acelere a criação de relatórios copiando um relatório existente semelhante para criar seu novo relatório.
 
-* Use curingas com base no usuário para criar relatórios dinâmicos de modo que o usuário que visualiza o relatório veja informações relevantes para ele.
+* Use curingas baseados em usuário para criar relatórios dinâmicos que apresentem informações relevantes para quem os visualiza.
 
-* Crie visualizações que permitem edição em linha.
+* Crie visualizações que permitam a edição em linha.
 
 </br>
 </br>
 
 
-## Por que essas práticas recomendadas?
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
-Considere o uso de prompts de relatório para restringir os resultados de um relatório, em vez de criar vários relatórios semelhantes ou criar estruturas de filtro complicadas em um relatório.
+Considere usar solicitações de relatório para restringir os resultados, em vez de criar vários relatórios semelhantes ou estruturas de filtro complicadas em um relatório.
 
 
-**Aqui está o porquê**
+**Entenda o porquê**
 
-Reduza o número de relatórios que você precisa criar — e expanda o uso dos relatórios que você cria — incluindo prompts, especialmente nos relatórios executados com frequência.
+Reduza o número de relatórios que você precisa criar e expanda a funcionalidade dos relatórios criados utilizando solicitações, especialmente em relatórios usados com frequência.
 
-Os prompts permitem fazer adições de filtro &quot;no momento&quot; em um relatório, sem editar as configurações de filtro do relatório. Por exemplo, você tem um relatório que encontra tarefas de um determinado status que são atribuídas a uma equipe específica. Adicione prompts a este relatório &quot;básico&quot; que permitem restringir o período das datas de vencimento das tarefas, ver somente tarefas com documentos anexados ou apontar com um formulário personalizado específico anexado.
-
-
-**Nota**: alguns usuários podem achar os prompts confusos. Em caso afirmativo, vários relatórios com títulos claros podem ser uma solução melhor para eles.
+Os prompts permitem fazer adições de filtro &quot;no momento&quot; em um relatório, sem editar as configurações de filtro do relatório. Pense no exemplo de um relatório que busca tarefas com um determinado status atribuídas a uma equipe específica. Adicione prompts a este relatório &quot;básico&quot; que permitem restringir o período das datas de vencimento das tarefas, ver somente tarefas com documentos anexados ou apontar com um formulário personalizado específico anexado.
 
 
-</br>
-</br>
+**Observação**: alguns usuários podem achar confuso o uso de solicitações. Nesse caso, utilizar vários relatórios com títulos claros pode ser uma solução mais adequada.
 
-**Prática recomendada**
-
-Acelere a criação de relatórios copiando um relatório existente semelhante para criar seu novo relatório a partir do.
-
-**Aqui está o porquê**
-
-Isso não apenas economiza tempo, como também garante que o novo relatório contenha os filtros, as exibições ou os agrupamentos necessários do relatório original.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Use curingas com base no usuário para criar relatórios dinâmicos de modo que o usuário que visualiza o relatório veja informações relevantes para ele.
+Acelere a criação de relatórios copiando um relatório existente semelhante para criar seu novo relatório.
 
-**Aqui está o porquê**
+**Entenda o porquê**
 
-Os curingas com base no usuário tornam os relatórios mais flexíveis, permitindo que os autores de relatórios criem um único relatório que pode ser compartilhado com vários usuários. Os curingas com base no usuário não somente fornecem informações personalizadas para o usuário conectado que visualiza o relatório personalizado, como também podem reduzir o número de relatórios que precisam ser criados e mantidos.
+Isso não apenas economiza tempo, como também garante que o novo relatório contenha os filtros, exibições ou agrupamentos necessários do relatório original.
+
+</br>
+</br>
+
+**Prática recomendada**
+
+Use curingas baseados em usuário para criar relatórios dinâmicos que apresentem informações relevantes para quem os visualiza.
+
+**Entenda o porquê**
+
+Os curingas baseados em usuário tornam os relatórios mais flexíveis, permitindo criar um único relatório que pode ser compartilhado com vários usuários. Os curingas baseados em usuário não apenas fornecem informações personalizadas para o usuário conectado que visualiza o relatório personalizado, mas também reduzem o número de relatórios que precisam ser criados e mantidos.
 
 </br>
 </br>
@@ -90,8 +90,8 @@ Para obter instruções sobre como usar curingas baseados no usuário em relató
 
 **Prática recomendada**
 
-Crie visualizações que permitem edição em linha.
+Crie visualizações que permitam a edição em linha.
 
-**Aqui está o porquê**
+**Entenda o porquê**
 
-Com a edição em linha, os usuários podem alterar as informações sobre um item diretamente de um relatório ou lista. Isso economiza tempo porque os usuários não precisam abrir o objeto para fazer alterações ou para retornar de um objeto para outro ao atualizar vários itens. Certifique-se de que os usuários saibam que a edição em linha é conveniente e rápida (dois fatores que contribuem para a adoção do Workfront pelo usuário).
+Com a edição em linha, os usuários podem alterar informações sobre um item diretamente de um relatório ou lista. Isso economiza tempo porque os usuários não precisam abrir o objeto para fazer alterações ou para retornar de um objeto para outro ao atualizar vários itens. Certifique-se de que os usuários saibam que a edição em linha é conveniente e rápida (duas coisas que contribuem para a adoção do Workfront pelos usuários).

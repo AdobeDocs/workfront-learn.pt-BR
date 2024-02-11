@@ -1,6 +1,6 @@
 ---
 title: Entender gráficos de trabalho e pessoas
-description: Entrada [!UICONTROL Analítica aprimorada], Gráficos de trabalho mostram a atividade da perspectiva de projeto e tarefa, enquanto gráficos de Pessoas mostram a atividade da perspectiva de uma equipe inicial.
+description: Em [!UICONTROL Análise aprimorada], os gráficos de trabalho mostram a atividade a partir da perspectiva do projeto e da tarefa, enquanto os gráficos de Pessoas mostram a atividade da perspectiva de uma equipe interna.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,19 +13,19 @@ exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 94%
 
 ---
 
 # Entender gráficos de trabalho e pessoas
 
-Os gráficos de trabalho mostram a atividade da perspectiva de projeto e tarefa, enquanto os gráficos de Pessoas mostram a atividade da perspectiva de uma equipe inicial.
+Os gráficos de trabalho mostram a atividade a partir da perspectiva do projeto e da tarefa, enquanto os gráficos de Pessoas mostram a atividade da perspectiva de uma equipe interna.
 
-Selecione o tipo de gráfico do Analytics que deseja visualizar (Trabalho ou Pessoas) no menu do painel esquerdo.
+Selecione o tipo de gráfico da Análise que você deseja visualizar – Trabalho ou Pessoas – no menu do painel esquerdo.
 
 ## Gráficos de trabalho
 
-![Uma imagem da descoberta de [!UICONTROL Analytics] recurso no [!DNL Workfront Classic]](assets/section-1-1.png)
+![Uma imagem da descoberta do recurso de [!UICONTROL Análise] no [!DNL Workfront Classic]](assets/section-1-1.png)
 
 Ao acessar os Gráficos de trabalho, você verá por padrão:
 
@@ -34,14 +34,14 @@ Ao acessar os Gráficos de trabalho, você verá por padrão:
 1. Atividades do projeto
 1. Mapa de árvore do projeto (não mostrado acima)
 
-Os gráficos Burndown e Tasks in flight são exibidos ao detalhar os dados.
+O Burndown e os gráficos de tarefas em andamento aparecem quando você faz uma busca detalhada nos dados.
 
-* Clique em um projeto na visualização Plano de voo e uma visualização de Burndown desse projeto aparecerá abaixo dele.
-* Clique em um projeto na exibição Mapa de árvore e uma exibição Burndown e Tarefas em andamento aparecerão abaixo dele.
+* Clique em um projeto na visualização Tarefas em andamento e uma visualização Burndown desse projeto aparecerá abaixo.
+* Clique em um projeto na visualização Mapa de árvore e uma visualização Burndown e Tarefas em andamento aparecerá abaixo dele.
 
 ## Gráficos de pessoas
 
-![Uma imagem da descoberta de [!UICONTROL Analytics] recurso no [!DNL Workfront Classic]](assets/section-1-2.png)
+![Uma imagem da descoberta do recurso [!UICONTROL Análise] no [!DNL Workfront Classic]](assets/section-1-2.png)
 
 Os gráficos de pessoas consistem em:
 

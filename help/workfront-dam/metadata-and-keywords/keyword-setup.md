@@ -1,6 +1,6 @@
 ---
 title: Configurar as palavras-chave de metadados
-description: Saiba mais sobre o que são palavras-chave, como configurar uma lista de palavras-chave e como criar e importar uma lista de palavras-chave no [!UICONTROL DAM DO WORKFRONT].
+description: Saiba o que são palavras-chave e como configurar, criar e importar uma lista de palavras-chave no [!UICONTROL DAM do Workfront].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,43 +13,43 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 0%
+ht-degree: 67%
 
 ---
 
 # Configurar as palavras-chave de metadados
 
-Neste vídeo, você vai:
+Neste vídeo, você:
 
-* Entender como as palavras-chave são usadas no [!UICONTROL DAM DO WORKFRONT]
+* Entenda como as palavras-chave são usadas no [!UICONTROL DAM do Workfront]
 * Configurar uma lista de palavras-chave
 * Criar e importar uma lista de palavras-chave
 
 >[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on)
 
-## Práticas recomendadas de palavra-chave
+## Práticas recomendadas de palavras-chave
 
-É importante destacar as práticas recomendadas para orientar seus esforços de palavra-chave. Abaixo estão algumas diretrizes.
+Estas práticas recomendadas são importantes para orientar o uso de palavras-chave. Veja abaixo algumas diretrizes.
 
-* Seja consistente com acrônimos e abreviações. Não use palavras-chave em um ativo com &quot;AZ&quot; e em outro com &quot;Arizona&quot;.
-* Ser consistente no plural versus o singular. Escolha um formato ou sempre use ambos. Por exemplo, use &quot;pés&quot; e &quot;mãos&quot; ou &quot;pé, pés&quot; e &quot;mão, mãos&quot;.
+* Seja consistente no uso de siglas e abreviações. Não use palavras-chave em um ativo com &quot;AZ&quot; e em outro com &quot;Arizona&quot;.
+* Seja consistente no uso de plural e singular. Escolha um formato ou use sempre os dois. Por exemplo, use &quot;pés&quot; e &quot;mãos&quot; ou &quot;pé, pés&quot; e &quot;mão, mãos&quot;.
 * Seja consistente na forma como você descreve uma ação ou atividade, por exemplo, use &quot;correr&quot; e &quot;nadar&quot; ou &quot;correr&quot; e &quot;nadar&quot;.
 * Não seja tão estreito. &quot;Keokuk, IA&quot; pode ser muito estreito para uma palavra-chave e completamente irreconhecível para os usuários. &quot;Sudeste de Iowa&quot; seria melhor.
-* Não seja tão amplo. &quot;Universidade&quot; pode não funcionar, especialmente se tudo em seu sistema se relaciona a uma universidade. Determine o que distinguirá os ativos, como um nome de faculdade específico.
-* Esteja atento à relevância. Apenas porque cada ativo tem um código de projeto não significa que será útil para usuários que dependem de palavras-chave encontrar ativos. Se essas informações precisarem permanecer com o ativo, considere adicioná-lo em outro campo de metadados.
+* Não seja tão amplo. &quot;Universidade&quot; pode não funcionar, especialmente se tudo em seu sistema se relaciona a uma universidade. Determine o que distinguirá os ativos, como o nome de uma faculdade específica.
+* Considere sempre a relevância. O fato de cada ativo possuir um código de projeto não significa que ele será útil para usuários que dependem de palavras-chave para encontrar ativos. Se esta informação precisar permanecer com o ativo, considere adicioná-la em outro campo de metadados.
 * Não use poucas palavras-chave, caso contrário, elas não ajudarão a limitar os resultados da pesquisa.
-* Não dependa de palavras-chave para cada dado. Use campos de metadados para informações como nome ou localização do fotógrafo.
+* Não dependa de palavras-chave para cada dado. Use campos de metadados para informações como localização ou nome do fotógrafo.
 
-## Estratégia de palavra-chave
+## Estratégia de palavras-chave
 
-Uma estratégia de palavra-chave ajudará você a alcançar um alto nível de consistência e precisão com a maneira como seus ativos são marcados.
+Uma estratégia de palavras-chave ajudará você a alcançar um alto nível de consistência e precisão na forma como seus ativos são detalhados.
 
-Lembre-se de casos de uso ao adicionar palavras-chave para manter seus esforços concentrados. Preencha esta frase ao considerar uma palavra-chave: &quot;**Qual a probabilidade de que [inserir pessoa/função] pesquisará por [inserir palavra-chave] ao procurar [inserir ativo]?**&quot;
+Considere casos de uso específicos ao adicionar palavras-chave para manter o foco do seu trabalho. Preencha esta frase ao considerar uma palavra-chave: &quot;**Qual a probabilidade de que [inserir pessoa/função] pesquisará por [inserir palavra-chave] ao procurar [inserir ativo]?**&quot;
 
 Descreva quais tipos de palavras-chave devem ser adicionadas aos ativos. Uma boa regra geral ao adicionar palavras-chave é responder às seguintes perguntas básicas:
 
-* **Quem**—Para quem é o ativo direcionado?
-* **O que**—Qual é a finalidade pretendida do ativo?
-* **Onde**—Onde o ativo foi criado e/ou onde pode ser usado?
-* **Quando**—Quando o ativo foi criado e/ou quando deve ser usado?
-* **Por que**—Por que ele foi criado (para um evento, um folheto)?
+* **Quem**: para quem o ativo é direcionado?
+* **O que**: qual é a finalidade do ativo?
+* **Onde**: onde o ativo foi criado e/ou onde pode ser usado?
+* **Quando**: quando o ativo foi criado e/ou quando deve ser usado?
+* **Por que**: por que ele foi criado (para um evento, um folheto)?

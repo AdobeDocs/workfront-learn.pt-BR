@@ -1,6 +1,6 @@
 ---
-title: Entender as configurações do sistema
-description: Saiba como estabelecer configurações globais, definir opções de ativos, estabelecer configurações de pastas, fazer regras de download e exibir relatórios e logs de auditoria em [!UICONTROL DAM DO WORKFRONT].
+title: Entenda as configurações do sistema
+description: Saiba como estabelecer configurações globais, definir opções de ativos, estabelecer configurações de pastas, criar regras de download e exibir relatórios e logs de auditoria no [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,11 +13,11 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender as configurações do sistema
+# Entenda as configurações do sistema
 
 Neste vídeo, você aprenderá a:
 

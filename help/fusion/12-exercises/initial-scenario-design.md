@@ -1,6 +1,6 @@
 ---
-title: Design de cenário inicial
-description: Saiba mais sobre algumas dicas básicas de navegação para quando você faz logon pela primeira vez no Workfront Fusion, bem como a criação do primeiro cenário.
+title: Design do cenário inicial
+description: Aprenda algumas dicas básicas de navegação para quando fizer seu primeiro logon no Workfront Fusion, bem como para construir seu primeiro cenário.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,130 +12,130 @@ thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '978'
-ht-degree: 0%
+source-wordcount: '981'
+ht-degree: 100%
 
 ---
 
-# Design de cenário inicial
+# Design do cenário inicial
 
-Saiba mais sobre algumas dicas básicas de navegação para quando você faz logon pela primeira vez no Workfront Fusion, bem como a criação do primeiro cenário.
+Aprenda algumas dicas básicas de navegação para quando fizer seu primeiro logon no Workfront Fusion, bem como para construir seu primeiro cenário.
 
 ## Pré-requisitos
 
-1. Este exercício requer uma unidade de teste do Workfront. Você pode solicitar um preenchendo [este formulário](https://forms.office.com/r/f1J8HRGrNY). Caso não seja possível acessar o formulário, envie seu nome, endereço de email e nome da empresa para wfttstdr@adobe.com.
-1. Exercícios de fusão presumem que você assistiu ao vídeo de apresentação que corresponde ao exercício. Nesse caso, é [Apresentação do design do cenário inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+1. Este exercício requer um teste do Workfront. Você pode solicitar um preenchendo [este formulário](https://forms.office.com/r/f1J8HRGrNY). Caso não seja possível acessar o formulário, envie seu nome, endereço de email e o nome da empresa para wfttstdr@adobe.com.
+1. Os exercícios do Fusion pressupõem que você tenha assistido aos vídeos explicativos correspondentes. Neste caso, o vídeo [Tutorial de design do cenário inicial](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=pt-BR).
 
 
 ## Visão geral do exercício
 
-Crie um novo projeto no Workfront para cada linha no arquivo CSV da Lista de projetos.
+Crie um novo projeto no Workfront para cada linha no arquivo CSV da lista de projetos.
 
-![Imagem 1 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-1.png)
+![Design do cenário inicial - Imagem 1](../12-exercises/assets/initial-scenario-design-1.png)
 
 ## Etapas a serem seguidas
 
-1. Crie uma pasta na seção Cenário chamada &quot;Exercícios de ativação do Fusion&quot;.
-1. Clique em na pasta e em Criar um novo cenário.
+1. Crie uma pasta na seção Cenário chamada “Exercícios de habilitação do Fusion”.
+1. Clique na pasta e depois em Criar um novo cenário.
 
-   ![Imagem 2 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-2.png)
+   ![Design do cenário inicial - Imagem 2](../12-exercises/assets/initial-scenario-design-2.png)
 
-1. Na próxima página, pesquise por Workfront e selecione esse aplicativo. Em seguida, clique em Continue.
-1. Na parte superior esquerda da tela do designer de cenários, renomeie o cenário como &quot;Design de cenário inicial&quot;
-1. Clique no módulo acionador vazio no centro da tela, selecione o aplicativo Workfront e o módulo Baixar documento.
+1. Na próxima página, pesquise por Workfront e selecione esse aplicativo. Em seguida, clique em Continuar.
+1. No canto superior esquerdo da tela do designer de cenários, renomeie o cenário como “Design do cenário inicial”
+1. Clique no módulo acionador vazio no centro da tela e selecione o aplicativo Workfront e, em seguida, selecione o módulo Baixar documento.
 
    **Autentique a conexão do módulo com sua conta do Workfront.**
 
-1. Para criar uma conexão pela primeira vez, clique no botão Add.
+1. Para criar uma conexão pela primeira vez, clique no botão Adicionar.
 
-   ![Imagem 3 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-3.png)
+   ![Design do cenário inicial - Imagem 3](../12-exercises/assets/initial-scenario-design-3.png)
 
-1. Nomeie a conexão, como &quot;My Workfront 2020&quot;
+1. Forneça um nome para a conexão, como “Meu Workfront 2020”
 
-   ![Imagem 4 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-4.png)
+   ![Design do cenário inicial - Imagem 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Insira o URL de **sua instância do Workfront** e, em seguida, clique em Next.
+1. Digite a URL da **sua instância do Workfront** e clique em Próximo.
 
-   ![Imagem 5 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-5.png)
+   ![Design do cenário inicial - Imagem 5](../12-exercises/assets/initial-scenario-design-5.png)
 
-1. Digite sua senha e clique em Logon.
+1. Digite sua senha e clique em Fazer logon.
 
-   **A conexão é estabelecida. Em seguida, insira a ID do documento que deseja baixar do Workfront.**
+   **A conexão será estabelecida. Agora insira a ID do documento que deseja baixar do Workfront.**
 
-   ![Imagem 7 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-7.png)
+   ![Design do cenário inicial - Imagem 7](../12-exercises/assets/initial-scenario-design-7.png)
 
-1. Volte para o Workfront. Na pasta &quot;Arquivos do Fusion Exercise&quot;, selecione &quot;_Fusion2020_Project List.csv&quot; e clique em Detalhes do Documento no painel esquerdo. Copie o número de ID do documento do endereço URL (esse é o primeiro número longo no URL).
+1. Retorne ao Workfront. Na pasta “Arquivos de exercícios do Fusion”, selecione “_Fusion2020_Project List.csv” e clique em Detalhes do documento no painel esquerdo. Copie o número de ID do documento do endereço URL (esse é o primeiro número longo na URL).
 
-   ![Imagem 8 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-8.png)
+   ![Design do cenário inicial - Imagem 8](../12-exercises/assets/initial-scenario-design-8.png)
 
 1. Volte para o Fusion, cole o número no campo ID do documento e clique em OK.
-1. A prática recomendada é renomear os módulos à medida que são criados. Clique com o botão direito do mouse no módulo Workfront e escolha Renomear. Nomeie o módulo como &quot;Obter lista de projetos&quot;.
+1. A prática recomendada é renomear os módulos à medida que são criados. Clique com o botão direito no módulo Workfront e escolha Renomear. Nomeie o módulo como “Obter lista de projetos”.
 
-   **Em seguida, você analisará o arquivo CSV que acabou de baixar para poder acessar cada linha no arquivo. Você usará essas informações ao criar um projeto a partir de cada linha.**
+   **Em seguida, você analisará o arquivo CSV que acabou de baixar para poder acessar cada linha do arquivo. Você usará essas informações ao criar um projeto a partir de cada linha.**
 
-1. Clique no lado direito do módulo Workfront para adicionar outro módulo. Procure o aplicativo CSV e selecione o módulo Analisar CSV.
-1. Configure o CSV de análise para 6 colunas, o CSV contém cabeçalhos, o tipo delimitador de vírgula e coloque os dados no campo CSV. Em seguida, clique em OK.
+1. Clique no lado direito do módulo Workfront para adicionar outro módulo. Procure o aplicativo de CSV e selecione o módulo Analisar CSV.
+1. Configure o módulo Analisar CSV para 6 colunas, defina o CSV para conter cabeçalhos, use um delimitador do tipo vírgula e insira Dados no campo CSV. Em seguida, clique em OK.
 
-   ![Imagem 9 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-9.png)
+   ![Design do cenário inicial - Imagem 9](../12-exercises/assets/initial-scenario-design-9.png)
 
-1. Renomeie este módulo como &quot;Lista de projetos de análise&quot;.
-1. Na parte inferior do designer de cenário, clique em Salvar para salvar seu cenário.
-1. Clique em Executar uma vez para exibir a saída.
+1. Renomeie este módulo como “Analisar lista de projetos”.
+1. Na parte inferior do designer de cenário, clique para Salvar o cenário.
+1. Clique em Executar uma vez para ver o resultado.
 
    >[!NOTE]
    >
-   >Ignore o aviso de que um transformador não deve ser o último módulo (isso é verdadeiro, mas não importa para este teste). Clique em Executar assim mesmo.
+   >Ignore o aviso de que um transformador não deve ser o último módulo (isso é verdade, mas não é importante para este teste). Clique em Executar assim mesmo.
 
-   ![Imagem 10 do projeto do cenário inicial](../12-exercises/assets/initial-scenario-design-10.png)
+   ![Design do cenário inicial - Imagem 10](../12-exercises/assets/initial-scenario-design-10.png)
 
-1. Abra o inspetor de execução no módulo Parse CSV para ver as entradas e saídas do módulo. Há um pacote (um arquivo CSV) como entrada e vários pacotes como saídas (um pacote para cada linha no arquivo CSV). Deve ser semelhante a:
+1. Abra o inspetor de execução no módulo Analisar CSV para ver as entradas e saídas do módulo. Há um pacote (um arquivo CSV) como entrada e vários pacotes como saídas (um pacote para cada linha no arquivo CSV). A aparência deve ser semelhante a esta:
 
-   ![Imagem 11 do projeto do cenário inicial](../12-exercises/assets/initial-scenario-design-11.png)
+   ![Imagem 11 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-11.png)
 
-   **Adicione um módulo para criar um projeto para cada linha no arquivo CSV.**
+   **Adicione um módulo para criar um projeto para cada linha do arquivo CSV.**
 
 1. Adicione outro módulo. Selecione o aplicativo Workfront e escolha o módulo Criar registro.
-1. Defina o Tipo de registro como Projeto.
+1. Defina o tipo de Registro como Projeto.
 
    >[!TIP]
    >
-   >Procure-o começando a digitar algumas letras, como *proj*, para ir diretamente para ele.
+   >Pesquise-o começando a digitar algumas letras, como *proj*, para ir direto a ele.
 
-1. Em seguida, use Cmd/Ctrl+G para localizar Nome (nome do projeto). Marque a caixa ao lado de Nome; o campo aparece abaixo de.
-1. Agora marque as caixas ao lado de Data de início planejada e Prioridade.
+1. Em seguida, use Cmd/Ctrl+G para encontrar o Nome (nome do projeto). Marque a caixa ao lado de Nome; o campo aparece abaixo.
+1. Agora marque as caixas ao lado de Data inicial planejada e Prioridade.
 1. Clique no campo Nome para que o painel de mapeamento apareça. Clique no campo Coluna 1 do módulo Analisar CSV para adicioná-lo ao campo Nome. Este é o nome do projeto do arquivo CSV.
-1. Para a Data de início planejada, clique na Coluna 5 do módulo Analisar CSV.
-1. Em Prioridade, escolha Normal no menu suspenso.
+1. Para a Data inicial planejada, clique na Coluna 5 do módulo Analisar CSV.
+1. Para Prioridade, escolha Normal no menu suspenso.
 
-   **Seu painel de mapeamento deve ter esta aparência:**
+   **Seu painel de mapeamento deve aparecer assim:**
 
-   ![Imagem 12 do projeto do cenário inicial](../12-exercises/assets/initial-scenario-design-12.png)
+   ![Imagem 12 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-12.png)
 
 1. Clique em OK.
 
    >[!NOTE]
    >
-   >Se você não clicar em OK e, acidentalmente, clicar novamente no designer, seu trabalho não será salvo e você terá que mapear novamente.
+   >Se você não clicar em OK e acidentalmente clicar novamente no designer, seu trabalho não será salvo e será necessário mapear novamente.
 
-1. Clique com o botão direito do mouse no módulo Workfront e renomeie-o como &quot;Criar projetos Workfront&quot;.
+1. Clique com o botão direito no módulo Workfront e renomeie-o como “Criar projetos do Workfront”.
 1. Salve o cenário e clique no botão Executar uma vez.
 1. Clique no inspetor de execução na parte superior direita do último módulo.
 
-   + Você verá que 20 operações foram realizadas. Cada operação retirava um pacote, ou seja, uma linha, do arquivo CSV como entrada e saída e um pacote, que era um projeto criado no Workfront. A ID do projeto criado aparece com o pacote de saída.
+   + Você verá que foram realizadas 20 operações. Cada operação pegou um pacote, ou seja, uma linha, do arquivo CSV como entrada e teve como saída um pacote, que era um projeto criado no Workfront. A ID do projeto criado aparece com o pacote de saída.
 
-   ![Imagem 13 do projeto do cenário inicial](../12-exercises/assets/initial-scenario-design-13.png)
+   ![Imagem 13 do desgin do cenário inicial](../12-exercises/assets/initial-scenario-design-13.png)
 
-   **Uso de notas**
+   **Utilização de notas**
 
-1. As notas ajudam a criar mais visibilidade sobre o design do cenário. Para adicionar uma nota ao módulo Criar projetos Workfront, clique com o botão direito do mouse e selecione Adicionar uma nota. Um painel à direita da janela do designer aparece para que você possa adicionar uma nota ao módulo. Digite em &quot;Criar um projeto com o nome, a data de início planejada e a prioridade mapeada do arquivo CSV&quot;.
-1. Adicione outra observação para descrever o que o módulo de acionamento (o primeiro módulo do Workfront) está fazendo.
-1. Feche o painel &#39;Notas&#39; clicando no X no canto superior direito.
+1. As notas ajudam a criar mais visibilidade no design do cenário. Para adicionar uma nota ao módulo Criar projetos do Workfront, clique com o botão direito do mouse e selecione Adicionar uma nota. À direita da janela do designer, surge um painel para que você possa adicionar uma nota ao módulo. Digite “Criar um projeto com nome, data inicial planejada e prioridade mapeadas a partir do arquivo CSV”.
+1. Adicione outra nota para descrever o que o módulo acionador (o primeiro módulo do Workfront) está fazendo.
+1. Feche o painel de notas clicando no X no canto superior direito.
 
-   + Acesse as notas novamente clicando no botão notas na barra de ferramentas inferior ou clicando com o botão direito do mouse em qualquer módulo e adicionando uma nova nota.
+   + Acesse as notas novamente clicando no botão de notas na barra de ferramentas inferior ou clicando com o botão direito do mouse em qualquer módulo e adicionando uma nova nota.
    + As notas são classificadas em ordem cronológica inversa.
-   + Um ponto laranja é exibido no botão Notas quando as notas são adicionadas.
+   + Um ponto laranja aparece no botão Notas quando as notas são adicionadas.
 
-   ![Imagem 14 do projeto do cenário inicial](../12-exercises/assets/initial-scenario-design-14.png)
+   ![Imagem 14 do design do cenário inicial](../12-exercises/assets/initial-scenario-design-14.png)
 
-1. Salve o cenário clicando no botão Save na barra de ferramentas de controles.
+1. Salve o cenário clicando no botão Salvar na barra de ferramentas de controles.
 1. É possível visualizar os projetos criados na instância do Workfront.

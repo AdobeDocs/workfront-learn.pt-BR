@@ -1,6 +1,6 @@
 ---
 title: Criar um filtro básico
-description: Saiba o que é um filtro, como criá-lo e como compartilhá-lo com outros usuários no Workfront. Saiba também como usar a nova experiência de filtro.
+description: Aprenda o que é um filtro, como criar um filtro e como compartilhá-lo com outros usuários no Workfront. Saiba também como usar a nova experiência de filtro.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 91%
 
 ---
 
@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá:
 
 Neste vídeo, você aprenderá a:
 
-* Ativar e desativar a nova experiência de filtro
+* Habilitar e desabilitar a nova experiência de filtro
 * Criar e editar filtros
 * Empilhar filtros
 

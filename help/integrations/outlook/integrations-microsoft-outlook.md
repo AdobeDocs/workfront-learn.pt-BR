@@ -1,6 +1,6 @@
 ---
 title: Instale o [!UICONTROL Microsoft Outlook] suplemento
-description: Saiba como instalar o [!UICONTROL Suplemento do Microsoft Outlook]
+description: Aprenda como instalar o [!UICONTROL suplemento do Microsoft Outlook]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -12,27 +12,27 @@ exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 96%
 
 ---
 
-# Instalar o suplemento do Microsoft Outlook
+# Instale o suplemento do Microsoft Outlook
 
 Neste vídeo, você aprenderá a:
 
-* Instalar o Suplemento do Microsoft Outlook
+* Instale o suplemento do Microsoft Outlook
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->Se você não conseguir encontrar o suplemento Workfront conforme descrito no vídeo, talvez o seu departamento de TI precise fazer algum trabalho de configuração primeiro. As instruções detalhadas podem ser encontradas em [Configurar o Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
+>Se você não conseguir encontrar o suplemento Workfront conforme descrito no vídeo, pode ser necessário que o departamento de TI faça algumas configurações primeiro. Instruções detalhadas podem ser encontradas em [Configurar o Adobe Workfront para Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=br).
 
-## Integrar o calendário do Microsoft Outlook com o [!DNL Workfront] Calendário da página inicial
+## Integre o calendário do Microsoft Outlook com o Calendário da página inicial do [!DNL Workfront]
 
-Você pode configurar o [!DNL Workfront] [!UICONTROL Calendário da página inicial] configurações para fazer o seguinte:
+Você pode definir as configurações do [!UICONTROL Calendário da página inicial] do [!DNL Workfront] para fazer o seguinte:
 
-* Integrar a uma versão baseada na Web do [!DNL Outlook] em nuvem [!DNL Office 365] ou [!DNL Outlook Live]. Você pode exibir todos os eventos de seu [!DNL Outlook] calendário e qualquer calendário associado selecionado, como calendários de Aniversários e Feriados, no [!DNL Workfront] [!UICONTROL Calendário da página inicial].
+* Integre com uma versão do [!DNL Outlook] baseada na web no [!DNL Office 365] hospedado na nuvem ou [!DNL Outlook Live]. Você pode exibir todos os eventos do calendário do [!DNL Outlook] e quaisquer calendários associados que você selecionar, como calendários de aniversários e feriados, no [!UICONTROL Calendário da página inicial] do [!DNL Workfront].
 
-* Ajudar a controlar sua carga de trabalho em relação às horas de trabalho disponíveis na barra Alocação.
+* Ajuda você a acompanhar sua carga de trabalho em relação às horas de trabalho disponíveis na barra Alocação.

@@ -1,5 +1,5 @@
 ---
-title: Entender a criação básica de projetos
+title: Noções básicas sobre a criação de projetos
 description: Aprenda as quatro etapas para colocar um projeto em funcionamento, a definição de um projeto e as três formas mais comuns de se criar um projeto.
 activity: use
 feature: Work Management
@@ -14,21 +14,21 @@ doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 22%
+ht-degree: 83%
 
 ---
 
-# Entender a criação básica de projetos
+# Noções básicas sobre a criação de projetos
 
 Neste vídeo, você aprenderá:
 
-* Quatro etapas para colocar um projeto em funcionamento
-* A definição de um projeto em [!DNL Workfront]
+* Quatro etapas para iniciar a execução de um projeto
+* A definição de um projeto no [!DNL Workfront]
 * As três formas mais comuns de criar um projeto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Obtenha o seu [!DNL  Workfront] projetos ativos e em execução rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com foco primeiro nesses cinco campos:
+Inicie a execução dos projetos do [!DNL  Workfront] rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com um foco inicial nesses cinco campos:
 
 1. Tarefas
 1. Duração
@@ -36,4 +36,4 @@ Obtenha o seu [!DNL  Workfront] projetos ativos e em execução rapidamente usan
 1. Predecessoras
 1. Atribuições
 
-Depois que tudo estiver definido, altere o status do projeto para Atual para ativar o projeto. À medida que o projeto avança, convém acompanhar o andamento do trabalho, os problemas que surgem, as perguntas que precisam ser respondidas e muito mais. Lembre-se: você pode encontrar e gerenciar todas essas informações em [!DNL Workfront]!
+Depois que tudo estiver definido, altere o status do projeto para Atual para ativá-lo. À medida que o projeto avança, convém acompanhar o andamento do trabalho, os problemas que surgem, as perguntas que precisam ser respondidas e muito mais. Lembre-se que você pode encontrar e gerenciar todas essas informações no [!DNL Workfront].

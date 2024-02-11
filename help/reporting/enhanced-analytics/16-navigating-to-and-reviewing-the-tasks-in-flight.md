@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 89%
 
 ---
 
@@ -22,28 +22,28 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* Como acessar as tarefas no fluxograma
+* Como acessar o gráfico Tarefas em andamento
 * Como ver rapidamente quais tarefas não foram concluídas em um projeto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
 
 ## Dados no nível da tarefa
 
-O gráfico Tarefas em andamento permite que você se aprofunde nas tarefas de um projeto específico para ver a quantidade de trabalho concluído para cada tarefa ativa e a programação das tarefas. O gráfico permite compreender quais tarefas em um projeto precisam ser concluídas e qual é a porcentagem de conclusão dessas tarefas.
+O gráfico Tarefas em andamento permite ver detalhes das tarefas de um projeto específico, como a quantidade de trabalho concluído para cada tarefa ativa e se as tarefas estão dentro do cronograma. O gráfico permite entender quais tarefas de um projeto precisam ser concluídas e qual é o percentual de conclusão delas.
 
 Essas informações podem ajudar você a determinar:
 
-* Em que as pessoas estão trabalhando.
-* Quais tarefas poderiam estar colocando um projeto em risco.
-* Quão próxima está a conclusão de uma tarefa.
+* No que as pessoas estão trabalhando.
+* Quais tarefas podem estar colocando um projeto em risco.
+* Quão perto uma tarefa está da conclusão.
 * Com quem você precisa falar sobre uma tarefa específica.
 
-![Uma imagem que mostra uma tarefa no fluxograma com números nas áreas descritas abaixo](assets/section-2-11.png)
+![Uma imagem mostrando um gráfico de tarefas em andamento com números nas áreas descritas nos marcadores abaixo](assets/section-2-11.png)
 
 No gráfico, você pode ver:
 
 1. Nomes de tarefas à esquerda.
 1. Datas na parte inferior.
-1. A cor azul escuro em uma barra de tarefas indica a quantidade de trabalho concluído para uma tarefa.
-1. A cor azul-claro em uma barra de tarefas indica a quantidade de trabalho que precisa ser concluído para uma tarefa.
-1. O número à direita de uma barra de tarefas mostra a porcentagem de conclusão da tarefa.
+1. A cor azul-escuro na barra de tarefas indica a quantidade de trabalho concluído para uma tarefa.
+1. A cor azul claro na barra de tarefas indica a quantidade de trabalho que precisa ser concluído para uma tarefa.
+1. O número no lado direito da barra de tarefas mostra a porcentagem de conclusão da tarefa.

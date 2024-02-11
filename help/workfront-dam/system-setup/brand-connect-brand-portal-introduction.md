@@ -1,6 +1,6 @@
 ---
 title: Entender o Brand Portal
-description: Saiba como acessar o Brand Portal no [!UICONTROL DAM DO WORKFRONT], criar pastas, definir datas de expiração em ativos individuais e editar configurações de ativos.
+description: Saiba como acessar o Brand Portal no [!UICONTROL DAM do Workfront], criar pastas, definir datas de expiração em ativos individuais e editar configurações de ativos.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -13,7 +13,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
@@ -30,10 +30,10 @@ Neste vídeo, você aprenderá a:
 
 ## Pastas de ativos
 
-As pastas atendem a vários propósitos no [!UICONTROL DAM DO WORKFRONT]. Primeiro, elas são um meio de organizar ativos. Em segundo lugar, são usados para conceder a diferentes grupos de usuários acesso aos ativos dentro das pastas.
+As pastas servem para vários propósitos no [!UICONTROL DAM do Workfront]. Primeiro, elas são um meio de organizar ativos. Em segundo lugar, são usadas para conceder acesso aos ativos dentro das pastas a diferentes grupos de usuários.
 
-Alguns usuários navegarão pelas pastas para localizar os ativos desejados, em vez de pesquisar. Uma estrutura de pastas lógica e planejada direcionará esses usuários para o lugar certo. Alguns [!UICONTROL DAM DO WORKFRONT] os clientes organizam pastas por departamento, tipo de arquivo, assunto do ativo, produto, evento ou fluxo de trabalho. Mas o que funciona para uma organização pode não funcionar para outra.
+Alguns usuários navegarão pelas pastas para encontrar os ativos que desejam, em vez de pesquisar. Uma estrutura de pastas lógica e bem pensada direcionará esses usuários ao lugar certo. Alguns clientes do [!UICONTROL DAM do Workfront] organizam pastas por departamento, tipo de arquivo, assunto do ativo, produto, evento ou fluxo de trabalho. Mas o que funciona para uma organização pode não funcionar para outra.
 
-As pastas também mostram como os usuários recebem acesso aos ativos. Os usuários são organizados em grupos e, em seguida, os grupos recebem permissão para acessar as pastas. As permissões em pastas podem variar por grupo — somente visualização, upload de ativos, download de ativos, edição de ativos, etc.
+As pastas também são a forma como os usuários recebem acesso aos ativos. Os usuários são organizados em grupos e, em seguida, esses grupos recebem permissão para acessar as pastas. As permissões para pastas podem variar por grupo: somente visualização, upload de ativos, download de ativos, edição de ativos etc.
 
-Ao criar pastas e pastas aninhadas, lembre-se dos grupos e usuários que precisarão acessar os ativos nas pastas. A estrutura dos grupos pode afetar a maneira como você organiza as pastas; e como as pastas são organizadas pode afetar como os grupos são criados.
+Ao criar pastas e pastas aninhadas, tenha em mente os grupos e usuários que precisarão acessar os ativos contidos nessas pastas. A estrutura dos grupos pode afetar a maneira como você organiza as pastas, e a forma como as pastas são organizadas pode afetar como os grupos são criados.

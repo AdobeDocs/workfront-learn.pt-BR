@@ -1,6 +1,6 @@
 ---
-title: Entenda a necessidade de administradores de grupo
-description: Saiba como os administradores de sistema podem usar administradores de grupo para ajudar a manter [!DNL Workfront] configurações, além de dar aos grupos mais controle sobre o trabalho.
+title: Entenda a necessidade de admins de grupo
+description: Saiba como os administradores de sistema podem usar administradores de grupo para ajudar a manter as configurações do [!DNL Workfront] e, ao mesmo tempo, conceder aos grupos mais controle sobre o trabalho.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,60 +13,60 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entenda a necessidade de administradores de grupo
+# Entenda a necessidade de admins de grupo
 
 <!---
 21.4 updates have been made
 --->
 
-Quando você é o administrador do sistema de uma grande empresa ou uma que tem muitas [!DNL Workfront] usuários, manutenção [!DNL Workfront] as configurações de cada grupo e subgrupo podem ser demoradas.
+Quando você atua como admin de sistema de uma grande empresa ou que possui muitos usuários do [!DNL Workfront], manter as configurações do [!DNL Workfront] para cada grupo e subgrupo pode exigir bastante tempo.
 
-Nomear administradores de grupos que podem executar algumas funções administrativas para seus próprios grupos no [!DNL Workfront] ajuda a equilibrar a carga quando se trata de atualizar e manter o sistema.
+Nomear admins de grupo que possam realizar algumas funções administrativas em seus próprios grupos no [!DNL Workfront] ajuda a equilibrar a carga, quando se trata de atualização e manutenção do sistema.
 
-Os administradores de grupo tendem a estar mais em sintonia com os desafios diários de seu grupo, para que possam gerenciar as necessidades do grupo. Isso permite que você, como administrador do sistema, se concentre na [!DNL Workfront] configurações que beneficiam sua organização como um todo.
+Geralmente, admins de grupo estão mais a par dos desafios diários de seus grupos, o que permite que atendam às necessidades do grupo. Isso permite que você, como admin de sistema, concentre-se nas configurações do [!DNL Workfront] que beneficiam a organização como um todo.
 
-Algumas das coisas que os administradores de grupos podem fazer no [!DNL Workfront] incluem:
+Algumas das coisas que admins de grupo podem fazer no [!DNL Workfront] incluem:
 
-* Criar subgrupos e adicionar usuários aos subgrupos.
-* Crie modelos de layout para seu grupo.
+* Criar subgrupos e adicionar usuários a eles.
+* Criar modelos de layout para seu grupo.
 * Criar processos de aprovação para o grupo.
-* Crie status de fluxo de trabalho de nível de grupo.
-* Acesse projetos, programas e portfólios associados ao grupo na página Grupo.
-* Gerencie preferências de projetos, tarefas e problemas no nível do grupo.
-* Gerenciar preferências de planilha de horas no nível do grupo.
-* Gerenciar notificações de eventos de nível de grupo.
-* Efetue login como outros membros do grupo.
-* Atribuir um líder comercial ao grupo.
+* Criar status de fluxo de trabalho para o grupo.
+* Acessar projetos, programas e portfólios associados ao grupo na página do grupo.
+* Gerenciar as preferências dos projetos, tarefas e problemas do grupo.
+* Gerenciar as preferências de folha de horas do grupo.
+* Gerenciar notificações de eventos do grupo.
+* Fazer logon como outros membros do grupo.
+* Designar um(a) líder empresarial para o grupo.
 * Gerenciar uma empresa.
 
-Como administrador de sistema ou de grupo, você pode criar subgrupos dentro dos grupos e subgrupos que administra. Esses subgrupos podem ser atribuídos a seus próprios administradores de grupo.
+Como admin de sistema ou grupo, você pode criar subgrupos dentro dos grupos e subgrupos que administra. Esses subgrupos podem ter seus próprios(as) admins de grupo.
 
 >[!NOTE]
 >
->Há um limite de 14 níveis de subgrupos em um grupo.
+>Há um limite de 14 níveis de subgrupos por grupo.
 
-**Saiba mais sobre administradores de grupo**
+**Saiba mais sobre admins de grupo**
 
 <!---
 bullet points below need hyperlinks
 --->
 
-Para obter uma lista do que os administradores de sistema, administradores de grupo e administradores de subgrupo podem fazer no [!DNL Workfront], consulte o artigo Ações permitidas para diferentes tipos de administradores.
+Para obter uma lista do que admins de sistema, de grupo e de subgrupo podem fazer no [!DNL Workfront], consulte o artigo “Ações permitidas para diferentes tipos de admins”.
 
 ## Gerenciar um grupo
 
-Gerencie de maneira rápida e eficiente membros do grupo, subgrupos, status do grupo, preferências do projeto do grupo e muito mais na página do grupo no [!DNL Workfront].
+Gerencie de maneira rápida e eficiente os membros dos grupos, subgrupos, status dos grupos, preferências dos projetos dos grupos e muito mais na página do grupo no [!DNL Workfront].
 
-1. Selecionar **[!UICONTROL Configuração]** do **[!UICONTROL Menu principal]**.
-1. Ir para **[!UICONTROL Grupos]** no painel esquerdo.
+1. Selecione **[!UICONTROL Configurar]** no **[!UICONTROL Menu principal]**.
+1. Acesse **[!UICONTROL Grupos]** no painel esquerdo.
 1. Selecione o nome de um grupo para abri-lo.
-1. Abra a seção em que deseja fazer atualizações clicando nela no painel esquerdo.
+1. Clique na seção do painel esquerdo na qual deseja fazer atualizações para abri-la.
 
-![Página de grupo](assets/admin-fund-manage-a-group.png)
+![Página do grupo](assets/admin-fund-manage-a-group.png)
 
 <!---
 learn more URLs

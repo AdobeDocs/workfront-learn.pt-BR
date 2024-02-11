@@ -1,6 +1,6 @@
 ---
-title: Prática recomendada - Portfolio e programas
-description: Explore as recomendações de práticas recomendadas dos especialistas da Adobe Workfront sobre a configuração, o gerenciamento e o uso de portfólios e programas.
+title: 'Prática recomendada: portfólios e programas'
+description: Explore as práticas recomendadas dos especialistas do Adobe Workfront sobre a configuração, o gerenciamento e o uso de portfólios e programas.
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
@@ -9,45 +9,45 @@ exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 0%
+ht-degree: 83%
 
 ---
 
-# Prática recomendada - Portfolio e programas
+# Prática recomendada: portfólios e programas
 
-## O que é uma &quot;prática recomendada&quot; do Adobe Workfront?
+## O que é uma “prática recomendada” do Adobe Workfront?
 
-As práticas recomendadas são diretrizes que representam um curso de ação eficaz e eficiente; são facilmente adotadas por você e pelos usuários em sua empresa; e podem ser replicadas com sucesso em toda a organização.
+As práticas recomendadas são diretrizes para um curso de ação eficaz e eficiente; elas podem ser facilmente adotadas por qualquer usuário da empresa e replicadas com sucesso em toda a organização.
 
-Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas ao tópico. Use essas práticas recomendadas como uma estrutura para ajudar a orientar as configurações e o uso do sistema Workfront.
+Ao revisar essas recomendações, lembre-se de que algumas práticas recomendadas do Workfront são universais, enquanto outras podem ser mais específicas para um determinado assunto. Use essas práticas recomendadas como uma base para orientar as configurações e o uso do sistema do Workfront.
 
-## Navegando nesta página
+## Navegar nesta página
 
-Ao percorrer essa página, primeiro você encontrará uma lista de alto nível de todas as práticas recomendadas para o tópico. Isso permite analisar as recomendações sem mergulhar nos detalhes do &quot;por quê&quot;.
+Ao percorrer esta página, primeiro você encontrará uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem se aprofundar nos detalhes do “porquê”.
 
-O &quot;Por que essas práticas recomendadas?&quot; A área, localizada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta, etc. Você deve considerar a implementação com sua instância do Workfront.
+A seção “Por que essas práticas recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
 
-## Práticas recomendadas para Portfolio e programas
+## Práticas recomendadas para portfólios e programas
 
 * Aproveite portfólios e programas para ajudar a gerenciar projetos e relatórios.
 
 </br>
 </br>
 
-## Por que essas práticas recomendadas?
+## Por que essas práticas são recomendadas?
 
 **Prática recomendada**
 
 Aproveite portfólios e programas para ajudar a gerenciar projetos e relatórios.
 
-**Aqui está o porquê**
+**Entenda o porquê**
 
-Ao usar portfólios e programas, você pode usar ferramentas adicionais da Workfront com mais eficiência. Por exemplo, em um relatório, é possível exibir apenas um conjunto de projetos que têm os mesmos objetivos ou estão disputando o mesmo orçamento. Ao organizar projetos em um portfólio e/ou programa, você pode filtrar facilmente esses projetos por esse portfólio, em vez de vários outros critérios para restringir o relatório.
+Ao usar portfólios e programas, você pode usar ferramentas adicionais do Workfront com mais eficiência. Por exemplo, em um relatório, você pode querer visualizar apenas um conjunto de projetos que tenhm os mesmos objetivos ou que disputam o mesmo orçamento. Ao organizar projetos em um portfólio e/ou programa, você pode filtrar facilmente esses projetos por esse portfólio, em vez de vários outros critérios para restringir o relatório.
 
-Além disso, você pode empregar ferramentas adicionais, como o relatório de Utilização, que ajuda a entender como e onde os usuários estão trabalhando, ou o Otimizador de Portfolio, que facilita a priorização de projetos e o alinhamento com as metas e estratégias gerais da empresa.
+Além disso, você pode empregar ferramentas adicionais, como o Relatório de utilização, que ajuda a entender como e onde os usuários estão trabalhando, ou o Otimizador de portfólios, que facilita a priorização de projetos e o alinhamento com as metas e estratégias gerais da empresa.
 
 Para entender como filtrar uma lista de projetos por um portfólio específico, consulte &quot;Atividade 1 - Todos os projetos no portfólio de marketing&quot; em [Criar atividades básicas de filtro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
 

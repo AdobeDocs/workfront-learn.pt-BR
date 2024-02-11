@@ -1,6 +1,6 @@
 ---
 title: Introdução e estratégia técnica
-description: Saiba mais sobre a potência e a flexibilidade do [!DNL Adobe Workfront Fusion]e como começar a usar sua própria instância do Fusion.
+description: Saiba mais sobre os recursos e a flexibilidade do  [!DNL Adobe Workfront Fusion] e aprenda a usar sua própria instância do Fusion.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,40 +13,40 @@ exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 100%
 
 ---
 
 # Introdução e estratégia técnica
 
-Saiba mais sobre a potência e a flexibilidade do [!DNL Adobe Workfront Fusion]e como começar a usar sua própria instância do Fusion.
+Saiba mais sobre os recursos e a flexibilidade do [!DNL Adobe Workfront Fusion] e aprenda a usar sua própria instância do Fusion.
 
 ## O que é o Adobe Workfront Fusion?
 
-O Workfront Fusion é uma plataforma de integração avançada que permite que o trabalho flua livremente entre sistemas e equipes. Sua função é automatizar seus processos para que você possa se concentrar em novas tarefas em vez de repetir as mesmas tarefas repetidamente. Ele funciona vinculando ações em e entre aplicativos e serviços para criar um cenário que transfere e transforma seus dados automaticamente.
+O Workfront Fusion é uma plataforma de integração avançada que garante um fluxo de trabalho livre entre sistemas e equipes. Sua função é automatizar processos para que você possa se concentrar em novas tarefas, em vez de repetir as mesmas continuamente. Ele trabalha vinculando ações em vários aplicativos e serviços para criar um cenário que transfere e transforma seus dados automaticamente.
 
 ## Como obter o Fusion
 
-O Fusion é um produto complementar incluído em alguns pacotes do Workfront e não em outros. Se seu pacote do Workfront não incluir as vendas de contato do Fusion.
+O Fusion é um produto complementar incluído em alguns pacotes do Workfront. Se seu pacote do Workfront não inclui o Fusion, entre em contato com a equipe de vendas.
 
 ## Introdução ao uso do Fusion
 
-Para fazer qualquer coisa no Fusion, você precisa fazer parte de uma equipe em uma organização. O administrador do sistema Fusion criará equipes em sua organização e convidará os usuários para uma ou mais equipes.
+Para realizar qualquer tarefa no Fusion, você precisa fazer parte da equipe de uma organização. O(a) admin de sistema do Fusion criará equipes em sua organização e convidará usuários para uma ou mais delas.
 
-Seu administrador do sistema Fusion enviará a você um novo convite de usuário, que consistirá em dois emails. Ao receber ambos os emails, siga as instruções em [Efetuar login como um novo usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=en).
+O(a) admin enviará um convite para um novo usuário, que consistirá em dois emails. Ao receber os emails, siga as instruções da seção [Efetuar logon como um novo usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=pt-BR).
 
-Se você for o administrador do sistema Fusion, deverá consultar os seguintes tutoriais para saber como criar equipes e adicionar novos usuários.
+Caso você seja admin de sistema do Fusion, consulte os seguintes tutoriais para saber como criar equipes e adicionar novos usuários.
 
-* [Entender organizações, equipes e usuários](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
-* [Apresentação de administração](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
+* [Entenda as organizações, equipes e usuários](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=pt-BR)
+* [Tutorial sobre administração](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=pt-BR)
 
 ## Introdução e estratégia técnica
 
 Neste vídeo, você verá:
 
-* O poder e a flexibilidade do Fusion
-* Recursos principais e de designer do Fusion
-* Um cenário de exemplo do Fusion
+* A tecnologia e flexibilidade do Fusion
+* Recursos principais e o designer do Fusion
+* Um exemplo de cenário do Fusion
 
 >[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on)

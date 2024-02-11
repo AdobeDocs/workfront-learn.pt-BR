@@ -1,6 +1,6 @@
 ---
-title: Entender a seção de gráficos
-description: Saiba como ler e interpretar o gráfico Integridade da meta e o gráfico Progresso da meta no [!DNL Goals].
+title: Entenda a seção de gráficos
+description: Aprenda a ler e interpretar o gráfico Integridade da meta e o gráfico Progresso da meta no [!DNL   Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -13,19 +13,19 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Entender a seção de gráficos
+# Entenda a seção de gráficos
 
-## Integridade dos gráficos e metas
+## Gráficos e integridade da meta
 
-A variável [!UICONTROL Gráficos] permite visualizar a integridade geral e o progresso de suas metas. Fique atento às tendências ao longo do tempo e veja um resumo abrangente do progresso de suas metas em um período específico. Os dois gráficos padrão são o gráfico Integridade da Meta e o gráfico Progresso da Meta. Essas informações são essenciais para manter as metas da empresa alinhadas em todas as iniciativas estratégicas.
+A seção [!UICONTROL Gráficos] permite ver a integridade geral e o progresso das metas. Fique atento às tendências ao longo do tempo e veja um panorama abrangente do progresso de suas metas em um período específico. Os dois gráficos padrão são o gráfico Integridade da meta e o gráfico Progresso da meta. Essas informações são essenciais para manter as metas da empresa alinhadas em todas as iniciativas estratégicas.
 
 Neste vídeo, você aprenderá a:
 
-* Ler e interpretar o gráfico de integridade da meta
-* Ler e interpretar o gráfico de Progresso da Meta
+* Ler e interpretar o gráfico Integridade da meta
+* Ler e interpretar o gráfico Progresso da meta
 
 >[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on)

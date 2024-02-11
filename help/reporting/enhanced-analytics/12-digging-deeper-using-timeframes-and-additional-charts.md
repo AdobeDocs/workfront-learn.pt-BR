@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 51%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Neste vídeo, você aprenderá:
 
-* Como detalhar um projeto no gráfico Plano de voo para fazer com que o gráfico Burndown e o gráfico Tarefas em voo apareçam
-* Como criar um filtro de período para ampliar em um intervalo de datas
+* Como detalhar um projeto no gráfico Plano de andamento para exibir o gráfico de burndown e o gráfico de tarefas em andamento
+* Como criar um filtro de período para ampliar um intervalo de datas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)
