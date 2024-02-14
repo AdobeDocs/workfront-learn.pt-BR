@@ -8,11 +8,12 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11037
+recommendations: noDisplay,noCatalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '706'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '697'
+ht-degree: 88%
 
 ---
 
@@ -24,11 +25,11 @@ No início do treinamento do Workfront Fusion, você aprendeu algumas práticas 
 
 Como regra geral, o objetivo principal do Workfront Fusion é sempre utilizar designs de cenários simples. Veja algumas maneiras de criar designs simples de se interpretar.
 
-* Nomeie todos os módulos. Clique com o botão direito em um módulo e selecione Renomear. Os rótulos dos módulos devem ser curtos, mas também devem descrever bem o objetivo do módulo. Por exemplo, “Criar proj mktg c/ modelo ch”.
+* Nomeie todos os módulos. Clique com o botão direito em um módulo e selecione Renomear. Os rótulos dos módulos devem ser curtos, mas também devem descrever bem o objetivo do módulo. Por exemplo, &quot;Criar Proj Mktg Com Modelo Ch&quot;.
   ![Uma imagem de um cenário de tratamento de erros](assets/design-optimization-and-testing-1.png)
-* Rotule também os caminhos de roteamento. Mesmo que um caminho não use um filtro diretamente após um roteador, você poderá aplicar um rótulo sem preencher a lógica do filtro. Fazer isso permite que outros entendam quais pacotes passam por quais caminhos e por quê. Para criar um rótulo para um caminho de roteador sem filtro, clique com o botão direito do mouse no caminho, adicione um rótulo e salve.
+* Rotule também os caminhos de roteamento. Mesmo que um caminho não use um filtro diretamente após um roteador, você pode aplicar um rótulo sem preencher a lógica do filtro. Fazer isso permite que outros entendam quais pacotes passam por quais caminhos e por quê. Para criar um rótulo para um caminho de roteador sem filtro, clique com o botão direito do mouse no caminho, adicione um rótulo e salve.
   ![Uma imagem de um cenário de tratamento de erros](assets/design-optimization-and-testing-2.png)
-* Adicione notas em um cenário (onde for necessário) se um rótulo de módulo ou rótulo de caminho de roteamento for muito curto para esclarecer o que realmente está acontecendo. É possível adicionar notas sempre que necessário durante todo o processo de design e iteração.
+* Adicione observações, quando aplicável, em um cenário se um rótulo de módulo ou de caminho de roteamento for muito curto para esclarecer o que realmente está acontecendo. É possível adicionar notas sempre que necessário durante todo o processo de design e iteração.
 
 No entanto, adicionar notas no final do design do cenário, quando tudo estiver pronto para o lançamento, pode facilitar a leitura e a compreensão. Trabalhe do final do design do cenário (no canto inferior direito) para trás. Dessa forma, as notas que se aplicam ao início do cenário estarão no topo da lista ao abrir o painel de notas.
 
@@ -66,7 +67,7 @@ Você pode criar um modelo na seção Modelos de equipe. O modelo criado está d
 
 Ao criar o modelo, você pode incluir um assistente para orientar as pessoas que o usam para criar seus cenários, alterando as conexões, os dados mapeados e outros campos de painel, conforme necessário.
 
-Marque a caixa de seleção “Usar no assistente” para adicionar instruções que estarão disponíveis quando alguém usar seu modelo para construir um cenário. Essas informações aparecerão no campo Ajuda. Para permitir que os usuários vejam esse texto ao usar o modelo, habilite a opção Usar como valor padrão.
+Marque a caixa de seleção &quot;Usar no assistente&quot; para adicionar instruções que estarão disponíveis quando alguém criar um cenário usando seu modelo. Essas informações aparecerão no campo Ajuda. Para permitir que os usuários vejam esse texto ao usar o modelo, habilite a opção Usar como valor padrão.
 
 ![Uma imagem de um cenário de tratamento de erros](assets/design-optimization-and-testing-8.png)
 

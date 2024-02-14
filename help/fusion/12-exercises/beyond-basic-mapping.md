@@ -1,5 +1,5 @@
 ---
-title: Além do mapeamento básico
+title: Além do exercício básico de mapeamento
 description: Saiba como usar as fórmulas do painel de mapeamento para manipular ou converter campos enviados para um módulo.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11039
 thumbnail: KT11039.png
+recommendations: noDisplay,noCatalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '302'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 97%
 
 ---
 
-# Além do mapeamento básico
+# Além do exercício básico de mapeamento
 
 Saiba como usar as fórmulas do painel de mapeamento para manipular ou converter campos enviados para um módulo.
 

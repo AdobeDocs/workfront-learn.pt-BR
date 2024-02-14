@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Use o módulo Definir variável para enviar um número por vários caminhos e ve
 O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o exercício em seu próprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
-
->[!TIP]
->
->Para obter instruções passo a passo sobre como concluir o tutorial, acesse o exercício [ Tutorial sobre padrões de roteamento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=pt-BR).
 
 
 ## Quer saber mais? Recomendamos o seguinte:

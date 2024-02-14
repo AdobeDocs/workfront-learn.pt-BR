@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 Ao pensar em uma automação antes de construí-la, existem estratégias que você pode implantar para minimizar o retrabalho necessário ou o número de iterações pelas quais você deve passar.
 
-Você economizará mais tempo definindo um caso de uso claro acionado por um evento específico. Quando você não reserva um tempo desde o início para ter certeza de que está indo na direção certa, acabará com cenários complexos ou ineficientes.
+Você economizará mais tempo definindo um caso de uso claro acionado por um evento específico. Quando você não leva tempo para se certificar de que está indo na direção certa, você vai acabar com cenários complexos ou ineficientes.
 
 Neste vídeo, você aprenderá a:
 

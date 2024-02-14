@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '140'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -36,10 +37,6 @@ O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o e
 Site da API de Pokémon: `https://pokeapi.co/`
 
 URL para o exercício: `https://pokeapi.co/api/v2/pokemon/{Character}`
-
->[!TIP]
->
->Para obter instruções passo a passo sobre como concluir o tutorial, acesse o exercício [Tutorial de introdução aos conectores universais](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=pt-BR).
 
 
 ## Quer saber mais? Recomendamos o seguinte:

@@ -1,6 +1,6 @@
 ---
 title: Tutorial de como acessar versões anteriores
-description: Descubra como restaurar versões anteriores após fazer alterações no cenário e salvá-las no  [!DNL Adobe Workfront Fusion].
+description: Descubra como é possível restaurar versões anteriores depois de fazer alterações no cenário e salvá-las em [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 Neste vídeo, você:
 
-* Descubra como restaurar versões anteriores após fazer alterações no cenário e salvá-las diversas vezes.
+* Descubra como é possível restaurar versões anteriores depois de fazer alterações no cenário e salvar várias vezes.
 
 ## Tutorial de como acessar versões anteriores
 
@@ -33,9 +34,6 @@ O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o e
 >
 >Depois de salvar o cenário, uma nova versão estará disponível no menu de três pontos caso você precise acessá-la no futuro. As versões de cenários salvas anteriormente ficam disponíveis somente por 60 dias. Se você precisar acessar versões anteriores a 60 dias para fins de auditoria, o Workfront recomenda salvar um blueprint do cenário e arquivá-lo em um local determinado.
 
->[!TIP]
->
->Para obter instruções passo a passo sobre como concluir o tutorial, acesse o exercício [Tutorial de como acessar versões anteriores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=pt-BR).
 
 ## Adicionar à terminologia
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '168'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o e
 
 >[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
->[!TIP]
->
->Para obter instruções passo a passo sobre como concluir a apresentação, acesse o exercício [Introdução à apresentação de iteradores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=br).
 
 
 ## Quer saber mais? Recomendamos o seguinte:

@@ -1,6 +1,6 @@
 ---
-title: Acessar versões anteriores
-description: Saiba como retornar para uma versão anterior de um cenário. (Deve conter entre 60 e 160 caracteres, mas contém 56 caracteres)
+title: Acesso ao exercício de versões anteriores
+description: Saiba como retornar a uma versão anterior de um [!UICONTROL Fusão] cenário.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 88%
 
 ---
 
-# Acessar versões anteriores
+# Acesso ao exercício de versões anteriores
 
 Saiba como retornar para uma versão anterior de um cenário.
 

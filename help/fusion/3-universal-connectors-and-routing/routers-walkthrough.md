@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '853'
 ht-degree: 100%
 
 ---
@@ -37,9 +38,6 @@ O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o e
 
 Se tiver problemas para acessar o seu próprio token de super-herói, você pode usar este token compartilhado: 10110256647253588. Leve em consideração quantas vezes você chama o “Superhero API”, para que esse token compartilhado continue funcionando para todos.
 
->[!TIP]
->
->Para obter instruções passo a passo sobre como concluir o tutorial, acesse o exercício [Tutorial sobre roteadores](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=pt-BR).
 
 
 ## Pesquisar itens no painel de mapeamento
