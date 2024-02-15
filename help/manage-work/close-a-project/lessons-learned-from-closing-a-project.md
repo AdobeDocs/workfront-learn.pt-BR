@@ -11,18 +11,18 @@ level: Beginner
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Relembrar as lições aprendidas
 
-Como parte do fechamento de um projeto, alguns clientes do Workfront incluem uma tarefa de &quot;lições aprendidas&quot;. Essa tarefa pode ser usada de maneiras diferentes.
+Como parte do encerramento de um projeto, alguns clientes do Workfront incluem uma tarefa de “lições aprendidas”. Essa tarefa pode ser usada de maneiras diferentes.
 
-* Use uma tarefa &quot;lições aprendidas&quot; para representar uma reunião. Colete anotações da reunião nas atualizações da tarefa.
-* Ou anexe um formulário personalizado à tarefa ou ao projeto para capturar as informações &quot;lições aprendidas&quot; de que você precisa.
+* Use uma tarefa de “lições aprendidas” para representar uma reunião. Colete anotações da reunião nas atualizações da tarefa.
+* Ou anexe um formulário personalizado à tarefa ou projeto para coletar as informações necessárias das “lições aprendidas”.
 
 Uma vantagem do formulário personalizado é que todos os campos podem ser relatados, portanto, é possível criar relatórios personalizados do [!DNL Workfront] para revisar e gerenciar essas informações, identificando as lições aprendidas em vários tipos ou conjuntos de projetos.
 
@@ -30,4 +30,4 @@ Se sua organização possui um processo pós-projeto mais complexo, com etapas s
 
 Com esse método, você pode encerrar o projeto usado para os entregáveis reais, o que mantém os relatórios do projeto concluído mais precisos. Em seguida, use um projeto separado para acompanhar as etapas do processo pós-conclusão.
 
-Converse com seus clientes internos [!DNL Workfront] para saber mais sobre o processo pós-projeto de sua organização.
+Converse com sua equipe interna do [!DNL Workfront] para saber mais sobre o processo pós-projeto de sua organização.
