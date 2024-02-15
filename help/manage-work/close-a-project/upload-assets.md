@@ -11,15 +11,15 @@ level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Faça upload de ativos
 
-Antes de encerrar um projeto no [!DNL Workfront], certifique-se de que todos os arquivos relevantes tenham sido anexados na seção [!UICONTROL Documentos]. Faça upload desses itens como um documento ou uma prova, conforme determinado pelas diretrizes da sua organização.
+Antes de encerrar um projeto no [!DNL Workfront], certifique-se de que todos os arquivos relevantes tenham sido anexados na seção [!UICONTROL Documentos]. Faça upload desses itens como documento ou prova, conforme determinado pelas diretrizes da organização.
 
 Talvez seja necessário fazer upload do documento ou da prova como uma versão de um arquivo existente.
 
