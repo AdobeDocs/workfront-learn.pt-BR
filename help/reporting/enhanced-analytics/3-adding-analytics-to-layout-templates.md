@@ -1,5 +1,5 @@
 ---
-title: Adicionar análises aos modelos de layout
+title: Adicionar a análise aos modelos de layout
 description: Saiba como os administradores de sistemas e grupos concedem acesso à análise.
 activity: use
 feature: Reports and Dashboards
@@ -15,15 +15,15 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Adicionar análises aos modelos de layout
+# Adicionar a análise aos modelos de layout
 
-Neste vídeo, você aprenderá como os administradores de sistema e de grupo concedem acesso a [!UICONTROL Analytics] no Workfront.
+Neste vídeo, você aprenderá como admins de sistema e de grupo concedem acesso de [!UICONTROL análise] no Workfront.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Qualquer pessoa com uma licença do Workfront (em [!UICONTROL Workfront Business] planos ou superior) podem acessar [!UICONTROL Analytics] depois de adicionado ao modelo de layout, ele é atribuído. No entanto, você só verá os projetos e as informações do usuário se permitido pelo nível de acesso do Workfront e pelas permissões de compartilhamento em projetos e usuários específicos.
+Qualquer pessoa com uma licença do Workfront (no [!UICONTROL Workfront Business] ou planos superiores) pode acessar a [!UICONTROL análise] depois de adicioná-la ao modelo de layout ao qual foi atribuída. No entanto, você só verá os projetos e as informações de usuário se possuir o nível de acesso do Workfront e as permissões de compartilhamento de projetos e usuários apropriadas.

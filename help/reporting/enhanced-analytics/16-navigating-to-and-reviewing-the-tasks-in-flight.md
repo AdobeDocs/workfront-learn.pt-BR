@@ -1,6 +1,6 @@
 ---
 title: Revisar as tarefas em andamento
-description: Saiba como acessar o Gráfico de tarefas em andamento e como ver rapidamente quais tarefas não foram concluídas em um projeto, tudo em [!UICONTROL Analítica aprimorada].
+description: Aprenda a acessar o gráfico Tarefas em andamento para ver rapidamente quais tarefas não foram concluídas em um projeto, tudo sem sair da [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

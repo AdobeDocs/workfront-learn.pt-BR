@@ -1,6 +1,6 @@
 ---
 title: 'Entenda as ações: passar o mouse, clicar e arrastar e clicar'
-description: Saiba como obter mais informações passando o cursor do mouse sobre um gráfico, criando um período em um gráfico e fazendo com que gráficos adicionais apareçam, tudo em [!UICONTROL Analítica aprimorada].
+description: Aprenda a obter mais informações passando o cursor do mouse sobre um gráfico, a criar um período em um gráfico e a exibir gráficos adicionais, tudo sem sair da [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

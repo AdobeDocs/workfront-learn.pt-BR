@@ -14,7 +14,7 @@ exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Selecione o tipo de gráfico da Análise que você deseja visualizar – Trabalh
 
 ![Uma imagem da descoberta do recurso de [!UICONTROL Análise] no [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Ao acessar os Gráficos de trabalho, você verá por padrão:
+Por padrão, ao acessar os Gráficos de trabalho você verá:
 
 1. Estatísticas de KPI
 1. Plano de voo

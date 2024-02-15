@@ -14,7 +14,7 @@ exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ A análise aprimorada pode mostrar como as suas equipes e projetos estão progre
 
 ## Pré-requisitos da análise
 
-Para aproveitar ao máximo as Análises aprimoradas do Workfront, é necessário garantir que suas equipes estejam inserindo dados e atualizando determinados campos com a maior precisão possível.
+Para aproveitar ao máximo as análises aprimoradas do Workfront, você precisa garantir que as suas equipes estejam inserindo dados e atualizando determinados campos com a maior precisão possível.
 
-Quando usamos o termo &quot;equipe&quot; no Analytics, nos referimos às &quot;equipes domésticas&quot;. Os usuários do Workfront podem estar em várias equipes, mas só podem estar em uma equipe interna. As equipes usadas nos gráficos de pessoas são compostas apenas por usuários que têm essa equipe designada como equipe interna.
+Na análise, o termo “equipe” se refere a “equipes internas”. Os usuários do Workfront podem estar em várias equipes, mas só podem estar em uma equipe interna. As equipes usadas nos gráficos de pessoas são compostas apenas por usuários que têm essa equipe designada como equipe interna.
 
 Comece com o pé direito, certificando-se de que todos os modelos de projeto tenham horas planejadas e durações corretas atribuídas a todas as tarefas.
 

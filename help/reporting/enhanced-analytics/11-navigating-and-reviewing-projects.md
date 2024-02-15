@@ -1,6 +1,6 @@
 ---
 title: Entenda a navegação e revisão de projetos
-description: Saiba como ler o gráfico Plano de voo no [!UICONTROL Analítica aprimorada].
+description: Saiba como ler o gráfico Plano de andamento na [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '459'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

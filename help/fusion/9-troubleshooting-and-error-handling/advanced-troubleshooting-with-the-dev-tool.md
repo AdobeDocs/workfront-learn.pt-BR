@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 81%
 
 Neste vídeo, você aprenderá:
 
-* Como instalar e usar o Workfront Fusion dev dool
+* Como instalar e usar a ferramenta de desenvolvimento do Workfront Fusion
 * Como revisar as diferentes ferramentas avançadas de design de cenários
 
 >[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on)

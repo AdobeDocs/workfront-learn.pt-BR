@@ -14,13 +14,13 @@ exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # Entenda a navegação básica
 
-Para navegar até [!UICONTROL Analytics] no Workfront, use o [!UICONTROL Menu principal] botão.
+Para navegar até a [!UICONTROL Análise] no Workfront, use o botão [!UICONTROL Menu principal].
 
 ![Uma imagem mostrando como encontrar o recurso de [!UICONTROL análise] no [!UICONTROL menu principal]](assets/Navigate-NWE.png) do Workfront
 

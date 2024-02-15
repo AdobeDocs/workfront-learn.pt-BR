@@ -1,6 +1,6 @@
 ---
 title: Entenda a orientação da consultoria
-description: Saiba como fazer recomendações para ajudar sua organização a operar com mais eficiência usando [!UICONTROL Analítica aprimorada] no Workfront.
+description: Aprenda como fazer recomendações para ajudar sua organização a operar com mais eficiência usando a [!UICONTROL Análise aprimorada] no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 

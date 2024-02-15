@@ -1,6 +1,6 @@
 ---
-title: Saiba mais usando cronogramas e gráficos adicionais
-description: Saiba como detalhar um projeto no gráfico Plano de voo para fazer com que o gráfico Burndown e o gráfico Tarefas em voo apareçam em [!UICONTROL Analítica aprimorada].
+title: Saiba mais sobre o uso de períodos e gráficos adicionais
+description: Aprenda a detalhar um projeto no gráfico Plano de andamento para exibir o gráfico de burndown e o gráfico de tarefas em andamento na [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -15,11 +15,11 @@ doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
-# Saiba mais usando cronogramas e gráficos adicionais
+# Saiba mais sobre o uso de períodos e gráficos adicionais
 
 Neste vídeo, você aprenderá:
 

@@ -6,7 +6,7 @@ feature-set: Workfront
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '2408'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -149,7 +149,7 @@ ht-degree: 94%
       + [Entenda as configurações para uma solicitação de fluxo](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Crie uma fila de solicitações](manage-work/request-queues/create-a-request-queue.md)
       + [Criar um fluxo de solicitação](manage-work/request-queues/create-a-request-flow.md)
-      + [Criar uma fila de solicitações de feedback de administrador do sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+      + [Criar uma fila de solicitações de feedback para admins de sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Respostas a perguntas comuns sobre filas de solicitações](manage-work/request-queues/request-queue-faq.md)
 
    + Portfólios {#portfolios}
@@ -346,7 +346,7 @@ ht-degree: 94%
       + [Configuração da integração](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=pt-BR)
       + [Mapeamento de metadados](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=pt-BR)
       + [Envio de documentos e vinculação de ativos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=pt-BR)
-      + [Manter histórico de versão](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=pt-BR)
+      + [Manter o histórico de versão](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=pt-BR)
 
    + G Suite {#g-suite-integrations}
       + [Aprimore seu fluxo de trabalho com a integração do G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -589,7 +589,7 @@ ht-degree: 94%
 + Ágil {#agile}
 
    + Scrum {#scrum}
-      + [Criar uma equipe ágil de Scrum](agile/create-a-scrum-agile-team.md)
+      + [Crie uma equipe ágil de Scrum](agile/create-a-scrum-agile-team.md)
       + [Gerenciar o trabalho como uma equipe de Scrum](agile/manage-work-scrum-team.md)
       + [Refinando a lista de pendências](agile/gooming-the-backlog.md)
       + [Planejar e criar uma iteração](agile/plan-and-create-an-iteration.md)

@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 40%
+ht-degree: 86%
 
 ---
 
@@ -37,11 +37,11 @@ Neste vídeo, você aprenderá:
 
 
 
-## Atividade 1: criar um relatório de observações com prompts
+## Atividade 1: criar um relatório de notas com solicitações
 
-Crie um relatório de notas que você pode usar para pesquisar notas do usuário (ou seja, comentários ou atualizações) ou notas do sistema com base no conteúdo da nota, no autor, na data de entrada, no nome do projeto ou no tipo de auditoria. Nomeie o relatório como &quot;Pesquisa de notas&quot;.
+Crie um relatório de notas que você pode usar para pesquisar notas do usuário (ou seja, comentários ou atualizações) ou notas do sistema com base no conteúdo da nota, no autor, na data de entrada, no nome do projeto ou no tipo de auditoria. Nomeie o relatório como “Pesquisa de notas”.
 
-Ao usar o prompt de texto da nota, este relatório pesquisará nas threads de atualização para extrair rapidamente qualquer um que atenda aos critérios especificados nos prompts. Ao executar o relatório, não é necessário preencher todos os prompts, apenas aqueles com os quais você se importa. Os que estão branco são automaticamente ignorados.
+Ao usar o prompt de texto da nota, este relatório pesquisará nas threads de atualização para extrair rapidamente qualquer um que atenda aos critérios especificados nos prompts. Ao executar o relatório, você não precisa preencher todas as solicitações, apenas as de seu interesse. Os que estão branco são automaticamente ignorados.
 
 A visualização deve incluir colunas para:
 
@@ -88,8 +88,8 @@ Inclua prompts para o seguinte:
    ![Uma imagem da tela para criar agrupamentos de relatórios de notas](assets/note-report-groupings.png)
 
 1. Deixe [!UICONTROL Filtros] em branco.
-1. Abertura **[!UICONTROL Configurações do relatório]** e nomeie o relatório como &quot;Pesquisa de Notas&quot;.
-1. No [!UICONTROL Descrição] , coloque algo como, &quot;Procure por notas do sistema ou do usuário com base no Tipo de auditoria selecionado e em outros prompts. As notas do sistema são exibidas na coluna Texto de auditoria e as notas do usuário são exibidas na coluna Texto de nota.&quot;
+1. Abra as **[!UICONTROL Configurações de relatório]** e nomeie o relatório como “Pesquisa de notas”.
+1. No campo [!UICONTROL Descrição], coloque algo como “Pesquisar notas do sistema ou do usuário com base no tipo de auditoria selecionado e outras solicitações. As notas do sistema são exibidas na coluna Texto da auditoria e as do usuário na coluna Texto da nota.”
 
    ![Uma imagem da tela para criar configurações de relatório de notas](assets/note-report-report-options.png)
 
@@ -111,25 +111,25 @@ Inclua prompts para o seguinte:
 
 ## Atividade 2: criar um relatório de feedback de equipe administrativa
 
-Este é um relatório de problemas que mostra todos os problemas de uma fila de solicitações de feedback criada para administradores do sistema. Você pode ver como criar essa fila de solicitações na [Criar uma fila de solicitações de feedback de administrador do sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) tutorial.
+Este é um relatório que mostra todos os problemas de uma fila de solicitações de feedback criada para admins de sistema. Você pode ver como criar essa fila de solicitações no tutorial [Criar uma fila de solicitações de feedback para admins de sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=pt-BR).
 
-Esse relatório também usa um formulário personalizado. Para saber como criar um formulário personalizado, consulte a [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) tutorial.
+Esse relatório também usa um formulário personalizado. Para saber como criar um formulário personalizado, consulte o tutorial [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=pt-BR).
 
-Este formulário personalizado deve ser criado da seguinte maneira:
+Esse formulário personalizado deve ser criado da seguinte maneira:
 
 Nome: feedback do processo administrativo
 
 1. Tipo de processo (campo suspenso)
    * níveis de acesso
    * processo de aprovação (somente global)
-   * notificações por email
-   * modelo de layout
-   * caminho de etapas
+   * notificações de email
+   * modelo de Layout
+   * caminho de marcos
    * modelo de projeto
    * notificações de lembrete
    * fila de solicitações
 1. Nome do processo (campo de texto de linha única)
-1. Nível do processo (campo suspenso)
+1. Grau do processo (campo suspenso)
    * 1 - totalmente inútil
    * 2 - não muito útil
    * 3 - bom, mas poderia ser melhor
@@ -138,22 +138,22 @@ Nome: feedback do processo administrativo
 
 Crie um relatório de problemas chamado **Relatório de feedback da equipe administrativa**.
 
-A exibição deve ter as seguintes colunas:
+A visualização deve ter as seguintes colunas:
 
-* Problema: Nome
-* Contato Primário: Nome
-* Problema: Tipo de processo
-* Problema: Nome do processo
-* Problema: Nível do processo
-* Problema: Problema ou boas notícias
-* Problema: Data de entrada
-* Problema: Idade
-* Problema: Atribuições
-* Problema: Status
+* Problema: nome
+* Contato principal: nome
+* Problema: tipo de processo
+* Problema: nome do processo
+* Problema: grau do processo
+* Problema: problema ou boas notícias
+* Problema: data de entrada
+* Problema: idade
+* Problema: atribuições
+* Problema: status
 
-Tipo de Grupo em Processo.
+Tipo de grupo do processo.
 
-Filtre a ID do projeto da fila de solicitações em que residem os problemas de feedback.
+Filtre a ID do projeto da fila de solicitações que contém os problemas de feedback.
 
 
 ![Uma captura de tela do relatório de feedback da equipe administrativa](assets/create-a-system-admin-feedback-request-queue.png)
@@ -163,17 +163,17 @@ Filtre a ID do projeto da fila de solicitações em que residem os problemas de 
 ## Resposta da atividade 2
 
 1. Selecione **[!UICONTROL Relatórios]** no **[!UICONTROL Menu principal]**.
-1. Clique em **[!UICONTROL Novo Relatório]** e selecione **[!UICONTROL Problema]**.
+1. Clique no menu **[!UICONTROL Novo relatório]** e selecione **[!UICONTROL Problema]**.
 1. Em **[!UICONTROL Colunas (Visualização)]** configure as colunas para incluir:
 
-   ![Uma imagem da tela para criar colunas de relatório de problemas](assets/task-report-activity-2-1.png)
+   ![Uma imagem da tela de criação de colunas de relatórios de problemas](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problema] > [!UICONTROL Nome]
-   * [!UICONTROL Contato Primário] > [!UICONTROL Nome]
-      * Observação: é exibido com &quot;Owner:Name&quot; como o rótulo da coluna. Você pode alterar para &quot;Reportado por&quot; clicando em Opções avançadas e digitando &quot;Reportado por&quot; na **Personalizar rótulo da coluna** campo.
+   * [!UICONTROL Contato principal] > [!UICONTROL Nome]
+      * Observação: “Owner:Name” é exibido como o rótulo da coluna. Você pode alterar isso para “Relatado por” clicando em Opções avançadas e digitando “Relatado por” no campo **Rótulo de coluna personalizado**.
    * [!UICONTROL Problema] > [!UICONTROL Tipo de processo]
    * [!UICONTROL Problema] > [!UICONTROL Nome do processo]
-   * [!UICONTROL Problema] > [!UICONTROL Nível do processo]
+   * [!UICONTROL Problema] > [!UICONTROL Grau do processo]
    * [!UICONTROL Problema] > [!UICONTROL Problema ou boas notícias]
    * [!UICONTROL Problema] > [!UICONTROL Data de entrada]
    * [!UICONTROL Problema] > [!UICONTROL Idade]
@@ -181,12 +181,12 @@ Filtre a ID do projeto da fila de solicitações em que residem os problemas de 
    * [!UICONTROL Problema] > [!UICONTROL Status]
 
 1. Selecione a coluna **[!UICONTROL Data de entrada]** e altere **[!UICONTROL Classificar para decrescente]**.
-1. No **[!UICONTROL Agrupamentos]** defina o relatório como agrupar por **[!UICONTROL Problema] > [!UICONTROL Tipo de processo]**.
+1. Na guia **[!UICONTROL Agrupamentos]**, defina o agrupamento do relatório como **[!UICONTROL Problema] > [!UICONTROL Tipo de processo]**.
 
-   ![Uma imagem da tela para criar agrupamentos de relatórios de problemas](assets/task-report-activity-2-2.png)
+   ![Uma imagem da tela de criação de agrupamentos de relatórios de problemas](assets/task-report-activity-2-2.png)
 
-1. No **[!UICONTROL Filtros]** adicione um filtro para a variável **[!UICONTROL Problema] > [!UICONTROL ID do projeto]** para igualar o projeto da fila de solicitações em que residem os problemas de feedback.
+1. Na guia **[!UICONTROL Filtros]**, adicione um filtro de **[!UICONTROL Problema] > [!UICONTROL ID do projeto]** igual ao do projeto da fila de solicitações que contém os problemas de feedback.
 
-   ![Uma imagem da tela para criar filtros de relatório de problemas](assets/task-report-activity-2-3.png)
+   ![Uma imagem da tela de criação de filtros de relatório de problemas](assets/task-report-activity-2-3.png)
 
 1. Salve e feche o relatório.

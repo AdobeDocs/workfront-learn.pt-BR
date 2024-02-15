@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,4 +35,4 @@ Neste vídeo, você aprenderá sobre:
 
 [Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=br)
 
-[Medidas de proteção de desempenho do Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Medidas de proteção do desempenho do Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html?lang=pt-BR)

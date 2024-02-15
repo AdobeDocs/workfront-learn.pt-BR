@@ -14,7 +14,7 @@ exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Basta clicar em uma data do calendário para iniciar o intervalo e, em seguida, 
 
 ![Uma imagem mostrando a seleção de um intervalo de datas no dispositivo de calendário](assets/section-1-3.png)
 
-Os gráficos do [!DNL Analytics] mostram dados dos últimos 60 dias e dos próximos 15 dias por padrão. Você pode selecionar um novo intervalo de datas e aplicá-lo a todos os gráficos enquanto estiver usando [!DNL Analytics].
+Os gráficos do [!DNL Analytics] mostram dados dos últimos 60 dias e dos próximos 15 dias por padrão. Você pode selecionar um novo intervalo de datas e aplicá-lo a todos os gráficos enquanto utiliza o [!DNL Analytics].
 
 Quando você atualiza a página, acessa outra página ou entra/sai do Workfront, o intervalo de datas é redefinido para o padrão.
 
