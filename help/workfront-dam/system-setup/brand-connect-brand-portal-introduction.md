@@ -1,5 +1,5 @@
 ---
-title: Entender o Brand Portal
+title: Entenda o Brand Portal
 description: Saiba como acessar o Brand Portal no [!UICONTROL DAM do Workfront], criar pastas, definir datas de expiração em ativos individuais e editar configurações de ativos.
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '229'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Entender o Brand Portal
+# Entenda o Brand Portal
 
 Neste vídeo, você aprenderá a:
 
