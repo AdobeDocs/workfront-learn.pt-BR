@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ O [!UICONTROL Percentual concluído] baseia-se no progresso geral das tarefas do
 
 >[!NOTE]
 >
->Uma configuração de sistema global afeta como a porcentagem concluída do projeto é calculada, com base na duração ou nas horas planejadas das tarefas.
+>Uma configuração de sistema global afeta como o percentual concluído do projeto é calculado, com base na duração ou nas horas planejadas das tarefas.
 
-O projeto [!UICONTROL Condição] é chamado de &quot;integridade da programação do projeto&quot;. Há uma série de coisas que influenciam como a condição é calculada. O [!DNL Workfront] observa a [!UICONTROL Data de conclusão planejada] e a [!UICONTROL Data de conclusão projetada], bem como o caminho crítico, para calcular se o projeto está [!UICONTROL No Prazo], [!UICONTROL Em Risco] ou [!UICONTROL Com Problemas].
+A [!UICONTROL Condição] do projeto é descrita como “Integridade do cronograma do projeto”. Há uma série de coisas que influenciam como a condição é calculada. O [!DNL Workfront] observa a [!UICONTROL Data de conclusão planejada] e a [!UICONTROL Data de conclusão projetada], bem como o caminho crítico, para calcular se o projeto está [!UICONTROL No Prazo], [!UICONTROL Em Risco] ou [!UICONTROL Com Problemas].
 
 ![Cabeçalho do projeto exibindo a [!UICONTROL Condição]](assets/planner-fund-condition.png)
 
