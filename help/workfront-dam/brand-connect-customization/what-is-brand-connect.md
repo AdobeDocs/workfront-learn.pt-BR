@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Usuários do [!UICONTROL Brand Connect] recebem a função do [!UICONTROL Brand 
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-Personalize a aparência da [!UICONTROL Brand Portal] para ajudar os usuários a encontrar o que precisam rapidamente e garantir que os ativos mais recentes estejam facilmente disponíveis.
+Personalize a aparência do [!UICONTROL Brand Portal] da sua organização para ajudar os usuários a encontrar o que precisam com rapidez e garantir que os ativos mais recentes estejam facilmente disponíveis.
 
 Neste vídeo, você:
 
