@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -130,17 +130,17 @@ Mude o [!UICONTROL Formato do campo] nas colunas [!UICONTROL Data de início] e 
 1. No menu suspenso [!UICONTROL Formato do campo], selecione [!UICONTROL “17/10/60 3h00”].
 1. Clique em **[!UICONTROL Salvar]**.
 
-## Atividade 4: criar uma exibição de status ativa do modelo de projeto
+## Atividade 4: criar uma exibição do status ativo do modelo de projeto
 
-Qualquer pessoa que gerencia modelos de projeto apreciará a visualização do status ativo (Verdadeiro ou Falso) de cada modelo em uma lista. Melhor ainda, o campo é editável em linha.
+Qualquer pessoa que gerencia modelos de projeto aprecia a possibilidade de ver o status ativo (verdadeiro ou falso) de cada modelo em uma lista. E algo ainda melhor é poder editar os campos em linha.
 
-Crie uma exibição de modelo de projeto chamada &quot;Status padrão+ativo&quot; com as seguintes colunas:
+Crie uma exibição de modelo de projeto chamada “Padrão + status ativo” com as seguintes colunas:
 
 * [!UICONTROL Nome]
 * [!UICONTROL Proprietário]
 * [!UICONTROL Duração]
 * [!UICONTROL Horas planejadas]
-* [!UICONTROL Custo Planejado]
+* [!UICONTROL Custo planejado]
 * [!UICONTROL Sinalizadores]
 * [!UICONTROL Nome do grupo]
 * [!UICONTROL Está ativo]
@@ -148,10 +148,10 @@ Crie uma exibição de modelo de projeto chamada &quot;Status padrão+ativo&quot
 
 ## Resposta da atividade 4
 
-![Uma imagem da tela para mostrar um modo de exibição de status ativo do modelo de projeto](assets/view-activity-4.png)
+![Uma imagem da tela que mostra o status ativo de um modelo de projeto](assets/view-activity-4.png)
 
-1. Em uma lista de modelos de projeto, vá para a **[!UICONTROL Exibir]** e selecione **[!UICONTROL Nova visualização]**.
-1. Nomeie sua exibição como &quot;Status padrão+ativo&quot;.
+1. Em uma lista de modelos de projeto, acesse o menu suspenso **[!UICONTROL Visualização]** e selecione **[!UICONTROL Nova visualização]**.
+1. Nomeie sua visualização como “Padrão + status ativo”.
 1. Clique em **[!UICONTROL Adicionar coluna]**.
-1. No [!UICONTROL Mostrar nesta coluna] digite &quot;é &quot; e selecione &quot;Está ativo&quot; no campo [!UICONTROL Modelo] origem do campo.
+1. No campo [!UICONTROL Exibir nesta coluna], digite “está” e selecione “Está ativo” na origem do campo [!UICONTROL Modelo].
 1. Clique em **[!UICONTROL Salvar visualização]**.
