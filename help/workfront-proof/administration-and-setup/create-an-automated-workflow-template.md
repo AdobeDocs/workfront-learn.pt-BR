@@ -13,9 +13,9 @@ last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
 source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -32,16 +32,16 @@ Neste vídeo, você aprenderá a:
 
 ## Opções adicionais de ativação de estágio
 
-Duas opções para determinar quando um estágio do fluxo de trabalho de prova deve ser iniciado raramente são usadas, se houver: a variável [!UICONTROL Data e hora] e a opção &quot;[!UICONTROL Quando o prazo final do estágio anterior passar]&quot;.
+Há duas opções que raramente (ou nunca) são usadas para determinar quando um estágio do fluxo de trabalho de revisão deve começar: as opções [!UICONTROL Data e hora] e “[!UICONTROL Quando o prazo da etapa anterior expirar]”.
 
-A segunda opção realmente só funciona em cenários nos quais há um grande grupo de pessoas revisando e nas quais você não quer esperar por todas elas. É um tipo de opção &quot;Eu vou lhe dar um certo tempo para completar sua revisão e então você perde sua chance&quot;. Mas isso pode até mesmo retardar o processo de revisão.
+Realisticamente, a segunda opção só funciona em cenários onde você tem um grande grupo de pessoas revisando e não quer esperar por todas elas. Seria como dizer: “Vou dar um tempo para você concluir sua revisão, mas se não o fizer, perderá sua chance”. Mas isso pode até mesmo retardar o processo de revisão.
 
-Se você usar &quot;[!UICONTROL quando o prazo final do estágio anterior passar],&quot; é importante lembrar que você pode ativar manualmente um estágio a qualquer momento se não quiser esperar o término de um prazo.
+Se você usar a opção “[!UICONTROL Quando o prazo do estágio anterior expirar]”, é importante lembrar que é possível ativar manualmente um estágio a qualquer momento se não quiser esperar o prazo expirar.
 
 ## Práticas recomendadas
 
-| Prática recomendada | Aqui está o porquê |
+| Prática recomendada | Saiba por quê |
 |---|---|
-| Defina a função de prova do criador da prova como Revisor. | A função de prova “Revisor” garante que o criador da prova possa fazer comentários e acessar comentários feitos por outras pessoas. Na maioria das vezes, o criador da prova não é obrigado a tomar uma decisão sobre uma prova que carregou. As funções de prova “Aprovador”, “Revisor e Aprovador”, “Autor” ou “Moderador” exigem a tomada de uma decisão. Se o criador da prova receber uma dessas funções, mas não tomar nenhum decisão, isso poderá afetar negativamente os prazos das provas. |
-| Evite usar a função de revisão “Aprovador”. | A função “Aprovador” não permite que o usuário faça comentários nesta prova. Isso pode levar um usuário a rejeitar a prova, sem qualquer explicação, porque não pode fazer comentários. Utilize a função de prova “Revisor e Aprovador” para que o usuário possa fornecer feedback. |
-| Evite a opção de alerta por email de revisão “Todas as atividades”. | Esta opção envia uma notificação por email sobre a prova sempre que algo acontece, como quando um comentário é feito, uma resposta é postada, uma decisão é tomada etc. O recipient essencialmente vê a atividade da prova conforme ela acontece.<br><br>Para proprietários e criadores de provas, o alerta por email de Decisões funciona melhor para fluxos de trabalho de prova de vários estágios e a Decisão final funciona melhor para fluxos de trabalho de estágio único. Geralmente, todos os outros usuários podem ser definidos como Desabilitados, a menos que queiram ser notificados sobre comentários ou decisões de outras pessoas (nesse caso, uma das opções de resumo por email pode funcionar melhor). |
+| Defina a função de prova do(a) criador(a) da revisão como “Revisor”. | A função de prova “Revisor” garante que o criador da prova possa fazer comentários e acessar comentários feitos por outras pessoas. Na maioria das vezes, o(a) criador(a) da revisão não tem a obrigação de tomar uma decisão sobre a revisão que carregou. As funções de prova “Aprovador”, “Revisor e Aprovador”, “Autor” ou “Moderador” exigem a tomada de uma decisão. Se o criador da prova receber uma dessas funções, mas não tomar nenhum decisão, isso poderá afetar negativamente os prazos das provas. |
+| Evite usar a função de revisão “Aprovador”. | A função “Aprovador” não permite que o usuário faça comentários nesta prova. Isso poderia levar uma pessoa a rejeitar a revisão, sem qualquer explicação, pois não seria possível fazer comentários. Utilize a função de prova “Revisor e Aprovador” para que o usuário possa fornecer feedback. |
+| Evite a opção de alerta por email de revisão “Todas as atividades”. | Esta opção envia uma notificação por email sobre a prova sempre que algo acontece, como quando um comentário é feito, uma resposta é postada, uma decisão é tomada etc. O recipient essencialmente vê a atividade da prova conforme ela acontece.<br><br>Para proprietários e criadores de revisões, o alerta de “Decisões” por email funciona melhor em fluxos de trabalho de revisão de vários estágios e a “Decisão final” funciona melhor para fluxos de trabalho de estágio único. Geralmente, todos os outros usuários podem ser definidos como Desabilitados, a menos que queiram ser notificados sobre comentários ou decisões de outras pessoas (nesse caso, uma das opções de resumo por email pode funcionar melhor). |
