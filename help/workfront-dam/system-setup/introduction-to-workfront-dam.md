@@ -1,5 +1,5 @@
 ---
-title: Compreender [!UICONTROL DAM DO WORKFRONT]
+title: Entenda o [!UICONTROL DAM do Workfront]
 description: Saiba como pesquisar e visualizar ativos e descubra como a estrutura de pastas afeta a organização e o acesso aos ativos no [!UICONTROL DAM do Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Compreender [!UICONTROL DAM DO WORKFRONT]
+# Entenda o [!UICONTROL DAM do Workfront]
 
 O [!UICONTROL DAM do Workfront] é uma solução de gerenciamento de ativos digitais (DAM) feita especialmente para gerenciar, controlar e publicar seus ativos criativos e de marketing. Ele pode ser usado em conjunto com fluxos de trabalho que você já possui no [!DNL Workfront], nos quais você gerencia projetos, atribui tarefas e realiza outros tipos de trabalho. Use o [!DNL Workfront] para criar solicitações de ativos e depois gerenciar a produção e revisão de ativos. Prepare, armazene e distribua ativos concluídos e aprovados usando o [!UICONTROL DAM do Workfront].
 
