@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '620'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Considere usar solicitações de relatório para restringir os resultados, em ve
 
 Reduza o número de relatórios que você precisa criar e expanda a funcionalidade dos relatórios criados utilizando solicitações, especialmente em relatórios usados com frequência.
 
-Os prompts permitem fazer adições de filtro &quot;no momento&quot; em um relatório, sem editar as configurações de filtro do relatório. Pense no exemplo de um relatório que busca tarefas com um determinado status atribuídas a uma equipe específica. Adicione prompts a este relatório &quot;básico&quot; que permitem restringir o período das datas de vencimento das tarefas, ver somente tarefas com documentos anexados ou apontar com um formulário personalizado específico anexado.
+As solicitações permitem adicionar filtros em um relatório no momento necessário sem editar as configurações de filtro. Pense no exemplo de um relatório que busca tarefas com um determinado status atribuídas a uma equipe específica. Adicione solicitações nesse relatório “básico” para restringir o período das datas de vencimento das tarefas, exibir somente tarefas com documentos anexados ou identificar as tarefas que tenham um formulário personalizado específico anexado.
 
 
 **Observação**: alguns usuários podem achar confuso o uso de solicitações. Nesse caso, utilizar vários relatórios com títulos claros pode ser uma solução mais adequada.
@@ -86,7 +86,7 @@ Os curingas baseados em usuário tornam os relatórios mais flexíveis, permitin
 </br>
 </br>
 
-Para obter instruções sobre como usar curingas baseados no usuário em relatórios, consulte [Criar filtros com curingas baseados no usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
+Para obter instruções sobre como usar curingas baseados em usuário nos relatórios, consulte [Criar filtros com curingas baseados em usuário](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=pt-BR).
 
 **Prática recomendada**
 
@@ -94,4 +94,4 @@ Crie visualizações que permitam a edição em linha.
 
 **Entenda o porquê**
 
-Com a edição em linha, os usuários podem alterar informações sobre um item diretamente de um relatório ou lista. Isso economiza tempo porque os usuários não precisam abrir o objeto para fazer alterações ou para retornar de um objeto para outro ao atualizar vários itens. Certifique-se de que os usuários saibam que a edição em linha é conveniente e rápida (duas coisas que contribuem para a adoção do Workfront pelos usuários).
+Com a edição em linha, os usuários podem alterar informações sobre um item diretamente de um relatório ou lista. Isso economiza tempo, visto que não é necessário abrir o objeto para fazer alterações ou acessar cada objeto ao atualizar vários itens. Certifique-se de que os usuários saibam que a edição em linha é conveniente e rápida (duas coisas que contribuem para a adoção do Workfront pelos usuários).
