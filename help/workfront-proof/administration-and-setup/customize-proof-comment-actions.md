@@ -12,9 +12,9 @@ jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -30,5 +30,5 @@ Neste vídeo, você aprenderá:
 
 ## Sua vez
 
-Examine os fluxos de trabalho de prova que você já criou e reflita sobre as discussões que teve com as equipes usando fluxos de trabalho de revisão e aprovação. Serão necessárias ações? Em caso afirmativo, atualize os documentos nos quais você registrou os fluxos de trabalho para incluir as ações.
+Observe os fluxos de trabalho de prova que você já criou e reflita sobre as conversas que teve com as equipes que usam fluxos de trabalho de revisão e aprovação. Serão necessárias ações? Em caso afirmativo, atualize os documentos nos quais você registrou os fluxos de trabalho para incluir as ações.
 
