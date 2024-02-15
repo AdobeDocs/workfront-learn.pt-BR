@@ -11,9 +11,9 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -38,13 +38,13 @@ Veja algumas práticas recomendadas para começar a trabalhar com metadados:
 * Adicione termos de uso para ativos protegidos por direitos para evitar uso indevido.
 * Adicione metadados em seus ativos assim que fizer o upload deles.
 * Implemente menus suspensos predefinidos para dados usados com frequência, a fim de evitar inconsistências.
-* Prepare colaboradores responsáveis por adicionar metadados à estratégia de metadados de sua organização.
-* Comunique seus requisitos de metadados a fornecedores externos (por exemplo, &quot;Fotos devem ser enviadas com os termos de uso, crédito e metadados de localização já adicionados&quot;).
+* Treine colaboradores responsáveis por adicionar metadados à estratégia de metadados da sua organização.
+* Comunique os seus requisitos de metadados aos fornecedores externos (por exemplo, “As fotos devem ser enviadas com os termos de uso, crédito e metadados de localização já adicionados”).
 * Realize auditorias regulares para garantir que os metadados estejam sendo adicionados corretamente.
 
 ## Desenvolva uma estratégia de metadados
 
-Examine seu fluxo de trabalho de ativos ao desenvolver a estratégia de metadados de sua organização. O consultor do [!DNL Workfront] pode ajudar você a responder às seguintes perguntas importantes:
+Observe o fluxo de trabalho de seus ativos ao desenvolver a estratégia de metadados da organização. O consultor do [!DNL Workfront] pode ajudar você a responder às seguintes perguntas importantes:
 
 * Quem é responsável pela adição de metadados?
 * Quais metadados são obrigatórios? Quais são opcionais?
