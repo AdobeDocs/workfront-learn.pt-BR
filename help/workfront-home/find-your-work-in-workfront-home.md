@@ -11,9 +11,9 @@ jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
 source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 >[!NOTE]
 >
->Atualmente, há duas experiências na Página inicial disponíveis no Workfront. Se você tiver a nova experiência na Página inicial, exiba a [Remover, adicionar e reorganizar widgets na Página inicial](/help/workfront-home/remove-add-and-rearrange-widgets.md) tutorial.
+>Atualmente, a página inicial do Workfront possui duas experiências distintas. Se você utiliza a nova experiência da página inicial, consulte o tutorial [Remover, adicionar e reorganizar widgets na página inicial](/help/workfront-home/remove-add-and-rearrange-widgets.md).
 
 
 Neste vídeo, você aprenderá a:
