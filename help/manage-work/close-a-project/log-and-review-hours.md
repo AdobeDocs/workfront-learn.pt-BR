@@ -11,15 +11,15 @@ level: Beginner
 jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # Registrar e revisar horas
 
-Se o registro das horas reais trabalhadas fizer parte do fluxo de trabalho da sua organização, você poderá revisá-las no [!UICONTROL Horas] seção (selecione-a no menu do painel esquerdo) no projeto. Isso mostra todas as horas registradas em tarefas individuais e no próprio projeto. Você também pode registrar horas a partir desta página.
+Se o registro das horas efetivas de trabalho fizer parte do fluxo de trabalho da sua organização, você poderá revisar essas horas na seção [!UICONTROL Horas] (selecione-a no menu do painel esquerdo) do projeto. Isso mostra todas as horas registradas em tarefas individuais e no próprio projeto. Você também pode registrar horas a partir desta página.
 
 ![Página “Horas” mostrando registros de horas](assets/planner-fund-log-and-review-hours.png)
 
