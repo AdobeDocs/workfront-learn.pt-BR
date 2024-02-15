@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 63%
 
 Neste vídeo, você aprenderá:
 
-* Como enviar uma solicitação por meio de um [!DNL  Workfront] fila de solicitações
+* Como enviar uma solicitação por meio de uma fila de solicitações do [!DNL  Workfront]
 * Como as filas de solicitações são estruturadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Os rascunhos das solicitações são salvos automaticamente
 
-Ao começar a preencher um formulário de solicitação, o [!DNL Workfront] salva um rascunho automaticamente após o preenchimento do campo [!UICONTROL Assunto]. Isso significa que você não perderá dados se precisar sair do estado [!UICONTROL Solicitações] para fazer outra coisa ou se precisar pausar no meio de sua solicitação para coletar mais informações.
+Ao começar a preencher um formulário de solicitação, o [!DNL Workfront] salva um rascunho automaticamente após o preenchimento do campo [!UICONTROL Assunto]. Isso significa que você não perderá dados se precisar sair da área de [!UICONTROL Solicitações] para fazer outra coisa ou se precisar fazer uma pausa no meio de sua solicitação para coletar mais informações.
 
-Você verá uma indicação de que o rascunho foi salvo na parte superior da janela. [!DNL Workfront] O salvará um rascunho da sua solicitação, mesmo que os campos obrigatórios ainda não estejam preenchidos.
+Você verá uma indicação de que o rascunho foi salvo na parte superior da janela. O [!DNL Workfront] salvará um rascunho da sua solicitação, mesmo que os campos obrigatórios ainda não tenham sido preenchidos.
 
 ![imagem de criação de um rascunho de solicitação](assets/queue-mgt-make-a-request-draft-1.png)
 
-Quando estiver pronto para enviar a solicitação, encontre-a no [!UICONTROL Rascunhos] guia. Clique no nome para abri-lo e finalizar o preenchimento do formulário. Clique em [!UICONTROL Enviar solicitação] quando terminar.
+Quando estiver tudo pronto para o envio da solicitação, você poderá encontrá-la na guia [!UICONTROL Rascunhos]. Clique no nome para abri-lo e finalizar o preenchimento do formulário. Clique em [!UICONTROL Enviar solicitação] quando concluir.
 
 ![imagem de recuperação de um rascunho de solicitação](assets/queue-mgt-make-a-request-draft-2.png)
 
