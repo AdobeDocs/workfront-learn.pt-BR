@@ -12,15 +12,15 @@ jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Configurações para usuários de prova
 
-Antes de começar a criar usuários no [!DNL  Workfront], a prática recomendada é ter o seu [!DNL Workfront] As configurações do sistema de prova e foram concluídas. Algumas dessas configurações aplicam-se aos perfis dos usuários à medida que são criados. Mas não se preocupe se você não obtiver essas configurações definidas antes da criação de alguns usuários... você pode editar essas configurações em cada perfil de usuário individual.
+Antes de começar a criar usuários no [!DNL  Workfront], é recomendado concluir as configurações globais do [!DNL Workfront] e do sistema de revisão. Algumas dessas configurações aplicam-se aos perfis dos usuários à medida que são criados. Porém, não se preocupe se não as tiver definido antes de criar alguns usuários, pois essas configurações podem ser editadas em cada perfil de usuário individual.
 
 
 Neste vídeo, você aprenderá a:
