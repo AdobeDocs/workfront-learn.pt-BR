@@ -11,9 +11,9 @@ jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '586'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Uma cadência tradicional para um ciclo de planejamento de longo/curto prazo pod
 
 Considere estes conceitos ao determinar a cadência apropriada para a sua organização.
 
-* No ambiente de negócios atual, os fatores internos e externos são mais voláteis e mudam com frequência. Para abordar esses fatores estrategicamente, as revisões e ajustes dos objetivos de curto prazo devem ser realizados, no mínimo, a cada 3 meses.
+* No ambiente comercial atual, os fatores internos e externos são bastante voláteis e mudam com frequência. Para abordar esses fatores estrategicamente, as revisões e ajustes dos objetivos de curto prazo devem ser realizados, no mínimo, a cada 3 meses.
 
 * Cada revisão deve incluir tempo para refletir sobre realizações e esforços anteriores, e avaliar a trajetória da empresa para o futuro. Pergunte a si mesmo e às suas equipes: “Ainda estamos no caminho certo?”
 
