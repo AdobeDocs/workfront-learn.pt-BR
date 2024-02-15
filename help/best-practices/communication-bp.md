@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ Use os fluxos de trabalho para determinar as notificações necessárias.
 
 Ao percorrer seus fluxos de trabalho passo a passo, fica mais fácil identificar os pontos de comunicação e garantir que as notificações adequadas estejam habilitadas. Isso prepara as notificações para a forma como sua organização já está trabalhando, evitando spam ou falhas de comunicação.
 
-Para obter instruções sobre como configurar notificações de eventos, consulte [Configurar notificações de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Para obter instruções sobre como configurar notificações de eventos, consulte [Configurar notificações de eventos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=pt-BR).
 
-Para obter instruções sobre como gerenciar notificações de eventos, consulte [Gerenciar notificações de eventos no aplicativo e por email](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Para obter instruções sobre como gerenciar notificações de eventos, consulte [Gerenciar notificações de eventos no aplicativo e por email](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=pt-BR).
 
 </br>
 </br>
@@ -72,5 +72,5 @@ Se você tiver muitos threads de atualização em um projeto, pode ser difícil 
 * Nome do proprietário
 * Data de entrada
 
-Para obter instruções passo a passo sobre como criar um relatório de notas com prompts, assista ao [Criar um relatório de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) , em seguida, execute a atividade seguinte.
+Para obter instruções passo a passo sobre como criar um relatório de notas com prompts, assista ao tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=pt-BR), depois faça a atividade subsequente.
 
