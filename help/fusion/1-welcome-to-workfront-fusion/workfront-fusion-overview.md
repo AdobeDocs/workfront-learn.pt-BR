@@ -11,15 +11,15 @@ jira: KT-11035
 recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # Visão geral do treinamento do Workfront Fusion
 
-Cada seção do Workfront Fusion contém vários tutoriais, sendo que cada um deles apresenta os conceitos que você precisará entender antes de avançar para o próximo tutorial. Um exercício de apresentação ajuda você a dominar a maioria dos conceitos.
+Cada seção do Workfront Fusion contém vários tutoriais, e cada um deles apresenta conceitos que você precisa entender antes de avançar para o próximo. Um exercício de apresentação ajuda você a dominar a maioria dos conceitos.
 
 Os vídeos mostram como concluir cada exercício de apresentação, o que geralmente resulta na criação de um novo cenário do Workfront Fusion. Em seguida, você pode concluir o exercício em seu próprio ambiente do Workfront Fusion e aumentar a sua coleção de cenários.
 
@@ -39,7 +39,7 @@ Solicite um ambiente para praticar preenchendo [este formulário](https://forms.
 
 ### Acessar o Workfront Fusion para praticar
 
-O Workfront não oferece contas de teste do Workfront Fusion. Para praticar enquanto conclui os tutoriais, solicite acesso ao Workfront Fusion ao administrador do Workfront Fusion da sua organização.
+O Workfront não oferece contas de teste do Workfront Fusion. Para praticar enquanto conclui os tutoriais, solicite acesso ao Workfront Fusion à administração do Workfront Fusion da sua organização.
 
 ### Instruções passo a passo sobre como concluir os exercícios de apresentação
 
@@ -49,7 +49,7 @@ Existem instruções passo a passo sobre como concluir os exercícios de apresen
 
 Exercícios práticos e desafios são fornecidos após alguns dos exercícios de apresentação.
 
-Existem várias maneiras diferentes de se resolver os exercícios práticos. A intenção é desafiar você a tentar atingir um objetivo de cenário sem ter etapas a seguir ou a &quot;resposta certa&quot;, pois é isso que você precisará fazer ao criar um cenário em sua empresa.
+Existem várias maneiras diferentes de se resolver os exercícios práticos. A intenção é desafiar você a atingir um objetivo de cenário sem ter passos a seguir ou a “solução”, pois é isso que você precisará fazer ao criar um cenário na sua empresa.
 
 O exercício prático está relacionado à atividade de apresentação.
 
