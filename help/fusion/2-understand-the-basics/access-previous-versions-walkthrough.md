@@ -1,6 +1,6 @@
 ---
 title: Tutorial de como acessar versões anteriores
-description: Descubra como é possível restaurar versões anteriores depois de fazer alterações no cenário e salvá-las em [!DNL Adobe Workfront Fusion].
+description: Descubra como restaurar versões anteriores após fazer alterações no cenário e salvá-las no  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 86%
 
 Neste vídeo, você:
 
-* Descubra como é possível restaurar versões anteriores depois de fazer alterações no cenário e salvar várias vezes.
+* Descubra como restaurar versões anteriores após fazer alterações no seu cenário e salvá-lo diversas vezes.
 
 ## Tutorial de como acessar versões anteriores
 
