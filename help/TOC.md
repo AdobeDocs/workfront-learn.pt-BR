@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2408'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -115,7 +115,7 @@ ht-degree: 97%
       + [Introdução ao gerenciamento de um projeto](manage-work/projects/getting-started-manage-a-project.md)
       + [Encontrar projetos](manage-work/projects/find-projects.md)
       + [Compartilhar um projeto](manage-work/projects/share-a-project.md)
-      + [Compreender a equipe do projeto](manage-work/projects/understand-the-project-team.md)
+      + [Entenda a equipe do projeto](manage-work/projects/understand-the-project-team.md)
       + [Entenda a comunicação no projeto](manage-work/projects/understand-project-communication.md)
       + [Exibir informações do projeto](manage-work/projects/view-project-information.md)
       + [Acompanhe o progresso geral do projeto](manage-work/projects/track-overall-project-progress.md)
@@ -393,21 +393,21 @@ ht-degree: 97%
       + [Tutorial sobre filtros](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [Exercício de filtros](fusion/12-exercises/filters.md)
       + [Tutorial de como acessar versões anteriores](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
-      + [Acesso ao exercício de versões anteriores](fusion/12-exercises/access-previous-versions.md)
+      + [Acessar exercícios das versões anteriores](fusion/12-exercises/access-previous-versions.md)
 
    + Conectores universais e roteamento {#universal-connectors-and-routing}
       + [Visão geral do exercício de conectores universais](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [Tutorial de introdução aos conectores universais](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
-      + [Introdução aos conectores universais](fusion/12-exercises/introduction-to-universal-connectors.md)
+      + [Exercício de introdução a conectores universais](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [Entenda sobre roteadores](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [Tutorial sobre roteadores](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
       + [Exercício de roteadores](fusion/12-exercises/routers.md)
       + [Padrões de roteamento comuns](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Tutorial sobre padrões de roteamento](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
-      + [Exercício de padrões de roteamento](fusion/12-exercises/routing-patterns.md)
+      + [Exercício sobre padrões de roteamento](fusion/12-exercises/routing-patterns.md)
       + [Definir e obter](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Passo a passo para obter/definir variáveis](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
-      + [Exercício de definição/obtenção de variáveis](fusion/12-exercises/set-get-variables.md)
+      + [Exercício para definir/obter variáveis](fusion/12-exercises/set-get-variables.md)
 
    + Iteração e agregação {#iteration-and-aggregation}
       + [Introdução aos iteradores](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -432,20 +432,20 @@ ht-degree: 97%
       + [Familiarize-se com aplicativos adicionais e módulos comuns](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Alternar](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Tutorial sobre a função Alternar](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
-      + [Exercício de função Switch](fusion/12-exercises/switch-function.md)
+      + [Exercício sobre a função Alternar](fusion/12-exercises/switch-function.md)
       + [Passo a passo do módulo de comutação](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
-      + [Exercício de módulo de switch](fusion/12-exercises/switch-module.md)
+      + [Exercício do módulo de comutação](fusion/12-exercises/switch-module.md)
       + [Entenda o mundo dos webhooks](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Tutorial sobre webhooks](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
-      + [Exercício Webhooks](fusion/12-exercises/webhooks.md)
+      + [Exercício sobre webhooks](fusion/12-exercises/webhooks.md)
 
    + Estruturas e armazenamentos de dados {#data-structures-and-data-stores}
       + [Entenda as estruturas de dados](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [Tutorial sobre estruturas de dados](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
-      + [Exercício de estruturas de dados](fusion/12-exercises/data-structures.md)
+      + [Exercício sobre estruturas de dados](fusion/12-exercises/data-structures.md)
       + [Entenda os armazenamentos de dados](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [Passo a passo sobre armazenamentos de dados](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
-      + [Exercício de armazenamento de dados](fusion/12-exercises/data-stores.md)
+      + [Exercício sobre armazenamentos de dados](fusion/12-exercises/data-stores.md)
 
    + Alguns detalhes finais sobre funcionalidades {#final-functional-bits-and-bobs}
       + [Apresentação do aplicativo Workfront](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -453,12 +453,12 @@ ht-degree: 97%
       + [Tutorial sobre matrizes](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [Entenda o JSON em cenários](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [Tutorial sobre o trabalho com JSON](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
-      + [Trabalhar com o exercício JSON](fusion/12-exercises/working-with-json.md)
+      + [Exercício sobre trabalhar com JSON](fusion/12-exercises/working-with-json.md)
 
    + Solução de problemas e tratamento de erros {#troubleshooting-and-error-handling}
       + [Solução de problemas avançada com a ferramenta de desenvolvimento](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [Tutorial sobre a ferramenta de desenvolvimento](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
-      + [Exercício da ferramenta Dev](fusion/12-exercises/devtool.md)
+      + [Exercício da ferramenta de desenvolvimento](fusion/12-exercises/devtool.md)
       + [O que é o tratamento de erros](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Entenda as diretivas de manipulação de erros](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Tutorial sobre o tratamento de erros](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
