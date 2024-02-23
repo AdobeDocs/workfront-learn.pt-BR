@@ -1,5 +1,5 @@
 ---
-title: Compreender a equipe do projeto
+title: Entenda a equipe do projeto
 description: Saiba para que a equipe do projeto pode ser usada e como mantê-la.
 feature: Work Management
 thumbnail: 3427227.jpg
@@ -12,13 +12,13 @@ last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14781
 doc-type: video
 source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Compreender a equipe do projeto
+# Entenda a equipe do projeto
 
 Neste vídeo, você aprenderá:
 
