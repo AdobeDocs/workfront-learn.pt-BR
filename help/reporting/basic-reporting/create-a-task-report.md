@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '922'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -31,9 +31,9 @@ Neste vídeo, você aprenderá:
 
 >[!TIP]
 >
->Quebre suas espátulas e tigelas de mistura e prepare-se para experimentar as &quot;receitas&quot; em nossa [Guia de relatórios do cliente do Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Lá dentro você encontrará instruções passo a passo para 10 relatórios, prontos para serem exibidos em seu ambiente hoje.
->Reunimos os relatórios favoritos dos clientes e os reunimos em um livro de receitas que pode ser lanchado, de fácil digestão, para que você possa levá-los de volta e testá-los em sua própria cozinha do Workfront.
->Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e tudo em diferentes empresas, devemos um enorme agradecimento aos clientes incríveis que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis) e outros são mais complexos para elevar o nível dos seus relatórios.
+>Pegue suas espátulas e tigelas e prepare-se para experimentar as “receitas” em nosso [Livro de receitas de relatórios do cliente do Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Lá dentro, você encontrará instruções passo a passo para 10 relatórios, prontos para você preparar em seu ambiente hoje mesmo.
+>Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
+>Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
 
 
 
