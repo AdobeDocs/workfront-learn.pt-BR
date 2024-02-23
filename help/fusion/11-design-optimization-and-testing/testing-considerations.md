@@ -12,9 +12,9 @@ exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '316'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ Sua meta no teste é garantir que os requisitos sejam seguidos, que não haja au
 Lembre-se dessas diretrizes para garantir que seus testes sejam consistentes e capturem todos os elementos essenciais.
 
 * Determine quais dados de teste são necessários com base nos requisitos. Normalmente, os testes mais eficazes se baseiam em requisitos bem definidos e documentados.
-* Planeje e comunique como gerar os dados necessários para testar profundidade, amplitude, complexidade e carga. Evite testes somente de &quot;caminho feliz&quot;. Pense em todas as formas como os usuários podem interagir com as automações e na ampla gama de dados possíveis que serão processados.
+* Planeje e comunique como gerar os dados necessários para testar profundidade, amplitude, complexidade e carga. Evite fazer apenas testes de “caminho feliz”. Pense em todas as formas como os usuários podem interagir com as automações e na ampla gama de dados possíveis que serão processados.
 * Considere os dados de entrada e saída necessários entre sistemas conectados. Verifique a entrada e a saída nesses sistemas, não apenas no Workfront Fusion.
 
 Priorize os testes durante todo o ciclo de vida da sua implementação do Workfront Fusion. Ao projetar, pense em como você pode testar se as decisões de projeto atendem aos requisitos. Pense em como dados inesperados podem resultar em erros e adicione tratamento de erros relevante à medida que você cria. Planeje iterar por meio de protótipos viáveis enquanto testa continuamente.
