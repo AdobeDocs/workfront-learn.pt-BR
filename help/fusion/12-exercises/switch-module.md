@@ -1,5 +1,5 @@
 ---
-title: Exercício de módulo de switch
+title: Exercício do módulo de comutação
 description: Entenda como usar o módulo de comutação quando precisar executar transformações de dados mais complexas ou dinâmicas.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11052.png
 recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Exercício de módulo de switch
+# Exercício do módulo de comutação
 
 Entenda como usar o módulo de comutação quando precisar executar transformações de dados mais complexas ou dinâmicas.
 
