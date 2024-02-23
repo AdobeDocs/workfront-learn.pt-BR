@@ -1,5 +1,5 @@
 ---
-title: Exercício de armazenamento de dados
+title: Exercício sobre armazenamentos de dados
 description: Aprenda a sincronizar nomes de empresas entre dois sistemas. (Deve ter entre 60 e 160 caracteres, mas tem 59 caracteres)
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11055.png
 recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '904'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Exercício de armazenamento de dados
+# Exercício sobre armazenamentos de dados
 
 Aprenda a sincronizar nomes de empresas entre dois sistemas.
 
