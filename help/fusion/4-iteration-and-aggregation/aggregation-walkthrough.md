@@ -12,9 +12,9 @@ exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 67%
 
 ## Visão geral
 
-Usando o cenário &quot;Introdução à iteração&quot; que você criou na última apresentação, agregue as horas planejadas em cada tarefa em execução no projeto e envie um email para você mesmo com essas informações.
+Usando o cenário “Introdução à iteração” que você criou no última exercício, agregue as horas planejadas em cada tarefa de trabalho do projeto e envie um email para si mesmo com essas informações.
 
 ![Uma imagem do cenário do Fusion](assets/iteration-and-aggregation-2.png)
 
