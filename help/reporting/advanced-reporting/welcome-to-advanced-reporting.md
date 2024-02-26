@@ -10,10 +10,10 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '440'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 91%
 
 ---
 
@@ -39,7 +39,13 @@ Antes de assistir a esses tutoriais, você deve ter:
 * Um bom entendimento sobre os objetos que deseja incluir nos relatórios.
 * Um bom entendimento sobre o uso de formulários personalizados, especialmente campos personalizados calculados.
 * Uma licença de [!UICONTROL Plano] com direitos para criar relatórios e filtros.
-* Você deve ter concluído os cursos [[!UICONTROL Elementos básicos de relatórios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html), [[!UICONTROL Criar relatórios e painéis personalizados]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) e [[!UICONTROL Criar filtros intermediários]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html).
+* Você deveria ter feito estes cursos:
+   * [[!UICONTROL Elementos básicos de relatórios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL Criar relatórios e painéis personalizados]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL Criar filtros intermediários]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+* Você também deve ter seguido estes tutoriais:
+   * [[!UICONTROL Entender o modo de texto básico para exibições]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br)
+   * [[!UICONTROL Entender o modo de texto básico para agrupamentos]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=pt-BR)
 
 ## Público-alvo
 

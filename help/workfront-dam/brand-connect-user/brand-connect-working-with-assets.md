@@ -1,5 +1,5 @@
 ---
-title: Como trabalhar com ativos no Brand Connect
+title: Trabalhar com ativos como usuário
 description: Saiba como visualizar ativos no Brand Connect e visualizar dados sobre um ativo, incluindo metadados e palavras-chave no [!UICONTROL DAM do Workfront].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '56'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
 
-# Brand Connect: trabalhar com ativos
+# Trabalhar com ativos como usuário
 
 Neste vídeo, você aprenderá a:
 

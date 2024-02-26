@@ -1,6 +1,6 @@
 ---
-title: Localize e organize ativos no [!UICONTROL Workfront DAM]
-description: Saiba como pesquisar ativos, pesquisar em pastas, simplificar resultados de pesquisa, usar metadados e palavras-chave como filtros de pesquisa e muito mais no [!UICONTROL Workfront DAM].
+title: Entenda a pesquisa de ativos como colaborador
+description: Saiba como pesquisar ativos, pesquisar em pastas, simplificar resultados de pesquisa, usar metadados e palavras-chave como filtros de pesquisa no [!UICONTROL DAM DO WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# Colaborador: localizar ativos
+# Entenda a pesquisa de ativos como colaborador
 
 Neste vídeo, você aprenderá a:
 
@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá a:
 
 Uma pesquisa básica analisa nomes de arquivos, campos de metadados, palavras-chave e o conteúdo de ativos (dependendo do tipo de ativo). Não inclui o nome da pasta.
 
-A maioria dos resultados da pesquisa são correspondências exatas. Uma exceção a esta regra de “correspondência exata” é quando o [!UICONTROL Workfront DAM] pesquisa o campo de nome do arquivo. O [!UICONTROL Workfront DAM] retorna correspondências parciais de nome de arquivo, em vez de apenas correspondências exatas.
+A maioria dos resultados da pesquisa são correspondências exatas. Uma exceção a essa regra de &quot;correspondência exata&quot; é quando a variável [!UICONTROL DAM DO WORKFRONT] pesquisa o campo nome do arquivo. O [!UICONTROL Workfront DAM] retorna correspondências parciais de nome de arquivo, em vez de apenas correspondências exatas.
 
 ## Operadores de usuário ao pesquisar
 
@@ -58,8 +58,8 @@ Para encontrar uma frase exata, use aspas duplas ao redor das palavras. Todas as
 
 ### Operador negativo
 
-Se quiser excluir uma palavra dos resultados da pesquisa, coloque um sinal de menos (–) antes da palavra. Certifique-se de que não haja espaço entre o sinal de menos e a palavra. Por exemplo, para excluir ativos que tenham a palavra “torre” nos metadados, sua pesquisa pode ser configurada como Paris -tower.
+Se quiser excluir uma palavra dos resultados da pesquisa, coloque um sinal de menos (–) antes da palavra. Certifique-se de que não haja espaço entre o sinal de menos e a palavra. Por exemplo, para excluir ativos que contenham a palavra “torre” dos metadados, a pesquisa pode ter a seguinte aparência: “Paris -torre”.
 
 ### Operador de campo vazio
 
-Para localizar ativos que não têm informações em um campo de metadados específico, insira o campo que deseja pesquisar neste formato: ?[xxxxx]. Por exemplo, se você deseja localizar ativos que não tenham palavras-chave atribuídas, insira “?”[palavra-chave] no campo de pesquisa.
+Para localizar ativos que não têm informações em um campo de metadados específico, insira o campo que deseja pesquisar neste formato: ?[xxxxx]. Por exemplo, se quiser encontrar ativos que não tenham palavras-chave atribuídas, insira a[palavra-chave] no campo de pesquisa.
