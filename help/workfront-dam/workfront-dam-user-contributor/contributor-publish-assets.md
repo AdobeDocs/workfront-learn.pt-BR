@@ -11,9 +11,9 @@ jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 60%
 
 ## Preparar para publicar ativos
 
-Publicar um ativo ou pasta no [!UICONTROL Brand Connect] dá a um público mais amplo a capacidade de acessar ativos aprovados. É possível que muitas pessoas na sua organização não tenham acesso a [!UICONTROL DAM DO WORKFRONT] mas terão acesso a [!UICONTROL Conectar marca].
+Publicar um ativo ou pasta no [!UICONTROL Brand Connect] dá a um público mais amplo a capacidade de acessar ativos aprovados. É possível que muitas pessoas na sua organização não tenham acesso ao [!UICONTROL Workfront DAM], mas tenham acesso ao [!UICONTROL Brand Connect].
 
-Os ativos não devem ser publicados até que sejam definitivos. Por exemplo, você não deseja publicar um rascunho de um folheto para [!UICONTROL Conectar marca], caso contrário, ele poderia ser distribuído antes da finalização.
+É recomendável não publicar os ativos até que eles estejam em suas versões finais. Por exemplo, não é recomendado publicar um rascunho de um folheto no [!UICONTROL Brand Connect], caso contrário ele poderá ser distribuído antes de ser finalizado.
 
 Antes de publicar um ativo no [!UICONTROL Brand Connect], você pode querer fazer o seguinte:
 
 * Colocar um ativo em uma pasta específica.
-* Edite os metadados e as palavras-chave de um ativo.
+* Editar os metadados e as palavras-chave de um ativo.
 * Fazer o upload de uma nova versão de um ativo.
-* Criar o status de um ativo ou pasta [!UICONTROL Ativo].
+* Defina o status de um recurso ou pasta como [!UICONTROL Ativo].
 * Verifique se o ativo não expirou.
 * Observe o ativo para receber notificações quando forem feitas alterações nele.
 

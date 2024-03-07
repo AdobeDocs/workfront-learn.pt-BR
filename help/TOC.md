@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2405'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 99%
       + [Maturidade do gerenciamento de recursos](manage-resources/resource-management/resource-management-maturity.md)
       + [Configurações de gerenciamento de recursos para projetos](manage-resources/resource-management/settings-for-projects.md)
       + [Configurações de gerenciamento de recursos para usuários](manage-resources/resource-management/settings-for-users.md)
-      + [Configurações de gerenciamento de recursos, Balanceador de carga de trabalho e rpt de utilização](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [Configurações do gerenciamento de recursos, balanceador de carga de trabalho e relatório de utilização](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Balanceador de carga de trabalho {#workload-balancer}
       + [Encontre o Balanceador de carga de trabalho](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 99%
       + [Entenda o gerenciamento de ativos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Entenda a pesquisa de ativos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Entenda as lightboxes como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [Entender metadados e práticas recomendadas de palavra-chave](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [Noções básicas das práticas recomendadas de metadados e palavras-chave](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Trabalhar com ativos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Enviar um arquivo como colaborador](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Publicar ativos como colaborador](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 99%
    + [Desempenho e manutenção do sistema](best-practices/system-performance-maintenance-bp.md)
    + [Relatórios no modo de texto](best-practices/test-mode-reporting-bp.md)
    + [Planejamento e gerenciamento da linha do tempo](best-practices/timeline-planning-management-bp.md)
-   + [Folhas de horas e tempo de registro em log](best-practices/timesheets-logging-time-bp.md)
+   + [Folhas de horas e registro de tempo](best-practices/timesheets-logging-time-bp.md)
    + [Utilização](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [Balanceador de carga de trabalho](best-practices/workload-balancer-bp.md)

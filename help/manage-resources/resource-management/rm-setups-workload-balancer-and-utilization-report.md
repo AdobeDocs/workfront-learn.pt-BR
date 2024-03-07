@@ -1,5 +1,5 @@
 ---
-title: Configurações de gerenciamento de recursos, Balanceador de carga de trabalho e rpt de utilização
+title: Configurações do gerenciamento de recursos, balanceador de carga de trabalho e relatório de utilização
 description: Saiba como configurar gerenciadores de recursos com o acesso correto e como visualizar o balanceador de carga de trabalho e o relatório de utilização.
 feature: Resource Management
 type: Tutorial
@@ -11,15 +11,15 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
-# Configurações do gerenciamento de recursos, Balanceador de carga de trabalho e relatório de utilização
+# Configurações de gerenciamento de recursos, Balanceador de carga de trabalho e relatório de utilização
 
-O [!DNL Workfront] oferece dados através de múltiplas ferramentas do [!DNL Workfront], para ajudar a facilitar suas decisões sobre recursos e melhorar os processos. Para ver o que está acontecendo com seus recursos, verifique se seus gerentes, usuários e projetos estão configurados corretamente. Essas configurações são úteis mesmo se você não planeja usar todos os [!DNL Workfront's] ferramentas de gerenciamento de recursos.
+O [!DNL Workfront] oferece dados através de múltiplas ferramentas do [!DNL Workfront], para ajudar a facilitar suas decisões sobre recursos e melhorar os processos. Para ver o que está acontecendo com seus recursos, você deve verificar se seus gerentes, usuários e projetos estão configurados corretamente. Essas configurações são úteis mesmo se você não planeja usar todas as ferramentas de gerenciamento de recursos do [!DNL Workfront's].
 
 Nesta seção, você aprenderá:
 
@@ -28,7 +28,7 @@ Nesta seção, você aprenderá:
 
 ## Configurações de gerenciamento de recursos
 
-Vamos começar verificando se as pessoas certas têm acesso aos recursos da sua organização e se podem administrá-los.
+Vamos começar garantindo que as pessoas certas tenham acesso aos recursos da sua organização e possam administrá-los.
 
 &lt;!Baixe o guia para obter as instruções passo a passo.&gt;
 

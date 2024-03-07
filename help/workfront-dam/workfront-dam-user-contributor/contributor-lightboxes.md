@@ -11,9 +11,9 @@ jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ Neste vídeo, você aprenderá a:
 
 ## Pastas x lightboxes
 
-As pastas são usadas para armazenar e organizar ativos. O acesso aos ativos é concedido por pasta. É possível que haja mais pastas em [!UICONTROL DAM DO WORKFRONT] do que você vê.
+As pastas são usadas para armazenar e organizar ativos. O acesso aos ativos é concedido por pasta. É possível que haja mais pastas no [!UICONTROL Workfront DAM] do que são exibidas.
 
 Lightboxes são uma ferramenta no [!UICONTROL Workfront DAM] que você pode usar para reunir e organizar os ativos necessários. Você pode criar uma única lightbox para você ou criar uma lightbox para cada tarefa em que trabalhar. Você verá apenas as lightboxes que criou, a menos que outro usuário compartilhe uma lightbox com você ou peça para você colaborar em uma lightbox.

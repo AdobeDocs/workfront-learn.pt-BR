@@ -1,6 +1,6 @@
 ---
 title: Entenda a pesquisa de ativos como colaborador
-description: Saiba como pesquisar ativos, pesquisar em pastas, simplificar resultados de pesquisa, usar metadados e palavras-chave como filtros de pesquisa no [!UICONTROL DAM DO WORKFRONT].
+description: Saiba como pesquisar por ativos, pesquisar em pastas, otimizar resultados de pesquisa, usar metadados e palavras-chave como filtros de pesquisa no [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá a:
 
 Uma pesquisa básica analisa nomes de arquivos, campos de metadados, palavras-chave e o conteúdo de ativos (dependendo do tipo de ativo). Não inclui o nome da pasta.
 
-A maioria dos resultados da pesquisa são correspondências exatas. Uma exceção a essa regra de &quot;correspondência exata&quot; é quando a variável [!UICONTROL DAM DO WORKFRONT] pesquisa o campo nome do arquivo. O [!UICONTROL Workfront DAM] retorna correspondências parciais de nome de arquivo, em vez de apenas correspondências exatas.
+A maioria dos resultados da pesquisa são correspondências exatas. Uma exceção a essa regra de “correspondência exata” ocorre quando o [!UICONTROL Workfront DAM] pesquisa o campo de nome do arquivo. O [!UICONTROL Workfront DAM] retorna correspondências parciais de nome de arquivo, em vez de apenas correspondências exatas.
 
 ## Operadores de usuário ao pesquisar
 

@@ -11,9 +11,9 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,8 +38,8 @@ Parte do seu fluxo de trabalho pode incluir o gerenciamento de múltiplas versõ
 
 O sistema permite o controle automático de versões de ativos quando um arquivo com o mesmo nome de um arquivo existente é carregado na mesma pasta. Consulte o(a) admin de sistema para saber se essa funcionalidade foi ativada.
 
-Se o controle automático de versão estiver ativado, um ativo somente gerará a versão se for carregado na pasta que contém o ativo original. Ambos os ativos precisam ter o mesmo nome de arquivo. Se o ativo for carregado em uma pasta diferente, ele será inserido como um novo arquivo.
-Se o controle de versão não estiver ativado, um arquivo com o mesmo nome de um arquivo existente será carregado como um novo arquivo, independentemente da pasta em que ele foi colocado. Isso pode resultar na existência de dois ativos com o mesmo nome na mesma pasta.
+Se o controle automático de versão estiver ativado, o ativo só terá um controle de versão se for carregado na pasta que contém o ativo original. Ambos os ativos precisam ter o mesmo nome de arquivo. Se o ativo for carregado em uma pasta diferente, ele será inserido como um novo arquivo.
+Se o controle de versão não estiver ativado, um arquivo com o mesmo nome de um arquivo já existente será enviado como um novo arquivo, independentemente da pasta em que ele seja inserido. Isso pode resultar na existência de dois ativos com o mesmo nome na mesma pasta.
 
 Você também pode fazer o upload manual de versões de um ativo específico. Clique no ícone de edição do ativo e selecione **[!UICONTROL Fazer upload de nova versão]**.
 

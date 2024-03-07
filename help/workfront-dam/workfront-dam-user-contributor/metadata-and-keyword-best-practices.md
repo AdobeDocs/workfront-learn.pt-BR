@@ -1,5 +1,5 @@
 ---
-title: Entender metadados e práticas recomendadas de palavra-chave
+title: Noções básicas das práticas recomendadas de metadados e palavras-chave
 description: Aprenda como usar metadados e palavras-chave no [!UICONTROL Workfront DAM] para descrever um ativo e aumentar a capacidade de pesquisa dos ativos da sua organização.
 activity: use
 team: Technical Marketing
@@ -10,13 +10,13 @@ level: Beginner
 jira: KT-10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '579'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Entender metadados e práticas recomendadas de palavra-chave
+# Noções básicas das práticas recomendadas de metadados e palavras-chave
 
 ## Práticas recomendadas de metadados
 
@@ -24,7 +24,7 @@ Metadados são todos os dados usados para descrever um ativo. Os campos de metad
 
 O uso de metadados consistentes aumenta a capacidade de pesquisa dos ativos da sua organização. Além disso, os ativos baixados do [!UICONTROL Workfront DAM] retêm seus metadados, o que fornece outra camada de proteção para os seus ativos, caso eles saiam do [!UICONTROL Workfront DAM].
 
-Estas são algumas das práticas recomendadas para ajudar nos esforços de metadados de sua organização:
+Aqui estão algumas práticas recomendadas para auxiliar nos esforços de metadados da sua organização:
 
 * Sempre adicione informações de propriedade ou crédito aos seus ativos para identificação fora do [!UICONTROL Workfront DAM].
 * Adicione termos de uso para ativos protegidos por direitos para evitar uso indevido.
@@ -36,7 +36,7 @@ Estas são algumas das práticas recomendadas para ajudar nos esforços de metad
 
 ## Estratégia de metadados
 
-É provável que a sua organização tenha desenvolvido uma estratégia de metadados. Se você estiver carregando ativos no [!UICONTROL DAM DO WORKFRONT], saiba mais sobre o processo de sua organização com relação a:
+É provável que a sua organização tenha desenvolvido uma estratégia de metadados. Se você estiver fazendo upload de ativos para o [!UICONTROL Workfront DAM], conheça o processo da sua organização em relação a:
 
 * Quem é responsável pela adição de metadados.
 * Quais metadados são necessários.
@@ -48,7 +48,7 @@ Estas são algumas das práticas recomendadas para ajudar nos esforços de metad
 
 Palavras-chave são um subconjunto de metadados. Geralmente, as palavras-chave são termos genéricos e descritivos sobre o conteúdo do ativo. Essas informações são adicionadas ao ativo, geralmente de forma manual após o upload. Todas as palavras-chave entram em um campo (denominado “Palavras-chave”). Por exemplo, uma foto da Torre Eiffel em Paris pode ter palavras-chave como ponto turístico, turismo ou luzes.
 
-As palavras-chave são pesquisáveis, portanto, é importante que elas sejam inseridas nos ativos de maneira consistente.
+Palavras-chave são pesquisáveis, portanto, é importante que elas sejam inseridas nos ativos de forma consistente.
 
 A sua organização pode implementar uma taxonomia de palavras-chave, ou seja, uma lista controlada de palavras-chave que você pode escolher ao editar um ativo no [!UICONTROL Workfront DAM].
 
