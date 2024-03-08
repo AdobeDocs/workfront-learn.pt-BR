@@ -1,6 +1,6 @@
 ---
 title: O que é o [!UICONTROL Brand Connect]?
-description: Obtenha uma introdução ao [!UICONTROL Conectar marca].
+description: Obtenha uma introdução ao [!UICONTROL Brand Connect].
 activity: use
 feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Personalize a aparência do [!UICONTROL Brand Portal] da sua organização para 
 
 Neste vídeo, você:
 
-* Obtenha uma introdução ao [!UICONTROL Conectar marca]
+* Obtenha uma introdução ao [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
