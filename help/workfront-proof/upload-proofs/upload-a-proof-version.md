@@ -12,9 +12,9 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá a:
 
 ## Fazer upload de uma versão a partir do visualizador de provas
 
-Se você tiver uma prova aberta no visualizador de provas, poderá fazer upload de uma versão diretamente do menu de versões. Clique em [!UICONTROL Nova versão] para ser roteado diretamente para o &quot;[!UICONTROL fazer upload de uma nova versão]&quot; e conclua o upload.
+Se você tiver uma prova aberta no visualizador de provas, poderá fazer upload de uma versão diretamente do menu de versões. Clique no link [!UICONTROL Nova versão] para ser direcionado diretamente para a página “[!UICONTROL fazer upload de uma nova versão]” e concluir o upload.
 
 ![Uma imagem do visualizador de provas com o menu de versões expandido no canto superior esquerdo e o link [!UICONTROL Nova versão] realçado.](assets/upload-version-from-viewer.png)
 
@@ -39,7 +39,7 @@ Se você tiver uma prova aberta no visualizador de provas, poderá fazer upload 
 >
 >Não se esqueça de lembrar aos colegas de trabalho que você está enviando a eles uma prova como parte do treinamento do Workfront.
 
-Encontre uma prova que você carregou no Workfront. Faça upload de uma nova versão dessa prova, atribua um novo modelo de fluxo de trabalho ou faça alterações no fluxo de trabalho existente.
+Encontre uma prova cujo upload você fez para o Workfront. Faça upload de uma nova versão dessa prova, atribua um novo modelo de fluxo de trabalho ou faça alterações no fluxo de trabalho existente.
 
 <!--
 ### Learn more 
