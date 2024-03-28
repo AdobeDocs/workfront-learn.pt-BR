@@ -12,7 +12,7 @@ thumbnail: 10095.jpeg
 jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 100%
 
@@ -94,7 +94,7 @@ Especificamente para gerentes de projeto:
 * [!UICONTROL Quando uma status de projeto for alterada de ideia/aprovado/solicitado/em planejamento para atual, enviar email para a equipe]
 * [!UICONTROL Quando um projeto for alterado de uma status positiva de progresso (no prazo) para uma status negativa de progresso (em atraso), enviar email para o proprietário do projeto]
 * [!UICONTROL Quando um problema for adicionada enviar email para o proprietário do projeto]
-* [!UICONTROL A tarefa marco foi concluída em um projeto que possuo]
+* [!UICONTROL Uma tarefa marco foi concluída em um projeto de minha propriedade]
 
 
 <!---
