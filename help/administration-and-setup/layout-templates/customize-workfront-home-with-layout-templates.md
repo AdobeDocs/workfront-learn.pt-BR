@@ -1,6 +1,6 @@
 ---
 title: Personalizar a [!UICONTROL página inicial] com modelos de layout
-description: Saiba como usar um modelo de layout para personalizar a [!UICONTROL página inicial] adicionando ou removendo campos.
+description: Saiba como personalizar seus usuários [!UICONTROL Início] área para acessar, rastrear, aprovar e atualizar o trabalho de forma rápida e fácil.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -11,14 +11,23 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 42%
 
 ---
 
-# Personalizar a [!UICONTROL página inicial] com modelos de layout
+# Personalizar [!UICONTROL Espaço de trabalho inicial] com modelos de layout
+
+Saiba como personalizar seus usuários [!UICONTROL Início] área para acessar, rastrear, aprovar e atualizar o trabalho de forma rápida e fácil.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
+
+<br>
+</br>
+
+## Personalizar herdado [!UICONTROL Início] com modelos de layout
 
 Neste vídeo, você aprenderá a:
 
