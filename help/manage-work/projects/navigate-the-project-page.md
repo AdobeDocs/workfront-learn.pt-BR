@@ -7,14 +7,15 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '453'
-ht-degree: 100%
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 91%
 
 ---
 
@@ -45,10 +46,10 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 8. **[!UICONTROL Condição]:** a [!UICONTROL condição] é uma representação visual de como o projeto está progredindo. O [!DNL Workfront] pode configurar automaticamente a [!UICONTROL condição] com base no status de progresso das tarefas no projeto. A [!UICONTROL condição] também pode ser definida manualmente pelos detalhes do projeto.
 9. **[!UICONTROL Status]:** o [!UICONTROL status] indica onde o projeto está no processo: se ainda está sendo planejado, se está em andamento ou se todo o trabalho foi concluído.
 10. **[!UICONTROL Nova tarefa]:** clique para criar uma nova tarefa no projeto. A tarefa é gerada na parte inferior da lista.
-11. **[!UICONTROL Exportar]:** exporta o plano do projeto para um arquivo PDF, planilha ou guia delimitada.
+11. **[!UICONTROL Exportar]:** Exporte a lista de tarefas ou as tarefas selecionadas para um PDF, planilha ou arquivo delimitado por tabulação.
 12. **Menu do painel esquerdo:** navegue por diferentes informações sobre o projeto utilizando o painel esquerdo. Clique no ícone para recolher o painel se precisar de mais espaço na tela. Arraste e solte os ícones para organizá-los, de maneira que possa trabalhar com eficiência. As opções exibidas são definidas pelo(a) admin de sistema do [!DNL Workfront].
 13. **Lista de tarefas:** a lista de tarefas mostra todas as tarefas que compõem o plano do seu projeto. As informações visíveis sobre cada tarefa são determinadas pela exibição selecionada.
-14. **Painel de resumo:** clique no ícone para abrir ou fechar o painel de resumo, que fornece uma visualização rápida das informações sobre a tarefa selecionada.
+14. **Painel Resumo:** O painel de resumo fornece uma olhada rápida nas informações sobre a tarefa selecionada. Clique no ícone para abrir ou fechar o.
 
 <!---
 learn more:
