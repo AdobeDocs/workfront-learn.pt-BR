@@ -12,10 +12,10 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 91%
+source-wordcount: '475'
+ht-degree: 87%
 
 ---
 
@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá:
 
 A página do projeto está repleta de recursos para ajudar a gerenciar seu trabalho. Consulte o(a) admin de sistema se precisar de uma opção que não está disponível na sua instância do [!DNL Workfront]. Veja alguns recursos importantes da página principal do projeto.
 
-![Página do projeto](assets/project-page-graphic-for-planner.png)
+![Captura de tela da página do projeto](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Caminho da navegação estrutural:** navegue pelo programa e pela hierarquia de portfólio por trás do projeto.
 2. **Tipo de objeto:** mostrar o tipo de objeto na página de destino ajuda a identificar o que você está vendo no [!DNL Workfront]. O termo “projeto” pode ser personalizado pelo administrador do sistema do [!DNL Workfront].
@@ -50,10 +50,5 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 12. **Menu do painel esquerdo:** navegue por diferentes informações sobre o projeto utilizando o painel esquerdo. Clique no ícone para recolher o painel se precisar de mais espaço na tela. Arraste e solte os ícones para organizá-los, de maneira que possa trabalhar com eficiência. As opções exibidas são definidas pelo(a) admin de sistema do [!DNL Workfront].
 13. **Lista de tarefas:** a lista de tarefas mostra todas as tarefas que compõem o plano do seu projeto. As informações visíveis sobre cada tarefa são determinadas pela exibição selecionada.
 14. **Painel Resumo:** O painel de resumo fornece uma olhada rápida nas informações sobre a tarefa selecionada. Clique no ícone para abrir ou fechar o.
+15. **Adicionar mais tarefas** Clique aqui para adicionar outra tarefa à parte inferior da lista de tarefas usando a edição em linha.
 
-<!---
-learn more:
-simplified left navigation
-edit projects
-new toolbar for lists
---->
