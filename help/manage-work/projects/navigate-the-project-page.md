@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 87%
@@ -51,4 +51,5 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 13. **Lista de tarefas:** a lista de tarefas mostra todas as tarefas que compõem o plano do seu projeto. As informações visíveis sobre cada tarefa são determinadas pela exibição selecionada.
 14. **Painel Resumo:** O painel de resumo fornece uma olhada rápida nas informações sobre a tarefa selecionada. Clique no ícone para abrir ou fechar o.
 15. **Adicionar mais tarefas** Clique aqui para adicionar outra tarefa à parte inferior da lista de tarefas usando a edição em linha.
+
 
