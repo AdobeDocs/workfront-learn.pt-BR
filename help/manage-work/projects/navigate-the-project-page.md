@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 87%
+ht-degree: 95%
 
 ---
 
@@ -46,10 +46,10 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 8. **[!UICONTROL Condição]:** a [!UICONTROL condição] é uma representação visual de como o projeto está progredindo. O [!DNL Workfront] pode configurar automaticamente a [!UICONTROL condição] com base no status de progresso das tarefas no projeto. A [!UICONTROL condição] também pode ser definida manualmente pelos detalhes do projeto.
 9. **[!UICONTROL Status]:** o [!UICONTROL status] indica onde o projeto está no processo: se ainda está sendo planejado, se está em andamento ou se todo o trabalho foi concluído.
 10. **[!UICONTROL Nova tarefa]:** clique para criar uma nova tarefa no projeto. A tarefa é gerada na parte inferior da lista.
-11. **[!UICONTROL Exportar]:** Exporte a lista de tarefas ou as tarefas selecionadas para um PDF, planilha ou arquivo delimitado por tabulação.
+11. **[!UICONTROL Exportar]:** exporte tarefas selecionadas ou em uma lista para um arquivo PDF, de planilha ou delimitado por guias.
 12. **Menu do painel esquerdo:** navegue por diferentes informações sobre o projeto utilizando o painel esquerdo. Clique no ícone para recolher o painel se precisar de mais espaço na tela. Arraste e solte os ícones para organizá-los, de maneira que possa trabalhar com eficiência. As opções exibidas são definidas pelo(a) admin de sistema do [!DNL Workfront].
 13. **Lista de tarefas:** a lista de tarefas mostra todas as tarefas que compõem o plano do seu projeto. As informações visíveis sobre cada tarefa são determinadas pela exibição selecionada.
-14. **Painel Resumo:** O painel de resumo fornece uma olhada rápida nas informações sobre a tarefa selecionada. Clique no ícone para abrir ou fechar o.
+14. **Painel de resumo:** o painel de resumo fornece uma visão rápida das informações sobre a tarefa selecionada. Clique no ícone para abrir ou fechar.
 15. **Adicionar mais tarefas** Clique aqui para adicionar outra tarefa à parte inferior da lista de tarefas usando a edição em linha.
 
 
