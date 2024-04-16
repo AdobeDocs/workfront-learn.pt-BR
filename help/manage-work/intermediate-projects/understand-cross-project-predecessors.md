@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 52%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 # Entenda os predecessores de projetos
 
->[!IMPORTANT]
->
->Pré-requisitos:
+Predecessores entre projetos são uma maneira fácil de estabelecer dependências entre tarefas em diferentes projetos. Por exemplo, uma empresa de construção pode ter um projeto chamado **Construção de estrada de acesso para o desenvolvimento habitacional Summerhill** e outro projeto chamado **Construção de casa modelo em Summerhill**. Ao fazer com que a primeira tarefa em **Criação de casa modelo** tenha uma predecessora entre projetos da última tarefa em **Criação de uma estrada de acesso**, você se certifica de que a estrada de acesso está pronta antes de começar a construir a casa. Como as tarefas estão vinculadas, se o projeto **Construção de estrada de acesso** for adiado, a data inicial planejada da **Construção de casa modelo** será automaticamente adiado de acordo.
+
+>[!PREREQUISITES]
 >
 >* [Saiba como sequenciar tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
 >* Ou você já compreende bem o uso de predecessores em seus projetos?
-
->[!NOTE]
->
->Predecessoras entre projetos são uma maneira fácil de estabelecer dependências entre tarefas em projetos diferentes. Por exemplo, uma empresa de construção pode ter um projeto chamado **Construir estrada de acesso para Summerhill habitação Desenvolvimento**, e outro projeto chamado **Início: Construir Modelo em Summerhill**. Ao fazer a primeira tarefa em **Início: Criar Modelo** tem um predecessor de projeto cruzado da última tarefa em **Criar uma estrada de acesso**, você está se certificando de que a estrada de acesso está no lugar antes de começar a construir a casa. Como as tarefas estão vinculadas, se a variável **Criar uma estrada de acesso** guias de projeto, a variável **Início: Criar Modelo** a data de início planejada será automaticamente adiada de acordo.
 
 
 Neste vídeo, você aprenderá:

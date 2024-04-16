@@ -8,12 +8,13 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +39,13 @@ A [!UICONTROL Condição] do projeto é descrita como “Integridade do cronogra
 >Se a condição do projeto é definida automaticamente pelo [!DNL Workfront] ou manualmente por alguém com direitos de gerenciamento ao projeto é controlado pela configuração [!UICONTROL Tipo de condição] na seção [!UICONTROL Visão geral] da página [!UICONTROL Detalhes do projeto].
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Tutoriais recomendados sobre este tópico
+
+* [Introdução ao gerenciamento de um projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Acompanhar o progresso do trabalho com métricas de projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Compreender o [!UICONTROL Gantt] exibir](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Compreender o [!UICONTROL Quadro] exibir](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

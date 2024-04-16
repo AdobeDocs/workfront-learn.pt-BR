@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -30,12 +31,10 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Coloque os projetos do Workfront em execução rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com um foco inicial nesses cinco campos:
+## Tutoriais recomendados sobre este tópico
 
-1. Tarefas
-1. Duração
-1. Horas planejadas
-1. Predecessoras
-1. Atribuições
+* [Navegar na página do projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Aprenda quatro maneiras de criar um projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Preencha os detalhes do projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-Depois que tudo estiver definido, altere o status do projeto para Atual para ativá-lo. À medida que o projeto avança, você deve acompanhar o trabalho que está sendo realizado, os problemas que surgem, as perguntas que precisam ser respondidas, entre outras coisas. Lembre-se que você pode encontrar e gerenciar todas essas informações no [!DNL Workfront].
+

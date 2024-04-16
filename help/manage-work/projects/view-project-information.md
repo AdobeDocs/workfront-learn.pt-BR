@@ -8,12 +8,13 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '205'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,10 +34,9 @@ Quando estiver na seção [!UICONTROL Tarefas] de um projeto, utilize novament
 
 Muitos clientes do [!DNL Workfront] criam visualizações personalizadas que expõem informações de formulários personalizados e outros campos relevantes para o trabalho que está sendo realizado.
 
-## Aprenda como criar filtros, visualizações e agrupamentos personalizados
+## Tutoriais recomendados sobre este tópico
 
-[Criar um filtro básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=pt-BR)
+* [Criar um filtro básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=pt-BR)
+* [Criar uma visualização básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR)
+* [Criar um agrupamento básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=pt-BR)
 
-[Criar uma visualização básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR)
-
-[Criar um agrupamento básico](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=pt-BR)

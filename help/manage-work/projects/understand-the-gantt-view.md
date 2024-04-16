@@ -9,12 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-11T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,3 +29,10 @@ Neste vídeo, você aprenderá a usar:
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
 
 Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
+
+## Tutoriais recomendados sobre este tópico
+
+* [Introdução ao gerenciamento de um projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Acompanhar o progresso geral do projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [Acompanhar o progresso do trabalho com métricas de projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Compreender o [!UICONTROL Quadro] exibir](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
