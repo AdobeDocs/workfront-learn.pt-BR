@@ -15,8 +15,8 @@ exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 77%
 
 ---
 
@@ -51,7 +51,7 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 12. **Menu do painel esquerdo:** navegue por diferentes informações sobre o projeto utilizando o painel esquerdo. Clique no ícone Tarefa na parte superior para recolher o painel se precisar de um pouco mais de espaço na tela. Arraste e solte os ícones para organizá-los, de maneira que possa trabalhar com eficiência. As opções exibidas são definidas pelo(a) admin de sistema do [!DNL Workfront].
 13. **Lista de tarefas:** a lista de tarefas mostra todas as tarefas que compõem o plano do seu projeto. As informações visíveis sobre cada tarefa são determinadas pela exibição selecionada.
 14. **Painel de resumo:** o painel de resumo fornece uma visão rápida das informações sobre a tarefa selecionada. Clique no ícone Painel de resumo para abrir ou fechar o.
-15. **Adicionar mais tarefas** Clique aqui para adicionar outra tarefa à parte inferior da lista de tarefas usando a edição em linha.
+15. **Adicionar mais tarefas** Clique aqui para adicionar outra tarefa à parte inferior da lista de tarefas, usando a edição em linha.
 
 ## Tutoriais recomendados sobre este tópico
 
