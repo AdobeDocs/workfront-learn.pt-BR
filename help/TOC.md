@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '2404'
+ht-degree: 100%
 
 ---
 
