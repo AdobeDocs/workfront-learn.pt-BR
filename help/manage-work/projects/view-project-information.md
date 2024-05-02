@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '201'
-ht-degree: 100%
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # Exibir informações do projeto
 
-Não importa se está visualizando a página principal de [!UICONTROL Projetos] ou um projeto individual, você pode ajustar a lista para ver as informações necessárias com [!UICONTROL filtros], [!UICONTROL visualizações] e [!UICONTROL agrupamentos].
+Neste vídeo, você aprenderá a usar Filtros, Visualizações e Agrupamentos para exibir:
 
-Você pode ter uma visão geral de como todos os projetos estão progredindo na página [!UICONTROL Projetos].
+* Informações de nível de projeto
+* Informações de nível de tarefa
+* Informações do nível do problema
 
-![Página do projeto com a exibição de filtros](assets/planner-fund-project-page-fvg-copy.png)
-
-Use os [!UICONTROL filtros] para restringir a lista com base em determinados critérios. Em seguida, selecione uma [!UICONTROL visualização] para exibir as colunas de informações relevantes para os projetos. Por fim, selecione um [!UICONTROL agrupamento] para organizar os projetos de uma forma que faça sentido para você.
-
-Quando estiver na seção [!UICONTROL Tarefas] de um projeto, utilize novamente os [!UICONTROL filtros], [!UICONTROL visualizações] e [!UICONTROL agrupamentos] para ajudar a monitorar o trabalho que está sendo realizado. Visto que você está analisando tarefas em vez de projetos, há um conjunto totalmente diferente de opções disponível.
-
-![Lista de tarefas do projeto mostrando as visualizações](assets/planner-fund-task-list-fvg.png)
-
-Muitos clientes do [!DNL Workfront] criam visualizações personalizadas que expõem informações de formulários personalizados e outros campos relevantes para o trabalho que está sendo realizado.
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## Tutoriais recomendados sobre este tópico
 
