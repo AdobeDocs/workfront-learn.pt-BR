@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ Clicar em determinadas partes de um gráfico revela gráficos adicionais ou most
 * **Atividades do projeto**: clique no nome do projeto para expandir o gráfico e ver as atividades do projeto por usuário.
 * **Mapa de árvore do projeto**: clique em uma caixa de projeto para exibir os gráficos de Burndown e de Tarefas em andamento.
 * **Atividades por equipe**: clique no nome da equipe para expandir o gráfico e ver as atividades por usuário.
-* **Capacidade de recursos**: clique no nome da equipe para ver o gráfico de capacidade da equipe.
 
 ## O que representa uma sombra mais escura e mais clara nas atividades de equipe?
 

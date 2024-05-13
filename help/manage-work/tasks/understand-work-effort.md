@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 98%
 
 ---
 
@@ -30,3 +31,8 @@ Dessa forma, se você planeja usar qualquer uma das ferramentas de gerenciamento
 ![Lista de tarefas do projeto com a coluna [!UICONTROL Esforço de trabalho]](assets/planner-fund-work-effort.png)
 
 Para mais informações sobre [!UICONTROL Esforço de trabalho], consulte o artigo [Visão geral do esforço de trabalho](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=pt-BR).
+
+## Tutoriais recomendados sobre este tópico
+
+* [Compreensão da duração das tarefas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Entenda sobre as horas planejadas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

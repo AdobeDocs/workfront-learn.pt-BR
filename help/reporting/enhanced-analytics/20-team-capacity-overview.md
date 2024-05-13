@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '390'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ No gráfico, você pode ver:
 
 1. Clique na guia [!UICONTROL Pessoas] no painel esquerdo.
 1. Use o [!UICONTROL Filtro] para escolher uma ou mais equipes internas para examinar.
-1. Você verá o gráfico de capacidade da equipe abaixo do gráfico [!UICONTROL Capacidade de recursos].
+1. Você verá o gráfico de capacidade da equipe ser exibido.
 
 ## Como usar o gráfico
 
