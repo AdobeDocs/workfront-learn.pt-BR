@@ -1,6 +1,6 @@
 ---
 title: Trabalhar com tarefas
-description: Saiba como editar tarefas existentes, adicionar e excluir tarefas e alterar a ordem das tarefas em um projeto no Workfront.
+description: Saiba como adicionar, editar, excluir e alterar a ordem de tarefas em um projeto no Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -13,9 +13,9 @@ jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
 source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ Neste vídeo, você aprenderá:
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entender as tarefas pai-filho](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [Atribuir tarefas do plano do projeto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [Compreensão da duração das tarefas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Entenda as tarefas principais-secundárias](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
+* [Atribuir tarefas do plano do projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [Compreensão da duração das tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)

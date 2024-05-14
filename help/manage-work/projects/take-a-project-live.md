@@ -1,6 +1,6 @@
 ---
 title: Ativar um projeto
-description: Saiba como ativar o projeto do Adobe Workfront usando o status do projeto.
+description: Saiba como ativar o seu projeto do Adobe Workfront usando o status do projeto.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -13,9 +13,9 @@ jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
 source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
