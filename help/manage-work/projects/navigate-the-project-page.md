@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '498'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '495'
 ht-degree: 100%
 
 ---
@@ -55,7 +55,7 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Noções básicas sobre a criação de projetos](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Aprenda quatro maneiras de criar um projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Preencher os detalhes do projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [Noções básicas sobre a criação de projetos](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Aprenda quatro maneiras de criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Preencha os detalhes do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
 

@@ -12,9 +12,9 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -33,8 +33,8 @@ Neste vídeo, você aprenderá:
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Noções básicas da equipe do projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Noções básicas da comunicação do projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
+* [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
+* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
 

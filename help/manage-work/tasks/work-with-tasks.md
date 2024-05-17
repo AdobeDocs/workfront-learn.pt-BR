@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,6 @@ Neste vídeo, você aprenderá:
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entenda as tarefas principais-secundárias](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [Atribuir tarefas do plano do projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [Compreensão da duração das tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Entenda as tarefas principais-secundárias](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)

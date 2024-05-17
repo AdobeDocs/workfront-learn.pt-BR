@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '51'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá:
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Criar tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
-* [Trabalhar com tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [Atribuir tarefas do plano do projeto](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [Criar tarefas](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Trabalhar com tarefas](/help/manage-work/tasks/work-with-tasks.md)
+* [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 
