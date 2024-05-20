@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Neste vídeo, você aprenderá:
 
 ## Filtros do gráfico de pessoas
 
-Os gráficos de pessoas são baseados nas equipes internas. Eles mostram a atividade de quantas equipes você selecionar no filtro.
+Os gráficos de pessoas são baseados nas equipes internas. Eles mostram a atividade de todas as equipes selecionadas no filtro.
 
 ## Considerações adicionais
 
