@@ -1,6 +1,6 @@
 ---
 title: Atribua tarefas do plano do projeto
-description: Aprenda como atribuir usuários a uma tarefa usando a edição em linha num projeto do  [!DNL  Workfront] .
+description: Saiba como atribuir tarefas em um projeto do Adobe Workfront usando edição em linha, edição em massa, funções de trabalho e equipes.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,22 +8,27 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 36%
 
 ---
 
 # Atribua tarefas do plano do projeto
 
-Neste vídeo, você aprenderá a:
+Neste vídeo, você aprenderá:
 
-* Atribua usuários a uma tarefa usando edição em linha
+* Como atribuir uma tarefa usando edição em linha
+* Como atribuir várias tarefas à mesma pessoa
+* Entender o valor das funções de trabalho ao atribuir tarefas
+* Entender o valor dos modelos de projeto ao atribuir tarefas
+* Entenda o valor de atribuir tarefas a equipes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
