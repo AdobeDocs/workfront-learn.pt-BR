@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre [!UICONTROL esforço de trabalho]
-description: Saiba como usar [!UICONTROL Esforço do trabalho] para obter uma estimativa aproximada das horas planejadas na linha do tempo do seu projeto.
+description: Saiba como utilizar o [!UICONTROL Esforço de trabalho] para obter uma estimativa rápida das horas planejadas na linha do tempo do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 47%
 
 Neste vídeo, você aprenderá:
 
-* O que é o esforço de trabalho e como ele pode ajudá-lo a gerenciar projetos
-* Como usar o esforço do trabalho
+* O que é o Esforço de trabalho e como ele pode ajudar a gerenciar projetos
+* Como usar o Esforço de trabalho
 * Como criar uma visualização de tarefa do Esforço de trabalho
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
