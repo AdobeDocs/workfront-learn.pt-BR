@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre as horas planejadas
-description: Saiba o que são horas planejadas no  [!DNL  Workfront], por que elas são importantes para o seu projeto e como adicioná-las em tarefas.
+description: Saiba o que são horas planejadas, por que elas são importantes para o seu projeto e como adicioná-las a tarefas.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
+last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 45%
 
 ---
 
@@ -23,22 +24,18 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá:
 
-* O que são horas planejadas no [!DNL  Workfront]
+* Quais são as horas planejadas no Workfront
 * Por que as horas planejadas são importantes para o seu projeto
+* Como estimar as horas planejadas
 * Como adicionar horas planejadas a tarefas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
 
-<!---
-learn more urls:
-Overview of task duration and duration type
-Planned hours overview
---->
-
-## Tutoriais recomendados sobre este tópico
+## Tutoriais e artigos recomendados sobre este tópico
 
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
 * [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Entenda sobre [!UICONTROL esforço de trabalho]](/help/manage-work/tasks/understand-work-effort.md)
-
+* [Visão geral das planilhas de horas](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
+* [Registrar tempo](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
