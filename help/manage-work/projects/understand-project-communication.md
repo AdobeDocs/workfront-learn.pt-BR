@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # Entenda a comunicação no projeto
 
-Neste vídeo, você aprenderá a se comunicar com todas as partes interessadas do projeto usando:
+Neste vídeo, saiba se comunicar com todas as partes interessadas do projeto usando:
 
 * Bom planejamento de projeto
 * Atualizações
