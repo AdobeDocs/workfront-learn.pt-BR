@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre as horas planejadas
-description: Saiba o que são horas planejadas, por que elas são importantes para o seu projeto e como adicioná-las a tarefas.
+description: Saiba o que são horas planejadas, por que elas são importantes para o projeto e aprenda como adicioná-las às tarefas.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 45%
+ht-degree: 70%
 
 ---
 
