@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 source-git-commit: 7dc10404ef9123a9a8f89517dac5c8c31897cd73
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 43%
+ht-degree: 100%
 
 ---
 
 # Preencha os detalhes do projeto
 
-Neste vídeo, você aprenderá sobre as configurações mais comuns do projeto necessárias ao criar um projeto.
+Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao criar um projeto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on)
 
@@ -32,4 +32,4 @@ Neste vídeo, você aprenderá sobre as configurações mais comuns do projeto n
 * [Navegar na página do projeto](/help/manage-work/projects/navigate-the-project-page.md)
 * [Aprenda quatro maneiras de criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Introdução ao planejamento de um projeto](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [Editar projetos](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+* [Editar projetos](https://experienceleague.adobe.com/pt-br/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)

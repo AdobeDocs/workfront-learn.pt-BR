@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 70%
 
 Neste vídeo, você aprenderá:
 
-* Quais são as horas planejadas no Workfront
+* O que são horas planejadas no Workfront
 * Por que as horas planejadas são importantes para o seu projeto
 * Como estimar as horas planejadas
 * Como adicionar horas planejadas a tarefas
@@ -37,5 +37,5 @@ Neste vídeo, você aprenderá:
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
 * [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Entenda sobre [!UICONTROL esforço de trabalho]](/help/manage-work/tasks/understand-work-effort.md)
-* [Visão geral das planilhas de horas](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [Registrar tempo](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [Visão geral das planilhas de horas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/timesheets/details/timesheets-overview)
+* [Registrar tempo](https://experienceleague.adobe.com/pt-br/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
