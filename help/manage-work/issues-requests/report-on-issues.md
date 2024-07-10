@@ -8,11 +8,12 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -43,7 +44,10 @@ Um relatório de projeto ou tarefa pode exibir essas informações usando o obje
 
 ![Uma imagem das informações do relatório de problema.](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->Para obter instruções sobre como criar uma visualização, consulte [Criar uma visualização básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR).
+
+## Tutoriais recomendados sobre este tópico
+
+* [Criar uma visualização básica](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Crie um relatório simples](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [Localizar e gerenciar solicitações](/help/manage-work/issues-requests/find-requests.md)
 

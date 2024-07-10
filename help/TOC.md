@@ -3,8 +3,8 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: ht
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,6 @@ ht-degree: 100%
       + [Atualizar uma solicitação](manage-work/issues-requests/update-a-request.md)
       + [Converter um problema ou solicitação em um projeto](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Converter um problema ou solicitação em uma tarefa](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Revisar e aprovar um trabalho digital](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Relatório de problemas](manage-work/issues-requests/report-on-issues.md)
 
    + Filas de solicitações {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 100%
    + Processos de aprovação e caminhos de marcos {#approval-processes-and-milestone-paths}
       + [Crie um processo de aprovação de uso único](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Anexar e editar processos de aprovação existentes](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [Revisar e aprovar um trabalho digital](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegar tarefas, problemas e aprovações](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Aplique marcos](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Exibir marcos](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
