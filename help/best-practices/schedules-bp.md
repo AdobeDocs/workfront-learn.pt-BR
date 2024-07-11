@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '536'
-ht-degree: 100%
+source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
+workflow-type: tm+mt
+source-wordcount: '554'
+ht-degree: 67%
 
 ---
 
@@ -23,9 +23,9 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 ## Navegar nesta página
 
-Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
+Ao percorrer esta página, primeiro você encontrará uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem se aprofundar nos detalhes do “porquê”.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A seção “Por que essas práticas recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
@@ -36,7 +36,10 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 * O total de horas úteis em cada dia de trabalho no cronograma deve ser igual ao número de horas do dia especificado nas preferências globais do projeto.
 
-* Adicione um lembrete no calendário do(a) admin de sistema do Adobe Workfront para atualizar os cronogramas em uma determinada data todos os anos.
+* Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar as Programações em uma hora definida a cada ano.
+
+
+Para obter instruções sobre como criar e gerenciar cronogramas, consulte [Criar e gerenciar agendas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutorial.
 
 </br>
 </br>
@@ -51,7 +54,7 @@ Limite o número de cronogramas criados no Adobe Workfront.
 
 **Entenda o porquê**
 
-Não crie dezenas de cronogramas para diferentes grupos, equipes ou pessoas. Utilizar menos cronogramas facilita o processo de manutenção por parte de admins de sistema ou de grupo.
+Não crie dezenas de agendamentos para grupos, equipes ou indivíduos diferentes. Utilizar menos cronogramas facilita o processo de manutenção por parte de admins de sistema ou de grupo.
 
 
 
@@ -61,7 +64,7 @@ Cronogramas separados podem ser necessários quando:
 
 * Você tem trabalhadores em meio período que trabalham menos de 40 horas por semana.
 
-* Essas pessoas não trabalham no padrão de 8 horas por dia, de segunda a sexta-feira, como trabalhadores de fim de semana ou que trabalham em quatro dias de 10 horas.
+* Os funcionários não trabalham 8 horas por dia, de segunda a sexta-feira, como os trabalhadores de fim de semana ou aqueles que trabalham quatro dias de 10 horas.
 
 </br>
 </br>
@@ -74,9 +77,9 @@ O total de horas úteis em cada dia de trabalho no cronograma deve ser igual ao 
 
 **Entenda o porquê**
 
-Se o total de horas de trabalho não corresponder, isso pode resultar em cálculos de data e hora aparentemente incorretos na linha do tempo e nos relatórios do projeto.
+Se o total de horas de trabalho não corresponder, poderá resultar em cálculos de data e hora aparentemente incorretos na linha do tempo e nos relatórios do projeto.
 
-Por exemplo, se a preferência do sistema for de oito horas por dia e o cronograma atribuído a um projeto tiver apenas sete, você perceberá que uma tarefa com duração de um dia demorará mais do que isso para ser concluída, por conta do ajuste ao padrão de oito horas.
+Por exemplo, se a preferência do sistema for de oito horas por dia e o agendamento atribuído a um projeto tiver apenas sete horas de trabalho por dia, você observará que uma tarefa com duração de um dia demora mais de um dia para ser concluída, porque ela está tentando se ajustar às oito horas.
 
 **Nota**: as configurações globais do projeto são definidas em Configuração > Preferências do projeto > Cálculos de linha do tempo > Padrão de horas por dia de trabalho.
 
@@ -86,8 +89,8 @@ Por exemplo, se a preferência do sistema for de oito horas por dia e o cronogra
 
 **Prática recomendada**
 
-Adicione um lembrete no calendário do(a) admin de sistema do Adobe Workfront para atualizar os cronogramas em uma determinada data todos os anos.
+Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar as Programações em uma hora definida a cada ano.
 
 **Entenda o porquê**
 
-Atualize os cronogramas em sua instância do Workfront com feriados nacionais, feriados empresariais e outros dias em que os usuários não estarão trabalhando. Faça isso em uma data definida todos os anos, seja no final do ano ou quando os cronogramas dos feriados forem liberados pelo departamento de recursos humanos, a fim de que as linhas do tempo do projeto, o planejamento de recursos, entre outros elementos, reflitam a disponibilidade exata dos usuários.
+Atualize os cronogramas em sua instância do Workfront com feriados nacionais, feriados da empresa e outros dias em que os usuários não estarão trabalhando. Faça isso em uma data definida todos os anos, seja no final do ano ou quando os cronogramas dos feriados forem liberados pelo departamento de recursos humanos, a fim de que as linhas do tempo do projeto, o planejamento de recursos, entre outros elementos, reflitam a disponibilidade exata dos usuários.
