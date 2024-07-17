@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá a:
 * Encontre solicitações que você enviou
 * Fazer uma atualização no painel Resumo
 * Abrir a página de solicitação
-* Atualizar uma solicitação no [!UICONTROL Atualizações] painel
+* Atualizar uma solicitação no painel [!UICONTROL Atualizações]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

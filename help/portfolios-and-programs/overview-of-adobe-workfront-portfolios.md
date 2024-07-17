@@ -1,5 +1,5 @@
 ---
-title: Entender portfólios
+title: Entenda os portfólios
 description: Saiba o que são os portfólios do Workfront e como eles podem ajudar a priorizar projetos e compará-los entre si.
 activity: use
 team: Technical Marketing
@@ -14,11 +14,11 @@ exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# Entender portfólios
+# Entenda os portfólios
 
 Gerentes muitas vezes têm a difícil tarefa de descobrir quais projetos mais ajudariam a empresa a atingir suas metas e objetivos. Isso envolve julgar um projeto atual ou potencial com base em critérios importantes para esses objetivos. Esses critérios podem incluir pontos como a quantidade de recursos necessários, a relação “custo-benefício” desse projeto e a compreensão dos riscos envolvidos. Com essas informações, gerentes podem decidir quais projetos precisam ser realizados e quando.
 
@@ -54,23 +54,23 @@ Abra o portfólio, clique no menu de três pontos e selecione **[!UICONTROL Comp
 
 ## Criar um portfólio
 
-Para criar um portfólio, clique em **[!UICONTROL Portfolio]** no menu principal.
+Para criar um portfólio, clique em **[!UICONTROL Portfólios]** no menu principal.
 
 ![Uma imagem do menu principal ](assets/create-portfolio-1.png)
 
-Na área Portfolio, clique em **[!UICONTROL Novo Portfolio]**.
+Na área Portfólios, clique em **[!UICONTROL Novo portfólio]**.
 
-![Uma imagem da área dos Portfolio ](assets/create-portfolio-2.png)
+![Uma imagem da área Portfólio ](assets/create-portfolio-2.png)
 
-Nomeie o portfólio e clique em **[!UICONTROL Novo projeto]** para adicionar um projeto ao portfólio. Você pode criar um novo projeto de várias maneiras, da mesma forma que pode **[!UICONTROL Projetos]** área. Qualquer novo projeto criado aqui pertencerá a esse portfólio. Você também pode clicar em **[!UICONTROL Projeto existente]** para selecionar projeto(s) existente(s) em uma lista.
+Nomeie o portfólio e clique em **[!UICONTROL Novo projeto]** para adicionar um projeto ao portfólio. Você pode criar um novo projeto de diversas maneiras, assim como na área **[!UICONTROL Projetos]**. Qualquer novo projeto criado aqui pertencerá a esse portfólio. Você também pode clicar em **[!UICONTROL Projeto existente]** para selecionar projetos já existentes em uma lista.
 
-![Uma imagem do menu de novo projeto ](assets/create-portfolio-3.png)
+![Uma imagem do novo menu do projeto ](assets/create-portfolio-3.png)
 
 ## Criar um programa em um portfólio
 
-Selecione o **[!UICONTROL Programas]** e clique em **[!UICONTROL Novo programa]** para criar um novo programa dentro deste portfólio, ou clique em **[!UICONTROL Programa existente]** para roubar programas existentes de outros portfólios.
+Selecione a guia **[!UICONTROL Programas]** e clique em **[!UICONTROL Novo programa]** para criar um novo programa neste portfólio ou clique em **[!UICONTROL Programa existente]** para obter programas já existentes de outros portfólios.
 
-![Uma imagem do menu do novo programa ](assets/create-portfolio-4.png)
+![Uma imagem do novo menu do programa ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

@@ -10,7 +10,7 @@ level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 100%
 
@@ -108,7 +108,7 @@ Antes de alterar essas configurações, discuta quaisquer necessidades de fluxo 
 Janela de preferências ![[!UICONTROL Tarefas e problemas] com a seção [!UICONTROL Quando alguém é atribuído a um PROBLEMA] destacada](assets/admin-fund-issue-prefs-access-1.png)
 
 1. Clique em **[!UICONTROL Configuração]** no **[!UICONTROL Menu principal]**.
-1. Expanda a seção **[!UICONTROL Preferências do projeto]** no painel de menu esquerdo.
+1. Expanda a seção **[!UICONTROL Preferências do projeto]** no painel do menu esquerdo.
 1. Selecione **[!UICONTROL Tarefas e problemas]**.
 1. Role a tela até a seção **[!UICONTROL Acesso]** e encontre a opção “[!UICONTROL Quando alguém é atribuído a um PROBLEMA]”.
 1. Defina o acesso de compartilhamento para o problema em si: [!UICONTROL Visualizar],[!UICONTROL  Contribuir] ou [!UICONTROL Gerenciar]. O [!DNL Workfront] recomenda deixar as opções avançadas como estão.

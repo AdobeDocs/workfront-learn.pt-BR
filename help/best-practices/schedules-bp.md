@@ -39,7 +39,7 @@ A seção “Por que essas práticas recomendadas?” , encontrada após a lista
 * Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar as Programações em uma hora definida a cada ano.
 
 
-Para obter instruções sobre como criar e gerenciar cronogramas, consulte [Criar e gerenciar agendas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) tutorial.
+Para obter instruções sobre como criar e gerenciar agendas, consulte o [tutorial Criar e gerenciar agendas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>

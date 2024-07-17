@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 100%
 
@@ -41,10 +41,10 @@ Aqui estão algumas coisas a considerar antes de copiar metas:
 1. Atualize qualquer uma das seguintes informações da meta copiada:
    * **Nova meta**: Este é o nome da nova meta. O padrão é o nome da meta original.
    * **Período**: O período durante o qual você deseja atingir a meta. Selecione um período no menu suspenso ou clique em Definir datas personalizadas para indicar um período personalizado. O período padrão é sempre o trimestre atual.
-   * **Proprietário**: O proprietário da meta. Pode ser um usuário, equipe, grupo ou empresa. O padrão é o proprietário da meta original.
-   * **Descrição**: Informações adicionais sobre a meta.
+   * **Proprietário**: o proprietário da meta. Pode ser um usuário, equipe, grupo ou empresa. O padrão é o proprietário da meta original.
+   * **Descrição**: informações adicionais sobre a meta.
 
-1. Marque a caixa **[!UICONTROL Copiar resultados]** se a meta original teve resultados adicionados e você deseja copiá-los para a nova meta. Os resultados da meta copiada têm o mesmo proprietário, nomes e valores medidos que os resultados da meta original.
+1. Marque a caixa **[!UICONTROL Copiar resultados]** se a meta original tiver resultados adicionados e você quiser copiá-los para a nova meta. Os resultados da meta copiada têm o mesmo proprietário, nomes e valores medidos que os resultados da meta original.
 
 1. Clique em **[!UICONTROL Salvar]**. A meta copiada é salva com um status de Rascunho.
 

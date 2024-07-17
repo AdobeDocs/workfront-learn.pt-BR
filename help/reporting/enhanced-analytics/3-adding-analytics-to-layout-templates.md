@@ -1,6 +1,6 @@
 ---
-title: Como acessar o [!UICONTROL Analítica aprimorada]
-description: Saiba como os administradores de sistema e grupo concedem acesso a [!UICONTROL Analítica aprimorada] por meio de um modelo de layout.
+title: Como acessar a [!UICONTROL Analítica aprimorada]
+description: Saiba como administradores de sistema e grupo concedem acesso à [!UICONTROL Analítica aprimorada] por meio de um modelo de layout.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# Como acessar o Analytics aprimorado
+# Como acessar a Analítica aprimorada
 
-Como a maioria dos outros recursos no Workfront, você acessa [!UICONTROL Analítica aprimorada] no menu principal. Mas [!UICONTROL Analytics] não está no menu principal por padrão.
+Como a maioria dos outros recursos no Workfront, você acessa a [!UICONTROL Analítica aprimorada] no menu principal. Mas a [!UICONTROL Analítica] não está no menu principal por padrão.
 
 ![Uma imagem do menu principal ](assets/analytics-on-main-menu.png)
 
-Caso não o veja, o administrador do sistema ou do grupo precisará adicioná-lo para você. Eles farão isso em um modelo de layout. O vídeo abaixo explica como.
+Caso não a veja, a administração do sistema ou do grupo precisará adicioná-la para você. Eles farão isso em um modelo de layout. O vídeo abaixo explica como.
 
 
 ## Adicionar a análise aos modelos de layout
