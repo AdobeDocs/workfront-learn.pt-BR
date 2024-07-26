@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '554'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -36,10 +36,10 @@ A seção “Por que essas práticas recomendadas?” , encontrada após a lista
 
 * O total de horas úteis em cada dia de trabalho no cronograma deve ser igual ao número de horas do dia especificado nas preferências globais do projeto.
 
-* Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar as Programações em uma hora definida a cada ano.
+* Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar os cronogramas em um horário definido a cada ano.
 
 
-Para obter instruções sobre como criar e gerenciar agendas, consulte o [tutorial Criar e gerenciar agendas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
+Para obter instruções sobre como criar e gerenciar cronogramas, consulte o tutorial [Criar e gerenciar cronogramas](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>
@@ -54,7 +54,7 @@ Limite o número de cronogramas criados no Adobe Workfront.
 
 **Entenda o porquê**
 
-Não crie dezenas de agendamentos para grupos, equipes ou indivíduos diferentes. Utilizar menos cronogramas facilita o processo de manutenção por parte de admins de sistema ou de grupo.
+Não crie dezenas de cronogramas para diferentes grupos, equipes ou pessoas. Utilizar menos cronogramas facilita o processo de manutenção por parte de admins de sistema ou de grupo.
 
 
 
@@ -64,7 +64,7 @@ Cronogramas separados podem ser necessários quando:
 
 * Você tem trabalhadores em meio período que trabalham menos de 40 horas por semana.
 
-* Os funcionários não trabalham 8 horas por dia, de segunda a sexta-feira, como os trabalhadores de fim de semana ou aqueles que trabalham quatro dias de 10 horas.
+* Essas pessoas não trabalham no padrão de 8 horas por dia, de segunda a sexta-feira, como trabalhadores de fim de semana ou que trabalham 10 horas por dia por quatro dias.
 
 </br>
 </br>
@@ -77,9 +77,9 @@ O total de horas úteis em cada dia de trabalho no cronograma deve ser igual ao 
 
 **Entenda o porquê**
 
-Se o total de horas de trabalho não corresponder, poderá resultar em cálculos de data e hora aparentemente incorretos na linha do tempo e nos relatórios do projeto.
+Se o total de horas de trabalho não corresponder, isso pode resultar em cálculos de data e hora aparentemente incorretos na linha do tempo e nos relatórios do projeto.
 
-Por exemplo, se a preferência do sistema for de oito horas por dia e o agendamento atribuído a um projeto tiver apenas sete horas de trabalho por dia, você observará que uma tarefa com duração de um dia demora mais de um dia para ser concluída, porque ela está tentando se ajustar às oito horas.
+Por exemplo, se a preferência do sistema for de oito horas por dia e o cronograma atribuído a um projeto tiver apenas sete, você perceberá que uma tarefa com duração de um dia demorará mais do que isso para ser concluída, por conta do ajuste ao padrão de oito horas.
 
 **Nota**: as configurações globais do projeto são definidas em Configuração > Preferências do projeto > Cálculos de linha do tempo > Padrão de horas por dia de trabalho.
 
@@ -89,7 +89,7 @@ Por exemplo, se a preferência do sistema for de oito horas por dia e o agendame
 
 **Prática recomendada**
 
-Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar as Programações em uma hora definida a cada ano.
+Adicione um lembrete ao calendário do administrador do sistema do Adobe Workfront para atualizar os cronogramas em um horário definido a cada ano.
 
 **Entenda o porquê**
 
