@@ -1,6 +1,6 @@
 ---
 title: Relatório de problemas
-description: Saiba como criar relatórios mostrando problemas abertos e informações de conversão.
+description: Saiba como criar relatórios para mostrar problemas em aberto e informações sobre a conversão.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 41%
 
 Neste vídeo, você aprenderá a criar:
 
-* Um relatório de problemas mostrando objetos de resolução
-* Um relatório de projeto que mostra informações de problemas convertidas
+* Um relatório de problemas para mostrar os objetos de resolução
+* Um relatório do projeto mostrando as informações sobre o problema convertido
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
