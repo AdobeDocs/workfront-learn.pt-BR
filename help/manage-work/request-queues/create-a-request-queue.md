@@ -1,6 +1,6 @@
 ---
 title: Crie uma fila de solicitações
-description: Aprenda a configurar uma fila de solicitações e estabelecer detalhes da fila no [!DNL  Workfront]. Siga estas etapas para ajudar a organização a gerenciar a entrada de trabalho.
+description: Saiba como configurar uma fila de solicitações e estabelecer detalhes da fila. Siga estas etapas para ajudar a organização a gerenciar a entrada de trabalho.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -8,13 +8,15 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335221.jpeg
+recommendations: noDisplay,noCatalog
 jira: KT-8958
+last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
+source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 84%
 
 ---
 
@@ -28,16 +30,9 @@ Neste vídeo, você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## Sua vez
+## Tutoriais recomendados sobre este tópico
 
-Vamos agora analisar as informações que você acabou de apresentar.
-
-**Pergunta:** Qual das opções a seguir deve estar em vigor para que uma fila de solicitações entre em funcionamento? (selecione todas as respostas corretas)
-
-1. Status do projeto = Atual
-1. “Problema” do tipo de solicitação está selecionado
-1. “Publicar como fila de solicitação de ajuda” está selecionado
-1. Status do projeto = Atual ou Planejamento
-
-**Resposta:** 1) Status do projeto = Atual e 3) “Publicar como fila de solicitação de ajuda” está selecionado
+* [Entenda as filas de solicitações](/help/manage-work/request-queues/understand-request-queues.md)
+* [Entenda as configurações para uma solicitação de fluxo](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Criar um fluxo de solicitação](/help/manage-work/request-queues/create-a-request-flow.md)
 
