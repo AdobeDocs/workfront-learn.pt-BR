@@ -3,10 +3,10 @@ user-guide-description: Tutoriais do Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
-workflow-type: ht
-source-wordcount: '2404'
-ht-degree: 100%
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+workflow-type: tm+mt
+source-wordcount: '2407'
+ht-degree: 99%
 
 ---
 
@@ -642,7 +642,8 @@ ht-degree: 100%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [Balanceador de carga de trabalho](best-practices/workload-balancer-bp.md)
 
-
++ Workfront para executivos {#workfront-for-executives}
+   + [Workfront para executivos](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 100%
 + [O que é a metodologia Scrum e como ela funciona?](agile/what-is-the-scrum-methodology.md)
 + [O que é a metodologia Kanban e como ela funciona?](agile/what-is-the-kanban-methodology.md)
 + [Transição para a metodologia Ágil](agile/transitioning-to-agile.md)
-+ [Workfront para executivos](workfront-for-executives/workfront-for-executives.md)
 + [Gerenciar solicitações](manage-work/issues-requests/manage-incoming-requests.md)
 + [Entenda o gráfico de capacidade de recursos](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
