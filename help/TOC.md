@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + Filas de solicitações {#request-queues}
       + [Entenda as filas de solicitações](manage-work/request-queues/understand-request-queues.md)
       + [Crie uma fila de solicitações](manage-work/request-queues/create-a-request-queue.md)
-      + [Entender as configurações de um fluxo de solicitação](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Noções básicas das configurações de um fluxo de solicitação](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Criar um fluxo de solicitação](manage-work/request-queues/create-a-request-flow.md)
       + [Criar uma fila de solicitações de feedback para admins de sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Respostas a perguntas comuns sobre filas de solicitações](manage-work/request-queues/request-queue-faq.md)

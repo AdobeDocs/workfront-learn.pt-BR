@@ -1,6 +1,6 @@
 ---
-title: Entender as configurações de um fluxo de solicitação
-description: Saiba mais sobre fluxos de solicitação e como criar um usando regras de roteamento, grupos de tópicos e tópicos da fila.
+title: Noções básicas das configurações de um fluxo de solicitação
+description: Saiba mais sobre fluxos de solicitação e como criá-los com regras de roteamento, grupos de tópicos e tópicos da fila.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Entender as configurações de um fluxo de solicitação
+# Noções básicas das configurações de um fluxo de solicitação
 
 Neste vídeo, você aprenderá:
 
