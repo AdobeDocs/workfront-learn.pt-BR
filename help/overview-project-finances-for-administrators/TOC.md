@@ -5,10 +5,10 @@ breadcrumb-title: visão geral do Portfolio
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # Visão geral das finanças do projeto para administradores {#project-finances-for-administrators}
 
 + [Visão geral das finanças do projeto para administradores](overview.md)
-+ [Compreender as métricas de desempenho](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [Configurar padrões de receita e custo da tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [Configurar taxas de câmbio](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [Configurar tipos de despesas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [Entender o acesso financeiro](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ Finanças do projeto para administradores {#project-finances-for-administrators}
+   + [Entenda as métricas de desempenho](understand-performance-metrics.md)
+   + [Configurar padrões de receita e custo da tarefa](set-up-task-revenue-and-cost-defaults.md)
+   + [Configurar taxas de câmbio](set-up-exchange-rates.md)
+   + [Configurar tipos de despesa](set-up-expense-types.md)
+   + [Entenda o acesso financeiro](understand-financial-access.md)
 
 
