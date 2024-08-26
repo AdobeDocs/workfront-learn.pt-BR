@@ -1,13 +1,13 @@
 ---
 user-guide-title: Visão geral de Criar agrupamentos intermediários
 user-guide-description: Saiba o que é modo de texto, o que é camel case e como usar alguns blocos de código básicos do modo de texto "plug and play" para criar agrupamentos que vão além dos recursos do construtor padrão.
-breadcrumb-title: visão geral do Portfolio
+breadcrumb-title: Visão geral de Criar agrupamentos intermediários
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 10%
 
 ---

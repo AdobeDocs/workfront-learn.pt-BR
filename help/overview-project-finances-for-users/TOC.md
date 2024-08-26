@@ -1,14 +1,14 @@
 ---
 user-guide-title: Visão geral das finanças do projeto para usuários
 user-guide-description: Saiba como priorizar projetos atuais e propostos com base em seu custo, valor, risco e alinhamento com as metas de suas organizações.
-breadcrumb-title: visão geral do Portfolio
+breadcrumb-title: Visão geral das finanças do projeto para usuários
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 28%
+source-wordcount: '55'
+ht-degree: 27%
 
 ---
 
