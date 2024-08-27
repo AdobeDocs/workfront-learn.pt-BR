@@ -1,63 +1,45 @@
 ---
 title: Criar uma visão geral do calendário personalizado
-description: Agora
+description: Com um calendário personalizado, você pode exibir datas e informações diretamente de projetos, tarefas e problemas em um formato de calendário.
 feature: Reports and Dashboards
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
-jira: KT-
+last-substantial-update: 2024-08-26T00:00:00Z
+jira: KT-10662
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 63%
+source-wordcount: '116'
+ht-degree: 22%
 
 ---
 
 
 # Criar uma visão geral do calendário personalizado {#overview}
 
-Agora
+Com um calendário personalizado, você pode exibir datas e informações diretamente de projetos, tarefas e problemas em um formato de calendário.
 
 >[!PREREQUISITES]
 >
->* Boa compreensão do uso do Workfront
->* Tipo de licença padrão com direitos para criar projetos habilitados
->* [Introdução ao Workfront para uma visão geral dos gerentes de projeto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* Noções básicas sobre o uso do Workfront
+>* Tipo de licença padrão com direitos para criar relatórios e filtros habilitados
+>* [Visão geral dos elementos básicos de relatórios](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting?lang=pt-BR)
 
 
 ## Público-alvo
 
-Usuários de licença padrão que criarão ou gerenciarão projetos.
+* Usuários de licença padrão que desejam criar calendários personalizados
+* Qualquer usuário que queira entender o que os calendários personalizados podem fazer
 
 ## Tutorials
 
-### Gerenciar um projeto
+* [Entenda a interface do relatório de calendário](tour-of-the-interface.md)
+* [Criar um relatório de calendário personalizado](creating-custom-calendars.md)
+* [Entenda as opções adicionais de relatório de calendário](additional-calendar-options.md)
+* [Sua vez de criar um relatório de calendário](your-turn-to-create-a-calendar.md)
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
-* [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
-* [Exibir informações do projeto](/help/manage-work/projects/view-project-information.md)
-* [Acompanhe o progresso geral do projeto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Entenda a visualização de [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Entenda a visualização de [!UICONTROL Quadro]](/help/manage-work/projects/understand-the-board-view.md)
-
-
-### Encerrar um projeto
-
-* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
-* [Fechar tarefas e problemas](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
-* [Faça upload de ativos](/help/manage-work/close-a-project/upload-assets.md)
-* [Relembrar as lições aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrar e revisar horas](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [Atualizar e revisar finanças](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Fechar uma atividade do projeto](/help/manage-work/close-a-project/close-a-project-activity.md)
