@@ -2,14 +2,14 @@
 user-guide-title: Gerenciar trabalho - intermediário
 user-guide-description: Depois de aprender as noções básicas sobre criação, planejamento e gerenciamento de projetos, há mais algumas coisas que você deve saber para aproveitar ao máximo o Workfront.
 feature: Work Management
-breadcrumb-title: Melhor compreensão do gerenciamento de trabalho como uma visão geral do gerente de projeto
+breadcrumb-title: Gerenciar trabalho - intermediário
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 65%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 65%
       + [Converter um problema ou solicitação em um projeto](create-a-project-from-a-request.md)
       + [Converter um problema ou solicitação em uma tarefa](convert-issues-to-other-work-items.md)
       + [Relatório de problemas](report-on-issues.md)
-
-   + Cronogramas do projeto {#project-timelines}
-      + [Entenda as linhas do tempo do projeto](understand-project-timelines.md)
-      + [Entenda os tipos de data e os status do progresso](understand-task-dates-and-progress-status.md)
-      + [Acompanhe o progresso da linha do tempo do projeto](track-work-progress-from-the-project-timeline.md)
 
    + Procurando mais {#digging-deeper}
       + [Compreender e gerenciar tipos de duração e restrições de tarefa](understand-and-manage-duration-types-and-task-constraints.md)

@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Saiba como criar caminhos de etapas, aplicá-los a tarefas e exibir relatórios 
 * [Aplicar marcos](apply-milestones.md) - Saiba como aplicar um caminho de marcos a um projeto e associar tarefas principais como etapas de marcos no projeto.
 * [Exibir marcos](view-milestones.md) - Saiba como exibir marcos em um projeto do Adobe Workfront, além de usar o modo de exibição de marcos na área do projeto.
 
+
 ## Como trabalhar com problemas
 
 Saiba como lidar com problemas não planejados, converter problemas em outros itens de trabalho, gerenciar atribuições de problemas e relatar problemas.
@@ -86,13 +87,6 @@ Saiba como lidar com problemas não planejados, converter problemas em outros it
 * [Converter um problema/solicitação em uma tarefa](convert-issues-to-other-work-items.md) - Saiba como converter um problema em uma tarefa.
 * [Relatório de problemas](report-on-issues.md) - Saiba como criar um relatório de problemas que mostre objetos de resolução e um relatório de projeto que mostre informações sobre problemas convertidos.
 
-## Cronogramas de projeto
-
-Saiba como agendar projetos e acompanhar seu progresso.
-
-* [Entenda os cronogramas do projeto](understand-project-timelines.md) - Saiba como agendar projetos a partir de uma data de início ou de conclusão. Saiba como a duração, predecessores e restrições da tarefa afetam o plano do projeto.
-* [Entenda os tipos de data e o status do progresso](understand-task-dates-and-progress-status.md) - Saiba como selecionar um modo de exibição para comparar os diferentes tipos de data do Workfront e como usar o campo de status do progresso.
-* [Rastrear o progresso a partir da linha do tempo do projeto](track-work-progress-from-the-project-timeline.md) - Saiba como rastrear o progresso do trabalho a partir da linha do tempo do projeto usando a porcentagem concluída, o status, as atribuições e as restrições de tarefa.
 
 ## Cavar mais fundo
 
