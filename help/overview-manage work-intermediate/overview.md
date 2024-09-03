@@ -12,9 +12,9 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,6 @@ Saiba como criar e usar modelos de projeto.
 * [Desativar um modelo de projeto](deactivate-a-project-template.md) - Saiba como ativar e desativar um modelo de projeto.
 * [Editar a equipe de projeto em um modelo de projeto](edit-the-project-team-in-a-project-template.md) - Saiba como evitar a inclusão involuntária de **não** membros da equipe de projeto em uma equipe de projeto de modelo e como editar a equipe de projeto de modelo.
 
-
 ## Como criar e usar processos de aprovação
 
 Saiba como criar processos de aprovação, anexá-los a fluxos de trabalho, revisar trabalho digital e delegar aprovações.
@@ -64,7 +63,6 @@ Saiba como criar processos de aprovação, anexá-los a fluxos de trabalho, revi
 * [Entenda sobre atualizações e notificações](understand-updates-and-notifications.md) - Saiba como fazer atualizações sobre solicitações de aprovação e encontrar suas notificações.
 * [Delegar tarefas, problemas e aprovações](delegate-approvals.md) - Saiba como delegar aprovações de projetos, tarefas, problemas e cartões de ponto a outro usuário do Adobe Workfront.
 
-
 ## Como criar e usar marcos
 
 Saiba como criar caminhos de etapas, aplicá-los a tarefas e exibir relatórios de etapas.
@@ -72,7 +70,6 @@ Saiba como criar caminhos de etapas, aplicá-los a tarefas e exibir relatórios 
 * [Criar etapas do projeto](creating-milestones.md) - Saiba o que são caminhos de etapas, como criar caminhos de etapas e como adicionar etapas de etapas a um projeto.
 * [Aplicar marcos](apply-milestones.md) - Saiba como aplicar um caminho de marcos a um projeto e associar tarefas principais como etapas de marcos no projeto.
 * [Exibir marcos](view-milestones.md) - Saiba como exibir marcos em um projeto do Adobe Workfront, além de usar o modo de exibição de marcos na área do projeto.
-
 
 ## Como trabalhar com problemas
 
@@ -86,7 +83,6 @@ Saiba como lidar com problemas não planejados, converter problemas em outros it
 * [Converter um problema/solicitação em um projeto](create-a-project-from-a-request.md) - Saiba como iniciar a conversão da solicitação em projeto e selecione o modelo de projeto apropriado.
 * [Converter um problema/solicitação em uma tarefa](convert-issues-to-other-work-items.md) - Saiba como converter um problema em uma tarefa.
 * [Relatório de problemas](report-on-issues.md) - Saiba como criar um relatório de problemas que mostre objetos de resolução e um relatório de projeto que mostre informações sobre problemas convertidos.
-
 
 ## Cavar mais fundo
 
