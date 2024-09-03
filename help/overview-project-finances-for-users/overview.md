@@ -1,5 +1,5 @@
 ---
-title: Visão geral das finanças do projeto para usuários
+title: Finanças do projeto para usuários
 description: Saiba como rastrear informações financeiras para projetos, definir tipos de custo e receita e substituir taxas de faturamento.
 feature: Work Management
 type: Tutorial
@@ -7,37 +7,31 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '146'
+ht-degree: 2%
 
 ---
 
 
 # Visão geral das finanças do projeto para usuários
 
-Saiba como rastrear informações financeiras para projetos, definir tipos de custo e receita e substituir taxas de faturamento.
+Saiba como rastrear informações financeiras para projetos, definir tipos de custo e receita e substituir taxas de faturamento. Este tutorial foi projetado para usuários que rastrearão os dados financeiros relacionados a um projeto.
 
-O Workfront não se destina a substituir nenhum software de rastreamento financeiro ou faturamento usado atualmente, mas pode fornecer rastreamento e relatórios monetários.
+O Adobe Workfront não se destina a substituir nenhum software de rastreamento financeiro ou faturamento usado atualmente, mas pode fornecer rastreamento e relatórios monetários.
 
 >[!PREREQUISITES]
 >
 >* Noções básicas sobre o uso do Workfront
 >* Tipo de licença padrão com direitos para editar dados financeiros
 
-## Público-alvo
 
-Usuários que desejam rastrear as finanças no Workfront.
-
-
-## Tutorials
-
-* [Atualizar e revisar finanças](update-and-review-finances.md)
-* [Encontrar informações financeiras](find-financial-information.md)
-* [Entenda as várias taxas de faturamento](multiple-billing-rates.md)
+* [Atualizar e revisar finanças](update-and-review-finances.md) - Saiba como revisar as informações financeiras associadas a um projeto.
+* [Localizar informações financeiras](find-financial-information.md) - Saiba como localizar informações financeiras sobre um projeto e entender sua origem.
+* [Entender várias taxas de cobrança](multiple-billing-rates.md) - Saiba como substituir taxas de cobrança do sistema em um projeto específico.

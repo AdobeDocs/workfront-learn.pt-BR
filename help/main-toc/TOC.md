@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2412'
+source-wordcount: '2417'
 ht-degree: 99%
 
 ---
@@ -585,6 +585,12 @@ ht-degree: 99%
 
 + Ágil {#agile}
 
+   + Introdução ao gerenciamento de trabalho Agile {#intro-to-agile}
+      + [Benefícios de usar uma metodologia ágil](/help/agile/benefits-of-using-agile.md)
+      + [O que é a metodologia Scrum e como ela funciona?](/help/agile/what-is-the-scrum-methodology.md)
+      + [O que é a metodologia Kanban e como ela funciona?](/help/agile/what-is-the-kanban-methodology.md)
+      + [Transição para a metodologia Ágil](/help/agile/transitioning-to-agile.md)
+
    + Scrum {#scrum}
       + [Crie uma equipe ágil de Scrum](/help/agile/create-a-scrum-agile-team.md)
       + [Gerenciar o trabalho como uma equipe de Scrum](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 99%
 
 
 
-+ [Benefícios de usar uma metodologia ágil](/help/agile/benefits-of-using-agile.md)
-+ [O que é a metodologia Scrum e como ela funciona?](/help/agile/what-is-the-scrum-methodology.md)
-+ [O que é a metodologia Kanban e como ela funciona?](/help/agile/what-is-the-kanban-methodology.md)
-+ [Transição para a metodologia Ágil](/help/agile/transitioning-to-agile.md)
+
 + [Gerenciar solicitações](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Entenda o gráfico de capacidade de recursos](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
