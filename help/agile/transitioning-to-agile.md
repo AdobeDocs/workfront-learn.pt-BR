@@ -7,12 +7,11 @@ level: Intermediate
 jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 hide: true
-hidefromtoc: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '554'
-ht-degree: 100%
+ht-degree: 58%
 
 ---
 
@@ -20,11 +19,11 @@ ht-degree: 100%
 
 ## Perguntas a serem feitas antes de fazer a mudança
 
-Antes de começar a adotar a metodologia Ágil, vamos analisar algumas perguntas que ajudarão você a determinar se será ou não a opção certa.
+Antes de começar a adotar o Agile, vamos analisar algumas perguntas que ajudarão você a determinar se será ou não o ajuste certo.
 
-A primeira pergunta a ser feita é: a entrega de incrementos de produtos ou recursos será permitida em sua empresa? Você precisa conseguir mudar o foco ou a direção daquele produto no meio do processo? Em outras palavras, você está iniciando um projeto sem conhecer todos os detalhes de como será o produto final com base no ambiente, nos avanços tecnológicos futuros ou nos desejos/necessidades futuras que não são aparentes no momento?
+A primeira pergunta a ser feita é: a entrega de incrementos de produtos ou recursos será permitida em sua empresa? Você precisa conseguir mudar o foco ou a direção daquele produto no meio do processo? Em outras palavras, você está iniciando um projeto sem saber todos os detalhes sobre a aparência do produto final com base no ambiente, em futuros avanços tecnológicos ou em necessidades/necessidades futuras que não estão aparentes no momento?
 
-Se você puder responder sim às perguntas acima, então até agora a transição para a metodologia Ágil parece uma boa ideia. Este é o segundo conjunto de perguntas, focadas na infraestrutura da sua equipe:
+Se você puder responder sim às perguntas acima, até agora, uma transição para Agile está funcionando bem. Este é o segundo conjunto de perguntas, focadas na infraestrutura da sua equipe:
 
 * Elas estão localizadas perto uma da outra?
 
@@ -50,13 +49,13 @@ Esses tipos de perguntas devem ser feitas e abordadas se você achar que certos 
 
 ## Prepare sua equipe
 
-Depois de se sentir confortável em seguir em frente com a metodologia Ágil, você vai querer começar preparando suas equipes Ágil sobre como elas farão a transição para suas novas funções, quando começarão a ter reuniões diárias e como farão a transição do trabalho atual para a nova configuração de storyboard.
+Depois de se sentir confortável em seguir em frente com o Agile, você desejará começar educando suas equipes do Agile sobre como elas farão a transição para suas novas funções, quando começarão a ter stand-ups diários e como farão a transição do trabalho atual para a nova configuração de storyboard.
 
 
 ## O que observar depois de começar a usar a metodologia Ágil
 
-Depois de estabelecer as etapas de transição e garantir que todos estejam confortáveis com o novo estilo de trabalho, você vai querer ter certeza de estar monitorando e acompanhando seu progresso e sucesso. Se eles estão lutando para correr na mesma velocidade de antes, o que pode estar causando esses problemas? Se a equipe não estiver atualizando as histórias com seu status atual, esses status foram claramente definidos?
+Depois de estabelecer as etapas de transição e garantir que todos estejam confortáveis com o novo estilo de trabalho, você deverá monitorar e rastrear o progresso e o sucesso deles. Se eles estão lutando para correr na mesma velocidade de antes, o que pode estar causando esses problemas? Se a equipe não estiver atualizando as histórias com o status atual, esses status foram claramente definidos?
 
-Acompanhar o progresso ou o sucesso de uma nova equipe Ágil será muito benéfico para dar à equipe confiança nas mudanças que estão incorporando. Além disso, ter essas métricas ajudará a justificar os benefícios da transição de uma equipe para a metodologia Ágil em reuniões de nível superior.
+Rastrear o progresso ou o sucesso de uma nova equipe Agile será muito benéfico para dar à equipe confiança nas alterações que está incorporando. Além disso, ter essas métricas ajudará a justificar os benefícios da transição de uma equipe para a metodologia Ágil em reuniões de nível superior.
 
-Por fim, é importante fornecer à sua equipe e aos novos mestres de scrum um formulário que descreva perguntas úteis a serem feitas durante as reuniões diárias e as retrospectivas da iteração. Isso fornece uma excelente documentação para futuras revisões do processo. Permite também que a equipe identifique áreas que precisam ser melhoradas e as ajude a responder perguntas que os membros talvez não pensem em falar se forem novos na equipe Ágil.
+Finalmente, é importante fornecer à sua equipe e aos novos mestres de scrum um um formulário que descreve perguntas úteis a serem feitas durante stand-ups diários e as retrospectivas de iteração. Isso fornece uma excelente documentação para futuras revisões do processo. Permite também que a equipe identifique áreas que precisam ser melhoradas e as ajude a responder perguntas que os membros talvez não pensem em falar se forem novos na equipe Ágil.
