@@ -9,9 +9,9 @@ thumbnail: benefits-of-agile.png
 hide: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Como o nome sugere, a metodologia Ágil permite que as equipes estejam mais bem 
 
 ## Transparência no trabalho de uma equipe
 
-As equipes Agile usam reuniões diárias chamadas de &quot;stand-ups&quot; para garantir que a equipe permaneça focada na lista priorizada de recursos ou produtos a serem desenvolvidos. Isso elimina a confusão de não saber com o que outros membros da equipe estão trabalhando. Essas reuniões permitem manter o controle sobre o que a equipe realizou no dia anterior, quais problemas ou obstáculos precisam ser resolvidos e qual será o foco do trabalho naquele dia.
+As equipes Ágil realizam reuniões diárias (chamadas de “stand-up”) para garantir que permaneçam focadas nos principais recursos ou produtos que devem ser desenvolvidos. Isso elimina a confusão de não saber com o que outros membros da equipe estão trabalhando. Essas reuniões permitem manter o controle sobre o que a equipe realizou no dia anterior, quais problemas ou obstáculos precisam ser resolvidos e qual será o foco do trabalho naquele dia.
 
 
 

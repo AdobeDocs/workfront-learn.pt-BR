@@ -9,9 +9,9 @@ thumbnail: what-is-kanban.jpeg
 hide: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Os players principais de uma equipe Kanban são semelhantes aos de uma equipe Sc
 
 Há muitas maneiras de formatar seu quadro Kanban. As equipes operam com um quadro que pode ter qualquer número de colunas. Cada coluna representa o status do trabalho que está sendo realizado.
 
-No painel mais simples, a primeira coluna pode ser &quot;por fazer&quot;, a segunda &quot;em andamento&quot; e a terceira &quot;concluída&quot;.
+No quadro mais simplificado, a primeira coluna pode ser “A fazer”, a segunda “Em andamento” e a terceira “Concluída”.
 
 ![Quadro negro e notas adesivas](assets/agile4-01.png)
 
@@ -42,13 +42,13 @@ Muitas empresas têm sua própria terminologia para os nomes das colunas, ou pod
 
 ## Priorização
 
-Os membros da equipe trabalham com um gerente de produto ou gerente de projeto para garantir que as histórias na lista de pendências e outras colunas de status sejam priorizadas, e que o trabalho continue avançando até a conclusão. O gerente de produto ainda é responsável por garantir que a voz do cliente seja ouvida e que o produto siga na direção correta.
+Os membros da equipe trabalham com um gerente de produto ou gerente de projeto para garantir que as histórias na lista de pendências e outras colunas de status sejam priorizadas, e que o trabalho continue avançando até a conclusão. O gerente de produto ainda é responsável por garantir que a voz do cliente seja ouvida e que o produto avance na direção correta.
 
 ![Quadro branco Kanban](assets/agile4-03.png)
 
 ## Limite o trabalho em andamento
 
-Um aspecto único do Kanban é que as equipes têm um limite de capacidade para a quantidade de histórias que elas podem lidar num determinado momento. As equipes escolhem uma certa quantidade de histórias que estão dispostas a ter em suas colunas &quot;fazer&quot; e &quot;em andamento&quot;, e não ultrapassam esse número para evitar esgotamento. Depois que uma história é movida para &quot;completa&quot;, uma história do backlog ocupa seu lugar na coluna &quot;tarefa&quot;.
+Um aspecto único do Kanban é que as equipes têm um limite de capacidade para a quantidade de histórias que elas podem lidar num determinado momento. As equipes escolhem uma quantidade específica de histórias que podem ter nas colunas “A fazer” e “Em andamento” e não ultrapassam esse número para evitar o esgotamento. Depois que uma história é movida para “Concluída”, uma história da lista de pendências ocupa seu lugar na coluna “A fazer”.
 
 ## Aprimoramento contínuo
 

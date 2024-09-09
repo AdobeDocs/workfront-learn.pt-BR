@@ -9,9 +9,9 @@ thumbnail: what-is-scrum.jpeg
 hide: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ A metodologia Scrum engloba o modelo de flexibilidade, mas difere de outras meto
 
 ## Visão geral da equipe de Scrum
 
-Ao decidir se muda ou não para o Scrum, você precisará examinar a estrutura de suas equipes para ver se elas podem ser facilmente transferidas para a nova metodologia. Uma equipe de Scrum tem três tipos de membros: proprietário do produto, especialista de scrum e membros da equipe.
+Ao decidir se deve ou não mudar para o Scrum, você precisará observar a estrutura de suas equipes para determinar se elas podem ser facilmente transferidas para a nova metodologia. Uma equipe de Scrum tem três tipos de membros: proprietário do produto, especialista de scrum e membros da equipe.
 
 ![Membros da equipe de Scrum](assets/scrumteammembers-01.png)
 
@@ -42,7 +42,7 @@ Uma equipe geralmente é multifuncional e tem membros com diversas funções e h
 
 ## Trabalhar como uma equipe de Scrum
 
-Depois de reunir esses players principais, eles seguirão um novo estilo de fluxo de trabalho para concluir o trabalho e entregar um produto ao cliente. Novamente, em comparação com a metodologia tradicional ou em cascata, elas não seguirão mais um processo linear de elaborar um plano para um produto final e, depois, passar pelas etapas ou fases necessárias para entregar esse produto. Em vez disso, as equipes de Scrum primeiro criam uma lista de pendências.
+Após reunir essas pessoas com funções essenciais, elas seguirão um novo estilo de fluxo de trabalho para realizar suas tarefas e entregar um produto ao cliente. Novamente, em comparação com a metodologia tradicional ou em cascata, elas não seguirão mais um processo linear de elaborar um plano para um produto final e, depois, passar pelas etapas ou fases necessárias para entregar esse produto. Em vez disso, as equipes de Scrum primeiro criam uma lista de pendências.
 
 
 
@@ -65,13 +65,13 @@ Depois de criarem suas histórias principais, a equipe precisa preparar a lista 
 
 ### Planejamento de iteração
 
-Depois que o backlog for removido e priorizado, é hora de planejar a iteração. (Muitas organizações usam as palavras &quot;sprint&quot; e &quot;iteração&quot; alternadamente.) A equipe decide quais histórias serão concluídas com base nas que estão prontas para serem iniciadas. A equipe faz as atribuições e define a duração da iteração.
+Depois que a lista de pendências tiver sido preparada e priorizada, é hora de planejar a iteração. (Muitas organizações usam as palavras “sprint” e “iteração” indistintamente). A equipe decide quais histórias serão concluídas com base nas que estão prontas para serem iniciadas. A equipe faz as atribuições e define a duração da iteração.
 
 
 
 ### Execução da iteração
 
-Agora, é hora de executar a iteração. Os membros da equipe iniciam o seu trabalho como uma equipe tradicional faria, mas agora realizam uma reunião rápida diária, chamada de “stand-up meeting”.
+Agora é hora de executar a iteração. Os membros da equipe iniciam o seu trabalho como uma equipe tradicional faria, mas agora realizam uma reunião rápida diária, chamada de “stand-up meeting”.
 
 Nessa reunião curta, os membros da equipe ficarão de pé para responder a três perguntas:
 
@@ -86,7 +86,7 @@ Essas reuniões mantêm todos(as) na mesma página e em constante andamento.
 
 ## Usar o gráfico de burndown e storyboard para monitorar o progresso
 
-Como uma equipe responde às três principais perguntas em seus testes de resistência, é importante que ela monitore e acompanhe seu progresso em direção à conclusão da iteração. Isso permite determinar se as histórias estão avançando no ritmo necessário para que todos os recursos sejam entregues dentro do prazo ao final da iteração. Há dois componentes que possibilitam isso no processo de Scrum.
+À medida que a equipe responde às três perguntas principais em suas reuniões, é importante que ela monitore e acompanhe seu progresso até a conclusão da iteração. Isso permite determinar se as histórias estão avançando no ritmo necessário para que todos os recursos sejam entregues dentro do prazo ao final da iteração. Há dois componentes que possibilitam isso no processo de Scrum.
 
 
 ### Storyboard
