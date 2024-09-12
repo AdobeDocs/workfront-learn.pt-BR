@@ -9,12 +9,13 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -39,3 +40,7 @@ Neste vídeo, você aprenderá:
 Para saber como criar o **relatório de feedback da equipe administrativa** usado no vídeo, consulte o tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=br) e procure a atividade **Criar um relatório de feedback da equipe administrativa** que acompanha o vídeo.
 
 Para saber como criar um formulário personalizado, consulte o tutorial [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=pt-BR).
+
+## Tutoriais recomendados sobre este tópico
+
+* [Respostas a perguntas comuns sobre filas de solicitações](/help/manage-work/request-queues/request-queue-faq.md)
