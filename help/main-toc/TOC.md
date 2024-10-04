@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '2420'
+source-wordcount: '2414'
 ht-degree: 99%
 
 ---
@@ -156,7 +156,6 @@ ht-degree: 99%
 
    + Processos de aprovação e caminhos de marcos {#approval-processes-and-milestone-paths}
       + [Criar um processo de aprovação global e de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Anexar e editar processos de aprovação existentes](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Revisar e aprovar um trabalho digital](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Aplique marcos](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)

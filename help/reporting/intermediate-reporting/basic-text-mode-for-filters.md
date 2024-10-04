@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ Neste vídeo, você aprenderá:
 ## Tarefa: Filtrar as tarefas em que marquei “Minha parte foi concluída”
 
 O modo de texto a seguir excluirá tarefas em que um usuário marcou “Minha parte foi concluída”. Basta criar um filtro de tarefa, adicionar as regras de filtro desejadas, alternar para o modo de texto e colar o código abaixo após qualquer modo de texto exibido no filtro.
+
+
+>[!WARNING]
+>
+> Isso não se destina ao uso em filtros de calendário.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Tarefa: Mostrar todas as tarefas que atribuí a outras pessoas
 
 Crie um relatório de tarefas com os filtros desejados, vá para a guia Filtro e clique em Alternar para modo de texto. Adicione este código ao que já estiver lá:
+
+>[!WARNING]
+> 
+> Isso não se destina ao uso em filtros de calendário.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
