@@ -13,9 +13,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ O modo de texto a seguir excluirá tarefas em que um usuário marcou “Minha pa
 
 >[!WARNING]
 >
-> Isso não se destina ao uso em filtros de calendário.
+> Não foi feito para uso nos filtros do calendário.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -94,7 +94,7 @@ Crie um relatório de tarefas com os filtros desejados, vá para a guia Filtro e
 
 >[!WARNING]
 > 
-> Isso não se destina ao uso em filtros de calendário.
+> Não foi feito para uso nos filtros do calendário.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
