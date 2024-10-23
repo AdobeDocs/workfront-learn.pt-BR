@@ -1,5 +1,5 @@
 ---
-title: Um momento com o produto - [!UICONTROL Análises aprimoradas]
+title: Um Momento com o Produto sobre [!UICONTROL Análises aprimoradas]
 description: Saiba como a análise foi criada e os excelentes recursos que ela oferece com Joel Pettigrowth, gerente de produto do [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ doc-type: video
 jira: KT-8870
 recommendations: noDisplay,noCatalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
-source-git-commit: c2e45553d68fd958d871c2936ed4d8fed70b6b12
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Um momento com o Produto - [!UICONTROL Análises aprimoradas]
+# Um Momento com o Produto sobre [!UICONTROL Análises aprimoradas]
 
 Assista a este vídeo com Joel Pettigrowth da Workfront, gerente de produto do [!UICONTROL Enhanced Analytics], para saber como a análise surgiu e os excelentes recursos que ela possibilita.
 

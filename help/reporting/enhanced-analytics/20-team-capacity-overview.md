@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre a capacidade da equipe
-description: Saiba como o gráfico Capacidade da equipe da [!UICONTROL Análise aprimorada] mostra quando uma equipe interna está superalocada ou subalocada.
+description: Saiba como o gráfico Capacidade da equipe na [!UICONTROL Análise aprimorada] mostra quando uma equipe doméstica foi superalocada ou subalocada.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 

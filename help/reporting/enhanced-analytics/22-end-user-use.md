@@ -1,6 +1,6 @@
 ---
 title: Entenda o caso de uso do usuário final
-description: Saiba como os usuário finais podem usar os gráficos Plano de andamento, Burndown e Tarefas em andamento na [!UICONTROL Análise aprimorada].
+description: Saiba como os usuários finais podem usar o Plano de voo, Burndown e Tarefas em gráficos de voo, na [!UICONTROL Análise aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -12,10 +12,10 @@ jira: KT-8712
 recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
 

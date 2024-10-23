@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre intervalos de datas e períodos
-description: Na [!UICONTROL Análise aprimorada], os intervalos de datas são especificados usando o dispositivo de calendário. Os períodos são criados dentro de um gráfico.
+description: Em [!UICONTROL Analítica aprimorada], os intervalos de datas são especificados usando o widget de calendário. Os períodos são criados dentro de um gráfico.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '315'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 

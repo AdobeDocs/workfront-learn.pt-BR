@@ -1,6 +1,6 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '2408'
 ht-degree: 99%
@@ -237,9 +237,9 @@ ht-degree: 99%
       + [Sua vez de criar um relatório de calendário](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Analítica aprimorada {#enhanced-analytics}
-      + [Um momento com o produto: [!UICONTROL Análise aprimorada]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [Introdução à [!UICONTROL Análise aprimorada]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Como acessar a [!UICONTROL Analítica aprimorada]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Um momento com o Produto sobre [!UICONTROL Análises aprimoradas]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [Introdução à [!UICONTROL análise aprimorada]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [Como acessar a [!UICONTROL análise aprimorada]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Entenda a navegação básica](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [Entenda os gráficos de trabalho e de pessoas](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Entenda sobre os filtros](/help/reporting/enhanced-analytics/6-filters-overview.md)
