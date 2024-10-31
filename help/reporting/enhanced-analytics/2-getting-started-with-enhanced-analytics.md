@@ -1,5 +1,5 @@
 ---
-title: Introdução à [!UICONTROL análise aprimorada]
+title: Introdução à [!UICONTROL Analítica aprimorada]
 description: Saiba mais sobre os campos mais importantes a serem atualizados no Workfront para permitir que a análise aprimorada mostre como as suas equipes e projetos estão progredindo no Workfront.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Introdução à [!UICONTROL análise aprimorada]
+# Introdução à [!UICONTROL Analítica aprimorada]
 
 A análise aprimorada pode mostrar como as suas equipes e projetos estão progredindo no Workfront, bem como o que aconteceu em projetos anteriores com os quais você pode aprender para ajudar a planejar projetos futuros.
 

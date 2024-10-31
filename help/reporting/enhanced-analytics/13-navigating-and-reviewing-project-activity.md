@@ -1,6 +1,6 @@
 ---
 title: Entenda como navegar e revisar a atividade do projeto
-description: Saiba como comparar projetos com base em usuários conectados, alterações de status de tarefa e tarefas concluídas em [!UICONTROL Analítica aprimorada].
+description: Saiba como comparar projetos com base em usuários conectados, alterações de status da tarefa e tarefas concluídas na [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 

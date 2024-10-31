@@ -1,6 +1,6 @@
 ---
 title: Saiba mais sobre a navegação
-description: Saiba como ver rapidamente quanto tempo os funcionários estão dedicando a cada projeto na [!UICONTROL Análise aprimorada].
+description: Saiba como ver rapidamente quanto tempo os funcionários estão dedicando a cada projeto na [!UICONTROL Analítica aprimorada].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -13,9 +13,9 @@ doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
