@@ -8,13 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-11-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 87%
 
 ---
 
@@ -23,11 +25,18 @@ ht-degree: 100%
 Neste vídeo, você aprenderá sobre:
 
 * Gerenciamento básico da linha do tempo do projeto
-* Agendamento de projetos a partir da data de início ou de conclusão
-* Restrições de tarefa
+* Como entender o Modo de programação
+* Como criar uma visualização de Restrição de tarefa
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->Para obter uma explicação mais completa sobre os tipos de duração e restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=pt-br).
+>Para obter uma explicação mais completa sobre os tipos de duração e restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
+
+## Tutoriais recomendados sobre este tópico
+
+* [Acompanhe o progresso da linha do tempo do projeto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Entenda os tipos de data e os status do progresso](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [Compreender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
