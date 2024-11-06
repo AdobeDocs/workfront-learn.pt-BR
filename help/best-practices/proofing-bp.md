@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 91%
 
 ---
 
@@ -23,9 +23,9 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 ## Navegar nesta página
 
-Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
+Ao percorrer esta página, primeiro você encontrará uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite que você revise as recomendações sem se aprofundar nos detalhes do “porquê”.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A seção “Por que essas práticas recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
 
 </br>
 </br>
@@ -34,9 +34,9 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 * Reserve um tempo para criar modelos de fluxo de trabalho de revisão.
 
-* Desative a configuração “Enviar emails do Workfront quando um comentário for feito em uma revisão” nas configurações do Workfront.
+* Desative a configuração &quot;Enviar emails do Workfront quando um comentário for feito em uma prova&quot; nas configurações do Workfront.
 
-* Use “Somente leitura” ou “Revisor” para a configuração “Funções para não recipients que abrirem uma revisão de documento” no Workfront.
+* Use Somente leitura ou Revisor para a configuração “Funções para não destinatários que abrirem uma prova de documento” no Workfront.
 
 * Ajuste as configurações de back-end de revisão, para que os usuários vejam os prazos no formato de 12 horas.
 
@@ -48,7 +48,7 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 * Defina os padrões do usuário para funções de revisão e alertas por email.
 
-* Defina a função de revisão do criador da revisão como “Revisor”.
+* Defina a função de prova do(a) criador(a) da revisão como “Revisor”.
 
 * Evite usar a função de revisão “Aprovador”.
 
@@ -72,7 +72,7 @@ Além de acelerar e simplificar o processo de criação e atribuição de revis�
 
 **Prática recomendada**
 
-Desative a configuração “Enviar emails do Workfront quando um comentário for feito em uma revisão” nas configurações do Workfront.
+Desative a configuração &quot;Enviar emails do Workfront quando um comentário for feito em uma prova&quot; nas configurações do Workfront.
 
 
 
@@ -89,7 +89,7 @@ Quando essa configuração está habilitada (por padrão), os usuários têm a p
 
 **Prática recomendada**
 
-Use “Somente leitura” ou “Revisor” para a configuração “Funções para não recipients que abrirem uma revisão de documento” no Workfront.
+Use Somente leitura ou Revisor para a configuração “Funções para não destinatários que abrirem uma prova de documento” no Workfront.
 
 
 
@@ -112,11 +112,7 @@ Ajuste as configurações de back-end de revisão, para que os usuários vejam o
 
 **Entenda o porquê**
 
-Selecione a opção F j, Y, gi:a nas configurações de revisão para usuários que queiram ver os prazos/horários das revisões no formato AM/PM. Para regiões que usam um relógio de 12 horas, isso ajuda a deixar os prazos mais claros.
-
-
-
-**Observação**: esta configuração do Workfront é encontrada em Menu principal > Revisão > Configurações da conta > Usuários, e editando-se o campo “Formato de data” para cada usuário.
+O padrão é um formato de relógio de 24 horas, que pode ser confuso para aqueles que não estão familiarizados com ele. Para alterar o formato, vá para o menu principal do Workfront > Revisão de texto > Configurações da conta > Usuários. Clique duas vezes em um usuário para selecionar um e, em seguida, edite o campo Formato de data na seção Configurações pessoais. Você precisará selecionar cada usuário, um de cada vez, para alterá-los.
 
 </br>
 </br>
@@ -127,7 +123,7 @@ Estabeleça um prazo de revisão padrão como parte das configurações do siste
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
 Quando um prazo de revisão padrão é definido (a data de upload x a quantidade de dias úteis), se o criador da revisão se esquecer de adicionar um prazo, o Workfront aplicará automaticamente esse prazo a todas as revisões carregadas.
 
@@ -145,7 +141,7 @@ Oculte a opção de revisão de prova “Não relevante”.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
 Essa opção de decisão muitas vezes causa confusão entre os aprovadores, pois muitas vezes as organizações não definem quando a opção “Não relevante” deve ser usada. A opção “Não relevante” geralmente indica que a revisão não é relevante para o destinatário da revisão e que ele não precisa tomar nenhuma decisão de aprovação ou rejeição. Selecionar “Não relevante” permite que o fluxo de trabalho de revisão continue.
 
@@ -163,7 +159,7 @@ Não reordene as opções de decisão de revisão nas configurações de revisã
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
 Cada configuração de decisão de revisão contém um valor/peso específico que, se reordenado, pode causar confusão nas suas configurações de revisão. A ordem de decisão e o valor/peso são usados como desencadeadores de ativação do estágio de revisão e nos relatórios.
 
@@ -180,7 +176,7 @@ Defina os padrões do usuário para funções de revisão e alertas por email.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
 Essas configurações são preenchidas automaticamente quando um fluxo de trabalho de revisão é atribuído, acelerando o processo e contribuindo para a consistência entre os workflows de revisão.
 
@@ -193,13 +189,13 @@ Essas configurações são preenchidas automaticamente quando um fluxo de trabal
 
 **Prática recomendada**
 
-Defina a função de revisão do criador da revisão como “Revisor”.
+Defina a função de prova do(a) criador(a) da revisão como “Revisor”.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
-A função de prova “Revisor” garante que o criador da prova possa fazer comentários e acessar comentários feitos por outras pessoas. Na maioria das vezes, o criador da prova não é obrigado a tomar uma decisão sobre a prova de que fez upload. As funções de prova “Aprovador”, “Revisor e Aprovador”, “Autor” ou “Moderador” exigem a tomada de uma decisão. Se o criador da prova receber uma dessas funções, mas não tomar nenhum decisão, isso poderá afetar negativamente os prazos das provas.
+A função de prova “Revisor” garante que o criador da prova possa fazer comentários e acessar comentários feitos por outras pessoas. Na maioria das vezes, o(a) criador(a) da revisão não tem a obrigação de tomar uma decisão sobre a revisão que carregou. As funções de prova “Aprovador”, “Revisor e Aprovador”, “Autor” ou “Moderador” exigem a tomada de uma decisão. Se o criador da prova receber uma dessas funções, mas não tomar nenhum decisão, isso poderá afetar negativamente os prazos das provas.
 
 </br>
 </br>
@@ -210,7 +206,7 @@ Evite usar a função de revisão “Aprovador”.
 
 
 
-**Veja o porquê**
+**Entenda o porquê**
 
 A função “Aprovador” não permite que o usuário faça comentários nesta prova. Isso poderia levar um usuário a rejeitar a prova, sem qualquer explicação, pois não seria possível fazer comentários. Utilize a função de prova “Revisor e Aprovador” para que o usuário possa fornecer feedback.
 
@@ -221,7 +217,7 @@ A função “Aprovador” não permite que o usuário faça comentários nesta 
 
 Evite a opção de alerta por email de revisão “Todas as atividades”.
 
-**Aqui está o motivo**
+**Entenda o porquê**
 
 Esta opção envia uma notificação por email sobre a prova sempre que algo acontece, como quando um comentário é feito, uma resposta é postada, uma decisão é tomada etc. O recipient essencialmente vê a atividade da prova conforme ela acontece.
 
