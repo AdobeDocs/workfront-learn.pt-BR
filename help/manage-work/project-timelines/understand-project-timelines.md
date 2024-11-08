@@ -14,9 +14,9 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 87%
 Neste vídeo, você aprenderá sobre:
 
 * Gerenciamento básico da linha do tempo do projeto
-* Como entender o Modo de programação
-* Como criar uma visualização de Restrição de tarefa
+* Como entender o Modo de Cronograma
+* Como criar uma exibição de Restrição da tarefa
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
