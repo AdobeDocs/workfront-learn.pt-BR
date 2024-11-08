@@ -1,6 +1,6 @@
 ---
 title: Entenda os tipos de data e os status do progresso
-description: Aprenda a visualizar os diferentes tipos de data no [!DNL  Workfront] e usar o status do progresso para ajudar a acompanhar o progresso do trabalho.
+description: Saiba mais sobre as datas planejadas, projetadas e reais e como elas são usadas no cálculo do status do progresso.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -9,31 +9,34 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
+last-substantial-update: 2024-11-08T00:00:00Z
+recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9bf98f05ec4c3d838ea0e85423c156cc411b0169
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 53%
 
 ---
 
 # Entenda os tipos de data e os status do progresso
 
-Neste vídeo, você aprenderá a:
+Neste vídeo, você aprenderá sobre:
 
-* Selecione uma visualização para comparar diferentes tipos de data no [!DNL Workfront's]
-* Use o status do progresso para ajudar a acompanhar o progresso do trabalho
+* Datas planejadas, projetadas e reais; e
+* Como são usados no cálculo do status do progresso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Conforme mencionado no vídeo, é importante que as pessoas mudem o status de **[!UICONTROL Novo]** para **[!UICONTROL Em andamento]** ao iniciar uma tarefa, para que a [!UICONTROL Data de início real] fique correta. Porém, se eles se esquecerem de fazer isso ao iniciar a tarefa, poderão voltar e editar a [!UICONTROL Data de início real] a qualquer momento.
+>É importante que as pessoas alterem o status de **[!UICONTROL Novo]** para **[!UICONTROL Em andamento]** ao iniciarem uma tarefa para que a [!UICONTROL Data de Início Efetiva] esteja correta. Porém, se eles se esquecerem de fazer isso ao iniciar a tarefa, poderão voltar e editar a [!UICONTROL Data de início real] a qualquer momento.
 
 
-<!---
-Task progress status overview
-Definitions for the project, task, and issue dates within Workfront
-Project timelines
---->
+## Tutoriais recomendados sobre este tópico
+
+* [Entenda as linhas do tempo do projeto](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Acompanhe o progresso da linha do tempo do projeto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Compreender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
