@@ -8,9 +8,9 @@ last-substantial-update: 2024-11-06T00:00:00Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1182'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ A seção “Por que essas práticas recomendadas?” , encontrada após a lista
 
 * Reserve um tempo para criar modelos de fluxo de trabalho de revisão.
 
-* Desative a configuração &quot;Enviar emails do Workfront quando um comentário for feito em uma prova&quot; nas configurações do Workfront.
+* Desabilite a configuração “Enviar emails do Workfront quando um comentário for feito em uma prova” nas configurações do Workfront.
 
 * Use Somente leitura ou Revisor para a configuração “Funções para não destinatários que abrirem uma prova de documento” no Workfront.
 
@@ -73,7 +73,7 @@ Além de acelerar e simplificar o processo de criação e atribuição de revis�
 
 **Prática recomendada**
 
-Desative a configuração &quot;Enviar emails do Workfront quando um comentário for feito em uma prova&quot; nas configurações do Workfront.
+Desabilite a configuração “Enviar emails do Workfront quando um comentário for feito em uma prova” nas configurações do Workfront.
 
 
 
@@ -113,7 +113,7 @@ Ajuste as configurações de back-end de revisão, para que os usuários vejam o
 
 **Entenda o porquê**
 
-O padrão é um formato de relógio de 24 horas, que pode ser confuso para aqueles que não estão familiarizados com ele. Para alterar o formato, vá para o menu principal do Workfront > Revisão de texto > Configurações da conta > Usuários. Clique duas vezes em um usuário para selecionar um e, em seguida, edite o campo Formato de data na seção Configurações pessoais. Você precisará selecionar cada usuário, um de cada vez, para alterá-los.
+O padrão é um formato de relógio de 24 horas, o que pode ser confuso para quem não está familiarizado. Para alterar o formato, acesse o Menu principal do Workfront > Revisão > Configurações da conta > Usuários. Clique duas vezes em um usuário para selecioná-lo e edite o campo Formato de data na seção Configurações pessoais. Você precisará selecionar cada usuário, um de cada vez, para alterá-los.
 
 </br>
 </br>
