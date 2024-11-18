@@ -1,6 +1,6 @@
 ---
 title: Entenda os tipos de data e os status do progresso
-description: Saiba mais sobre as datas planejadas, projetadas e reais e como elas são usadas no cálculo do status do progresso.
+description: Saiba mais sobre as datas planejadas, projetadas e reais, e como elas são usadas no cálculo do status do progresso.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: 816fd351752ee8334f13324711d363406e4d60d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -25,13 +25,13 @@ ht-degree: 53%
 Neste vídeo, você aprenderá sobre:
 
 * Datas planejadas, projetadas e reais; e
-* Como são usados no cálculo do status do progresso
+* Como são usadas no cálculo do status do progresso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->É importante que as pessoas alterem o status de **[!UICONTROL Novo]** para **[!UICONTROL Em andamento]** ao iniciarem uma tarefa para que a [!UICONTROL Data de Início Efetiva] esteja correta. Porém, se eles se esquecerem de fazer isso ao iniciar a tarefa, poderão voltar e editar a [!UICONTROL Data de início real] a qualquer momento.
+>É importante que as pessoas mudem o status de **[!UICONTROL Novo]** para **[!UICONTROL Em andamento]** ao iniciar uma tarefa, para que a [!UICONTROL Data de início efetivo] esteja correta. Porém, se eles se esquecerem de fazer isso ao iniciar a tarefa, poderão voltar e editar a [!UICONTROL Data de início real] a qualquer momento.
 
 
 ## Tutoriais recomendados sobre este tópico
