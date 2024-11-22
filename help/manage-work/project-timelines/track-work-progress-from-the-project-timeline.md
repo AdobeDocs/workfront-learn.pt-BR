@@ -1,6 +1,6 @@
 ---
 title: Acompanhe o progresso da linha do tempo do projeto
-description: Saiba como rastrear o progresso do trabalho a partir da linha do tempo do projeto usando o status de porcentagem concluída e progresso.
+description: Saiba como acompanhar o progresso do trabalho na linha do tempo do projeto usando percentual concluído e status do progresso.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,15 +14,15 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # Acompanhe o progresso da linha do tempo do projeto
 
-Verifique se as tarefas estão progredindo da maneira que deveriam para atingir os prazos do projeto.
+Certifique-se de que as tarefas estejam progredindo da maneira esperada para atender aos prazos do projeto.
 
 Neste vídeo, você aprenderá sobre:
 
