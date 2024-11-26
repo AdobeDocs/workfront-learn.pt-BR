@@ -12,15 +12,15 @@ jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 last-substantial-update: 2024-11-20T00:00:00Z
 source-git-commit: b330f75bfd45bd6ae6402307eb56e154e6b268e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Entenda a necessidade de admins de grupo
 
-Descubra como os administradores de sistema podem aproveitar os administradores de grupo para manter as configurações com eficiência e capacitar grupos com maior controle sobre seus processos de trabalho.
+Saiba como os administradores de sistema podem utilizar os administradores de grupo para manter as configurações com eficiência e permitir que os grupos tenham mais controle sobre seus processos de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
 

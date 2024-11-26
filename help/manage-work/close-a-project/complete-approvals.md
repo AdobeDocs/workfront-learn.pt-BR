@@ -1,6 +1,6 @@
 ---
 title: Concluir aprovações
-description: Saiba como identificar aprovações incompletas e resolvê-las para que você possa fechar o projeto.
+description: Saiba como identificar e resolver aprovações incompletas para poder encerrar o seu projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
 source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 46%
 
 Neste vídeo, você aprenderá:
 
-* Como encontrar aprovações de tarefas não resolvidas e lidar com elas
-* Como encontrar aprovações de problemas não resolvidos e lidar com eles
+* Como encontrar e lidar com aprovações de tarefas não resolvidas
+* Como encontrar e lidar com aprovações de problemas não resolvidas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
