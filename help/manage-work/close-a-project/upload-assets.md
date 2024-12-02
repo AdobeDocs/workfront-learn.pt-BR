@@ -9,24 +9,30 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,noCatalog
-last-substantial-update: 2024-11-22T00:00:00Z
+last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: b983732e7796c718bd14fd58ad57a3311829a2ef
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 78%
 
 ---
 
 # Faça upload de ativos
 
-Neste vídeo, você aprenderá a verificar aprovações em documentos e provas.
+Neste vídeo, você aprenderá a:
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
+* Verificar aprovações em provas
+* Verificar aprovações em documentos
+* Carregar um documento
+* Localizar treinamento em upload de provas
+
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
 ## Tutoriais recomendados sobre este tópico
 
+* [Fazer upload de uma prova com um fluxo de trabalho básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
 * [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
 * [Relembrar as lições aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
