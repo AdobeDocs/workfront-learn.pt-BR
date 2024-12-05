@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 85%
 
 ---
 
 # Entender gráficos de trabalho e pessoas
 
-Os gráficos de trabalho mostram a atividade a partir da perspectiva do projeto e da tarefa, enquanto os gráficos de Pessoas mostram a atividade da perspectiva de uma equipe interna.
+Os gráficos de trabalho mostram a atividade da perspectiva de projeto e tarefa, enquanto o gráfico Pessoas mostra a atividade da perspectiva de uma equipe inicial.
 
 Selecione o tipo de gráfico da Análise que você deseja visualizar – Trabalho ou Pessoas – no menu do painel esquerdo.
 
@@ -40,11 +40,8 @@ O Burndown e os gráficos de tarefas em andamento aparecem quando você faz uma 
 * Clique em um projeto na visualização Tarefas em andamento e uma visualização Burndown desse projeto aparecerá abaixo.
 * Clique em um projeto na visualização Mapa de árvore e uma visualização Burndown e Tarefas em andamento aparecerá abaixo dele.
 
-## Gráficos de pessoas
+## Gráfico de pessoas
 
-![Uma imagem da descoberta do recurso [!UICONTROL Análise] no [!DNL Workfront Classic]](assets/section-1-2.png)
+![Uma imagem da descoberta do recurso de [!UICONTROL Análise] no [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Os gráficos de pessoas consistem em:
 
-1. Atividades por equipe
-1. Atividade da equipe

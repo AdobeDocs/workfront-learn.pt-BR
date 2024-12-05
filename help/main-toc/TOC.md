@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '2407'
+source-wordcount: '2404'
 ht-degree: 99%
 
 ---
@@ -255,7 +255,6 @@ ht-degree: 99%
       + [Revisar as tarefas em andamento](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [Realizar ações por meio de atualizações](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [Entenda a atividade por gráfico de equipe](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Entenda sobre a capacidade da equipe](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [Entenda o caso de uso de comparação de KPI](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [Entenda o caso de uso do usuário final](/help/reporting/enhanced-analytics/22-end-user-use.md)
       + [Entenda a orientação da consultoria](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
