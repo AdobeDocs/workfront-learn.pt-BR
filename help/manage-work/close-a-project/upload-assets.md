@@ -25,8 +25,8 @@ Neste vídeo, você aprenderá a:
 
 * Verificar aprovações em provas
 * Verificar aprovações em documentos
-* Carregar um documento
-* Localizar treinamento em upload de provas
+* Fazer upload de um documento
+* Localizar treinamento sobre o upload de provas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
