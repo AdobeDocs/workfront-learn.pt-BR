@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,15 @@ O Burndown e os gráficos de tarefas em andamento aparecem quando você faz uma 
 * Clique em um projeto na visualização Tarefas em andamento e uma visualização Burndown desse projeto aparecerá abaixo.
 * Clique em um projeto na visualização Mapa de árvore e uma visualização Burndown e Tarefas em andamento aparecerá abaixo dele.
 
-## Gráfico de pessoas
+## Gráfico de pessoas - Atividade por equipe
 
-![Uma imagem da descoberta do recurso de [!UICONTROL Análise] no [!DNL Workfront Classic]](assets/section-1-2.png)
+![Uma imagem mostrando um gráfico de atividade por equipe com números em áreas descritas nos marcadores abaixo](assets/section-3-1.png)
 
+No gráfico, você pode ver:
+
+1. Nomes da equipe interna à esquerda.
+1. As datas na parte inferior vêm do intervalo de datas selecionado.
+1. As caixas roxas mostram que os usuários atribuídos ao projeto fizeram logon nesse dia, e as que possuem um tom mais escuro indicam um número maior de logon de usuários.
+1. As caixas rosa mostram que os usuários alteraram o status de uma tarefa do projeto naquele dia, e as que possuem um tom mais escuro indicam um número maior de alterações de status de tarefas.
+1. As caixas azuis mostram que os usuários concluíram uma tarefa do projeto, e as que possuem um tom mais escuro indicam um maior número de tarefas sendo concluídas.
 
