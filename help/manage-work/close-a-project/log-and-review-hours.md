@@ -1,6 +1,6 @@
 ---
 title: Registrar e revisar horas
-description: Registre as horas pendentes e revise as horas registradas antes de encerrar um projeto no [!DNL  Workfront].
+description: Registre horas pendentes e revise as horas reportadas antes de fechar um projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 60%
 
 ---
 
 # Registrar e revisar horas
 
-Se o registro das horas efetivas de trabalho fizer parte do fluxo de trabalho da sua organização, você poderá revisar essas horas na seção [!UICONTROL Horas] (selecione-a no menu do painel esquerdo) do projeto. Isso mostra todas as horas registradas em tarefas individuais e no próprio projeto. Você também pode registrar horas a partir desta página.
+Neste vídeo, você aprenderá a:
 
-![Página “Horas” mostrando registros de horas](assets/planner-fund-log-and-review-hours.png)
+* Revisar horas registradas em um projeto
+* Aprovar horas do projeto, se necessário
 
->[!NOTE]
->
->A sua organização pode solicitar que você aprove horários por meio das folhas de horas do [!DNL Workfront]. Consulte a sua equipe interna do [!DNL Workfront] para saber que processo você deve usar.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Tutoriais recomendados sobre este tópico
+
+* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
+* [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
+* [Faça upload de ativos](/help/manage-work/close-a-project/upload-assets.md)
+* [Relembrar as lições aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

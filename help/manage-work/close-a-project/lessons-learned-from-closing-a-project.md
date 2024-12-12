@@ -1,6 +1,6 @@
 ---
 title: Relembrar as lições aprendidas
-description: Saiba como incluir uma tarefa de “lições aprendidas” para identificar o que deu certo e o que pode ser melhorado na próxima vez.
+description: Saiba como se beneficiar das "lições aprendidas" ao fechar um projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,32 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 36%
 
 ---
 
 # Relembrar as lições aprendidas
 
-Como parte do encerramento de um projeto, alguns clientes do Workfront incluem uma tarefa de “lições aprendidas”. Essa tarefa pode ser usada de maneiras diferentes.
+Neste vídeo, você verá os benefícios do:
 
-* Use uma tarefa de “lições aprendidas” para representar uma reunião. Colete anotações da reunião nas atualizações da tarefa.
-* Ou anexe um formulário personalizado à tarefa ou projeto para coletar as informações necessárias das “lições aprendidas”.
+* Criação de uma tarefa &quot;lições aprendidas&quot;
+* Anexar um formulário personalizado &quot;lições aprendidas&quot; ao seu projeto
+* Criação de relatórios personalizados de &quot;lições aprendidas&quot;
+* Criação de um projeto &quot;lições aprendidas&quot;
 
-Uma vantagem do formulário personalizado é que todos os campos podem ser relatados, portanto, é possível criar relatórios personalizados do [!DNL Workfront] para revisar e gerenciar essas informações, identificando as lições aprendidas em vários tipos ou conjuntos de projetos.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Se sua organização possui um processo pós-projeto mais complexo, com etapas suficientes para ser considerado como um novo projeto, talvez seja melhor criar um projeto separado no [!DNL Workfront].
+## Tutoriais recomendados sobre este tópico
 
-Com esse método, você pode encerrar o projeto usado para os entregáveis reais, o que mantém os relatórios do projeto concluído mais precisos. Em seguida, use um projeto separado para acompanhar as etapas do processo pós-conclusão.
-
-Converse com sua equipe interna do [!DNL Workfront] para saber mais sobre o processo pós-projeto de sua organização.
+* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
+* [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
+* [Faça upload de ativos](/help/manage-work/close-a-project/upload-assets.md)
+* [Registrar e revisar horas](/help/manage-work/close-a-project/log-and-review-hours.md)
