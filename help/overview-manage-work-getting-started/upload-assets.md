@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
 # Faça upload de ativos
 
-Antes de encerrar um projeto no [!DNL Workfront], certifique-se de que todos os arquivos relevantes tenham sido anexados na seção [!UICONTROL Documentos]. Faça upload desses itens como documento ou prova, conforme determinado pelas diretrizes da organização.
+Neste vídeo, você aprenderá a:
 
-Talvez seja necessário fazer upload do documento ou da prova como uma versão de um arquivo existente.
+* Verificar aprovações em provas
+* Verificar aprovações em documentos
+* Fazer upload de um documento
+* Localizar treinamento sobre o upload de provas
 
-Se a organização usar aprovações de prova, verifique se todas elas foram concluídas olhando os ícones de progresso.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Página Documentos mostrando ícones de progresso da prova](assets/planner-fund-proof-progress-icons.png)
+## Tutoriais recomendados sobre este tópico
 
-E se a organização usar aprovações de documentos, selecione cada item na lista e verifique os detalhes do documento para ver se as aprovações estão concluídas.
+* [Fazer upload de uma prova com um fluxo de trabalho básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
+* [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
+* [Relembrar as lições aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Registrar e revisar horas](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Resumo lateral na página Documentos mostrando a aprovação do documento](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

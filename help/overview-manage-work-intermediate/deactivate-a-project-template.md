@@ -11,10 +11,12 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -31,3 +33,9 @@ Neste vídeo, você aprenderá:
 ## Saiba como criar uma exibição personalizada para ver e editar o status ativo de modelos de projeto
 
 Para criar uma exibição de modelo de projeto com uma coluna de status ativa, consulte a atividade **Exibição do status ativo do modelo de projeto** em [Criar uma exibição básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR).
+
+## Tutoriais recomendados sobre este tópico
+
+* [Crie um modelo de projeto e saiba mais sobre os blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Compartilhar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Editar a equipe do projeto em um modelo de projeto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

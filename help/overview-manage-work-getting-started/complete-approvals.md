@@ -8,50 +8,32 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-10134
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5bf6a8cb-7c4d-4b2e-a5e4-cc3bf7c6ca82
+doc-type: video
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
 # Concluir aprovações
 
-As aprovações de tarefas e problemas fazem parte de muitos projetos. Mas aprovações não resolvidas impedirão que você defina o status do projeto como Concluído.
+Neste vídeo, você aprenderá:
 
-Veja como encontrá-los e lidar com eles.
+* Como encontrar e lidar com aprovações de tarefas não resolvidas
+* Como encontrar e lidar com aprovações de problemas não resolvidas
 
-Na seção [!UICONTROL Tarefa] do seu projeto, selecione uma [!UICONTROL Visualização] que inclua a coluna [!UICONTROL Status], como a visualização de [!UICONTROL Status]. Basta uma olhada rápida nessa coluna para saber se há alguma aprovação incompleta em uma tarefa, pois estará escrito “[!UICONTROL – Aprovação pendente]” após o nome do status.
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
-![Projeto mostrando aprovação incompleta](assets/pending-approval-1.png)
+## Tutoriais recomendados sobre este tópico
 
-Quando encontrar uma tarefa que ainda está aguardando aprovação, você tem duas opções:
+* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
+* [Faça upload de ativos](/help/manage-work/close-a-project/upload-assets.md)
+* [Relembrar as lições aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Registrar e revisar horas](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-
-## Concluir a aprovação
-
-Isso pode significar lembrar a pessoa atribuída da aprovação pendente. Você pode ver quem foi atribuído como aprovador abrindo a tarefa e clicando no menu de três pontinhos na área de aprovações.
-
-![Tarefa mostrando a área de aprovação](assets/pending-approval-2.png)
-
-Uma caixa será exibida mostrando o aprovador atribuído.
-
-![Tarefa mostrando o aprovador atribuído](assets/pending-approval-3.png)
-
-
-## Remover a aprovação
-
-Se a aprovação não for necessária, talvez você queira removê-la. Para fazer isso primeiro cancele a aprovação. Clique no botão [!UICONTROL Cancelar] na área de aprovações. Isso alterará o status de volta para seu status anterior e permitirá que você remova o processo de aprovação.
-
-![Tarefa mostrando o botão de cancelar](assets/pending-approval-5.png)
-
-Agora clique na guia [!UICONTROL Aprovações] à esquerda e, em seguida, no botão [!UICONTROL Remover] no canto superior direito.
-
-![Tarefa mostrando o botão para remover aprovação](assets/pending-approval-6.png)
-
-## Lidar com aprovações de problemas
-
-Se sua organização usa poblemas para rastrear dificuldades, alterar pedidos ou outros eventos no decorrer dos projetos, siga as mesmas etapas da seção [!UICONTROL Problemas] do seu projeto.

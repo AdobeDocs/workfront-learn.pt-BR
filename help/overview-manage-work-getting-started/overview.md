@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '943'
 ht-degree: 4%
 
 ---
@@ -81,10 +81,8 @@ Saiba como rastrear o trabalho do projeto e se comunicar com as partes interessa
 Saiba como fechar tarefas e problemas, concluir aprovações, registrar lições aprendidas e fechar o projeto.
 
 * [Alterar o status do projeto para concluído](change-the-project-status.md) - Saiba como alterar o status do projeto para Concluído, por que alterá-lo e o que fazer se não for possível alterá-lo para Concluído.
-* [Fechar tarefas e problemas](close-tasks-and-issues.md) - Saiba como se certificar de que tarefas e problemas sejam fechados antes de fechar um projeto.
 * [Concluir aprovações](complete-approvals.md) - Saiba como identificar aprovações incompletas e resolvê-las para poder fechar o projeto.
 * [Carregar ativos](upload-assets.md) - Faça upload de documentos, provas e outros ativos para o projeto antes de fechá-lo para garantir que todos os dados relevantes estejam associados ao projeto.
 * [Registrar lições aprendidas](lessons-learned-from-closing-a-project.md) - Saiba como você pode incluir uma tarefa de &quot;lições aprendidas&quot; para identificar o que deu certo e o que pode melhorar na próxima vez.
 * [Registrar horas e horas de revisão](log-and-review-hours.md) - Registrar horas pendentes e revisar horas registradas antes de fechar um projeto.
 * [Atualizar e revisar finanças](update-and-review-finances.md) - Se sua organização usar o Workfront para acompanhar informações financeiras relacionadas ao projeto, revisar despesas e criar registros de cobrança poderá fazer parte do processo de fechamento de um projeto.
-* [Fechar uma atividade de projeto](close-a-project-activity.md) - Pratique o que você aprendeu sobre como fechar um projeto.

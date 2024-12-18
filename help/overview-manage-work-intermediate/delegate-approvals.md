@@ -1,6 +1,6 @@
 ---
 title: Delegar tarefas, problemas e aprovações
-description: Aprenda a delegar aprovações de projetos, tarefas, problemas e cartões de ponto para outro usuário do Workfront. Saiba também como delegar atribuições de tarefas e problemas.
+description: Saiba como delegar atribuições de problemas e tarefas, bem como aprovações de projetos, tarefas e problemas, a outro usuário do Workfront.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -11,60 +11,31 @@ thumbnail: 336094.png
 jira: KT-8810
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: 2eb8c7e2-d980-409c-b06a-d44f5817648d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
 # Delegar tarefas, problemas e aprovações
 
-Aprenda a delegar aprovações de projetos, tarefas, problemas e cartões de ponto para outro usuário do Workfront. Saiba também como delegar atribuições de tarefas e problemas.
-
-## Delegar aprovações
-
-Saiba como delegar aprovações de projetos, tarefas, problemas e cartões de ponto a outro usuário.
+Saiba como delegar atribuições de problemas e tarefas, bem como aprovações de projetos, tarefas e problemas, a outro usuário do Workfront.
 
 Neste vídeo, você aprenderá a:
 
-* Atribuir aprovações a outra pessoa
-* Encerrar o período de delegação
-* Localizar aprovações delegadas
+* Habilitar delegação na configuração
+* Delegar atribuições de tarefas e problemas
+* Delegar aprovações de projetos, tarefas e problemas
+* Identificar aprovações delegadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
-<!---
-learn more URLS
-Delegate approval request
---->
+## Tutoriais recomendados sobre este tópico
 
-## Delegar atribuições de tarefas e problemas
+* [Configurar notificações de eventos](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
+* [Criar um processo de aprovação global e de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Entenda os processos de aprovação específicos do grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 
-Você pode delegar as tarefas e problemas atribuídos a você a outros usuários para quando não estiver no trabalho.
-
-### Como habilitar a delegação de tarefas e problemas
-
-Antes de usar esse recurso, a delegação de tarefas e problemas deve ser habilitada por um(a) admin de grupo ou de sistema. Isto é feito em [!UICONTROL Configuração > Preferências do projeto > Tarefas e problemas > Delegação]. Habilitar essa opção permitirá que todos os usuários com uma licença de Revisão ou superior deleguem tarefas e problemas que estão sob sua responsabilidade.
-
-![Captura de tela mostrando a [!UICONTROL configuração] de preferências para delegação](assets/delegation-1.png)
-
-### Como delegar tarefas e problemas
-
-Acesse a [!UICONTROL página inicial], clique em [!UICONTROL Delegar] e especifique o usuário ao qual você está delegando as tarefas que foram atribuídas a você, bem como o intervalo de datas. Você pode designar qualquer usuário com uma licença de revisão ou superior.
-
-![Captura de tela mostrando a guia de delegação na [!UICONTROL página inicial]](assets/delegation-2.png)
-
-### Como saber se uma tarefa ou problema foi delegado
-
-Você pode ver quando tarefas ou problemas foram delegados na [!UICONTROL página inicial] ou na visualização da tarefa ou problema.
-
-![Captura de tela mostrando as tarefas delegadas na [!UICONTROL página inicial]](assets/delegation-4.png)
-![Captura de tela mostrando as tarefas delegadas na visualização de tarefas](assets/delegation-3.png)
-
-### Notificações por email que se aplicam ao trabalho delegado
-
-O(a) admin de grupo ou de sistema pode habilitar notificações por email que informarão quando você delegar suas tarefas e problemas e quando as tarefas e problemas de alguém forem delegadas a você.
-
-![Captura de tela mostrando as opções de [!UICONTROL configuração] de notificação por email para delegação](assets/delegation-5.png)
-![Captura de tela mostrando um email de delegação de trabalho](assets/delegation-6.png)

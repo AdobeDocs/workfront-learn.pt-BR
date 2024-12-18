@@ -11,10 +11,12 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: c2f06ee1-efbd-4c65-aca7-d844cb08f52f
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -27,3 +29,9 @@ Neste vídeo, você aprenderá:
 * Como editar a equipe do modelo do projeto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+
+## Tutoriais recomendados sobre este tópico
+
+* [Crie um modelo de projeto e saiba mais sobre os blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Compartilhar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)

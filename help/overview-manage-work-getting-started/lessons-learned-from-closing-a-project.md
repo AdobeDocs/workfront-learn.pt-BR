@@ -10,24 +10,30 @@ role: User
 level: Beginner
 jira: KT-10135
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 58%
 
 ---
 
 # Relembrar as lições aprendidas
 
-Como parte do encerramento de um projeto, alguns clientes do Workfront incluem uma tarefa de “lições aprendidas”. Essa tarefa pode ser usada de maneiras diferentes.
+Neste vídeo, você verá os benefícios do:
 
-* Use uma tarefa de “lições aprendidas” para representar uma reunião. Colete anotações da reunião nas atualizações da tarefa.
-* Ou anexe um formulário personalizado à tarefa ou projeto para coletar as informações necessárias das “lições aprendidas”.
+* Criação de uma tarefa &quot;lições aprendidas&quot;
+* Anexar um formulário personalizado &quot;lições aprendidas&quot; ao seu projeto
+* Criação de relatórios personalizados de &quot;lições aprendidas&quot;
+* Criação de um projeto &quot;lições aprendidas&quot;
 
-Uma vantagem do formulário personalizado é que todos os campos podem ser relatados, portanto, é possível criar relatórios personalizados do [!DNL Workfront] para revisar e gerenciar essas informações, identificando as lições aprendidas em vários tipos ou conjuntos de projetos.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Se sua organização possui um processo pós-projeto mais complexo, com etapas suficientes para ser considerado como um novo projeto, talvez seja melhor criar um projeto separado no [!DNL Workfront].
+## Tutoriais recomendados sobre este tópico
 
-Com esse método, você pode encerrar o projeto usado para os entregáveis reais, o que mantém os relatórios do projeto concluído mais precisos. Em seguida, use um projeto separado para acompanhar as etapas do processo pós-conclusão.
-
-Converse com sua equipe interna do [!DNL Workfront] para saber mais sobre o processo pós-projeto de sua organização.
+* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
+* [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
+* [Faça upload de ativos](/help/manage-work/close-a-project/upload-assets.md)
+* [Registrar e revisar horas](/help/manage-work/close-a-project/log-and-review-hours.md)

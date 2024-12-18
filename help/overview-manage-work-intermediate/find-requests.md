@@ -10,13 +10,14 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 recommendations: noDisplay,catalog
+doc-type: video
 jira: KT-10143
 hide: true
 exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -32,9 +33,8 @@ Você aprenderá a encontrar essas solicitações nos seguintes locais:
 * Em um painel personalizado
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-Se quiser saber como criar relatórios personalizados e colocá-los em um painel, consulte [Curso básico de criação de relatórios](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html?lang=pt-BR).
 
 ## Tutoriais recomendados sobre este tópico
 

@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Saiba como criar e usar modelos de projeto.
 
 Saiba como criar processos de aprovação, anexá-los a fluxos de trabalho, revisar trabalho digital e delegar aprovações.
 
-* [Criar um processo de aprovação de uso único](create-a-single-use-approval-process.md) - Saiba como criar um processo de aprovação de uso único em um projeto, tarefa ou problema.
+* [Criar um processo de aprovação global e de uso único](create-a-single-use-approval-process.md) - Saiba como criar um processo de aprovação global e de uso único em um projeto, tarefa ou problema.
 * [Entender os processos de aprovação específicos do grupo](group-specific-approval-processes.md) - Saiba como os administradores de grupo podem criar ou editar processos de aprovação para os grupos que gerenciam.
-* [Anexar e editar processos de aprovação existentes](attach-and-edit-existing-approval-processes.md) - Saiba como usar e editar processos de aprovação existentes para projetos, tarefas ou problemas.
 * [Revisar e aprovar trabalho digital](review-and-approve-digital-work.md) - Saiba como localizar, revisar e fazer aprovações para projetos, tarefas, problemas, documentos e provas.
-* [Entenda sobre atualizações e notificações](understand-updates-and-notifications.md) - Saiba como fazer atualizações sobre solicitações de aprovação e encontrar suas notificações.
 * [Delegar tarefas, problemas e aprovações](delegate-approvals.md) - Saiba como delegar aprovações de projetos, tarefas, problemas e cartões de ponto a outro usuário do Adobe Workfront.
 
 ## Como criar e usar marcos
