@@ -2,7 +2,7 @@
 title: Tutoriais do Workfront
 description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.  Está incluída uma coleção de práticas recomendadas, exercícios selecionados e outros recursos que ajudarão tanto você quanto sua organização a ter sucesso com o Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: e0301522a6e3b10fe56cb601f143c80d9c6381b8
+source-git-commit: 2d9e6ca1aa49d223d99d71d78b295614160281e4
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.  Está incluída uma coleção de práticas recomendadas, exercícios selecionados e outros recursos que ajudarão tanto você quanto sua organização a ter sucesso com o Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops)
 
 <!-- 
 
