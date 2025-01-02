@@ -1,6 +1,6 @@
 ---
 title: Registrar e revisar horas
-description: Registre horas pendentes e revise as horas reportadas antes de fechar um projeto.
+description: Registrar as horas pendentes e revisar as horas registradas antes de encerrar um projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 

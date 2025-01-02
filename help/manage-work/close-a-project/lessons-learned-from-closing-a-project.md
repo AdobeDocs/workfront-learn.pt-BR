@@ -1,6 +1,6 @@
 ---
 title: Relembrar as lições aprendidas
-description: Saiba como se beneficiar das "lições aprendidas" ao fechar um projeto.
+description: Saiba como se beneficiar das “lições aprendidas” ao fechar um projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,20 +14,20 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
 # Relembrar as lições aprendidas
 
-Neste vídeo, você verá os benefícios do:
+Neste vídeo, você verá os benefícios de:
 
-* Criação de uma tarefa &quot;lições aprendidas&quot;
-* Anexar um formulário personalizado &quot;lições aprendidas&quot; ao seu projeto
-* Criação de relatórios personalizados de &quot;lições aprendidas&quot;
-* Criação de um projeto &quot;lições aprendidas&quot;
+* Criar uma tarefa de “lições aprendidas”
+* Anexar um formulário personalizado de “lições aprendidas” ao seu projeto
+* Criar relatórios personalizados de “lições aprendidas”
+* Criar um projeto de “lições aprendidas”
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
