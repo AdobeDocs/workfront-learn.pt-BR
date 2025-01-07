@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 100%
+source-wordcount: '504'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,8 @@ Neste vídeo, você aprenderá:
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Principais elementos da página do projeto
+
+[Clique aqui](/help/assets/key-parts-of-the-project-page.pdf) para baixar um PDF desta página.
 
 A página do projeto está repleta de recursos para ajudar a gerenciar seu trabalho. Consulte o(a) admin de sistema se precisar de uma opção que não está disponível na sua instância do [!DNL Workfront]. Veja alguns recursos importantes da página principal do projeto.
 
