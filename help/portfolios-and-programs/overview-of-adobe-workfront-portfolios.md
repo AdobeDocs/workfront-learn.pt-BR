@@ -1,6 +1,6 @@
 ---
 title: Entenda os portfólios
-description: Saiba o que são portfólios e como eles podem ajudar você a comparar e priorizar seus projetos.
+description: Saiba o que são portfólios e como eles podem ajudar a comparar e priorizar seus projetos.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,9 +13,9 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: 14e43ba0c7f04e26db0b3b6d306d48e170c6bbeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 45%
 Neste vídeo, você aprenderá:
 
 * O que são portfólios.
-* Como eles podem ajudá-lo a comparar e priorizar seus projetos.
+* Como eles podem ajudar a comparar e priorizar seus projetos.
 * Como criar um portfólio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
