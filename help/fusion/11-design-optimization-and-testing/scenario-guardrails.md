@@ -1,7 +1,7 @@
 ---
 title: Medidas de proteção de cenário
 description: Saiba mais sobre as medidas de proteção de cenário, medidas de proteção de módulo, medidas de proteção de arquivo e medidas de proteção de webhook, tudo no  [!DNL Adobe Workfront Fusion].
-short-description: Como cenários de longa duração podem retardar o ritmo do seu trabalho, o Workfront Fusion foi projetado com medidas de proteção que preservam o desempenho e limitam o tempo de execução, o tamanho dos dados e outros parâmetros de cenário
+short-description: Como cenários de longa duração podem diminuir o ritmo do trabalho, o Workfront Fusion foi projetado com medidas de proteção que preservam o desempenho e limitam o tempo de execução, o tamanho dos dados e outros parâmetros do cenário.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 

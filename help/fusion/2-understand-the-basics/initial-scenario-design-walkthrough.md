@@ -1,7 +1,7 @@
 ---
 title: Tutorial de design do cenário inicial
 description: Saiba como criar pastas e novos cenários, usar o designer de cenários e criar um cenário básico no  [!DNL Adobe Workfront Fusion].
-short-description: Aqui, você pode assistir a um vídeo explicativo sobre como criar cenários.
+short-description: Aqui, você pode assistir a um vídeo tutorial com exercício sobre como criar cenários.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
