@@ -11,8 +11,8 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá:
 * Como criar equipes
 * Como convidar usuários para uma organização e uma equipe
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

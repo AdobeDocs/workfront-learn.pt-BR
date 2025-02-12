@@ -1,6 +1,6 @@
 ---
-title: Criar um agrupamento básico
-description: Saiba o que é um agrupamento, como criá-lo e como compartilhá-lo com outros usuários no Workfront.
+title: Criar atividades básicas de agrupamento
+description: Pratique a criação de agrupamentos básicos com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# Criar um agrupamento básico
 
-Neste vídeo, você aprenderá:
-
-* O que é um agrupamento no Workfront
-* Como criar um agrupamento
-* E como compartilhar um agrupamento com outros usuários do Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Atividade: criar um agrupamento básico
+# Atividade: criar um agrupamento básico
 
 Crie um agrupamento de problemas que será usado em um relatório para rastrear solicitações que passam por uma fila de solicitações. Esse agrupamento facilitará a visualização de tipos semelhantes de problemas/solicitações agrupados por prioridade. Nomeie o agrupamento &quot;Fila de solicitação, Tópico da fila, Prioridade&quot;.
 

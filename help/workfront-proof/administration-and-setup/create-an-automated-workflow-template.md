@@ -12,7 +12,7 @@ jira: KT-8830
 last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Definir um prazo para o processo de revisão e aprovação
 * Compartilhar o modelo de fluxo de trabalho automatizado com outras pessoas
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops)
 
 ## Opções adicionais de ativação de estágio
 

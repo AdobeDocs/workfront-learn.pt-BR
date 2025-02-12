@@ -13,23 +13,23 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # Relembrar as lições aprendidas
 
-Neste vídeo, você verá os benefícios do:
+Neste vídeo, você verá os benefícios de:
 
-* Criação de uma tarefa &quot;lições aprendidas&quot;
-* Anexar um formulário personalizado &quot;lições aprendidas&quot; ao seu projeto
-* Criação de relatórios personalizados de &quot;lições aprendidas&quot;
-* Criação de um projeto &quot;lições aprendidas&quot;
+* Criar uma tarefa de “lições aprendidas”
+* Anexar um formulário personalizado de “lições aprendidas” ao seu projeto
+* Criar relatórios personalizados de “lições aprendidas”
+* Criar um projeto de “lições aprendidas”
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
 
 ## Tutoriais recomendados sobre este tópico
 

@@ -13,8 +13,8 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como compartilhar um modelo de projeto e conceder direitos para ativá-lo e desativá-lo.
 * Como ativar e desativar um modelo de projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
 
 ## Saiba como criar uma exibição personalizada para ver e editar o status ativo de modelos de projeto
 

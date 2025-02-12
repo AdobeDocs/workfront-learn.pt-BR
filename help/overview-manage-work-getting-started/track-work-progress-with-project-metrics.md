@@ -14,10 +14,10 @@ jira: KT-8796
 hide: true
 doc-type: video
 exl-id: e8ddb76e-66b8-488d-b774-d80b2db8e555
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Acesse os gráficos de métricas do projeto
 * Personalize as informações nos gráficos
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
 
 ## Tutoriais recomendados sobre este tópico
 

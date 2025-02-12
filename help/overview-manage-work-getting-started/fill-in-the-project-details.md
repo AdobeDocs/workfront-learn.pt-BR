@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-10140
 hide: true
 exl-id: 4cf00f4c-3aa1-4b35-8f54-c54a7d2432d5
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao criar um projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
 
 
 ## Tutoriais e artigos recomendados sobre este tópico

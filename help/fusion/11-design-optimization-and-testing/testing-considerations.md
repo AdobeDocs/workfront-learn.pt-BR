@@ -11,8 +11,8 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá a:
 * Crie documentação detalhada e compartilhável
 * Profundidade, amplitude, complexidade e carga do teste
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
 
 ## Lista de verificação de considerações de teste
 

@@ -13,8 +13,8 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 100%
 
@@ -35,6 +35,6 @@ Caso não a veja, a administração do sistema ou do grupo precisará adicioná-
 Neste vídeo, você aprenderá como admins de sistema e de grupo concedem acesso de [!UICONTROL análise] no Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops)
 
 Qualquer pessoa com uma licença do Workfront (no [!UICONTROL Workfront Business] ou planos superiores) pode acessar a [!UICONTROL análise] depois de adicioná-la ao modelo de layout ao qual foi atribuída. No entanto, você só verá os projetos e as informações de usuário se possuir o nível de acesso do Workfront e as permissões de compartilhamento de projetos e usuários apropriadas.

@@ -13,8 +13,8 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Configure os detalhes da fila de solicitações
 * Coloque a fila em funcionamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
 
 ## Tutoriais recomendados sobre este tópico
 

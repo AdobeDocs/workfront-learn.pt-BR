@@ -11,10 +11,11 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 069ff32b-0dca-4dc7-a2d8-d9d3fd26a379
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +27,7 @@ Neste vídeo, você aprenderá sobre:
 * Agendamento de projetos a partir da data de início ou de conclusão
 * Restrições de tarefa
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >

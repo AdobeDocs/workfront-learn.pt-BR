@@ -11,7 +11,7 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Por que o status é importante no [!DNL  Workfront]
 * Como filtrar a [!UICONTROL Lista de trabalho] para ver o trabalho concluído
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops)
 
 
 ## Duas outras maneiras de indicar que o trabalho foi concluído

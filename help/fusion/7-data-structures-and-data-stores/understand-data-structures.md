@@ -11,8 +11,8 @@ jira: KT-9052
 exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá a:
 * Entenda o uso e os recursos da estrutura de dados
 * Criar e usar uma estrutura de dados em um cenário
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)

@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ Neste vídeo, você aprenderá a:
 * Delegar aprovações de projetos, tarefas e problemas
 * Identificar aprovações delegadas
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
 
 ## Tutoriais recomendados sobre este tópico
 

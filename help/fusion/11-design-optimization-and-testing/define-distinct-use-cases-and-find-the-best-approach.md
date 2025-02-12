@@ -11,8 +11,8 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ Neste vídeo, você aprenderá a:
 * Determine o design certo para alto desempenho
 * Desafie suposições e forneça às partes interessadas os melhores conselhos
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops)
 
 ## Quer saber mais? Recomendamos o seguinte:
 
