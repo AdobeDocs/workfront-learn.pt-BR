@@ -1,6 +1,6 @@
 ---
-title: Crie um relatório simples
-description: Saiba como criar um relatório simples usando um filtro, uma visualização e um agrupamento existentes no Workfront.
+title: Criar atividades de relatório simples
+description: Pratique a criação de relatórios simples, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '225'
+ht-degree: 66%
 
 ---
 
-# Crie um relatório simples
+# Criar atividades de relatório simples
 
-Neste vídeo, você aprenderá a:
-
-* Crie um relatório simples usando um filtro, uma visualização e um agrupamento existentes
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+Pratique a criação de relatórios simples, com instruções passo a passo.
 
 ## Atividade 1: criar um relatório de tarefas simples
 

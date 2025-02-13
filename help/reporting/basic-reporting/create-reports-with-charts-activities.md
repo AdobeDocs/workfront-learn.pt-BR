@@ -1,6 +1,6 @@
 ---
-title: Criar relatórios com gráficos
-description: Saiba como os gráficos podem melhorar a visualização de dados e como usar as ferramentas de gráfico no Workfront.
+title: Criar relatórios com atividades de gráficos
+description: Pratique a criação de relatórios com gráficos, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '314'
+ht-degree: 81%
 
 ---
 
-# Criar relatórios com gráficos
+# Criar relatórios com atividades de gráficos
 
-Neste vídeo, você aprenderá:
-
-* Como os gráficos podem melhorar a visualização de dados
-* Como usar as ferramentas de gráfico do Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+Pratique a criação de relatórios com gráficos, com instruções passo a passo.
 
 ## Atividade 1: adicionar um gráfico a um relatório
 

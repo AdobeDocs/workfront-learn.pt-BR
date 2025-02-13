@@ -1,6 +1,6 @@
 ---
-title: Criar uma visualização básica
-description: Aprenda o que é uma visualização e como criá-la e compartilhá-la com outros usuários no Workfront.
+title: Criar atividades básicas de exibição
+description: Pratique a criação de exibições básicas com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# Criar uma visualização básica
+# Criar atividades básicas de exibição
 
-Neste vídeo, você aprenderá:
-
-* O que é uma visualização no Workfront
-* Como criar e modificar uma visualização
-* Como compartilhar uma visualização com outros usuários do Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Pratique a criação de exibições básicas com instruções passo a passo.
 
 ## Atividade 1: criar uma visualização do status da tarefa
 
@@ -43,7 +36,7 @@ Crie uma visualização de tarefas chamada “Visualização de status da tarefa
 * [!UICONTROL Status do Progresso]
 * [!UICONTROL Ícones de Status]
 
-## Resposta 1
+## Resposta da atividade 1
 
 ![Uma imagem da tela de criação de uma visualização do status da tarefa](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Crie uma visualização de tarefas chamada “Visualização de marcos” com as
 * [!UICONTROL Percentual concluído]
 
 
-## Resposta 2
+## Resposta da atividade 2
 
 ![Uma imagem da tela de criação de uma visualização de marco](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ Crie uma visualização de tarefas chamada “Visualização de tipos de duraç�
 
 Mude o [!UICONTROL Formato do campo] nas colunas [!UICONTROL Data de início] e [!UICONTROL Data de expiração] para exibir a data e a hora.
 
-## Resposta 3
+## Resposta da atividade 3
 
 ![Uma imagem da tela mostrando a visualização dos tipos de duração e as restrições da tarefa](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Crie uma exibição de modelo de projeto chamada “Padrão + status ativo” co
 * [!UICONTROL Está ativo]
 
 
-## Resposta 4
+## Resposta da atividade 4
 
 ![Uma imagem da tela que mostra o status ativo de um modelo de projeto](assets/view-activity-4.png)
 

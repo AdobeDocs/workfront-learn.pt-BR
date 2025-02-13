@@ -1,6 +1,6 @@
 ---
-title: Adicionar formatação condicional básica a uma visualização
-description: Saiba como usar regras de coluna para alterar a cor do texto, a formatação e as cores do plano de fundo em um relatório ou exibição, com base nos critérios definidos.
+title: Adicionar formatação condicional básica a atividades de exibição
+description: Pratique a adição de formatação condicional básica às exibições, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# Adicionar formatação condicional básica a uma visualização
+# Adicionar formatação condicional básica a atividades de exibição
 
-A formatação condicional é feita criando regras de coluna. As regras de coluna permitem formatar uma coluna de uma maneira específica com base nos critérios definidos.
-
-Neste vídeo, você aprenderá:
-
-* Que formatação condicional está em uma visualização
-* Como criar e modificar a formatação condicional
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Pratique a adição de formatação condicional básica às exibições, com instruções passo a passo.
 
 ## Resumo
 

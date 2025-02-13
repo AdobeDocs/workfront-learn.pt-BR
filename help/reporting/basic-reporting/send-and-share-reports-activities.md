@@ -1,6 +1,6 @@
 ---
-title: Envie e compartilhe relatórios
-description: Saiba como enviar relatórios para usuários, equipes ou qualquer endereço de email e como compartilhar relatórios com qualquer pessoa no Workfront.
+title: Atividades de enviar e compartilhar relatórios
+description: Pratique o envio e o compartilhamento de relatórios, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# Envie e compartilhe relatórios
+# Atividades de enviar e compartilhar relatórios
 
-Neste vídeo, você aprenderá:
-
-* Como enviar relatórios para usuários, equipes ou qualquer endereço de email
-* Como compartilhar relatórios com qualquer pessoa
-* O que os destinatários podem ver e fazer com um relatório do Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+Pratique o envio e o compartilhamento de relatórios, com instruções passo a passo.
 
 ## Atividade 1: enviar um relatório
 

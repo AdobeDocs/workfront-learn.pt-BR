@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# Atividade: criar um agrupamento básico
+# Criar atividades básicas de agrupamento
+
+Pratique a criação de agrupamentos básicos com instruções passo a passo.
+
+## Atividade 1: criar um agrupamento de filas de solicitações
 
 Crie um agrupamento de problemas que será usado em um relatório para rastrear solicitações que passam por uma fila de solicitações. Esse agrupamento facilitará a visualização de tipos semelhantes de problemas/solicitações agrupados por prioridade. Nomeie o agrupamento &quot;Fila de solicitação, Tópico da fila, Prioridade&quot;.
 
@@ -28,7 +32,7 @@ Agrupe o relatório de problemas com base em:
 1. O tópico da fila
 1. A prioridade da solicitação
 
-## Responder
+## Resposta 1
 
 ![Uma imagem da tela para criar um novo agrupamento](assets/grouping-exercise.png)
 

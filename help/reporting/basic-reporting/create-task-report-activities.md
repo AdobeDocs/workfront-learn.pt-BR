@@ -1,6 +1,6 @@
 ---
-title: Crie um relatório de tarefas
-description: Saiba como criar um relatório de tarefas com um filtro complexo e encontrar os relatórios que você cria no Workfront. Atividade - crie um relatório de observações com prompts.
+title: Criar atividades de relatório de tarefa
+description: Pratique a criação de relatórios de tarefas, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# Crie um relatório de tarefas
+# Criar atividades de relatório de tarefa
 
-Neste vídeo, você aprenderá:
-
-* Como criar um relatório de tarefas com um filtro complexo
-* Como localizar os relatórios que você cria
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+Pratique a criação de relatórios de tarefas, com instruções passo a passo.
 
 >[!TIP]
 >

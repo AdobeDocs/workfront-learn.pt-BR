@@ -1,6 +1,6 @@
 ---
-title: Criar um relatório matriz
-description: Saiba quando um relatório matriz pode ser útil e como criá-lo no Workfront.
+title: Criar atividades de relatório de matriz
+description: Pratique a criação de relatórios de matriz, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# Criar um relatório matriz
+# Criar atividades de relatório de matriz
 
-Neste vídeo, você aprenderá:
-
-* Quando um relatório matriz pode ser útil
-* E como criar um relatório matriz
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Pratique a criação de relatórios de matriz, com instruções passo a passo.
 
 ## Atividade 1: criar um relatório de matriz
 

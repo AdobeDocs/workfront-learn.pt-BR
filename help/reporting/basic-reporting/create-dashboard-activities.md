@@ -1,6 +1,6 @@
 ---
-title: Criar painéis
-description: Saiba como combinar diversos relatórios de lista, gráficos, calendários e páginas externas da Web em um painel no Workfront.
+title: Criar atividades do painel
+description: Pratique a criação de painéis, com instruções passo a passo.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# Criar painéis
+# Criar atividades do painel
 
-Neste vídeo, você aprenderá:
-
-* O que é um painel no Workfront
-* Como criar um painel
-* Como localizar e usar painéis
-* Como compartilhar um painel com outros usuários do Workfront
-* Como imprimir um painel
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+Pratique a criação de painéis, com instruções passo a passo.
 
 ## Atividade 1: criar um painel
 
