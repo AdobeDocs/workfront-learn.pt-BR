@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 94%
 
 ---
 
@@ -28,11 +28,15 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Atividade 1: enviar um relatório
+## Atividades de enviar e compartilhar relatórios
+
+[Clique aqui](/help/assets/send-and-share-reports-activities.pdf) para baixar um PDF desta página.
+
+### Atividade 1: enviar um relatório
 
 Envie um relatório para você mesmo todas as segundas-feiras às 5h em forma de uma planilha Excel. Essa é uma ótima maneira de coletar automaticamente relatórios semanais que você pode posteriormente usar para visualizar tendências.
 
-## Resposta 1
+### Resposta 1
 
 ![Imagem da tela para configurar entregas repetidas de relatórios](assets/send-a-report.png)
 

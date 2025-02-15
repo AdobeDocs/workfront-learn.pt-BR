@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '243'
+ht-degree: 70%
 
 ---
 
@@ -28,7 +28,11 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Atividade: criar um agrupamento básico
+## Criar atividades básicas de agrupamento
+
+[Clique aqui](/help/assets/create-basic-grouping-activities.pdf) para baixar um PDF desta página.
+
+### Atividade 1: criar um agrupamento básico
 
 Crie um agrupamento de problemas que será usado em um relatório para rastrear solicitações que passam por uma fila de solicitações. Esse agrupamento facilitará a visualização de tipos semelhantes de problemas/solicitações agrupados por prioridade. Nomeie o agrupamento &quot;Fila de solicitação, Tópico da fila, Prioridade&quot;.
 
@@ -38,7 +42,7 @@ Agrupe o relatório de problemas com base em:
 1. O tópico da fila
 1. A prioridade da solicitação
 
-## Responder
+### Resposta 1
 
 ![Uma imagem da tela para criar um novo agrupamento](assets/grouping-exercise.png)
 

@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '835'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,11 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Atividade 1: criar uma visualização do status da tarefa
+## Criar atividades básicas de exibição
+
+[Clique aqui](/help/assets/create-basic-view-activities.pdf) para baixar um PDF desta página.
+
+### Atividade 1: criar uma visualização do status da tarefa
 
 Como gerente de projeto, líder de equipe ou gerente de recursos, você deseja acompanhar o andamento das tarefas que estão sendo realizadas. Com essa visualização, você pode observar vários indicadores de status de uma tarefa em uma linha da lista ou do relatório.
 
@@ -43,7 +47,7 @@ Crie uma visualização de tarefas chamada “Visualização de status da tarefa
 * [!UICONTROL Status do Progresso]
 * [!UICONTROL Ícones de Status]
 
-## Resposta 1
+### Resposta 1
 
 ![Uma imagem da tela de criação de uma visualização do status da tarefa](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ Crie uma visualização de tarefas chamada “Visualização de status da tarefa
 
 Passe o mouse sobre cada um dos ícones na coluna [!UICONTROL Ícones de status] para ver o que eles representam. Se estiverem esmaecidos, significa que a tarefa não tem notas, documentos, processos de aprovação etc. Se um ícone aparecer em cores, há pelo menos um desse item associado à tarefa. Você pode clicar nos ícones da nota ou do documento para acessá-los.
 
-## Atividade 2: criar uma visualização de marcos
+### Atividade 2: criar uma visualização de marcos
 
 Se você usa marcos, essa visualização é a maneira mais fácil de encontrá-los por nome e adicioná-los ou editá-los usando a edição em linha.
 
@@ -76,7 +80,7 @@ Crie uma visualização de tarefas chamada “Visualização de marcos” com as
 * [!UICONTROL Percentual concluído]
 
 
-## Resposta 2
+### Resposta 2
 
 ![Uma imagem da tela de criação de uma visualização de marco](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ Crie uma visualização de tarefas chamada “Visualização de marcos” com as
 
 ![Uma imagem de uma lista de tarefas usando uma visualização de marcos](assets/view-milestone-exercise-2.png)
 
-## Atividade 3: criar uma visualização de tipos de duração e restrições de tarefas
+### Atividade 3: criar uma visualização de tipos de duração e restrições de tarefas
 
 Essa visualização permitirá examinar e editar todos os tipos de duração e restrições de tarefa no projeto.
 
@@ -108,7 +112,7 @@ Crie uma visualização de tarefas chamada “Visualização de tipos de duraç�
 
 Mude o [!UICONTROL Formato do campo] nas colunas [!UICONTROL Data de início] e [!UICONTROL Data de expiração] para exibir a data e a hora.
 
-## Resposta 3
+### Resposta 3
 
 ![Uma imagem da tela mostrando a visualização dos tipos de duração e as restrições da tarefa](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ Mude o [!UICONTROL Formato do campo] nas colunas [!UICONTROL Data de início] e 
 1. No menu suspenso [!UICONTROL Formato do campo], selecione [!UICONTROL “17/10/60 3h00”].
 1. Clique em **[!UICONTROL Salvar]**.
 
-## Atividade 4: criar uma exibição do status ativo do modelo de projeto
+### Atividade 4: criar uma exibição do status ativo do modelo de projeto
 
 Qualquer pessoa que gerencia modelos de projeto aprecia a possibilidade de ver o status ativo (verdadeiro ou falso) de cada modelo em uma lista. E algo ainda melhor é poder editar os campos em linha.
 
@@ -146,7 +150,7 @@ Crie uma exibição de modelo de projeto chamada “Padrão + status ativo” co
 * [!UICONTROL Está ativo]
 
 
-## Resposta 4
+### Resposta 4
 
 ![Uma imagem da tela que mostra o status ativo de um modelo de projeto](assets/view-activity-4.png)
 

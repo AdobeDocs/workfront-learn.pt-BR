@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -27,11 +27,15 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Atividade 1: adicionar um gráfico a um relatório
+## Criar relatórios com atividades de gráficos
+
+[Clique aqui](/help/assets/create-reports-with-charts-activities.pdf) para baixar um PDF desta página.
+
+### Atividade 1: adicionar um gráfico a um relatório
 
 O final do trimestre está se aproximando e você talvez queira ver como os projetos concluídos recentemente cumpriram seus orçamentos. Crie um relatório que mostre o custo planejado em relação ao custo efetivo dos projetos. Consulte apenas os projetos que foram concluídos no último trimestre. Adicione um gráfico de colunas de combinação usando cores personalizadas.
 
-## Resposta 1
+### Resposta 1
 
 1. Selecione **[!UICONTROL Relatórios]** no **[!UICONTROL Menu principal]**.
 1. Clique no menu **[!UICONTROL Novo relatório]** e selecione **[!UICONTROL Projeto]**.

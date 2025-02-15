@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '268'
 ht-degree: 79%
 
 ---
@@ -27,13 +27,17 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Atividade 1: criar um relatório de matriz
+## Criar atividades de relatório de matriz
+
+[Clique aqui](/help/assets/create-matrix-report-activities.pdf) para baixar um PDF desta página.
+
+### Atividade 1: criar um relatório de matriz
 
 Crie um relatório matriz que mostre quantas solicitações existem em cada status, classificadas pela fila de solicitações. Isso lhe dá uma ideia rápida da quantidade de trabalho que está chegando e como você está se mantendo atualizado.
 
 As filas de solicitações devem aparecer nos agrupamentos de linhas. O status aparece nos agrupamentos de colunas. Nomeie seu relatório como &quot;Solicitações por status e por fila de solicitações&quot;.
 
-## Resposta 1
+### Resposta 1
 
 1. Selecione **[!UICONTROL Relatórios]** no **[!UICONTROL Menu principal]**.
 1. Clique na opção **[!UICONTROL Novo relatório]** e selecione **[!UICONTROL Problema]**.
