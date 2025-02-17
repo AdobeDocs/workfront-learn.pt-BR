@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 70%
+ht-degree: 95%
 
 ---
 
@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá:
 
 ### Atividade 1: criar um agrupamento básico
 
-Crie um agrupamento de problemas que será usado em um relatório para rastrear solicitações que passam por uma fila de solicitações. Esse agrupamento facilitará a visualização de tipos semelhantes de problemas/solicitações agrupados por prioridade. Nomeie o agrupamento &quot;Fila de solicitação, Tópico da fila, Prioridade&quot;.
+Crie um agrupamento de problemas que será usado em um relatório para rastrear solicitações que passam por uma fila de solicitações. Esse agrupamento facilitará a visualização de tipos semelhantes de problemas/solicitações agrupados por prioridade. Nomeie o agrupamento como “Fila de solicitações, Tópico da fila, Prioridade”.
 
 Agrupe o relatório de problemas com base em:
 
@@ -47,11 +47,11 @@ Agrupe o relatório de problemas com base em:
 ![Uma imagem da tela para criar um novo agrupamento](assets/grouping-exercise.png)
 
 1. Em um relatório de lista de problemas, vá para o menu **[!UICONTROL Agrupamento]** e selecione **[!UICONTROL Novo agrupamento]**.
-1. Nomeie seu agrupamento como &quot;Fila de solicitações, Tópico da fila, Prioridade&quot;.
+1. Nomeie seu agrupamento como “Fila de solicitações, Tópico da fila, Prioridade”.
 1. Clique em **[!UICONTROL Adicionar agrupamento]**.
-1. No campo [!UICONTROL Primeiro por]. digite &quot;nome do projeto&quot; e selecione **[!UICONTROL Nome]** na origem do campo Projeto.
+1. No campo [!UICONTROL Primeiro por]. digite “nome do projeto” e selecione **[!UICONTROL Nome]** na origem do campo Projeto.
 1. Clique em **[!UICONTROL Adicionar outro agrupamento]**.
-1. No campo [!UICONTROL E depois por], digite &quot;fila&quot; e selecione **[!UICONTROL Nome]** na origem do campo [!UICONTROL Tópico da fila].
+1. No campo [!UICONTROL E depois por], digite “fila” e selecione **[!UICONTROL Nome]** na origem do campo [!UICONTROL Tópico da fila].
 1. Clique em **[!UICONTROL Adicionar outro agrupamento]**.
-1. No campo [!UICONTROL E depois por], digite &quot;prioridade&quot; e selecione **[!UICONTROL Prioridade]** na origem do campo [!UICONTROL Problema].
+1. No campo [!UICONTROL E depois por], digite “prioridade” e selecione **[!UICONTROL Prioridade]** na origem do campo [!UICONTROL Problema].
 1. Clique em **[!UICONTROL Salvar agrupamento]**

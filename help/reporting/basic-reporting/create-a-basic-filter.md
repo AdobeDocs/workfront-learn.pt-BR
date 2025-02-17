@@ -1,6 +1,6 @@
 ---
 title: Criar um filtro básico
-description: Saiba o que é um filtro, como criá-lo e como compartilhá-lo com outros usuários no Workfront.
+description: Aprenda o que é um filtro, como criar um filtro e como compartilhá-lo com outros usuários no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
