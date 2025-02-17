@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Scenario Planner] Explicado'
+title: Explicação sobre o [!DNL Scenario Planner]
 description: Aprenda como o [!DNL Scenario Planner] se adapta a outras ferramentas de planejamento de recursos. Em seguida, aprenda como configurar o [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-9075
 exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

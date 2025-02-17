@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá a:
 
 À medida que você configura seu sistema do [!UICONTROL DAM do Workfront], é importante considerar as funções que os usuários e grupos desempenham no quadro geral.
 
-Os grupos controlam o acesso às pastas de ativos no [!UICONTROL Workfront DAM]. As configurações de grupo também controlam o que os usuários podem fazer com os ativos (exibir, baixar, editar etc.) que têm permissão para acessar.
+Os grupos controlam o acesso às pastas de ativos no [!UICONTROL Workfront DAM]. As configurações de grupo também controlam o que os usuários podem fazer com os ativos (exibir, baixar, editar etc.) aos quais eles têm permissão de acesso.
 
 Ao criar grupos, é vital ter em mente quais pastas de ativos os membros desse grupo precisarão acessar no [!UICONTROL DAM do Workfront].
 
