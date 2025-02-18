@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '232'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 71%
 
 ---
 
@@ -23,14 +23,19 @@ ht-degree: 100%
 Neste vídeo, você aprenderá a:
 
 * Saiba quando usar curingas baseados em data
-* Entenda a diferença entre os dois curingas baseados em data do Workfront
+* Entender a diferença entre os dois curingas com base em data do Workfront
 * Adicionar um curinga baseado em data a um filtro
 * Criar uma data personalizada usando curingas, atributos, operadores e modificadores
 * Criar um intervalo de datas personalizado usando curingas
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Perguntas sobre a atividade
+
+## Criar filtros com atividades de curingas com base em data
+
+[Clique aqui](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) para baixar um PDF desta página.
+
+### Perguntas sobre a atividade
 
 1. Como você criaria a regra de filtro se estivesse procurando por problemas com uma data de vencimento para o dia de ontem ou hoje?
 1. Como você criaria a regra de filtro para encontrar projetos com uma data de vencimento para a semana passada?
@@ -38,8 +43,8 @@ Neste vídeo, você aprenderá a:
 
 ![Uma imagem da tela de criação de filtros de tarefa com um curinga baseado em data](assets/date-wildcard-answer-1.png)
 
-## Respostas
+### Respostas
 
 1. Filtrar problemas com uma data de conclusão planejada entre [!UICONTROL $$TODAY-1d] e [!UICONTROL $$TODAY].
 1. Filtrar projetos com uma data de conclusão planejada entre [!UICONTROL $$TODAYb-1w] e [!UICONTROL $$TODAYe-1w].
-1. Este relatório encontra tarefas atribuídas a você que ainda não foram concluídas (ou seja, que possuem uma porcentagem de conclusão inferior a 100) e que estão atrasadas ou vencem hoje. A regra de filtro para a data de conclusão planejada das tarefas orienta a busca por tarefas com uma data de vencimento igual ou anterior à data de hoje.
+1. Esse relatório encontra tarefas atribuídas a você que ainda não foram concluídas (em outras palavras, têm uma porcentagem concluída inferior a 100) e que estão vencidas ou vencidas hoje. A regra de filtro para a data de conclusão planejada das tarefas informa a necessidade de observar tarefas com uma data de vencimento igual ou anterior à data de hoje.

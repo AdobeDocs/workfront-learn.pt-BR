@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '442'
+ht-degree: 98%
 
 ---
 
@@ -41,8 +41,11 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Um modo de texto básico “plug and play” que você pode usar em seus filtros de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
+## Entender o modo de texto básico para atividades de filtros
+
+[Clique aqui](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) para baixar um PDF desta página.
 
 ## Tarefa: Filtrar as tarefas em que marquei “Minha parte foi concluída”
 
