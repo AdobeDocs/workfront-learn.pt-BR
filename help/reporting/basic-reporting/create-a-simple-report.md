@@ -12,9 +12,9 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ Neste vídeo, você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Criar atividades de relatório simples
+## Atividades de criação de relatórios simples
 
 [Clique aqui](/help/assets/create-simple-report-activities.pdf) para baixar um PDF desta página.
 
 ### Atividade 1: criar um relatório de tarefas simples
 
-Você deseja acompanhar todas as suas tarefas ativas em um único relatório. Crie um relatório de Tarefa chamado &quot;Minhas tarefas atuais&quot; usando o seguinte:
+Você deseja acompanhar todas as suas tarefas ativas em um único relatório. Crie um relatório de tarefas chamado “Minhas tarefas atuais” usando o seguinte:
 
 * Colunas (Exibir) = Padrão
 * Agrupamentos = Projeto
@@ -55,10 +55,10 @@ Você deseja acompanhar todas as suas tarefas ativas em um único relatório. Cr
 
    ![Uma imagem da tela para criar filtros num relatório de tarefa](assets/simple-task-report-filters.png)
 
-1. Abra **[!UICONTROL Configurações do Relatório]** e nomeie o relatório como &quot;Minhas Tarefas Atuais&quot;.
-1. No campo Descrição, informe &quot;Incompleto
-tarefas em Projetos atuais nos quais eu sou a tarefa
-proprietário, agrupados por projeto.&quot;
+1. Abra as **[!UICONTROL Configurações de relatório]** e nomeie o relatório como “Minhas tarefas atuais”.
+1. No campo Descrição, insira “Tarefas
+incompletas nos projetos atuais em que sou proprietário(a) da tarefa,
+agrupadas por projeto”.
 
    ![Uma imagem da tela de configurações de relatório num relatório de tarefa](assets/simple-task-report-report-settings.png)
 

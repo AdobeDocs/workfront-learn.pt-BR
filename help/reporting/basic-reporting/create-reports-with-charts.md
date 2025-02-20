@@ -12,9 +12,9 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Criar relatórios com atividades de gráficos
+## Atividades de criação de relatórios com gráficos
 
 [Clique aqui](/help/assets/create-reports-with-charts-activities.pdf) para baixar um PDF desta página.
 
@@ -62,6 +62,6 @@ O final do trimestre está se aproximando e você talvez queira ver como os proj
 1. Para o [!UICONTROL Eixo inferior (X)], escolha [!UICONTROL Projeto] > [!UICONTROL Nome].
 1. Clique no botão **[!UICONTROL Gráfico de combinação]** e selecione [!UICONTROL Projeto] > [!UICONTROL Custo efetivo] no campo **[!UICONTROL Valor]**.
 1. Clique na seta ao lado da caixa de cores para alterar a cor do [!UICONTROL Custo efetivo]. Selecione uma das cores que aparece ou clique na caixa no canto inferior direito para abrir a paleta de cores.
-1. Clique em **[!UICONTROL Salvar + Fechar]**. Quando solicitado a fornecer um nome de relatório, chame-o de &quot;Custo Planejado vs. Custo Efetivo por Projeto Concluído no Último Trimestre&quot;.
+1. Clique em **[!UICONTROL Salvar + Fechar]**. Quando for solicitado um nome de relatório, insira “Custo planejado comparado ao custo efetivo de projetos concluídos no último trimestre”.
 
    ![Uma imagem da tela que permite adicionar um gráfico a um relatório](assets/chart-report-chart.png)

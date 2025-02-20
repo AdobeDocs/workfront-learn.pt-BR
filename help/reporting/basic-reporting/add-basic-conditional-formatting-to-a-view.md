@@ -12,9 +12,9 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '471'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Adicionar formatação condicional básica a atividades de exibição
+## Atividades de adição de formatação condicional básica a visualizações
 
 [Clique aqui](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) para baixar um PDF desta página.
 
@@ -46,7 +46,7 @@ Para criar formatação condicional:
    * texto de substituição
    * mostrar um ícone
 
-### Atividade 1: adicionar formatação condicional a uma exibição
+### Atividade 1: adicionar formatação condicional a uma visualização
 
 Crie uma visualização de tarefa chamada “Padrão + Progresso” usando a visualização Padrão existente e adicionando esta formatação condicional na coluna [!UICONTROL Nome].
 

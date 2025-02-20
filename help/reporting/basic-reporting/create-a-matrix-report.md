@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Criar atividades de relatório de matriz
+## Atividades de criação de relatórios de matriz
 
 [Clique aqui](/help/assets/create-matrix-report-activities.pdf) para baixar um PDF desta página.
 
 ### Atividade 1: criar um relatório de matriz
 
-Crie um relatório matriz que mostre quantas solicitações existem em cada status, classificadas pela fila de solicitações. Isso lhe dá uma ideia rápida da quantidade de trabalho que está chegando e como você está se mantendo atualizado.
+Crie um relatório matriz que mostre quantas solicitações existem em cada status, classificadas pela fila de solicitações. Isso oferece uma visão rápida da quantidade de trabalho que está chegando e de como você está lidando com ele.
 
-As filas de solicitações devem aparecer nos agrupamentos de linhas. O status aparece nos agrupamentos de colunas. Nomeie seu relatório como &quot;Solicitações por status e por fila de solicitações&quot;.
+As filas de solicitações devem aparecer nos agrupamentos de linhas. O status aparece nos agrupamentos de colunas. Nomeie seu relatório como “Solicitações por status e por fila de solicitações”.
 
 ### Resposta 1
 
@@ -53,6 +53,6 @@ As filas de solicitações devem aparecer nos agrupamentos de linhas. O status a
    * [!UICONTROL Projeto] > [!UICONTROL Status igual a] > [!UICONTROL Igual] > [!UICONTROL Atual]
    * [!UICONTROL Definição da fila] > [!UICONTROL É público] > [!UICONTROL Não é igual] > [!UICONTROL Nenhum] (é assim que sabemos que um projeto é, na verdade, uma fila de solicitações, quando a Definição de fila é atribuída a uma das opções públicas.)
 
-1. Clique em **[!UICONTROL Salvar e Fechar]**. Quando solicitado a fornecer um nome de relatório, digite &quot;Solicitações por status e Fila de solicitações&quot;.
+1. Clique em **[!UICONTROL Salvar e Fechar]**. Quando for solicitado um nome de relatório, insira “Solicitações por status e fila de solicitações”.
 
    ![Uma imagem da tela de criação de um novo filtro de relatórios de problemas](assets/matrix-report-filters.png)
