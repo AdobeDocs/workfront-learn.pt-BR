@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '768'
-ht-degree: 100%
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+workflow-type: tm+mt
+source-wordcount: '727'
+ht-degree: 91%
 
 ---
 
@@ -47,13 +47,13 @@ Quando desejar iniciar a revisão, basta clicar no botão azul [!UICONTROL Acess
 
 ### Abrir uma prova na [!UICONTROL página inicial]
 
-Se estiver trabalhando no [!DNL Workfront] e alguém solicitar que aprove uma prova, você encontrará uma atribuição na [!UICONTROL Lista de trabalho] da [!UICONTROL página inicial] do [!DNL Workfront]. É útil selecionar o [!UICONTROL filtro] [!UICONTROL Aprovações], para se concentrar apenas nesse tipo de trabalho.
+Se você estiver trabalhando no [!DNL Workfront] e tiver sido solicitado a aprovar uma prova, você encontrará uma atribuição no widget [!UICONTROL Minhas aprovações] do [!DNL Workfront] [!UICONTROL Página inicial].
 
-![Uma imagem da [!UICONTROL página inicial] do [!DNL Workfront] com o filtro [!UICONTROL Aprovações] ativado e uma prova selecionada na lista.](assets/open-proof-from-home.png)
+![Uma imagem do widget [!UICONTROL Minhas aprovações] na [!DNL Workfront] [!UICONTROL Página inicial].](assets/open-proof-from-home.png)
 
-É importante notar que as provas aparecem na [!UICONTROL página inicial] do [!DNL Workfront] somente se você for designado para aprová-las. Se a solicitação de revisão da prova acabou de ser realizada, ela não aparecerá na [!UICONTROL página inicial] do [!DNL Workfront] quando você selecionar [!UICONTROL Aprovações] na lista de filtros.
+É importante notar que as provas aparecem na [!UICONTROL página inicial] do [!DNL Workfront] somente se você for designado para aprová-las. Se você acabou de ser solicitado a revisar apenas a prova, ela não aparecerá na [!DNL Workfront] [!UICONTROL Página inicial].
 
-Selecione a aprovação da prova na [!UICONTROL Lista de trabalho] e, em seguida, clique no link [!UICONTROL Acessar a prova] para abri-la no visualizador de revisão.
+Clique no link [!UICONTROL Ir para Prova] para abri-lo no visualizador de provas.
 
 Dependendo da prova e dos fluxos de trabalho do projeto da sua organização, você poderá ver uma atribuição de tarefa na [!UICONTROL página inicial] do [!DNL Workfront] em vez de uma solicitação de aprovação de prova. Neste caso, você deve abrir a prova a partir da seção [!UICONTROL Documentos] da tarefa em si (veja instruções abaixo).
 
