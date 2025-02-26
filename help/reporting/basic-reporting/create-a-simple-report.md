@@ -11,10 +11,10 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '255'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,7 @@ Neste vídeo, você aprenderá a:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Atividades de criação de relatórios simples
-
-[Clique aqui](/help/assets/create-simple-report-activities.pdf) para baixar um PDF desta página.
+## Atividades &quot;Criar um relatório simples&quot;
 
 ### Atividade 1: criar um relatório de tarefas simples
 

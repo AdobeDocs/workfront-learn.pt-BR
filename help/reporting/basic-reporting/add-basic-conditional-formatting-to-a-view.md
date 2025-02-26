@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '471'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '464'
+ht-degree: 97%
 
 ---
 
@@ -29,11 +29,8 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Atividades de adição de formatação condicional básica a visualizações
 
-[Clique aqui](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) para baixar um PDF desta página.
-
-### Resumo
+## Resumo de formatação condicional
 
 Para criar formatação condicional:
 
@@ -45,6 +42,8 @@ Para criar formatação condicional:
    * cor do texto
    * texto de substituição
    * mostrar um ícone
+
+## Atividades &quot;Adicionar formatação condicional básica a uma exibição&quot;
 
 ### Atividade 1: adicionar formatação condicional a uma visualização
 

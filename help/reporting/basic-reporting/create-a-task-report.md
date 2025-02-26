@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Atividades de criação de relatórios de tarefa
-
-[Clique aqui](/help/assets/create-task-report-activities.pdf) para baixar um PDF desta página.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ Neste vídeo, você aprenderá:
 >Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
 >Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
 
+## Atividades &quot;Create a task report&quot;
 
 
-## Atividade 1: criar um relatório de notas com solicitações
+### Atividade 1: criar um relatório de notas com solicitações
 
 Crie um relatório de notas que você pode usar para pesquisar notas do usuário (ou seja, comentários ou atualizações) ou notas do sistema com base no conteúdo da nota, no autor, na data de entrada, no nome do projeto ou no tipo de auditoria. Nomeie o relatório como “Pesquisa de notas”.
 
@@ -68,7 +66,7 @@ Inclua prompts para o seguinte:
 * Nome do Projeto
 * Tipo de Auditoria
 
-## Resposta 1
+### Resposta 1
 
 1. Selecione **[!UICONTROL Relatórios]** no **[!UICONTROL Menu principal]**.
 1. Clique no menu **[!UICONTROL Novo relatório]** e selecione **[!UICONTROL Nota]**.
@@ -111,7 +109,7 @@ Inclua prompts para o seguinte:
 1. Marque a caixa para **[!UICONTROL Mostrar prompts em painéis]**.
 1. Salve e feche o relatório.
 
-## Atividade 2: criar um relatório de feedback de equipe administrativa
+### Atividade 2: criar um relatório de feedback de equipe administrativa
 
 Este é um relatório que mostra todos os problemas de uma fila de solicitações de feedback criada para admins de sistema. Você pode ver como criar essa fila de solicitações no tutorial [Criar uma fila de solicitações de feedback para admins de sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=pt-BR).
 
@@ -162,7 +160,7 @@ Filtre a ID do projeto da fila de solicitações que contém os problemas de fee
 
 
 
-## Resposta 2
+### Resposta 2
 
 1. Selecione **[!UICONTROL Relatórios]** no **[!UICONTROL Menu principal]**.
 1. Clique no menu **[!UICONTROL Novo relatório]** e selecione **[!UICONTROL Problema]**.

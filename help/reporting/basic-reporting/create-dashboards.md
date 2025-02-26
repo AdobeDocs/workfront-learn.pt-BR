@@ -1,6 +1,6 @@
 ---
 title: Criar painéis
-description: Saiba como combinar diversos relatórios de lista, gráficos, calendários e páginas externas da Web em um painel no Workfront.
+description: O vídeo tem como objetivo ajudar os usuários a criar, personalizar e gerenciar painéis no Workfront com eficiência para monitorar e compartilhar dados relacionados ao projeto.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,30 +11,34 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '627'
+ht-degree: 64%
 
 ---
 
 # Criar painéis
 
-Neste vídeo, você aprenderá:
+O vídeo aborda os seguintes pontos principais:
 
-* O que é um painel no Workfront
-* Como criar um painel
-* Como localizar e usar painéis
-* Como compartilhar um painel com outros usuários do Workfront
-* Como imprimir um painel
+* **Introdução aos Painéis:** explica o que é um painel no Workfront e sua finalidade como uma coleção de relatórios relacionados. &#x200B;
+* **Criando um Painel:** mostra como criar um novo painel navegando até a área Painéis, selecionando &quot;Novo Painel&quot;, nomeando-o e escolhendo um layout. &#x200B;
+* **Adicionando relatórios:** demonstra como adicionar vários relatórios ao painel, como relatórios de projeto, relatórios de tarefa e relatórios de problemas, e organizá-los no layout escolhido. &#x200B;
+* **Personalizando Exibições:** Mostra como personalizar quais colunas serão exibidas no modo de exibição de painel, editando o relatório e selecionando colunas específicas para exibição. &#x200B;
+* **Adicionando elementos adicionais:** explica como adicionar um calendário personalizado e uma página externa (por exemplo, um documento online) ao painel. &#x200B;
+* **Salvando e fixando:** Instrui sobre como salvar o painel e fixá-lo para facilitar o acesso. &#x200B;
+* **Exibir e Editar:** fornece dicas sobre como visualizar e editar o painel, incluindo o ajuste da visibilidade da coluna para melhor exibição. &#x200B;
+* **Painéis de Compartilhamento e Localização:** descreve como localizar painéis por meio do menu principal, adicioná-los a favoritos e compartilhá-los com outros usuários. &#x200B;
+* **Imprimindo Painéis:** explica o processo de impressão de um painel. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Atividades de criação de painel
 
-[Clique aqui](/help/assets/create-dashboard-activities.pdf) para baixar um PDF desta página.
+## Atividades &quot;Create dashboard&quot;
 
-## Atividade 1: criar um painel
+### Atividade 1: criar um painel
 
 Crie um [!UICONTROL painel] com apenas um relatório: “Notas de pesquisa neste projeto”. Isto é útil para encontrar rapidamente qualquer atualização feita em um projeto, mesmo que haja milhares de atualizações para pesquisar. Isso pesquisará as threads de atualização para extrair rapidamente quaisquer atualizações que atendam aos critérios especificados nos prompts.
 
@@ -45,7 +49,7 @@ Crie este relatório fazendo uma cópia do relatório “Notas de pesquisa” cr
 * Vá para a página inicial de qualquer projeto e crie uma seção personalizada para um [!UICONTROL painel].
 * Observe que ao pesquisar por notas na seção personalizada, somente as notas contidas no projeto que você está acessando serão exibidas.
 
-## Resposta 1
+### Resposta 1
 
 1. Execute o relatório criado na atividade “Criar um relatório de notas”.
 1. Clique em **[!UICONTROL Ações do relatório]** e selecione **[!UICONTROL Copiar]**. O [!DNL Workfront] cria um novo relatório chamado “Pesquisa de notas (cópia)”.

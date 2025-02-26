@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 98%
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Criar atividades de prompts personalizadas
+## Atividades &quot;Criar prompts personalizados&quot;
 
-[Clique aqui](/help/assets/create-custom-prompts-activities.pdf) para baixar um PDF desta página.
 
-## Atividade: criar solicitações personalizadas
+### Atividade: criar solicitações personalizadas
 
 1. Crie uma solicitação personalizada que mostre os seguintes status do projeto no menu suspenso de solicitações:
    * Em Planejamento
@@ -41,7 +40,7 @@ Neste vídeo, você aprenderá:
    * Parado
 1. Modifique a solicitação para mostrar os projetos atuais que expiram neste mês.
 
-## Respostas
+### Respostas
 
 1. Suas solicitações personalizadas devem ter uma aparência semelhante a esta e usar o seguinte modo de texto:
 

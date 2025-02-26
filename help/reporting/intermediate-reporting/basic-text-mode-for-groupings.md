@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '292'
 ht-degree: 97%
 
 ---
@@ -41,11 +41,9 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Entender o modo de texto básico para atividades de agrupamento
+## Atividades &quot;Entender o modo de texto básico para agrupamentos&quot;
 
-[Clique aqui](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) para baixar um PDF desta página.
-
-## Tarefa: agrupamento de quatro páginas principais
+### Tarefa: agrupamento de quatro páginas principais
 
 O modo de texto a seguir agrupará tarefas com base em até quatro níveis de página principal e deixará as páginas principais inexistentes em branco.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![Uma imagem de tela mostrando tarefas do projeto agrupadas em quatro páginas principais](assets/4-parents-grouping.png)
 
 
-## Tarefa: agrupamento de percentual concluído
+### Tarefa: agrupamento de percentual concluído
 
 O modo de texto a seguir agrupará tarefas com base no percentual concluído. As tarefas serão encaixadas em uma das seguintes categorias quando agrupadas:
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![Uma imagem de tela mostrando as tarefas do projeto agrupadas por percentual concluído](assets/percent-complete-grouping.png)
 
-## Tarefa: statusEquatesWith e, em seguida, status
+### Tarefa: statusEquatesWith e, em seguida, status
 
 O modo de texto a seguir agrupará as tarefas por statusEquatesWith e, em seguida, por status.
 
@@ -108,7 +106,7 @@ textmode=true
 ![Uma imagem de tela mostrando as tarefas do projeto agrupadas por statusEquatesWith](assets/status-equates-with.png)
 
 
-## Aprovação da revisão: agrupar por nome do projeto
+### Aprovação da revisão: agrupar por nome do projeto
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![Uma imagem de tela mostrando aprovações de revisões agrupadas por nome do projeto](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Aprovação da revisão: agrupar por nome do documento
+### Aprovação da revisão: agrupar por nome do documento
 
 ```
 group.0.displayname=Document Name

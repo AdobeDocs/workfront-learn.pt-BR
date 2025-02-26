@@ -12,9 +12,9 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '433'
 ht-degree: 98%
 
 ---
@@ -43,11 +43,10 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Entender o modo de texto básico para atividades de filtros
+## Atividades &quot;Entender o modo de texto básico para filtros&quot;
 
-[Clique aqui](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) para baixar um PDF desta página.
 
-## Tarefa: Filtrar as tarefas em que marquei “Minha parte foi concluída”
+### Tarefa: Filtrar as tarefas em que marquei “Minha parte foi concluída”
 
 O modo de texto a seguir excluirá tarefas em que um usuário marcou “Minha parte foi concluída”. Basta criar um filtro de tarefa, adicionar as regras de filtro desejadas, alternar para o modo de texto e colar o código abaixo após qualquer modo de texto exibido no filtro.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Tarefa: Mostrar todas as tarefas aguardando minha aprovação
+### Tarefa: Mostrar todas as tarefas aguardando minha aprovação
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Tarefa: Mostrar todas as tarefas que aprovei
+### Tarefa: Mostrar todas as tarefas que aprovei
 
 Crie um relatório de tarefas com os filtros desejados, vá para a guia Filtro e clique em Alternar para modo de texto. Adicione este código ao que já estiver lá:
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Tarefa: Mostrar todas as tarefas que tenham pelo menos um predecessor entre projetos
+### Tarefa: Mostrar todas as tarefas que tenham pelo menos um predecessor entre projetos
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Tarefa: Mostrar todas as tarefas que atribuí a outras pessoas
+### Tarefa: Mostrar todas as tarefas que atribuí a outras pessoas
 
 Crie um relatório de tarefas com os filtros desejados, vá para a guia Filtro e clique em Alternar para modo de texto. Adicione este código ao que já estiver lá:
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Isso mostrará todas as tarefas para as quais o usuário conectado atribuiu pelo menos um dos cessionários atuais. Se os cessionários foram atribuídos por várias pessoas, apenas o nome da primeira pessoa que atribuiu alguém aparecerá como “Solicitado por” na página de destino da tarefa.
 
-## Tarefa: Mostrar todas as tarefas concluídas - Aprovação pendente
+### Tarefa: Mostrar todas as tarefas concluídas - Aprovação pendente
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Problema: Mostrar todos os problemas concluídos - Aprovação pendente
+### Problema: Mostrar todos os problemas concluídos - Aprovação pendente
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Projeto: Mostrar todos os projetos concluídos - Aprovação pendente
+### Projeto: Mostrar todos os projetos concluídos - Aprovação pendente
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Observação: Mostrar todos os comentários em que fui marcado
+### Observação: Mostrar todos os comentários em que fui marcado
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Relatório de parâmetro/campo personalizado: Mostrar campos personalizados que não estão anexados a um formulário personalizado (muito útil em iniciativas de limpeza)
+### Relatório de parâmetro/campo personalizado: Mostrar campos personalizados que não estão anexados a um formulário personalizado (muito útil em iniciativas de limpeza)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

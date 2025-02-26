@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 67%
+source-wordcount: '199'
+ht-degree: 66%
 
 ---
 
@@ -28,9 +28,8 @@ Neste vídeo, você:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## Entender as atividades de filtros de tarefa incorporadas
+## &quot;Entender as atividades de filtros de tarefa integrados&quot;
 
-[Clique aqui](/help/assets/understand-built-in-task-filters-activities.pdf) para baixar um PDF desta página.
 
 ### Atividade: criar um relatório de tarefas
 
