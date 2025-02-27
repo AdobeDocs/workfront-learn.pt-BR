@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 99%
@@ -27,14 +27,13 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## Atividades &quot;Create a task report&quot;
 
 >[!TIP]
 >
 >Pegue suas espátulas e tigelas e prepare-se para experimentar as “receitas” em nosso [Livro de receitas de relatórios do cliente do Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Lá dentro, você encontrará instruções passo a passo para 10 relatórios, prontos para você preparar em seu ambiente hoje mesmo.
 >Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
 >Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
-
-## Atividades &quot;Create a task report&quot;
 
 
 ### Atividade 1: criar um relatório de notas com solicitações

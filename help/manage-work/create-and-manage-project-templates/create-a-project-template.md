@@ -1,6 +1,6 @@
 ---
 title: Crie um modelo de projeto e saiba mais sobre [!UICONTROL blueprints]
-description: Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e entenda como os [!UICONTROL blueprints] podem fornecer acesso a diversos modelos de projeto úteis criados por especialistas do Workfront.
+description: O vídeo sobre como criar modelos no Workfront demonstra como criar novos modelos de projeto, usá-los para novos projetos, salvar projetos existentes como modelos, utilizar blueprints pré-criados e atribuir tarefas a funções de trabalho para obter um gerenciamento de recursos eficiente.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '377'
-ht-degree: 100%
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+workflow-type: tm+mt
+source-wordcount: '640'
+ht-degree: 50%
 
 ---
 
 # Crie um modelo de projeto e saiba mais sobre [!UICONTROL blueprints]
 
+
 Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e entenda como os [!UICONTROL blueprints] podem fornecer acesso a diversos modelos de projeto úteis criados por especialistas do Workfront.
 
 ## Criar um modelo de projeto
 
-Neste vídeo, você aprenderá a:
+* O vídeo fornece um guia passo a passo sobre a criação e o uso de modelos para a produção de vídeos de marketing. Ele começa explicando como criar um novo modelo do zero, nomeando-o e salvando-o. &#x200B; O processo envolve três etapas principais: criar tarefas, configurar a linha do tempo usando durações e predecessores e fazer atribuições a funções de trabalho em vez de usuários individuais. &#x200B; O vídeo enfatiza a organização de tarefas usando relacionamentos entre pais e filhos para obter um melhor resumo e eficiência. &#x200B;
+* Depois que o modelo é criado, ele pode ser usado para produzir novos projetos. O vídeo mostra como criar um novo projeto a partir do modelo, fazer os ajustes necessários e adicionar tarefas ou modificar a duração, conforme necessário. &#x200B; Também mostra como atribuir funções de trabalho a tarefas usando as funcionalidades de planejamento e agendamento de recursos. &#x200B;
+* O vídeo explica como salvar um projeto existente como um novo modelo, permitindo atualizações e melhorias no fluxo de trabalho. &#x200B; Ele destaca a importância do gerenciamento de modelos para evitar confusão e garantir a execução simplificada do projeto. &#x200B;
 
-* Criar um modelo do zero
-* Criar um modelo a partir de um projeto existente
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Principais pontos
+
+**Criação de um Modelo:** Saiba como criar um novo modelo do zero nomeando-o, configurando tarefas, linhas do tempo e fazendo atribuições a funções de trabalho. &#x200B;
+**Organização da Tarefa:** Use relações de tarefas pai-filho para organizar tarefas com eficiência, fornecendo um resumo e uma estrutura claros para o projeto. &#x200B;
+**Configuração da Linha do Tempo:** configure linhas do tempo da tarefa usando durações e predecessores para estimar com precisão o intervalo de tempo e a sequência de tarefas. &#x200B;
+**Atribuições com base em funções:** atribua tarefas a funções de trabalho, em vez de usuários individuais, para utilizar as funcionalidades de planejamento e agendamento de recursos de maneira eficaz. &#x200B;
+**Gerenciamento de modelos:** salve projetos existentes como novos modelos para incorporar melhorias e gerenciar modelos para evitar confusão e garantir uma execução eficiente do projeto. &#x200B;
+
 
 ## Modelos criados com [!UICONTROL blueprints]
 
