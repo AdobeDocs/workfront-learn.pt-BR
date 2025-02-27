@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 70%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 Neste vídeo, você aprenderá a:
 
 * Saiba quando usar curingas baseados em data
-* Entender a diferença entre os dois curingas com base em data do Workfront
+* Entenda a diferença entre os dois curingas baseados em data do Workfront
 * Adicionar um curinga baseado em data a um filtro
 * Criar uma data personalizada usando curingas, atributos, operadores e modificadores
 * Criar um intervalo de datas personalizado usando curingas
@@ -46,4 +46,4 @@ Neste vídeo, você aprenderá a:
 
 1. Filtrar problemas com uma data de conclusão planejada entre [!UICONTROL $$TODAY-1d] e [!UICONTROL $$TODAY].
 1. Filtrar projetos com uma data de conclusão planejada entre [!UICONTROL $$TODAYb-1w] e [!UICONTROL $$TODAYe-1w].
-1. Esse relatório encontra tarefas atribuídas a você que ainda não foram concluídas (em outras palavras, têm uma porcentagem concluída inferior a 100) e que estão vencidas ou vencidas hoje. A regra de filtro para a data de conclusão planejada das tarefas informa a necessidade de observar tarefas com uma data de vencimento igual ou anterior à data de hoje.
+1. Este relatório encontrou tarefas atribuídas a você que ainda não foram concluídas (ou seja, têm uma porcentagem de conclusão menor que 100) e que estão atrasadas ou vencem hoje. A regra de filtro para a data de conclusão planejada das tarefas orienta a analisar tarefas que tenham uma data de vencimento igual ou anterior à data de hoje.

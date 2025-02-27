@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 47%
+ht-degree: 98%
 
 ---
 
@@ -29,31 +29,31 @@ Neste vídeo, você aprenderá a:
 
 >[!TIP]
 >
->Use origem e nome do campo Usuários atribuídos >> ID, quando criar filtros que exibam uma informação de atribuição de tarefa ou problema.  Essa opção considera todas as   usuários atribuídos à tarefa ou problema, não apenas o &quot;proprietário&quot; ou o responsável principal.
+>Use origem e nome do campo Usuários atribuídos >> ID, quando criar filtros que exibam uma informação de atribuição de tarefa ou problema.  Esta opção analisa todos os usuários atribuídos à tarefa ou problema, não apenas o “proprietário” ou responsável principal.
 
 >[!TIP]
 >
->Use $$USER.ID (em vez do seu nome) mesmo ao criar filtros para você mesmo. Dessa forma, se alguém vir um filtro que você está executando e disser &quot;compartilhe isso comigo&quot;, o filtro já está configurado para que cada pessoa que o usa veja suas próprias informações.
+>Use $$USER.ID (em vez do seu nome) mesmo ao criar filtros para você mesmo(a). Dessa forma, se alguém vir um filtro que você está executando e solicitar que você o compartilhe, ele já estará configurado para que cada pessoa que o utilizar veja suas próprias informações.
 
 >[!TIP]
 >
->Você sempre deve usar o qualificador de filtro “Igual” ao usar curingas com base no usuário.
+>Use sempre o qualificador de filtro “Igual” ao usar curingas com base no usuário.
 
 
 ## Atividades &quot;Criar filtros com curingas com base no usuário&quot;
 
 ### Atividade 1
 
-Você tem um pouco de tempo extra esta semana, então você quer ver se há alguém na sua equipe que poderia usar alguma assistência com suas tarefas. Crie um filtro de tarefa para encontrar tarefas com vencimento nesta semana que ainda não foram concluídas.
+Você tem um tempinho extra esta semana e deseja saber se alguém na sua equipe precisa de ajuda com as tarefas. Crie um filtro de tarefas para encontrar tarefas que vencem esta semana e ainda não foram concluídas.
 
 ### Resposta 1
 
-Você é incrível por ajudar seus colegas de equipe! Com o filtro configurado como a imagem abaixo, você encontrará tarefas:
+Ajudar colegas de equipe é uma bela atitude de sua parte. Com o filtro configurado como na imagem abaixo, você encontrará tarefas:
 
-* Que não foram concluídas (o que significa que elas não têm um status de [!UICONTROL Concluído] ou status que equivale a [!UICONTROL Concluído]);
-* Que estão em projetos com status [!UICONTROL Atual] (afinal, você não quer encontrar tarefas para projetos que ainda não foram iniciados);
+* Que não foram concluídas (o que significa que elas não têm um status [!UICONTROL Concluído] ou equivalente);
+* Que estejam em projetos com status [!UICONTROL Atual] (afinal, você não deseja encontrar tarefas para projetos que ainda não foram iniciados);
 * Que estejam atribuídas a alguém da sua equipe interna, conforme definido nas configurações de equipe do Workfront;
-* E que tenham uma data de conclusão em algum momento desta semana (essa regra usou o filtro de datas pré-criado para definir &quot;esta semana&quot;).
+* E que tenham uma data de conclusão para esta semana (esta regra usou o filtro de data pré-construído para definir “esta semana”).
 
 ![Uma imagem da tela para criar um filtro de tarefa com um curinga baseado no usuário](assets/user-wildcard-exercise-answer.png)
 
