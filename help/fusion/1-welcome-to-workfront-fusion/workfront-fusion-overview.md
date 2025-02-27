@@ -12,9 +12,9 @@ jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Em alguns tutoriais, você criará um novo cenário do zero. Em outros tutoriais
 
 Para concluir os exercícios dos roteiros de aprendizagem do Workfront Fusion, você precisará de uma conta de teste do Workfront. Se já tiver uma, recomendamos criar uma nova para esse treinamento.
 
-Solicite uma unidade de teste preenchendo [este formulário](https://forms.office.com/r/f1J8HRGrNY). Caso não seja possível acessar o formulário, envie seu nome, endereço de email e o nome da empresa para wfttstdr@adobe.com.
+Para solicitar uma conta de teste, preencha [este formulário](https://forms.office.com/r/f1J8HRGrNY). Caso não seja possível acessar o formulário, envie seu nome, endereço de email e o nome da empresa para wfttstdr@adobe.com.
 
 ### Acessar o Workfront Fusion para praticar
 
@@ -44,13 +44,13 @@ O Workfront não oferece contas de teste do Workfront Fusion. Para praticar enqu
 
 ### Instruções passo a passo sobre como concluir os exercícios de apresentação
 
-Há instruções passo a passo sobre como concluir a maioria dos exercícios passo a passo. Você pode encontrá-los na barra de navegação esquerda imediatamente após o tutorial de apresentação.
+Existem instruções passo a passo sobre como concluir a maioria dos exercícios de apresentação. Você pode encontrá-las na barra de navegação esquerda imediatamente após o tutorial de apresentação.
 
 ### Exercícios práticos opcionais
 
-Exercícios práticos e desafios são fornecidos após alguns dos exercícios de explicação.
+Exercícios práticos e desafios são fornecidos após alguns dos exercícios de apresentação.
 
-Há várias maneiras diferentes de resolver os exercícios práticos. A intenção é desafiar você a atingir um objetivo de cenário sem ter passos a seguir ou a “solução”, pois é isso que você precisará fazer ao criar um cenário na sua empresa.
+Existem várias maneiras diferentes de resolvê-los. A intenção é desafiar você a atingir um objetivo de cenário sem ter passos a seguir ou a “solução”, pois é isso que você precisará fazer ao criar um cenário na sua empresa.
 
 O exercício prático está relacionado à atividade de apresentação.
 
@@ -60,6 +60,6 @@ Os desafios são para aqueles que querem tentar algo que envolva outros conceito
 
 As instruções passo a passo são fornecidas para ajudar você a concluir os exercícios de apresentação.
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=br)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=pt-BR)
 
 Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), onde você pode publicar suas perguntas.
