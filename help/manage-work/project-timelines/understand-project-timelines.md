@@ -1,5 +1,5 @@
 ---
-title: Entenda as linhas do tempo do projeto
+title: Entender as linhas de tempo do projeto
 description: Saiba como atribuir tarefas, usar gráficos de Gantt e recursos de Caminho Crítico, monitorar projetos por meio de exibições, agendar tarefas com eficiência e aplicar restrições para um planejamento de projeto ideal.
 activity: use
 feature: Work Management
@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 7%
+source-wordcount: '701'
+ht-degree: 6%
 
 ---
 
 # Entenda as linhas do tempo do projeto
 
-* O vídeo fornece uma visão geral do planejamento e do gerenciamento de projetos usando o Workfront. Ele explica como as tarefas pai agrupam várias subtarefas, que são atribuídas a funções de trabalho e, posteriormente, a usuários com as habilidades necessárias. &#x200B; Predecessoras indicam relações sequenciais entre tarefas, enquanto tarefas sem predecessoras podem ser feitas em paralelo. &#x200B; O Gráfico de Gantt oferece uma linha do tempo visual, e o recurso Caminho Crítico destaca tarefas que poderiam atrasar o projeto se elas deslizassem. &#x200B;
-* O vídeo também discute diferentes visualizações no Workfront, como a visualização padrão para planejamento e a visualização de status para monitorar o progresso, que inclui sinalizadores para o progresso, comentários, documentos, problemas, aprovações, caminho crítico e marcos. As atividades recentes podem ser rastreadas para ver atualizações e notas. &#x200B;
-* O agendamento pode ser feito a partir de uma data de início ou de uma data de conclusão, com o Workfront calculando as datas correspondentes com base na duração da tarefa e nos predecessores. &#x200B; O vídeo aconselha a programação de uma data de início para datas de conclusão críticas para permitir alguma folga. &#x200B; Restrições de tarefa, como &quot;o mais rápido possível&quot; e &quot;o mais tarde possível&quot;, também são abordadas, mostrando como elas afetam o agendamento de tarefas. &#x200B; É possível criar exibições personalizadas para exibir restrições de tarefa. &#x200B;
+O que você aprenderá:
+
+* Obtenha uma visão geral do planejamento e do gerenciamento de projetos usando o Workfront. Saiba como as tarefas pai agrupam várias subtarefas, que são atribuídas a funções de trabalho e, posteriormente, a usuários com as habilidades necessárias. Predecessoras indicam relações sequenciais entre tarefas, enquanto tarefas sem predecessoras podem ser feitas em paralelo. O Gráfico de Gantt oferece uma linha do tempo visual, e o recurso Caminho Crítico destaca tarefas que poderiam atrasar o projeto se elas deslizassem.
+* Diferentes exibições no Workfront, como a exibição padrão para planejamento e a exibição de status para monitoramento do progresso, que inclui sinalizadores para progresso, comentários, documentos, problemas, aprovações, caminho crítico e marcos. As atividades recentes podem ser rastreadas para ver atualizações e notas.
+* O agendamento pode ser feito a partir de uma data de início ou de uma data de conclusão, com o Workfront calculando as datas correspondentes com base na duração da tarefa e nos predecessores. O vídeo aconselha a programação de uma data de início para datas de conclusão críticas para permitir alguma folga. Restrições de tarefa, como &quot;o mais rápido possível&quot; e &quot;o mais tarde possível&quot;, também são abordadas, mostrando como elas afetam o agendamento de tarefas. É possível criar exibições personalizadas para exibir restrições de tarefa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
