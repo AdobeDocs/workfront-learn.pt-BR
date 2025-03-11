@@ -1,6 +1,6 @@
 ---
 title: Noções básicas sobre a criação de projetos
-description: Aprenda as quatro etapas para colocar um projeto em funcionamento, a definição de um projeto e as três formas mais comuns de se criar um projeto.
+description: Saiba como criar, gerenciar e concluir projetos com eficiência, lidar com problemas inesperados e explorar dicas para iniciantes e dominar os recursos essenciais de gerenciamento de projetos. ​
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -13,23 +13,29 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 8%
 
 ---
 
 # Noções básicas sobre a criação de projetos
 
-Neste vídeo, você aprenderá:
-
-* A definição de um projeto no Workfront
-* Etapas básicas para iniciar a execução de um projeto
-* Um pouco sobre tarefas e problemas
-* Prática recomendada para começar a criar projetos
+* Este vídeo explica como criar e gerenciar um projeto do zero. &#x200B; Ele começa criando um novo projeto, renomeando-o e definindo uma meta com uma descrição, uma data de início e uma data de conclusão. Os projetos podem ser divididos em tarefas, que são trabalhos planejados com durações e atribuições estimadas. &#x200B; As tarefas podem ser sequenciadas usando predecessoras e o status do projeto pode ser definido como &quot;Atual&quot; para notificar a equipe e incluí-lo nos relatórios. &#x200B;
+* O vídeo também aborda a manipulação de problemas inesperados, que são trabalho não planejado. &#x200B; Problemas podem ser convertidos em tarefas, movidos para outro projeto ou marcados como &quot;Não resolverão&quot; se não forem solucionados. &#x200B; A conversão de um problema em uma tarefa atualiza seu status automaticamente e a movimentação de um problema transfere a propriedade para outro projeto. Ajustes em linhas do tempo podem ser necessários ao adicionar tarefas, mas tarefas sobrepostas podem ajudar a manter a data de conclusão original. &#x200B;
+* Um projeto é considerado concluído quando todas as tarefas são concluídas e os problemas são resolvidos. &#x200B; Os iniciantes são incentivados a começar com projetos simples, com foco nas configurações básicas, como duração e predecessores, e explorar recursos avançados de gerenciamento de projetos posteriormente. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Criação de um Projeto:** Comece criando um novo projeto, renomeando-o e definindo uma meta, uma descrição, uma data de início e uma data de conclusão.
+* **Analisar Trabalho:** Divida o projeto em tarefas individuais, estime durações, atribua responsabilidades e sequencie tarefas usando predecessores. &#x200B;
+* **Manipulação de problemas:** gerencie problemas inesperados convertendo-os em tarefas, movendo-os para outro projeto ou marcando-os como &quot;Não Será Resolvido&quot;. &#x200B;
+* **Ajustar Linhas de Tempo:** Adicionar tarefas pode afetar a linha de tempo do projeto, mas tarefas sobrepostas podem ajudar a manter a data de conclusão original. &#x200B;
+* **Critério de conclusão:** Um projeto é considerado concluído quando todas as tarefas são concluídas e os problemas são resolvidos. &#x200B; Os iniciantes devem começar com projetos simples e explorar gradualmente recursos avançados. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 
