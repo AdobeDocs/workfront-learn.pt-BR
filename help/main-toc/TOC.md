@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '2415'
+source-wordcount: '2410'
 ht-degree: 98%
 
 ---
@@ -152,7 +152,7 @@ ht-degree: 98%
    + Portfólios {#portfolios}
       + [Entenda os portfólios](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Entenda o [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Usar o [!UICONTROL Otimizador de portfólios] para priorizar e gerenciar trabalhos](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Compreender o [!UICONTROL Portfolio Otimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processos de aprovação e caminhos de marcos {#approval-processes-and-milestone-paths}
       + [Criar um processo de aprovação global e de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
