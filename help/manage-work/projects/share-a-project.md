@@ -1,6 +1,6 @@
 ---
 title: Compartilhar um projeto
-description: Saiba como compartilhar um projeto para que as partes interessadas e outros interessados possam ter visibilidade sobre o trabalho que está sendo realizado usando o [!DNL  Workfront].
+description: Simplifique o compartilhamento de projetos no Workfront com direitos de acesso automáticos, opções flexíveis, gerenciamento baseado em equipe, compartilhamento de modelos e padrões de sistema personalizáveis para colaboração simplificada.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,24 +12,45 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+workflow-type: tm+mt
+source-wordcount: '364'
+ht-degree: 6%
 
 ---
 
 # Compartilhar um projeto
 
-Neste vídeo, você aprenderá:
+O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para garantir que as partes interessadas e os colaboradores tenham a visibilidade e o acesso necessários. &#x200B; O Workfront simplifica o compartilhamento atribuindo automaticamente direitos de acesso apropriados com base em funções:
 
-* Como funciona o compartilhamento automático no Workfront
-* Como compartilhar um projeto com uma pessoa
-* Como compartilhar um projeto com uma equipe
-* Como compartilhar um projeto colocando-o em um portfólio
-* Práticas recomendadas para compartilhar um projeto
+**Compartilhamento Automático:**
+* Os criadores de projetos têm direitos gerenciados para exibir e editar o projeto, as tarefas e os problemas. &#x200B;
+* Os trabalhadores atribuídos a tarefas obtêm direitos de visualização para todo o projeto e direitos de colaborador para suas tarefas. &#x200B;
+* Os patrocinadores do projeto podem visualizar o projeto, enquanto os gerentes de recursos podem gerenciá-lo, mas não podem excluí-lo. &#x200B;
+
+**Compartilhamento Manual:**
+* Os projetos podem ser compartilhados com indivíduos, equipes, funções de trabalho, grupos ou empresas. &#x200B;
+* As práticas recomendadas incluem criar equipes tendo em mente o compartilhamento e usar portfólios ou programas para herdar permissões em vários projetos. &#x200B;
+
+**Compartilhamento de Modelos e em Massa:**
+* A edição em massa permite o compartilhamento de ajustes em vários projetos. &#x200B;
+* As configurações de compartilhamento podem ser pré-definidas em modelos de projeto para economizar tempo. &#x200B;
+
+**Padrões do sistema:**
+* Os administradores de sistema ou de grupo podem modificar as configurações padrão de compartilhamento, como conceder direitos de colaborador a membros da equipe atribuídos a tarefas. &#x200B;
+
+O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilhamento eficiente e destaca o papel dos administradores na personalização das preferências de compartilhamento. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Direitos de Acesso Automático:** o Workfront atribui automaticamente direitos de acesso apropriados com base em funções (por exemplo, criadores de projetos, trabalhadores, patrocinadores e gerentes de recursos) para simplificar o compartilhamento. &#x200B;
+* **Opções de Compartilhamento Flexíveis:** os projetos podem ser compartilhados com indivíduos, equipes, funções de trabalho, grupos ou empresas, e as permissões podem ser herdadas por meio de portfólios ou programas. &#x200B;
+* **Gerenciamento de Equipe Eficiente**: Adicionar ou remover membros de equipes atualiza automaticamente seus direitos de acesso em objetos compartilhados, tornando o compartilhamento baseado em equipe o método mais fácil. &#x200B;
+* **Compartilhamento de modelos:** as configurações de compartilhamento pré-configuradas em modelos de projeto garantem direitos de acesso consistentes para todos os projetos criados usando o modelo, economizando tempo. &#x200B;
+* **Padrões de Sistema Personalizáveis**: os administradores do sistema podem modificar as configurações de compartilhamento padrão, como conceder direitos de colaborador a membros da equipe atribuídos a tarefas, para alinhar-se às preferências organizacionais. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 

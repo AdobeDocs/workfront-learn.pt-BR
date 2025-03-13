@@ -1,6 +1,6 @@
 ---
 title: Introdução ao gerenciamento de um projeto
-description: Saiba como monitorar o progresso do projeto, fazer uma busca detalhada para ver os detalhes da tarefa e como comunicar-se com as partes interessadas.
+description: Acompanhe o progresso do projeto de maneira eficaz com relatórios, gerencie dependências por meio de visualizações de Gantt, monitore tarefas e aprovações, aprimore a comunicação da equipe e garanta fluxos de trabalho tranquilos com atualizações frequentes.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,22 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+workflow-type: tm+mt
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # Introdução ao gerenciamento de um projeto
 
-Neste vídeo, você aprenderá:
-
-* Como monitorar o progresso do projeto
-* Como fazer uma busca detalhada para ver os detalhes da tarefa
-* Como comunicar-se com as partes interessadas
+O vídeo fornece uma visão geral do gerenciamento de um projeto depois que seu status é alterado para &quot;Atual&quot; &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Monitoramento de Progresso:** Projetos com status &quot;Atual&quot; são exibidos em relatórios, permitindo que os gerentes acompanhem o progresso (na programação, atrasado ou em atraso). &#x200B;
+* **Dependências entre Projetos:** as dependências podem ser gerenciadas e visualizadas no modo de exibição de Gantt do Projeto, com opções para detalhar os insights. &#x200B;
+* **Gerenciamento de Tarefas e Aprovações**: use as guias Status e Aprovações para acompanhar a conclusão de tarefas, aprovações pendentes e se comunicar por meio de comentários. &#x200B;
+* **Comunicação da equipe:** Envie facilmente atualizações para todos os membros da equipe usando o recurso &quot;Atualizar tudo&quot; e mantenha um registro das discussões do projeto. &#x200B;
+* **Atualizações frequentes:** os funcionários devem atualizar os status das tarefas diariamente para garantir um gerenciamento de projetos perfeito e um rastreamento preciso. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 
