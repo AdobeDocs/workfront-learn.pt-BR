@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 21%
@@ -28,11 +28,11 @@ Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar 
 
 ## Principais pontos
 
-**Filtros e Opções de Pesquisa:** Use filtros e ferramentas de pesquisa, incluindo Pesquisa Avançada, para localizar rapidamente projetos específicos com base em nomes, descrições ou campos de dados personalizados. &#x200B;
-**Lista de Recentes:** os projetos visualizados recentemente aparecem automaticamente na lista de Recentes, que pode exibir até 20 projetos para acesso rápido. &#x200B;
-**Favoritos:** marque projetos como favoritos clicando no ícone de estrela. &#x200B; Os favoritos permanecem acessíveis até serem removidos manualmente, tornando-os ideais para projetos acessados com frequência. &#x200B;
-**Fixando Projetos:** Fixe projetos para mantê-los facilmente acessíveis. &#x200B; Os projetos fixados permanecem visíveis até que você os desafixe.
-**Relatórios e painéis personalizados:** crie relatórios e painéis personalizados para organizar e acessar todos os projetos relevantes com eficiência. &#x200B;
+* **Filtros e Opções de Pesquisa:** Use filtros e ferramentas de pesquisa, incluindo Pesquisa Avançada, para localizar rapidamente projetos específicos com base em nomes, descrições ou campos de dados personalizados. &#x200B;
+* **Lista de Recentes:** os projetos visualizados recentemente aparecem automaticamente na lista de Recentes, que pode exibir até 20 projetos para acesso rápido. &#x200B;
+* **Favoritos:** marque projetos como favoritos clicando no ícone de estrela. &#x200B; Os favoritos permanecem acessíveis até serem removidos manualmente, tornando-os ideais para projetos acessados com frequência. &#x200B;
+* **Fixando Projetos:** Fixe projetos para mantê-los facilmente acessíveis. &#x200B; Os projetos fixados permanecem visíveis até que você os desafixe.
+* **Relatórios e painéis personalizados:** crie relatórios e painéis personalizados para organizar e acessar todos os projetos relevantes com eficiência. &#x200B;
 
 
 ## Tutoriais recomendados sobre este tópico

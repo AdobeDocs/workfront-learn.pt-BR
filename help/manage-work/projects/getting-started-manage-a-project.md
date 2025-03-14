@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 17%
 
 ---
@@ -28,10 +28,10 @@ O vídeo fornece uma visão geral do gerenciamento de um projeto depois que seu 
 
 ## Principais pontos
 
-* **Monitoramento de Progresso:** Projetos com status &quot;Atual&quot; são exibidos em relatórios, permitindo que os gerentes acompanhem o progresso (na programação, atrasado ou em atraso). &#x200B;
-* **Dependências entre Projetos:** as dependências podem ser gerenciadas e visualizadas no modo de exibição de Gantt do Projeto, com opções para detalhar os insights. &#x200B;
-* **Gerenciamento de Tarefas e Aprovações**: use as guias Status e Aprovações para acompanhar a conclusão de tarefas, aprovações pendentes e se comunicar por meio de comentários. &#x200B;
-* **Comunicação da equipe:** Envie facilmente atualizações para todos os membros da equipe usando o recurso &quot;Atualizar tudo&quot; e mantenha um registro das discussões do projeto. &#x200B;
+* **Monitoramento de Progresso:** Projetos com status &quot;Atual&quot; são exibidos em relatórios, permitindo que os gerentes acompanhem o progresso (na programação, atrasado ou em atraso).
+* **Dependências entre Projetos:** as dependências podem ser gerenciadas e visualizadas no modo de exibição de Gantt do Projeto, com opções para detalhar os insights.
+* **Gerenciamento de Tarefas e Aprovações**: use as guias Status e Aprovações para acompanhar a conclusão de tarefas, aprovações pendentes e se comunicar por meio de comentários.
+* **Comunicação da equipe:** Envie facilmente atualizações para todos os membros da equipe usando o recurso &quot;Atualizar tudo&quot; e mantenha um registro das discussões do projeto.
 * **Atualizações frequentes:** os funcionários devem atualizar os status das tarefas diariamente para garantir um gerenciamento de projetos perfeito e um rastreamento preciso. &#x200B;
 
 
