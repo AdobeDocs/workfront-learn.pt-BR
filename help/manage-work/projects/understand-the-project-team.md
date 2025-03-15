@@ -1,6 +1,6 @@
 ---
 title: Entenda a equipe do projeto
-description: Saiba para que a equipe do projeto pode ser usada e como mantê-la.
+description: Gerencie equipes de projeto no Workfront com eficiência, com preenchimento automático de equipes, atualizações manuais, comunicação centralizada, notificações por email e rastreamento do envolvimento do projeto para colaboração simplificada.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '59'
-ht-degree: 100%
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 20%
 
 ---
 
@@ -27,6 +27,14 @@ Neste vídeo, você aprenderá:
 * Para que a equipe do projeto pode ser usada e como mantê-la
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **População Automática de Equipe:** a equipe do projeto é preenchida automaticamente quando os usuários recebem tarefas ou são designados como proprietários do projeto. &#x200B; No entanto, os usuários não são removidos automaticamente quando suas atribuições são removidas; isso deve ser feito manualmente. &#x200B;
+* **Atualizações Manuais:** Você pode adicionar ou remover pessoas manualmente da equipe do projeto, mesmo que elas não tenham atribuições, garantindo que a lista da equipe permaneça precisa e atualizada. &#x200B;
+* **Comunicação Centralizada:** A guia Pessoas permite enviar atualizações para todos os membros da equipe no nível do projeto, tornando-a uma ferramenta conveniente para a comunicação em toda a equipe. &#x200B;
+* **Notificações por email:** Os administradores do sistema podem ativar notificações por email para a equipe do projeto, como alertas para documentos adicionados, tarefas de marcos concluídas ou problemas, garantindo que os membros da equipe permaneçam informados. &#x200B;
+* **Acompanhamento do Envolvimento do Projeto:** o Workfront usa a equipe do projeto para identificar em quais projetos um usuário está envolvido, habilitando recursos como a filtragem de projetos por envolvimento do usuário para facilitar a navegação. &#x200B;
 
 ## Tutoriais recomendados sobre este tópico
 

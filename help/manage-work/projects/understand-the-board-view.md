@@ -1,6 +1,6 @@
 ---
 title: Entenda a visualização de [!UICONTROL Quadro]
-description: Saiba como usar a visualização de [!UICONTROL Quadro] na página de destino do projeto.
+description: Simplifique o gerenciamento de tarefas no Workfront com a [!UICONTROL interface da exibição do painel] [!DNL Kanban] , oferecendo classificação de tarefas, criação, personalização e integração contínua com a exibição da lista de tarefas para uma organização eficiente do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,22 +12,27 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 10%
 
 ---
 
 # Entenda a visualização de [!UICONTROL Quadro]
 
-Neste vídeo, você aprenderá:
-
-* Onde encontrar a visualização de [!UICONTROL Quadro]
-* Como usar a visualização de [!UICONTROL Quadro]
-
+O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma maneira alternativa de exibir e gerenciar tarefas do projeto. &#x200B; Na exibição Quadro, as tarefas são exibidas como cartões em um quadro estilo Kanban, permitindo que os usuários classifiquem, agrupem e movam tarefas dentro ou entre colunas. &#x200B; Mover uma tarefa atualiza seu status automaticamente, o que é refletido na exibição da lista de tarefas. &#x200B; Os usuários podem criar novos cartões, que geram novas tarefas no projeto e editá-los ou atribuí-los diretamente na exibição Quadro. &#x200B; Colunas e cartões podem ser configurados e tarefas podem ser sequenciadas usando predecessores na exibição de lista de tarefas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+**Visão geral do modo de exibição de Quadro:** o modo de exibição de Quadro no Workfront oferece uma interface em estilo Kanban para exibir e gerenciar tarefas do projeto, fornecendo uma alternativa ao modo de exibição de lista de tarefas tradicional. &#x200B;
+**Gerenciamento de tarefas:** as tarefas podem ser classificadas, agrupadas e movidas dentro ou entre colunas, com atualizações de status aplicadas automaticamente quando as tarefas são movidas. &#x200B;
+**Criação da tarefa:** novos cartões podem ser criados diretamente no modo de exibição de Quadro, o que gera novas tarefas no projeto. &#x200B; Essas tarefas podem ser editadas e atribuídas imediatamente. &#x200B;
+**Personalização:** colunas e cartões no modo de exibição de Quadro podem ser configurados para atender às necessidades do projeto, melhorando a flexibilidade na organização de tarefas. &#x200B;
+**Integração com a Lista de Tarefas:** As alterações feitas no modo de exibição de Quadro, como atualizações de status de tarefa ou criação de nova tarefa, são refletidas no modo de exibição de lista de tarefas, garantindo uma integração perfeita entre os modos de exibição. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 
