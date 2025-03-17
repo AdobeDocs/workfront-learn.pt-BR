@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 10%
@@ -27,11 +27,11 @@ O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma man
 
 ## Principais pontos
 
-**Visão geral do modo de exibição de Quadro:** o modo de exibição de Quadro no Workfront oferece uma interface em estilo Kanban para exibir e gerenciar tarefas do projeto, fornecendo uma alternativa ao modo de exibição de lista de tarefas tradicional. &#x200B;
-**Gerenciamento de tarefas:** as tarefas podem ser classificadas, agrupadas e movidas dentro ou entre colunas, com atualizações de status aplicadas automaticamente quando as tarefas são movidas. &#x200B;
-**Criação da tarefa:** novos cartões podem ser criados diretamente no modo de exibição de Quadro, o que gera novas tarefas no projeto. &#x200B; Essas tarefas podem ser editadas e atribuídas imediatamente. &#x200B;
-**Personalização:** colunas e cartões no modo de exibição de Quadro podem ser configurados para atender às necessidades do projeto, melhorando a flexibilidade na organização de tarefas. &#x200B;
-**Integração com a Lista de Tarefas:** As alterações feitas no modo de exibição de Quadro, como atualizações de status de tarefa ou criação de nova tarefa, são refletidas no modo de exibição de lista de tarefas, garantindo uma integração perfeita entre os modos de exibição. &#x200B;
+* **Visão geral do modo de exibição de Quadro:** o modo de exibição de Quadro no Workfront oferece uma interface em estilo Kanban para exibir e gerenciar tarefas do projeto, fornecendo uma alternativa ao modo de exibição de lista de tarefas tradicional. &#x200B;
+* **Gerenciamento de tarefas:** as tarefas podem ser classificadas, agrupadas e movidas dentro ou entre colunas, com atualizações de status aplicadas automaticamente quando as tarefas são movidas. &#x200B;
+* **Criação da tarefa:** novos cartões podem ser criados diretamente no modo de exibição de Quadro, o que gera novas tarefas no projeto. &#x200B; Essas tarefas podem ser editadas e atribuídas imediatamente. &#x200B;
+* **Personalização:** colunas e cartões no modo de exibição de Quadro podem ser configurados para atender às necessidades do projeto, melhorando a flexibilidade na organização de tarefas. &#x200B;
+* **Integração com a Lista de Tarefas:** As alterações feitas no modo de exibição de Quadro, como atualizações de status de tarefa ou criação de nova tarefa, são refletidas no modo de exibição de lista de tarefas, garantindo uma integração perfeita entre os modos de exibição. &#x200B;
 
 
 ## Tutoriais recomendados sobre este tópico

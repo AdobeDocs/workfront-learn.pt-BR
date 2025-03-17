@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 12%
+source-wordcount: '273'
+ht-degree: 14%
 
 ---
 
 # Introdução ao planejamento de um projeto
 
-* O vídeo fornece orientação sobre como planejar com eficiência um projeto no Workfront. &#x200B; Ressalta a importância de estabelecer uma base sólida para garantir que o projeto seja concluído no prazo e bem-sucedido. &#x200B; As principais etapas incluem compreender cinco campos críticos: Tarefas, Atribuições, Durações, Horas planejadas e Predecessores. &#x200B; Esses campos permitem ajustes rápidos e precisos no plano do projeto. &#x200B;
-* Antes de fazer alterações, verifique se o status do projeto está definido como &quot;Planejamento&quot; para evitar notificações desnecessárias para a equipe. &#x200B; Use a exibição padrão ou as exibições personalizadas para se concentrar em informações essenciais. &#x200B; Definir com precisão a data de início do projeto, garantindo que seja realista e se alinhe à disponibilidade da equipe.
-* O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
+O vídeo fornece orientação sobre como planejar com eficiência um projeto no Workfront. &#x200B; Ressalta a importância de estabelecer uma base sólida para garantir que o projeto seja concluído no prazo e bem-sucedido. &#x200B; As principais etapas incluem compreender cinco campos críticos: Tarefas, Atribuições, Durações, Horas planejadas e Predecessores. &#x200B; Esses campos permitem ajustes rápidos e precisos no plano do projeto. &#x200B;
+
+O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 

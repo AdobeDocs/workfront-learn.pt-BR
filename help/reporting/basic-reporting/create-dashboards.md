@@ -1,6 +1,6 @@
 ---
 title: Criar painéis
-description: O vídeo tem como objetivo ajudar os usuários a criar, personalizar e gerenciar painéis no Workfront com eficiência para monitorar e compartilhar dados relacionados ao projeto.
+description: Organize e exiba dados de projeto com painéis do Workfront, que podem ser personalizados, acessados facilmente, compartilhados e impressos para obter colaboração e gerenciamento de projetos perfeitos.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,29 +11,27 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 61%
+source-wordcount: '635'
+ht-degree: 62%
 
 ---
 
 # Criar painéis
 
-O vídeo aborda os seguintes pontos principais:
-
-* **Introdução aos Painéis:** explica o que é um painel no Workfront e sua finalidade como uma coleção de relatórios relacionados. &#x200B;
-* **Criando um Painel:** mostra como criar um novo painel navegando até a área Painéis, selecionando &quot;Novo Painel&quot;, nomeando-o e escolhendo um layout. &#x200B;
-* **Adicionando relatórios:** demonstra como adicionar vários relatórios ao painel, como relatórios de projeto, relatórios de tarefa e relatórios de problemas, e organizá-los no layout escolhido. &#x200B;
-* **Personalizando Exibições:** Mostra como personalizar quais colunas serão exibidas no modo de exibição de painel, editando o relatório e selecionando colunas específicas para exibição. &#x200B;
-* **Adicionando elementos adicionais:** explica como adicionar um calendário personalizado e uma página externa (por exemplo, um documento online) ao painel. &#x200B;
-* **Salvando e fixando:** Instrui sobre como salvar o painel e fixá-lo para facilitar o acesso. &#x200B;
-* **Exibir e Editar:** fornece dicas sobre como visualizar e editar o painel, incluindo o ajuste da visibilidade da coluna para melhor exibição. &#x200B;
-* **Painéis de Compartilhamento e Localização:** descreve como localizar painéis por meio do menu principal, adicioná-los a favoritos e compartilhá-los com outros usuários. &#x200B;
-* **Imprimindo Painéis:** explica o processo de impressão de um painel. &#x200B;
-
+O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
+&#x200B;Ele explica que um painel é uma coleção de relatórios que permite aos usuários organizar e exibir dados relacionados em um local.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Principais pontos
+
+**Painéis no Workfront:** um painel é uma coleção de relatórios que permite que os usuários organizem e exibam dados relacionados, como projetos, tarefas e problemas, em um modo de exibição centralizado. &#x200B;
+**Criação de Painéis:** os Painéis podem ser personalizados selecionando um layout, adicionando relatórios, calendários personalizados ou páginas externas e organizando-os para exibição ideal. &#x200B; Os usuários também podem personalizar quais colunas aparecem em relatórios lado a lado no painel. &#x200B;
+**Acessando Painéis:** Painéis podem ser encontrados em &quot;Meus Painéis&quot;, &quot;Painéis Compartilhados&quot; ou &quot;Todos os Painéis&quot; na área Painéis. &#x200B; Painéis usados com frequência podem ser fixados ou adicionados aos favoritos para acesso rápido. &#x200B;
+**Painéis de Compartilhamento:** os painéis podem ser compartilhados com outros usuários do Workfront, incluindo todos os relatórios do painel, por meio do menu &quot;Ações do Painel&quot;. &#x200B;
+**Imprimindo Painéis:** Painéis podem ser impressos diretamente do menu &quot;Ações do Painel&quot;, facilitando o compartilhamento de cópias físicas dos dados. &#x200B;
 
 
 ## Atividades &quot;Create dashboard&quot;

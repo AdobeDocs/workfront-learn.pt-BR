@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 12%
@@ -46,11 +46,11 @@ Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](ht
 
 ## Principais pontos
 
-**Visão geral:** os gráficos de Gantt fornecem uma visão geral abrangente de tarefas, projetos e portfólios, facilitando a compreensão de relacionamentos e o compartilhamento de recursos entre projetos. &#x200B;
-**Rastreamento de Progresso:** Os indicadores de status de progresso (verde, amarelo, vermelho e azul claro) ajudam a monitorar as linhas do tempo do projeto e da tarefa, destacando os status no prazo, em risco, atrasado ou atrasado. &#x200B;
-**Gerenciamento de etapas:** os losangos e as linhas das etapas marcam visualmente as principais datas de conclusão, ajudando a rastrear o progresso das etapas dentro dos projetos. &#x200B;
-**Insights do predecessor:** predecessores específicos de tarefas e projetos cruzados podem ser facilmente verificados, garantindo que as dependências sejam claras e gerenciáveis. &#x200B;
-**Opções de Personalização:** os usuários podem exibir datas reais, datas projetadas, linhas de base, atribuições e muito mais, adaptando a exibição do gráfico de Gantt às suas necessidades específicas.
+* **Visão geral:** os gráficos de Gantt fornecem uma visão geral abrangente de tarefas, projetos e portfólios, facilitando a compreensão de relacionamentos e o compartilhamento de recursos entre projetos. &#x200B;
+* **Rastreamento de Progresso:** Os indicadores de status de progresso (verde, amarelo, vermelho e azul claro) ajudam a monitorar as linhas do tempo do projeto e da tarefa, destacando os status no prazo, em risco, atrasado ou atrasado. &#x200B;
+* **Gerenciamento de etapas:** os losangos e as linhas das etapas marcam visualmente as principais datas de conclusão, ajudando a rastrear o progresso das etapas dentro dos projetos. &#x200B;
+* **Insights do predecessor:** predecessores específicos de tarefas e projetos cruzados podem ser facilmente verificados, garantindo que as dependências sejam claras e gerenciáveis. &#x200B;
+* **Opções de Personalização:** os usuários podem exibir datas reais, datas projetadas, linhas de base, atribuições e muito mais, adaptando a exibição do gráfico de Gantt às suas necessidades específicas.
 
 
 ## Tutoriais recomendados sobre este tópico
