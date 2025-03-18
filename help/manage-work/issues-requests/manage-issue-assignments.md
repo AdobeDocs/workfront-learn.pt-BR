@@ -1,6 +1,6 @@
 ---
 title: Gerenciar atribuições de problemas
-description: Saiba como atribuir um problema a um usuário individual, a vários usuários ou a uma equipe, para que o problema seja resolvido.
+description: Gerencie problemas efetivamente no Workfront usando a edição em linha e o balanceador de carga de trabalho para atribuições, rastreando e atualizando o progresso, alterando os status dos problemas e seguindo fluxos de trabalho específicos da equipe para uma execução perfeita do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,10 +12,10 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 25%
 
 ---
 
@@ -31,6 +31,15 @@ Neste vídeo, você aprenderá a:
 * Atualizar o status do problema
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Atribuição de problemas:** use a edição em linha no campo de atribuições para atribuir problemas a usuários ou equipes, e certifique-se de clicar em &quot;salvar&quot; depois de fazer atribuições. &#x200B; Os líderes de equipe podem usar o balanceador de carga de trabalho para atribuir tarefas arrastando-as e soltando-as nos calendários dos membros da equipe. &#x200B;
+* **Localizando Problemas Atribuídos:** Os problemas atribuídos a você aparecem na lista de trabalho da Página Inicial, que pode ser filtrada. &#x200B; Problemas atribuídas pela equipe ficam visíveis na seção de solicitação da equipe, onde os membros da equipe podem aceitar ou reatribuir tarefas. &#x200B; Esses problemas também aparecem no balanceador de carga de trabalho para melhorar a visibilidade. &#x200B;
+* **Progresso da Atualização:** Poste atualizações e registre horas em problemas para dar visibilidade sobre o progresso do trabalho. &#x200B; Use o recurso &quot;No nome&quot; para direcionar comentários para usuários ou equipes específicos. &#x200B; As notificações são enviadas para comentários, mas não para horas reportadas ou alterações de status. &#x200B;
+* **Alterando o Status do Problema:** Atualize o status do problema para refletir o progresso, como &quot;trabalhando nele&quot; ou &quot;concluído&quot;. &#x200B; Problemas não resolvidos impedem que tarefas e projetos associados sejam marcados como concluídos. &#x200B;
+* **Fluxos de Trabalho Específicos da Equipe:** Siga os fluxos de trabalho e configurações do sistema específicos da sua organização para gerenciar problemas com eficiência. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 

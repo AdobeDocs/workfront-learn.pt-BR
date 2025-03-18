@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 14%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 9%
 
 Este vídeo explica como localizar e gerenciar solicitações no Workfront. &#x200B; Abrange quatro domínios principais:
 
-* **Página inicial do Workfront:** usuários como Mary Smith, uma artista de produção, podem ver as solicitações atribuídas a eles. &#x200B; Joan Harris, que muitas vezes faz solicitações, pode encontrar solicitações concluídas aguardando sua aprovação. &#x200B;
-* **Área de Solicitação:** Os usuários podem filtrar solicitações para ver aquelas que criaram.&#x200B; O termo &quot;meu&quot; na área de solicitação se refere aos problemas criados por mim, o usuário conectado. &#x200B;
-* **Página Equipes:** Os usuários podem exibir solicitações de equipe não atribuídas e atribuir a si mesmos ou a outras pessoas. &#x200B; Eles também podem usar o balanceador de carga de trabalho para gerenciar atribuições de equipe com base em cargas de trabalho atuais. &#x200B;
-* **Relatórios e Painéis Personalizados**: os usuários podem criar relatórios personalizados para rastrear solicitações, com controle sobre nomes, filtros, visualizações e agrupamentos. &#x200B; Isso permite um rastreamento claro de solicitações por prioridade, criador, contato principal, destinatário e status. &#x200B;
+* Início: Workfront
+* Área de solicitação
+* Página de equipes&#x200B;
+* Relatórios e painéis personalizados
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
