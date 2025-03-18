@@ -1,6 +1,6 @@
 ---
 title: Aprenda a sequenciar tarefas
-description: Aprenda o que é um predecessor e como eles sequenciam as tarefas em um projeto. Em seguida, aprenda a usar durações e predecessores para criar uma linha do tempo.
+description: Simplifique o gerenciamento de projetos definindo a ordem das tarefas com predecessores, definindo linhas do tempo por meio de durações, simplificando sequências com o uso de modelos, evitando restrições manuais e refinando habilidades com a prática.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 10%
 
 ---
 
 # Aprenda a sequenciar tarefas
 
-Neste vídeo, você aprenderá:
+O vídeo explica como sequenciar tarefas no Workfront usando predecessores e durações para gerenciar linhas do tempo do projeto de maneira eficaz.
+O vídeo mostra como definir predecessores para novas tarefas, garantindo a ordem sequencial e datas de início precisas.
+&#x200B;Ela enfatiza a importância de praticar com predecessores para entender seu impacto nas linhas do tempo do projeto e recomenda usar durações e predecessores para um planejamento de projeto eficiente.
 
-* O que é um predecessor no Workfront
-* Como usar durações e predecessores para criar uma linha de tempo
-* Como os predecessores sequenciam tarefas em um projeto
-* Como a definição de uma data de início da tarefa afetará a restrição da tarefa
-* Como inserir predecessores
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## Principais pontos
+
+* **Predecessoras Definem a Ordem de Tarefas:** Predecessoras estabelecem a sequência de tarefas, garantindo que determinadas tarefas sejam concluídas antes que outras possam começar, o que é crucial para o sucesso do projeto. &#x200B;
+* **Linhas do Tempo de Impacto da Duração:** As durações de tarefas definem o período do trabalho e ajustam as datas de início e de conclusão, criando um efeito em cascata nas tarefas dependentes. &#x200B;
+* **Modelos Simplificam a Instalação:** Predecessores e restrições podem ser predefinidos em modelos de projeto, simplificando o processo de gerenciamento de sequências de tarefas. &#x200B;
+* **Os Ajustes Manuais Afetam as Restrições:** A configuração manual de datas específicas substitui as atualizações em cascata causadas por alterações nas durações ou predecessores. &#x200B;
+* **A prática melhora as habilidades:** praticar com predecessores e durações ajuda a refinar as habilidades de gerenciamento do projeto e garante melhor controle sobre as linhas do tempo.
 
 ## Tutoriais recomendados sobre este tópico
 

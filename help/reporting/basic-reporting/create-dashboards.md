@@ -11,7 +11,7 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 62%
@@ -27,11 +27,11 @@ O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 
 ## Principais pontos
 
-**Painéis no Workfront:** um painel é uma coleção de relatórios que permite que os usuários organizem e exibam dados relacionados, como projetos, tarefas e problemas, em um modo de exibição centralizado. &#x200B;
-**Criação de Painéis:** os Painéis podem ser personalizados selecionando um layout, adicionando relatórios, calendários personalizados ou páginas externas e organizando-os para exibição ideal. &#x200B; Os usuários também podem personalizar quais colunas aparecem em relatórios lado a lado no painel. &#x200B;
-**Acessando Painéis:** Painéis podem ser encontrados em &quot;Meus Painéis&quot;, &quot;Painéis Compartilhados&quot; ou &quot;Todos os Painéis&quot; na área Painéis. &#x200B; Painéis usados com frequência podem ser fixados ou adicionados aos favoritos para acesso rápido. &#x200B;
-**Painéis de Compartilhamento:** os painéis podem ser compartilhados com outros usuários do Workfront, incluindo todos os relatórios do painel, por meio do menu &quot;Ações do Painel&quot;. &#x200B;
-**Imprimindo Painéis:** Painéis podem ser impressos diretamente do menu &quot;Ações do Painel&quot;, facilitando o compartilhamento de cópias físicas dos dados. &#x200B;
+* **Painéis no Workfront:** um painel é uma coleção de relatórios que permite que os usuários organizem e exibam dados relacionados, como projetos, tarefas e problemas, em um modo de exibição centralizado. &#x200B;
+* **Criação de Painéis:** os Painéis podem ser personalizados selecionando um layout, adicionando relatórios, calendários personalizados ou páginas externas e organizando-os para exibição ideal. &#x200B; Os usuários também podem personalizar quais colunas aparecem em relatórios lado a lado no painel. &#x200B;
+* **Acessando Painéis:** Painéis podem ser encontrados em &quot;Meus Painéis&quot;, &quot;Painéis Compartilhados&quot; ou &quot;Todos os Painéis&quot; na área Painéis. &#x200B; Painéis usados com frequência podem ser fixados ou adicionados aos favoritos para acesso rápido. &#x200B;
+* **Painéis de Compartilhamento:** os painéis podem ser compartilhados com outros usuários do Workfront, incluindo todos os relatórios do painel, por meio do menu &quot;Ações do Painel&quot;. &#x200B;
+* **Imprimindo Painéis:** Painéis podem ser impressos diretamente do menu &quot;Ações do Painel&quot;, facilitando o compartilhamento de cópias físicas dos dados. &#x200B;
 
 
 ## Atividades &quot;Create dashboard&quot;

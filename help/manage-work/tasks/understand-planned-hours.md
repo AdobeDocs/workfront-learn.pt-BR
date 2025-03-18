@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre as horas planejadas
-description: Saiba o que são horas planejadas, por que elas são importantes para o projeto e aprenda como adicioná-las às tarefas.
+description: Otimize o planejamento de projetos no Workfront aproveitando as horas planejadas para estimar durações, gerenciar recursos, rastrear tempo, utilizar referências históricas e simplificar atribuições.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -13,23 +13,30 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '219'
+ht-degree: 13%
 
 ---
 
 # Entenda sobre as horas planejadas
 
-Neste vídeo, você aprenderá:
+O vídeo explica o conceito de horas planejadas, que são estimativas do tempo necessário para concluir tarefas.
+As horas planejadas são cruciais para o gerenciamento de recursos no Workfront, ajudando a identificar a superalocação ou a subalocação de recursos.
+Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas futuras e esclarecer expectativas com os trabalhadores.
 
-* O que são horas planejadas no Workfront
-* Por que as horas planejadas são importantes para o seu projeto
-* Como estimar as horas planejadas
-* Como adicionar horas planejadas a tarefas
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+
+
+## Principais pontos
+
+* **Importância das horas planejadas:** as horas planejadas ajudam a estimar a duração das tarefas, gerenciar a alocação de recursos e controlar o tempo gasto, melhorando o planejamento de projetos futuros. &#x200B;
+* **Dicas de Estimativa Precisas:** Divida tarefas longas em subtarefas menores, controle o tempo efetivamente e documente alterações ou problemas para refinar estimativas de horas planejadas. &#x200B;
+* **Gerenciamento de Recursos:** o Workfront usa horas planejadas para identificar a superalocação ou subalocação de recursos, garantindo atribuições eficientes de tarefas. &#x200B;
+* **Referência histórica:** projetos concluídos devem ser retidos como referências para planejamento futuro, especialmente para tarefas atribuídas a novos trabalhadores. &#x200B;
+* **Facilidade de Uso:** as horas planejadas podem ser adicionadas ou editadas usando a Edição Embutida, e as horas de tarefas pai são calculadas automaticamente somando-se subtarefas. &#x200B; Recomenda-se a inclusão de horas planejadas em modelos de projeto. &#x200B;
 
 
 ## Tutoriais e artigos recomendados sobre este tópico

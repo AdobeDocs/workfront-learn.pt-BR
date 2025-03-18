@@ -1,6 +1,6 @@
 ---
 title: Entenda as tarefas principais-secundárias
-description: Saiba como as tarefas são estruturadas usando uma relação principal-secundária em um projeto do Workfront.
+description: Otimize o gerenciamento de projetos com tarefas como base, usando estruturas pai-filho, conclusão automática de tarefas pai, ferramentas flexíveis de organização e estruturação de tarefas personalizadas para obter eficiência.
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -12,20 +12,28 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '48'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '253'
+ht-degree: 8%
 
 ---
 
 # Entenda as tarefas principais-secundárias
 
-Neste vídeo, você aprenderá:
-
-* Como as tarefas são estruturadas num projeto [!DNL Workfront]
+Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são componentes essenciais de um projeto, representando os itens de trabalho necessários para a conclusão.&#x200B; O vídeo enfatiza a importância de organizar as tarefas com precisão como uma etapa essencial no planejamento e no gerenciamento do projeto. Ele demonstra como começar a trabalhar com tarefas e explica as relações entre tarefas pai e filho.
+&#x200B;As tarefas pai atuam como organizadores, agrupando o projeto em fases, estágios ou marcos, e não são atribuídas a indivíduos. Tarefas secundárias, ou subtarefas, representam trabalho acionável atribuído aos membros da equipe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Tarefas como Backbone de Projeto:** as tarefas representam os itens de trabalho necessários para concluir um projeto e são cruciais para o planejamento e o gerenciamento eficaz do projeto. &#x200B;
+* **Estrutura de Tarefas Pai/Filho:** as tarefas pai agrupam o projeto em fases, estágios ou marcos, enquanto as tarefas filho (subtarefas) representam trabalho acionável atribuído aos membros da equipe. &#x200B;
+* **Conclusão Automática de Tarefas Pai:** as tarefas pai são marcadas automaticamente como concluídas quando todas as tarefas filho associadas são concluídas. &#x200B;
+* **Ferramentas de Organização de Tarefas:** as tarefas podem ser organizadas usando os botões recuar e recuar para a esquerda para criar estruturas hierárquicas, com até sete níveis de relações pai-filho com suporte.
+* **Estrutura flexível de tarefas:** os projetos podem usar uma estrutura pai-filho ou manter todas as tarefas no mesmo nível, dependendo das necessidades específicas do projeto. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 

@@ -1,6 +1,6 @@
 ---
 title: Atribua tarefas do plano do projeto
-description: Saiba como atribuir tarefas em um projeto do Adobe Workfront usando edição em linha, edição em lote, funções de trabalho e equipes.
+description: Simplifique as atribuições de tarefas no Workfront com edição em linha, edição em massa, funções de trabalho para gerenciamento de recursos, atribuições de equipe para colaboração e cálculos de capacidade de recursos para um planejamento de projeto eficiente.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -13,33 +13,28 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '226'
+ht-degree: 13%
 
 ---
 
 # Atribua tarefas do plano do projeto
 
-Neste vídeo, você:
+O vídeo explica vários métodos para atribuir tarefas em um plano de projeto. Ele enfatiza o uso de ferramentas como filtros, modelos e recursos de gerenciamento para simplificar as atribuições de tarefas e otimizar os fluxos de trabalho do projeto.
 
-* Saberá como atribuir uma tarefa usando edição em linha
-* Saberá como atribuir várias tarefas à mesma pessoa
-* Entenderá o valor das funções de trabalho ao atribuir tarefas
-* Entenderá o valor dos modelos de projeto ao atribuir tarefas
-* Entenderá o valor de atribuir tarefas às equipes
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
-<!---
-learn more urls:
-Notifications: Information about work assigned to me
-Assign tasks
-Personal time overview
-Make smart assignments
-Modify multiple user assignments in a task list
---->
+## Principais pontos
+
+* **Edição em linha para Atribuições rápidas:** atribua tarefas facilmente digitando um nome e selecionando em uma lista, com a funcionalidade de digitação antecipada para uma seleção mais rápida. &#x200B;
+* **Edição em Massa para Eficiência:** atribua várias tarefas à mesma pessoa selecionando tarefas, usando a edição em massa e escolhendo o nome na lista. &#x200B;
+* **Funções de Trabalho para Atribuições Simplificadas:** Use funções de trabalho para facilitar atribuições de tarefas, especialmente com modelos de projeto. &#x200B; As funções de trabalho são registradas separadamente para gerenciamento de recursos e planejamento de capacidade. &#x200B;
+* **Atribuições de equipe para o Collaboration:** atribua tarefas a equipes selecionando o nome da equipe, visível com um ícone de equipe. &#x200B; Os membros da equipe podem autoatribuir tarefas ou os líderes da equipe podem reatribuí-las, mantendo o nome da equipe para os relatórios. &#x200B;
+* **Integração do Gerenciamento de Recursos:** as funções de trabalho e atribuições de equipe oferecem suporte aos cálculos de capacidade e disponibilidade de recursos, aprimorando o planejamento e a execução do projeto. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 
