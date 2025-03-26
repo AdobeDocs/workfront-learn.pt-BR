@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ Neste vídeo, você aprenderá:
 * Como criar uma fila de solicitações de feedback para admins de sistema
 * Como um relatório de feedback da equipe administrativa pode ajudar você a melhorar seus processos
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 Para saber como criar o **relatório de feedback da equipe administrativa** usado no vídeo, consulte o tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=br) e procure a atividade **Criar um relatório de feedback da equipe administrativa** que acompanha o vídeo.
 

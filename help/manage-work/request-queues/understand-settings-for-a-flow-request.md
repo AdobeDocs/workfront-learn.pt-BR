@@ -1,6 +1,6 @@
 ---
 title: Noções básicas das configurações de um fluxo de solicitação
-description: Saiba mais sobre fluxos de solicitação e como criá-los com regras de roteamento, grupos de tópicos e tópicos da fila.
+description: Otimize o gerenciamento de solicitações do Workfront definindo tópicos da fila, usando grupos de tópicos, definindo regras de roteamento, planejando com antecedência e garantindo que os envios não sejam ignorados para aumentar a eficiência.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -13,21 +13,32 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '287'
+ht-degree: 11%
 
 ---
 
 # Noções básicas das configurações de um fluxo de solicitação
 
-Neste vídeo, você aprenderá:
+O vídeo explica o processo de fluxo de solicitações no Workfront, com foco no gerenciamento de filas, regras de roteamento, grupos de tópicos e tópicos da fila. &#x200B; Ele enfatiza a importância de organizar a fila de solicitações respondendo três perguntas principais:
 
-* O processo do fluxo de solicitações específico para o gerenciamento de filas
-* Como criar e usar regras de roteamento, grupos de tópicos e tópicos de fila
+1. **Quais tópicos serão necessários?** &#x200B; - São tópicos de fila que categorizam solicitações enviadas, facilitando seu gerenciamento e personalização. &#x200B;
+1. **É possível organizar meus tópicos mais detalhadamente?** &#x200B; - Grupos de tópicos ajudam a agrupar tópicos relacionados da fila para uma melhor organização (por exemplo, folhetos, cartões de visita e outdoors em &quot;Imprimir&quot;). &#x200B;
+1. **A quem a solicitação deve ser atribuída?** &#x200B; - As regras de roteamento direcionam automaticamente os envios para equipes, funções ou usuários específicos, garantindo que as solicitações não passem despercebidas. &#x200B;
+
+Ao abordar essas perguntas, os usuários podem planejar e configurar efetivamente sua fila de solicitações no Workfront. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Tópicos da Fila:** Defina e organize diferentes tipos de solicitações em tópicos da fila para simplificar a categorização e a personalização. &#x200B;
+* **Grupos de Tópicos:** use grupos de tópicos para organizar ainda mais os tópicos da fila, facilitando a localização de solicitações relacionadas (por exemplo, agrupando categorias &quot;Imprimir&quot; e &quot;Digital&quot;). &#x200B;
+* **Regras de Roteamento:** configure regras de roteamento para atribuir automaticamente solicitações a equipes, funções ou usuários específicos, evitando que os envios sejam ignorados. &#x200B;
+* **O Planning é Essencial:** organize as necessidades da sua fila de solicitações antes de criá-la para garantir um gerenciamento eficiente. &#x200B;
+* **Evitar Solicitações Despercebidas:** Sem regras de roteamento, os envios podem permanecer na guia Problemas e passar despercebidos, a menos que sejam verificados manualmente regularmente. &#x200B;
 
 ## Tutoriais recomendados sobre este tópico
 

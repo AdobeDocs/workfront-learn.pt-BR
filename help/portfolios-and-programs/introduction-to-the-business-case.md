@@ -1,6 +1,6 @@
 ---
 title: Entenda o [!UICONTROL Business Case]
-description: Saiba como usar o [!UICONTROL Business Case] no Workfront para avaliar projetos solicitados e compará-los com outros projetos em seu portfólio.
+description: Crie casos de negócios abrangentes no Workfront para priorizar projetos, incluindo informações detalhadas do projeto, despesas, análise de mão de obra e riscos, cartões de pontuação e formulários personalizados para gerenciamento informado de portfólio.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,21 +12,30 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 9%
 
 ---
 
 # Entenda o [!UICONTROL Business Case]
 
-Neste vídeo, você aprenderá:
-
-* Por que preencher um Business Case
-* Como preencher um Business Case
+O vídeo explica a importância de um business case no gerenciamento de projetos. Ela enfatiza que o preenchimento do business case ajuda os gerentes a analisar e priorizar projetos que competem pelos mesmos recursos. &#x200B; Depois de concluído, o envio do business case altera o status do projeto para &quot;Solicitado&quot; e calcula a pontuação geral para comparação na Ferramenta de otimização da Portfolio. &#x200B; Embora nenhum dos campos seja obrigatório, informações mais detalhadas melhoram a tomada de decisões. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+O vídeo descreve as principais seções do business case, incluindo:
+
+* **Informações do Projeto:** Detalhes gerais como o patrocinador do projeto e o Benefício Planejado, que estima o ganho financeiro potencial da conclusão do projeto. &#x200B;
+* **Despesas:** custos não relacionados ao trabalho, como aluguel de viagens ou de ambas, que afetam o custo orçado e o valor líquido. &#x200B;
+* **Estimativa de recursos:** estimativas de mão de obra extraídas do Planejador de recursos, exigindo que os Conjuntos de Recursos sejam configurados no Workfront. &#x200B;
+* **Riscos:** identificar riscos, estimar seu custo e probabilidade e calcular seu impacto no valor líquido. &#x200B;
+* **Scorecards:** Ferramentas para avaliar o alinhamento de um projeto com as metas do portfólio, usando perguntas e valores predefinidos pelos Administradores do Sistema. &#x200B;
+* **Forms Personalizado**: formulários opcionais adaptados ao business case. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 

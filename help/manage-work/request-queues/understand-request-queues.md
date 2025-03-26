@@ -1,6 +1,6 @@
 ---
 title: Entenda as filas de solicitações
-description: Saiba o que são filas de solicitações, como elas são estruturadas e como enviar uma solicitação por meio delas.
+description: Simplifique as operações no Workfront com filas de solicitações centralizadas para envios, gerenciamento eficiente de filas e acesso fácil a solicitações enviadas para melhorar os fluxos de trabalho do projeto.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -13,23 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '71'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '221'
+ht-degree: 11%
 
 ---
 
 # Entenda as filas de solicitações
 
-Neste vídeo, você aprenderá:
-
-* O que é uma fila de solicitações
-* Como enviar uma solicitação por meio de uma fila de solicitações
-* Como as filas de solicitações são estruturadas
-
+Este vídeo explica o conceito de Filas de solicitações no Workfront, a finalidade delas e como enviar e gerenciar solicitações. &#x200B; As Filas de solicitações servem como um local centralizado para enviar vários tipos de solicitações. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Finalidade das Filas de Solicitações:** as Filas de Solicitações na Workfront fornecem um local centralizado para o envio de vários tipos de solicitações, como PTO, atualizações de software, sugestões de clientes e necessidades de treinamento.
+* **Enviando uma solicitação**: os usuários podem enviar solicitações navegando até a área Solicitação, selecionando o tipo de solicitação, preenchendo campos como Assunto, Descrição, campos opcionais (por exemplo, Documento) e preenchendo um formulário personalizado. &#x200B;
+* **Solicitações como problemas:** no Workfront, cada solicitação é tratada como um problema e deve ser associada a um projeto. &#x200B; Os projetos dedicados exclusivamente a solicitações são chamados de filas de solicitações. &#x200B;
+* **Gerenciamento de Filas:** O gerenciamento eficiente de filas envolve a organização de solicitações por tipo, o que personaliza as informações e atribuições necessárias, melhorando a eficiência. &#x200B;
+* **Localizando Solicitações Enviadas:** As solicitações enviadas podem ser encontradas na guia Problema da fila de solicitações associada navegando até a área Projetos e selecionando o projeto relevante. &#x200B;
+
 
 ## Tutoriais recomendados sobre este tópico
 

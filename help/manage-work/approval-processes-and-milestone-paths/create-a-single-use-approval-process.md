@@ -1,6 +1,6 @@
 ---
 title: Criar um processo de aprovação global e de uso único
-description: Saiba como criar um processo de aprovação global e de uso único em um projeto, tarefa ou problema.
+description: Melhore os fluxos de trabalho de aprovação aproveitando os processos de aprovação global e de uso único para tarefas, projetos ou problemas, implementando aprovações em estágios de vários níveis e promovendo a eficiência por meio da reutilização em modelos de projeto.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 25%
 
 ---
 
 # Criar um processo de aprovação global e de uso único
 
-Os processos de aprovação em projetos, tarefas e problemas permitem que um gerente de projeto obtenha a confirmação de um especialista de que o trabalho foi realizado corretamente antes de prosseguir. O gerente de projeto pode criar um processo de aprovação para cada situação (conhecido como processo de aprovação de uso único) ou escolher em uma lista de possivelmente muitos processos de aprovação que foram criados anteriormente para atender a necessidades comuns (conhecidos como processos de aprovação globais ou existentes).
-
-Em ambos os casos, quando o status do objeto muda para um especificado no processo de aprovação, o aprovador é notificado de diversas maneiras para revisar o trabalho e aprová-lo ou rejeitá-lo. Considerando que todo o projeto pode ser pausado aguardando uma aprovação, os aprovadores devem estar cientes antecipadamente de que poderão ser chamados para uma aprovação. Se um aprovador estiver ausente por qualquer motivo, ele poderá delegar suas aprovações a um substituto qualificado. Consulte [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) para obter detalhes.
-
-Neste vídeo, você aprenderá a criar um processo de aprovação global e um processo de aprovação de uso único em um projeto, tarefa ou problema.
+O vídeo explica como criar e gerenciar processos de aprovação para projetos, tarefas ou problemas, fazendo a distinção entre processos de aprovação globais e de uso único.
+O vídeo demonstra a criação de processos de aprovação, configuração de aprovadores, configuração de status e uso de estágios para aprovações de vários níveis.
+&#x200B;Ela destaca a flexibilidade de processos globais e de uso único para gerenciar aprovações de tarefas de maneira eficaz.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## Principais pontos
+
+* **Tipos de Processos de Aprovação:** há dois tipos: processos de aprovação globais (compartilhados entre tarefas, projetos ou problemas) e processos de aprovação de uso único (específicos para uma única tarefa, projeto ou problema).
+* **Processos de Aprovação Global:** eles são criados na seção Configuração > Processos > Aprovações e podem ser acionados por status específicos. &#x200B; Eles podem envolver vários aprovadores ou aprovações por etapas.
+* **Processo de Aprovação de Uso Único:** eles são específicos do objeto e não podem ser compartilhados. &#x200B; Eles podem ser criados do zero ou editando um processo de aprovação global e convertendo-o.
+* **Aprovações de vários níveis:** os processos de aprovação podem incluir vários aprovadores simultaneamente ou em estágios, garantindo aprovações sequenciais antes de notificar o próximo aprovador.
+* **Reusabilidade:** os processos de aprovação de uso único podem ser copiados com tarefas, projetos ou problemas, ou incluídos em modelos de projeto, permitindo uma replicação fácil entre projetos.
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ Neste vídeo, você aprenderá a criar um processo de aprovação global e um pr
 >
 >Você pode configurar uma aprovação de uso único em projetos e problemas da mesma forma descrita para tarefas no vídeo.
 
-## Como aplicar aprovações automáticas de problemas em uma fila de solicitações
-
-Se você quiser configurar aprovações automáticas de problemas em uma fila de solicitações, elas só poderão ser feitas usando um processo global de aprovação de problemas e serão aplicadas em um [!UICONTROL Tópico da fila].
-
-Ao criar ou editar um [!UICONTROL Tópico da fila], selecione o processo de aprovação global no campo **[!UICONTROL Aprovação padrão]**.
-
-![Imagem mostrando como selecionar um processo de aprovação padrão em um tópico da fila](assets/automatic-issue-approval-1.png)
-
-Pode ser necessário editar o processo de aprovação do problema para garantir que o **[!UICONTROL Status anterior]** não seja o mesmo definido para o problema quando a aprovação for rejeitada. Isso ocorre porque o status anterior é **[!UICONTROL Novo]**, e também é o status que aciona o processo de aprovação, portanto, é o status para o qual será definido quando for aprovado. Para evitar confusão quando a aprovação do problema for rejeitada, é melhor definir o status para algo como **[!UICONTROL Não resolverá]** ou um status personalizado criado para essa finalidade.
-
-![Imagem mostrando a alteração do status a ser usado quando o problema for rejeitado](assets/automatic-issue-approval-2.png)
 
 
 ## Tutoriais recomendados sobre este tópico
@@ -56,4 +52,5 @@ Pode ser necessário editar o processo de aprovação do problema para garantir 
 * [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Entenda os processos de aprovação específicos do grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Criar um fluxo de solicitação](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Aplicar um processo de aprovação de problema em uma fila de solicitações](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

@@ -13,10 +13,10 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '71'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,12 @@ Neste vídeo, você aprenderá como configurar tópicos de fila, grupos de tópi
 >* [Criar uma fila de solicitações](/help/manage-work/request-queues/create-a-request-queue.md)
 >* [Entenda as configurações de um fluxo de solicitação](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
+
+## Principais pontos
+
+
+
 
 ## Tutoriais recomendados sobre este tópico
 
