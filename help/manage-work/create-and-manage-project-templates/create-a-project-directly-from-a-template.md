@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 20%
@@ -28,11 +28,11 @@ O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você 
 
 ## Principais pontos
 
-**Acesso ao modelo:** Você precisa de direitos para abrir um modelo e criar um projeto a partir dele. &#x200B;
-**Opção de Atalho:** usar um modelo pode ser um atalho útil em comparação a iniciar um projeto do zero. &#x200B;
-**Menu de Três Pontos:** Abra o modelo e selecione &quot;Criar Projeto&quot; no menu de três pontos. &#x200B;
-**Editar detalhes do projeto:** depois de selecionar &quot;Criar projeto&quot;, você pode editar os detalhes do projeto antes de finalizar. &#x200B;
-**Finalizar criação:** clique em &quot;Criar projeto&quot; quando estiver pronto para concluir o processo. &#x200B;
+* **Acesso ao modelo:** Você precisa de direitos para abrir um modelo e criar um projeto a partir dele. &#x200B;
+* **Opção de Atalho:** usar um modelo pode ser um atalho útil em comparação a iniciar um projeto do zero. &#x200B;
+* **Menu de Três Pontos:** Abra o modelo e selecione &quot;Criar Projeto&quot; no menu de três pontos. &#x200B;
+* **Editar detalhes do projeto:** depois de selecionar &quot;Criar projeto&quot;, você pode editar os detalhes do projeto antes de finalizar. &#x200B;
+* **Finalizar criação:** clique em &quot;Criar projeto&quot; quando estiver pronto para concluir o processo. &#x200B;
 
 
 ## Tutoriais recomendados sobre este tópico
