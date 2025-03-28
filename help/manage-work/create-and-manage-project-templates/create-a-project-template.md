@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 54%
@@ -35,11 +35,11 @@ Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e 
 
 ## Principais pontos
 
-**Criação de um Modelo:** Saiba como criar um novo modelo do zero nomeando-o, configurando tarefas, linhas do tempo e fazendo atribuições a funções de trabalho. &#x200B;
-**Organização da Tarefa:** Use relações de tarefas pai-filho para organizar tarefas com eficiência, fornecendo um resumo e uma estrutura claros para o projeto. &#x200B;
-**Configuração da Linha do Tempo:** configure linhas do tempo da tarefa usando durações e predecessores para estimar com precisão o intervalo de tempo e a sequência de tarefas. &#x200B;
-**Atribuições com base em funções:** atribua tarefas a funções de trabalho, em vez de usuários individuais, para utilizar as funcionalidades de planejamento e agendamento de recursos de maneira eficaz. &#x200B;
-**Gerenciamento de modelos:** salve projetos existentes como novos modelos para incorporar melhorias e gerenciar modelos para evitar confusão e garantir uma execução eficiente do projeto. &#x200B;
+* **Criação de um Modelo:** Saiba como criar um novo modelo do zero nomeando-o, configurando tarefas, linhas do tempo e fazendo atribuições a funções de trabalho. &#x200B;
+* **Organização da Tarefa:** Use relações de tarefas pai-filho para organizar tarefas com eficiência, fornecendo um resumo e uma estrutura claros para o projeto. &#x200B;
+* **Configuração da Linha do Tempo:** configure linhas do tempo da tarefa usando durações e predecessores para estimar com precisão o intervalo de tempo e a sequência de tarefas. &#x200B;
+* **Atribuições com base em funções:** atribua tarefas a funções de trabalho, em vez de usuários individuais, para utilizar as funcionalidades de planejamento e agendamento de recursos de maneira eficaz. &#x200B;
+* **Gerenciamento de modelos:** salve projetos existentes como novos modelos para incorporar melhorias e gerenciar modelos para evitar confusão e garantir uma execução eficiente do projeto. &#x200B;
 
 
 ## Modelos criados com [!UICONTROL blueprints]
