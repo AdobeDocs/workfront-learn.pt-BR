@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '453'
+ht-degree: 92%
 
 ---
 
@@ -30,12 +30,13 @@ Solução: peça a uma pessoa para carregar todos os PDFs e combiná-los em uma 
 Para combinar provas:
 
 1. Abra a seção [!UICONTROL Documentos] do projeto, tarefa ou problema à qual a prova deve ser anexada.
-2. Arraste e solte os arquivos na área de upload ou pesquise-os. O [!DNL Workfront] suporta a combinação de até 50 arquivos.
-3. Ative a opção para [!UICONTROL Combinar todos os arquivos compatíveis em uma única prova].
-4. Insira um nome para a prova combinada. Este campo é obrigatório.
-5. Se desejar, você pode alterar a ordem em que os arquivos serão combinados arrastando e soltando na lista de upload.
-6. Adicione destinatários de provas, defina um prazo etc.
-7. Clique em [!UICONTROL Criar prova] para concluir o upload.
+1. Clique em **Adicionar novo > Prova**.
+1. Arraste e solte os arquivos na área de upload ou pesquise-os. O [!DNL Workfront] suporta a combinação de até 50 arquivos.
+1. Em **Prova única**, alterne a opção para Combinar todos os arquivos compatíveis em uma única prova.
+1. Insira um nome para a prova combinada. Este campo é obrigatório.
+1. Se desejar, você pode alterar a ordem em que os arquivos serão combinados arrastando e soltando na lista de upload.
+1. Adicione destinatários de provas, defina um prazo etc.
+1. Clique em [!UICONTROL Criar prova] para concluir o upload.
 
 ![Imagem da janela [!UICONTROL Nova prova] com a lista de arquivos enviados e seções [!UICONTROL Prova única] destacadas.](assets/combine-proofs.png)
 
@@ -59,7 +60,7 @@ Desculpe, não é possível combinar arquivos quando há arquivos de mídia avan
 >Não se esqueça de lembrar aos colegas de trabalho que você está enviando a eles uma prova como parte do treinamento do Workfront.
 
 
-Encontre três ou quatro arquivos (PDF, arquivo de texto etc.) no computador.
+Localize três ou quatro arquivos (PDF, arquivo de texto, etc.) em seu computador.
 
 1. Abra um projeto, tarefa ou problema que você está usando para um exercício prático no Workfront.
 1. Faça upload dos arquivos, combinando-os em uma única prova.
