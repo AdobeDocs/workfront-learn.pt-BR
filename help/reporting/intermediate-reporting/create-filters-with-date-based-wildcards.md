@@ -12,9 +12,9 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Neste vídeo, você aprenderá a:
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## Atividades &quot;Criar filtros com curingas com base em data&quot;
+## Atividades “Criar filtros com curingas baseados em data”
 
 
 ### Perguntas sobre a atividade

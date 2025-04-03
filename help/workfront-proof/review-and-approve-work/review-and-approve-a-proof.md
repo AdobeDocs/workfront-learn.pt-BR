@@ -12,9 +12,9 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '727'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ Quando desejar iniciar a revisão, basta clicar no botão azul [!UICONTROL Acess
 
 ### Abrir uma prova na [!UICONTROL página inicial]
 
-Se você estiver trabalhando no [!DNL Workfront] e tiver sido solicitado a aprovar uma prova, você encontrará uma atribuição no widget [!UICONTROL Minhas aprovações] do [!DNL Workfront] [!UICONTROL Página inicial].
+Se estiver trabalhando no [!DNL Workfront] e precisar aprovar uma prova, utilize a tarefa no widget [!UICONTROL Minhas aprovações] da [!UICONTROL Página inicial] do [!DNL Workfront].
 
-![Uma imagem do widget [!UICONTROL Minhas aprovações] na [!DNL Workfront] [!UICONTROL Página inicial].](assets/open-proof-from-home.png)
+![Uma imagem do widget [!UICONTROL Minhas aprovações] na [!UICONTROL Página inicial] do [!DNL Workfront].](assets/open-proof-from-home.png)
 
-É importante notar que as provas aparecem na [!UICONTROL página inicial] do [!DNL Workfront] somente se você for designado para aprová-las. Se você acabou de ser solicitado a revisar apenas a prova, ela não aparecerá na [!DNL Workfront] [!UICONTROL Página inicial].
+É importante notar que as provas aparecem na [!UICONTROL página inicial] do [!DNL Workfront] somente se você for designado(a) para aprová-las. Se você acabou de receber uma solicitação apenas para revisar a prova, elas não aparecerão na [!UICONTROL Página inicial] do [!DNL Workfront].
 
-Clique no link [!UICONTROL Ir para Prova] para abri-lo no visualizador de provas.
+Clique no link [!UICONTROL Ir para a prova] para abri-la no visualizador de provas.
 
 Dependendo da prova e dos fluxos de trabalho do projeto da sua organização, você poderá ver uma atribuição de tarefa na [!UICONTROL página inicial] do [!DNL Workfront] em vez de uma solicitação de aprovação de prova. Neste caso, você deve abrir a prova a partir da seção [!UICONTROL Documentos] da tarefa em si (veja instruções abaixo).
 

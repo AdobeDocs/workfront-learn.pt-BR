@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '827'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Atividades &quot;Criar uma exibição básica&quot;
+## Atividades “Criar uma exibição básica”
 
 
 ### Atividade 1: criar uma visualização do status da tarefa

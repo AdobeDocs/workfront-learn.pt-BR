@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '260'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Atividades &quot;Criar um relatório de matriz&quot;
+## Atividades “Criar um relatório de matriz”
 
 ### Atividade 1: criar um relatório de matriz
 

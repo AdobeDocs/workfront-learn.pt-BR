@@ -12,9 +12,9 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '334'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Atividades &quot;Create reports with charts&quot;
+## Atividades “Criar relatórios com gráficos”
 
 ### Atividade 1: adicionar um gráfico a um relatório
 

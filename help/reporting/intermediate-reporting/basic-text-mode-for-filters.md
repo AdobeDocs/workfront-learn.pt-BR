@@ -13,9 +13,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Atividades &quot;Entender o modo de texto básico para filtros&quot;
+## Atividades “Compreender o modo de texto básico para filtros”
 
 
 ### Tarefa: Filtrar as tarefas em que marquei “Minha parte foi concluída”
