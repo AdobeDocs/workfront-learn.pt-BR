@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '464'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -43,7 +43,7 @@ Para criar formatação condicional:
    * texto de substituição
    * mostrar um ícone
 
-## Atividades &quot;Adicionar formatação condicional básica a uma exibição&quot;
+## Atividades “Adicionar formatação condicional básica a uma exibição”
 
 ### Atividade 1: adicionar formatação condicional a uma visualização
 

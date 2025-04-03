@@ -16,13 +16,13 @@ exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 14%
+ht-degree: 83%
 
 ---
 
 # Localizar e gerenciar solicitações
 
-Este vídeo explica como localizar e gerenciar solicitações no Workfront. &#x200B; Abrange quatro domínios principais:
+Este vídeo explica como localizar e gerenciar solicitações no Workfront. O vídeo aborda quatro domínios principais:
 
 * Início: Workfront
 * Área de solicitação
@@ -32,13 +32,13 @@ Este vídeo explica como localizar e gerenciar solicitações no Workfront. &#x2
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-## Principais pontos
+## Principais conclusões
 
-* **Localizando solicitações na Página Inicial do Workfront:** Os usuários podem exibir as solicitações atribuídas a eles ou àqueles que estão aguardando sua aprovação, dependendo de suas funções. &#x200B;
-* **Uso de Filtros na Área de Solicitação:** Filtros como &quot;minhas solicitações&quot; e &quot;minhas solicitações abertas&quot; permitem que os usuários vejam as solicitações que eles criaram. &#x200B;
-* **Gerenciando Solicitações na Página Equipes:** os usuários podem ver solicitações de equipe não atribuídas e atribuí-las a si mesmos ou a outras pessoas, usando o balanceador de carga de trabalho para gerenciar atribuições de membros da equipe com base em sua carga de trabalho atual. &#x200B;
-* **Relatórios e Painéis Personalizados**: os usuários podem criar relatórios personalizados para rastrear solicitações, permitindo nomes, filtros, visualizações e agrupamentos personalizados, o que ajuda a gerenciar e priorizar solicitações de maneira eficaz. &#x200B;
-* **Entendendo &quot;Meu&quot; em Filtros:** o termo &quot;meu&quot; na Página Inicial se refere a problemas atribuídos a mim. O termo &quot;meu&quot; na área de solicitação se refere às questões solicitadas por mim. &#x200B;
+* **Localizar solicitações na página inicial do Workfront:** os usuários podem ver solicitações atribuídas a eles ou a quem está aguardando sua aprovação, dependendo da sua função.
+* **Uso de filtros na área de solicitação:** filtros como “minhas solicitações” e “minhas solicitações abertas” permitem que os usuários vejam as solicitações que criaram.
+* **Gerenciamento de solicitações na página de equipes:** os usuários podem ver solicitações de equipe não atribuídas e atribuí-las a si mesmos ou a outras pessoas, usando o balanceador de carga de trabalho para gerenciar as atribuições de membros da equipe com base na carga de trabalho atual.
+* **Relatórios e painéis personalizados**: os usuários podem criar relatórios personalizados para monitorar solicitações e personalizar nomes, filtros, exibições e agrupamentos, o que ajuda a gerenciar e priorizar solicitações de maneira eficaz.
+* **Compreensão do termo “Meu” em filtros:** o termo “meu” na página inicial se refere a problemas atribuídos ao próprio usuário. O termo “meu” na área de solicitação se refere a problemas solicitados pelo próprio usuário.
 
 
 ## Tutoriais recomendados sobre este tópico

@@ -25,7 +25,7 @@ O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Principais pontos
+## Principais conclusões
 
 * **Painéis no Workfront:** um painel é uma coleção de relatórios que permite que os usuários organizem e exibam dados relacionados, como projetos, tarefas e problemas, em um modo de exibição centralizado. &#x200B;
 * **Criação de Painéis:** os Painéis podem ser personalizados selecionando um layout, adicionando relatórios, calendários personalizados ou páginas externas e organizando-os para exibição ideal. &#x200B; Os usuários também podem personalizar quais colunas aparecem em relatórios lado a lado no painel. &#x200B;
@@ -34,7 +34,7 @@ O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 * **Imprimindo Painéis:** Painéis podem ser impressos diretamente do menu &quot;Ações do Painel&quot;, facilitando o compartilhamento de cópias físicas dos dados. &#x200B;
 
 
-## Atividades &quot;Create dashboard&quot;
+## Atividades “Criar painel”
 
 ### Atividade 1: criar um painel
 

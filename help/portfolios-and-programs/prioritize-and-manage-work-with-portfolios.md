@@ -15,7 +15,7 @@ exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ O vídeo enfatiza a importância de completar casos de negócios para comparaç�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
 
-## Principais pontos
+## Principais conclusões
 
 * **Casos de Negócios Concluídos para Comparações Justas:** verifique se todos os projetos concluíram e enviaram casos de negócios antes de compará-los na ferramenta de Otimização do Portfolio para evitar a ausência de dados e avaliações imprecisas. &#x200B;
 * **Filtrar projetos por status:** use filtros para se concentrar em status de projetos específicos (por exemplo, solicitado, aprovado, atual) para comparações simplificadas e tomadas de decisão. &#x200B;
