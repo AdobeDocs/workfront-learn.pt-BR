@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 99%
+source-wordcount: '164'
+ht-degree: 75%
 
 ---
 
@@ -28,6 +28,12 @@ Neste vídeo, você aprenderá:
 * Como ativar e desativar um modelo de projeto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>Se você decidir excluir um modelo, qualquer projeto criado usando esse modelo não será afetado. Os modelos excluídos serão movidos para a Lixeira por 30 dias e poderão ser recuperados somente pelo administrador do sistema.
+
+
 
 ## Saiba como criar uma exibição personalizada para ver e editar o status ativo de modelos de projeto
 
