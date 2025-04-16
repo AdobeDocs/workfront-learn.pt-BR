@@ -1,6 +1,6 @@
 ---
 title: Entenda as várias taxas de faturamento
-description: Saiba como modificar as taxas de faturamento do sistema em um projeto.
+description: Personalize e gerencie taxas de cobrança para funções de trabalho no nível do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,49 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '173'
+ht-degree: 10%
 
 ---
 
+
 # Entenda as várias taxas de faturamento
 
-No [!DNL Workfront], gerentes de projeto têm a capacidade de modificar as taxas de faturamento do sistema em um projeto específico. Anteriormente, quando a nova taxa de faturamento era aplicada ao projeto, isso afetava não apenas as horas futuras, mas também as horas já registradas no projeto.
+O vídeo explica como gerenciar e personalizar taxas de faturamento para funções de trabalho em um projeto. &#x200B;Ela enfatiza a flexibilidade na definição de várias taxas de faturamento para a mesma função de trabalho e na garantia de ajustes precisos com base no tempo. &#x200B;
 
-Com o novo recurso do [!DNL Workfront] que permite utilizar várias taxas de faturamento, gerentes de projeto podem decidir em que período uma taxa de faturamento deve ser aplicada. Dessa forma, se uma taxa tiver sido negociada ou alterada, o(a) gerente do projeto poderá determinar quando essa taxa deverá entrar em vigor.
 
-## Alterar a taxa de faturamento
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
 
-1. Acesse a página de destino do projeto. Selecione **[!UICONTROL Taxas de faturamento]** no painel esquerdo.
+## Principais conclusões
 
-   ![Uma imagem mostrando a seleção de [!UICONTROL Taxas de faturamento] no [!DNL Workfront]](assets/project-finances-1.png)
 
-1. Na guia **[!UICONTROL Taxas de faturamento]**, clique no botão **[!UICONTROL Adicionar taxa de faturamento]**. Selecione **[!UICONTROL Nova taxa de faturamento]** no menu suspenso.
+* **Taxa de Cobrança Padrão:** O administrador do sistema define uma taxa de cobrança padrão para cada função de trabalho, mas ela pode ser personalizada para projetos individuais. &#x200B;
+* **Flexibilidade nas Taxas de Cobrança:** Você pode criar várias taxas de cobrança para a mesma função de trabalho dentro de um projeto, permitindo ajustes personalizados. &#x200B;
+* **Taxas Específicas de Tempo:** as taxas de cobrança podem ser definidas para períodos de tempo específicos adicionando datas de início e término, garantindo uma aplicação de taxa precisa durante diferentes fases do projeto. &#x200B;
+* **Fácil personalização:** As alterações nas taxas de cobrança são diretas: selecione a função de trabalho, insira a nova taxa e salve as atualizações diretamente na guia &quot;Taxas de cobrança&quot;. &#x200B;
 
-   ![Uma imagem mostrando a seleção de uma [!UICONTROL Nova taxa de faturamento] no [!DNL Workfront]](assets/project-finances-2.png)
+## Tutoriais recomendados sobre este tópico
 
-1. A caixa de diálogo [!UICONTROL Nova taxa de faturamento] é exibida. No menu suspenso **[!UICONTROL Função no trabalho]**, selecione a função à qual a nova taxa de faturamento será aplicada.
+* [Encontrar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
+* [Atualizar finanças](/help/manage-work/project-finances/update-and-review-finances.md)
+&lt;!—* [Compreender várias taxas de cobrança](/help/manage-work/project-finances/multiple-billing-rates.md)—>
 
-   ![Uma imagem mostrando a seleção de funções de trabalho em uma nova taxa de faturamento no [!DNL Workfront]](assets/project-finances-3.png)
-
-1. Uma vez selecionada a função, os campos [!UICONTROL Taxa de faturamento padrão] e [!UICONTROL Taxa de faturamento 1] são exibidos. Insira a nova taxa de faturamento no campo [!UICONTROL Taxa de faturamento 1]. Se essa taxa de faturamento se aplicar a todo o projeto (horas passadas, presentes e futuras registradas), clique no botão **[!UICONTROL Salvar]**.
-
-   ![Uma imagem na qual uma nova taxa de faturamento que se aplica a todo o projeto no [!DNL Workfront]](assets/project-finances-5.png) é salva
-
-1. Se a nova taxa de faturamento se aplica apenas a um determinado período, clique no botão **[!UICONTROL Adicionar taxa]**. Os campos [!UICONTROL Data final da taxa de faturamento 1] e [!UICONTROL Taxa de faturamento 2] serão exibidos. Insira a data final da [!UICONTROL Taxa de faturamento 1]. Você não pode inserir uma data inicial para a [!UICONTROL Taxa de faturamento 1] porque o sistema entende que ela começou no início do projeto.
-
-   ![Uma imagem mostrando a criação de uma nova taxa de faturamento que se aplica a um determinado período, começando no início do projeto do [!DNL Workfront]](assets/project-finances-6.png)
-
-1. Se esse não for o caso:
-
-   * Insira a taxa de faturamento padrão para a [!UICONTROL Taxa de faturamento 1].
-   * Selecione a data final para a [!UICONTROL Taxa de faturamento 1] ([!UICONTROL Taxa de faturamento padrão]).
-   * A data inicial da [!UICONTROL Taxa de faturamento 2] será automaticamente definida para o dia seguinte ao término da [!UICONTROL Taxa de faturamento 1].
-   * Insira a taxa de faturamento desejada na seção [!UICONTROL Taxa de faturamento 2].
-   * Se necessário, continue adicionando taxas de faturamento clicando no botão **[!UICONTROL Adicionar taxa]**.
-   * Quando concluído, clique em **[!UICONTROL Salvar]**.
-   * Todas as taxas de faturamento serão exibidas na guia [!UICONTROL Taxas de faturamento] do projeto.
-
-   ![Uma imagem mostrando a criação de novas taxas de faturamento que se aplicam aos diferentes períodos no [!DNL Workfront]](assets/project-finances-7.png)

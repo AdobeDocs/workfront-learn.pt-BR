@@ -1,6 +1,6 @@
 ---
-title: Atualizar e revisar finanças
-description: Saiba como revisar as informações financeiras associadas a um projeto no  [!DNL  Workfront].
+title: Atualizar finanças
+description: Simplifique o rastreamento e o faturamento de custos definindo taxas, atribuindo tipos de custo e receita a tarefas, gerenciando despesas e criando registros de faturamento. A Workfront não faz o faturamento real.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,45 +10,58 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 100%
+source-wordcount: '361'
+ht-degree: 3%
 
 ---
 
-# Atualizar e revisar finanças
 
-Se sua organização usa o [!DNL Workfront] para monitorar as informações financeiras relacionadas ao projeto, revisar despesas e criar registros de faturamento são atividades que podem fazer parte do processo de encerramento de um projeto.
+# Atualizar finanças
 
->[!NOTE]
->
->Muitos clientes do [!DNL Workfront] administram as despesas e finanças do projeto em um sistema de terceiros, em vez de fazerem isso no [!DNL Workfront]. Portanto, podem existir diferentes processos ou diretrizes para atualizar e revisar informações financeiras antes de encerrar um projeto.
+Este vídeo fornece um guia detalhado sobre tempo de rastreamento, despesas e criação de registros de cobrança para projetos de clientes. &#x200B; Os principais pontos incluem:
+
+**Tempo e Despesas de Acompanhamento:**
+Rastrear o tempo gasto trabalhando em um projeto e as despesas do projeto para faturar clientes. &#x200B;
+Verifique se os usuários têm taxas de custo e cobrança definidas em seus perfis ou funções de trabalho. &#x200B;
+
+**Configuração da tarefa:**
+Atribua tipos apropriados de custo e receita às tarefas. &#x200B;
+Os tipos de custo incluem horário fixo, horário do usuário (com base no perfil do usuário) e horário da função (com base na função de trabalho do proprietário da tarefa).
+
+**Gerenciamento de Despesas:**
+Crie despesas no nível do projeto por meio da guia &quot;Despesas&quot;. &#x200B;
+Atribua despesas ao projeto ou às tarefas, marque-as como faturáveis ou reembolsáveis. &#x200B;
+
+**Registros de Cobrança:**
+Crie registros de cobrança no nível do projeto para rastrear itens faturáveis (horas, despesas, receitas). &#x200B;
+Adicionar horas e despesas faturáveis ao registro de cobrança.
+Atualizar o status do registro de cobrança e a data de cobrança após faturar os clientes. &#x200B;
+
+**Notas finais:**
+O Workfront rastreia itens faturáveis, mas não lida com a faturação real; os usuários devem usar seus próprios sistemas de faturamento. &#x200B;
+
+Este vídeo enfatiza a importância da configuração e do rastreamento adequados para simplificar os processos de faturamento do cliente. &#x200B;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+
+## Principais conclusões
 
 
-## Despesas
+* **Configurar taxas de custo e cobrança:** verifique se os usuários ou as funções de trabalho têm taxas de custo e cobrança definidas em seus perfis para controlar com precisão as despesas do projeto. &#x200B;
+* **Atribuir Tipos de Custo e Receita a Tarefas:** as tarefas devem ter tipos apropriados de custo e receita (por exemplo, fixo por hora, usuário por hora, função por hora) para calcular corretamente os valores faturáveis. &#x200B;
+* **Gerenciar Despesas do Projeto:** Use a guia &quot;Despesas&quot; para criar e categorizar despesas como faturáveis ou reembolsáveis, garantindo um rastreamento preciso. &#x200B;
+* **Criar e Atualizar Registros de Cobrança:** Os registros de cobrança ajudam a rastrear horas, despesas e receitas faturáveis. &#x200B; Adicionar itens ao registro, atualizar o status e registrar datas de faturamento após o faturamento. &#x200B;
+* **Usar Sistemas de Cobrança Externos:** o Workfront rastreia itens faturáveis, mas não lida com a cobrança real; os usuários devem confiar em seus próprios sistemas de cobrança para faturar clientes. &#x200B;
 
-As despesas podem ser registradas em tarefas individuais ou no próprio projeto. Independentemente do item em que a despesa está registrada, você pode visualizar todas as despesas na seção [!UICONTROL Despesas] do próprio projeto.
 
-Seção ![[!UICONTROL Despesas] de um projeto](assets/expense-section.png)
+## Tutoriais recomendados sobre este tópico
 
-## Registros de faturamento
+* [Localizar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
+&lt;!—* [Atualizar finanças](/help/manage-work/project-finances/update-and-review-finances.md)—>
+* [Entenda as várias taxas de faturamento](/help/manage-work/project-finances/multiple-billing-rates.md)
 
-Os registros de faturamento são usados no [!DNL Workfront] para reunir horas, despesas, receitas e valores faturáveis adicionais em um único registro e com um único valor. Muitas vezes, eles são exportados do [!DNL Workfront] para um sistema de faturamento ou contabilidade de terceiros.
-
-Você deve ter acesso aos dados financeiros no [!DNL Workfront] para criar e visualizar registros de faturamento.
-
-## Detalhes financeiros
-
-Ao observar as informações de [!UICONTROL Finanças] nos [!UICONTROL Detalhes do projeto], é possível ver números reais de benefícios, receita e custos.
-
-![Seção de finanças da janela [!UICONTROL Detalhes do projeto]](assets/finance-section-project-details.png)
-
-A maior parte das informações financeiras nos [!UICONTROL Detalhes do projeto] é configurada durante a criação do projeto, e os números exibidos aqui baseiam-se nessas informações. Portanto, ao encerrar um projeto, não é necessário atualizar ou adicionar nenhuma informação financeira.
-
-<!---
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
---->
