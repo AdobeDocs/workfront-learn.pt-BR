@@ -1,6 +1,6 @@
 ---
 title: Entenda o acesso financeiro
-description: Saiba como os direitos de acesso financeiro permitem que admins controlem quem pode ver e editar as informações financeiras registradas no Workfront.
+description: Os administradores de sistema controlam o acesso a dados financeiros por meio de permissões personalizáveis, garantindo gerenciamento seguro, supervisão em nível de projeto e opções de compartilhamento personalizadas para visibilidade financeira.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,73 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 100%
+source-wordcount: '233'
+ht-degree: 12%
 
 ---
 
 # Entenda o acesso financeiro
 
-Se sua organização estiver capturando dados financeiros com o [!DNL Workfront], como admin de sistema, é sua responsabilidade proteger o acesso a essas informações, definindo quem pode visualizá-las e editá-las.
+O vídeo explica o papel de um administrador do sistema no gerenciamento do acesso a informações financeiras no Workfront. &#x200B; O administrador controla o acesso por meio dos níveis de acesso.&#x200B;
+O vídeo enfatiza que os usuários só podem usar seu acesso financeiro em projetos que criarem ou em projetos em que alguém com acesso financeiro o tenha compartilhado com eles.
 
-São necessárias duas coisas para que um usuário visualize ou edite informações financeiras:
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
 
-1. Os direitos de acesso devem ser habilitados no [!UICONTROL Nível de acesso].
-2. A permissão para usar esses direitos de acesso deve ser concedida em cada objeto.
+## Principais conclusões
 
-Por exemplo, um usuário pode receber direitos para visualizar dados financeiros em seu nível de acesso, mas só poderá visualizar dados financeiros de uma tarefa que seja compartilhada com ele e na qual a visualização de dados financeiros foi habilitada durante o compartilhamento dessa tarefa.
+* **Função de Administrador do Sistema:** O administrador do sistema gerencia o acesso às informações financeiras por meio da configuração e dos níveis de acesso, garantindo o controle sobre quem pode exibir ou editar dados financeiros. &#x200B;
+* **Criação de Níveis de Acesso:** Um nível de acesso pode ser criado para conceder aos usuários permissões para editar e exibir cobrança, taxas de custo, taxas de câmbio e despesas.
+* **Acesso Financeiro no Nível do Projeto:** Usuários com acesso financeiro podem editar finanças nos projetos que criam, mas outros precisam de acesso explícito para exibir ou editar finanças.
+* **Compartilhamento de Acesso Personalizável:** O acesso financeiro pode ser compartilhado com usuários específicos, com permissões personalizadas (por exemplo, acesso somente para visualização), mesmo que eles tenham direitos gerais para editar dados financeiros.
+* **Limitações de Acesso:** Os usuários só podem usar o acesso financeiro nos projetos que criarem ou nos projetos em que alguém com acesso financeiro tiver compartilhado o acesso com eles.
 
-Portanto, é possível que um usuário que recebeu direitos de [!UICONTROL nível de acesso] para visualizar informações financeiras veja informações financeiras de alguns objetos e não de outros, pois isso dependerá das opções individuais de compartilhamento desses objetos. No entanto, nenhum usuário pode visualizar as informações financeiras de um objeto a menos que tenha recebido o direito para isso em seu [!UICONTROL Nível de acesso].
 
-## Configurações de [!UICONTROL Nível de acesso]
+## Tutoriais recomendados sobre este tópico
 
-O acesso geral aos dados financeiros é concedido primeiro pelo tipo de licença do [!DNL Workfront].
-
-As licenças de **[!UICONTROL Plano] podem:**
-
-* Gerenciar registros de faturamento
-* Gerenciar e visualizar o faturamento de funções e as taxas de custo
-* Gerenciar e visualizar o faturamento de usuários e as taxas de custo
-* Gerenciar despesas
-* Visualizar e editar informações financeiras
-
-As licenças de **[!UICONTROL Trabalho] podem:**
-
-* Gerenciar despesas
-* Visualizar informações financeiras
-
-As licenças de **[!UICONTROL Revisão] podem:**
-
-* Visualizar informações financeiras
-
-**As permissões podem ser modificadas pelo [!UICONTROL Nível de acesso]. As três opções de acesso a dados financeiros são:**
-
-* [!UICONTROL Sem acesso] - O usuário não poderá ver informações financeiras.
-* [!UICONTROL Visualizar] - O usuário pode analisar e compartilhar as informações.
-* [!UICONTROL Editar] - O usuário pode criar, editar, excluir e compartilhar as informações. (Disponível somente para licenças de Plano.)
-
-![Uma imagem que mostra as opções gerais de dados financeiros em um nível de acesso](assets/setting-up-finances-8.png)
-
-É importante notar que as opções [!UICONTROL Visualizar] e [!UICONTROL  Editar] têm configurações adicionais para uma licença de [!UICONTROL Plano]. Clique no ícone de engrenagem do botão [!UICONTROL Visualizar] destas opções:
-
-**[!UICONTROL Exibir]**
-
-* Ver taxas de custo e cobrança de função
-* Ver taxas de custo e cobrança de usuário
-
-![Uma imagem que mostra as opções de visualização de dados financeiros em um nível de acesso](assets/setting-up-finances-9.png)
-
-**[!UICONTROL Editar]**
-
-Essas duas opções estão disponíveis para a opção [!UICONTROL Editar], além de:
-
-* Editar taxas de custo e cobrança de função
-* Editar taxas de custo e cobrança de usuário
-
-![Uma imagem que mostra as opções de edição de dados financeiros em um nível de acesso](assets/setting-up-finances-10.png)
-
->[!NOTE]
->
->Usuário que têm permissão para adicionar despesas também podem visualizar as despesas adicionadas, bem como as despesas adicionadas por seus subordinados diretos.
+* [Entenda as métricas de desempenho](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurar padrões de receita e custo da tarefa](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurar taxas de câmbio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurar tipos de despesa](/help/manage-work/project-finances/set-up-expense-types.md)

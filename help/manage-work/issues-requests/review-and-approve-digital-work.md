@@ -12,10 +12,10 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -33,7 +33,7 @@ O vídeo enfatiza a flexibilidade na revisão e aprovação do trabalho, com op�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
 
-## Principais pontos
+## Principais conclusões
 
 * **Gerenciamento centralizado de aprovações:** todos os itens que estão aguardando aprovação podem ser acessados no widget &quot;Aguardando minha aprovação&quot; na área Página inicial. &#x200B;
 * **Opções de Revisão Flexíveis:** Você pode aprovar ou rejeitar diretamente da área Página Inicial ou clicar no nome do item para examinar os detalhes antes de tomar uma decisão. &#x200B;
@@ -52,11 +52,11 @@ O vídeo enfatiza a flexibilidade na revisão e aprovação do trabalho, com op�
 * [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
-<!---
+<!--
 learn more URLS
 Approving work
 Home area for Reviewers
 Guides
 Home overview for Reviewers
 Issue page overview
---->
+-->

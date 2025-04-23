@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 92%
@@ -19,7 +20,7 @@ ht-degree: 92%
 
 # Atualizar e revisar finanças
 
-Se sua organização usa o [!DNL Workfront] para monitorar as informações financeiras relacionadas ao projeto, revisar despesas e criar registros de faturamento são atividades que podem fazer parte do processo de encerramento de um projeto.
+Se sua organização usa o [!DNL Workfront] para monitorar as informações financeiras relacionadas ao projeto, revisar despesas e criar registros de cobrança são atividades que podem fazer parte do processo de encerramento de um projeto.
 
 >[!NOTE]
 >
@@ -32,11 +33,11 @@ As despesas podem ser registradas em tarefas individuais ou no próprio projeto.
 
 Seção ![[!UICONTROL Despesas] de um projeto](assets/expense-section.png)
 
-## Registros de faturamento
+## Registros de cobrança
 
-Os registros de faturamento são usados no [!DNL Workfront] para reunir horas, despesas, receitas e valores faturáveis adicionais em um único registro e com um único valor. Muitas vezes, eles são exportados do [!DNL Workfront] para um sistema de faturamento ou contabilidade de terceiros.
+Os registros de cobrança são usados no [!DNL Workfront] para reunir horas, despesas, receitas e valores faturáveis adicionais em um único registro e com um único valor. Muitas vezes, eles são exportados do [!DNL Workfront] para um sistema de faturamento ou contabilidade de terceiros.
 
-Você deve ter acesso aos dados financeiros no [!DNL Workfront] para criar e visualizar registros de faturamento.
+Você deve ter acesso aos dados financeiros no [!DNL Workfront] para criar e visualizar registros de cobrança.
 
 ## Detalhes financeiros
 
@@ -46,9 +47,9 @@ Ao observar as informações de [!UICONTROL Finanças] nos [!UICONTROL Detalhes 
 
 A maior parte das informações financeiras nos [!UICONTROL Detalhes do projeto] é configurada durante a criação do projeto, e os números exibidos aqui baseiam-se nessas informações. Então, enquanto você está fechando um projeto, realmente não há nada que você precise atualizar ou adicionar nos detalhes financeiros.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

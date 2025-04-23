@@ -12,7 +12,7 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -33,8 +33,8 @@ Neste vídeo, você aprenderá a:
 >Conforme mencionado no vídeo, é importante que as pessoas mudem o status de **[!UICONTROL Novo]** para **[!UICONTROL Em andamento]** ao iniciar uma tarefa, para que a [!UICONTROL Data de início real] fique correta. Porém, se eles se esquecerem de fazer isso ao iniciar a tarefa, poderão voltar e editar a [!UICONTROL Data de início real] a qualquer momento.
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->

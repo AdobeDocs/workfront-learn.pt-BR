@@ -1,6 +1,6 @@
 ---
 title: Entenda as métricas de desempenho
-description: 'Aprenda a usar as métricas de desempenho: o [!UICONTROL Método de índice de desempenho] ([!UICONTROL PIM]) e a [!UICONTROL Estimativa de conclusão] ([!UICONTROL EAC]).'
+description: Descubra métricas de desempenho financeiro adaptáveis com métodos de cálculo flexíveis, padrões globais e substituições no nível do projeto, permitindo que administradores e gerentes de projeto personalizem métricas financeiras de maneira eficaz para as necessidades do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,56 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
 # Entenda as métricas de desempenho
 
-Duas métricas de desempenho usadas por gerentes de projeto incluem o [!UICONTROL Método de índice de desempenho] ([!UICONTROL PIM]) e a [!UICONTROL Estimativa de conclusão] ([!UICONTROL EAC]). É possível definir configurações padrão para todo o sistema do [!DNL Workfront] e aplicá-las a projetos recém-criados. O [!UICONTROL PIM] pode então ser modificado em projetos individuais.
+O vídeo discute as métricas e configurações de desempenho financeiro para o gerenciamento de projetos. &#x200B; Os principais pontos incluem:
 
-**[!UICONTROL MID]**
+**Visão Geral de Métricas de Desempenho:** Métricas como índice de desempenho de custo, índice de desempenho de cronograma, índice de desempenho de cronograma de custo e conclusão estimada estão disponíveis na guia Detalhes do Projeto e na seção financeira. &#x200B; A documentação dos cálculos pode ser acessada por meio de links de bolhas de informações.
 
-As configurações do [!UICONTROL PIM] controlam como o [!DNL Workfront] calcula outras métricas de desempenho do projeto, como o [!UICONTROL Índice de desempenho de custos] ([!UICONTROL CPI]),[!UICONTROL  Índice de desempenho do cronograma de custos] ([!UICONTROL CSI]),[!UICONTROL  Índice de desempenho do cronograma ] ([!UICONTROL SPI]) e [!UICONTROL Estimativa de conclusão] ([!UICONTROL EAC]).
+**Método de Índice de Desempenho (PIM):** O gerente de projeto pode selecionar o método para calcular o índice de desempenho de custo (CPI) e estimar na conclusão (EAC), com base na hora (conclusão em horas) ou com base no custo (conclusão em dinheiro). &#x200B; Os administradores do sistema podem definir o método padrão globalmente, mas os gerentes de projeto podem ajustá-lo para projetos individuais. &#x200B;
 
-As opções do [!UICONTROL PIM] são baseadas em horas e em custos.
+**Cálculo de EAC (Estimativa no Término):** Os administradores do sistema podem definir o método de cálculo padrão globalmente, com duas opções:
+* **Acúmulo de tarefas/subtarefas:** adiciona valores de estimativa na conclusão de tarefas filho, mas exclui horas adicionadas diretamente às tarefas pai ou ao nível de projeto. &#x200B;
+* **Calculado no nível do projeto:** Inclui valores de estimativa na conclusão de tarefas filho e horas adicionadas diretamente às tarefas pai ou ao nível do projeto. Esse é o padrão recomendado. &#x200B;
 
-* **Baseado em horas**: o Workfront usa as horas planejadas no cálculo do CPI e da EAC do projeto. A EAC do projeto é exibida como um número, em horas.
-* **Baseado em custos**: o Workfront usa o custo do trabalho planejado no cálculo do CPI e da EAC do projeto. A EAC é exibida como um valor monetário. Ao usar esta opção, verifique se os responsáveis pelas tarefas (usuários e/ou funções) estão associados às taxas de custo.
+O vídeo enfatiza a flexibilidade e o controle disponíveis para administradores de sistema e gerentes de projeto no gerenciamento de métricas e cálculos de desempenho. &#x200B;
 
-**[!UICONTROL EAC]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-A [!UICONTROL EAC] representa o custo total projetado de sua tarefa ou projeto após a conclusão. As opções são calculadas no nível do projeto e totalizadas a partir de tarefas e subtarefas.
+## Principais conclusões
 
-* **Calcular no nível do projeto**: a [!UICONTROL EAC] da tarefa principal e do projeto é determinada usando as horas efetivas e custos reais de trabalho nas fórmulas da [!UICONTROL EAC]. O cálculo inclui horas e custos efetivos, bem como despesas adicionadas diretamente à tarefa principal ou projeto.
-* T **otal de tarefas e subtarefas**: a [!UICONTROL EAC] da tarefa principal e do projeto é determinada pela soma da [!UICONTROL EAC] de cada tarefa derivada. Este cálculo exclui horas e custos efetivos adicionados diretamente a uma tarefa principal ou projeto.
 
-Os cálculos de [!UICONTROL EAC] estão listados em [Calcular estimativa de conclusão (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=br).
+* **Acesso às Métricas de Desempenho:** Métricas principais, como índice de desempenho de custo (CPI), índice de desempenho de agendamento (SPI) e EAC (estimativa na conclusão), podem ser encontradas na guia Detalhes do Projeto, na seção Finanças, com a documentação disponível por meio de links de bolhas de informações. &#x200B;
+* **Método do Índice de Desempenho:** Os gerentes de projeto podem escolher entre métodos baseados em horas ou em custo para calcular métricas, enquanto os administradores do sistema podem definir um padrão global.
+* **Opções de Cálculo da Estimativa na Conclusão:** Dois métodos estão disponíveis:
+   * Roll-up de tarefas/subtarefas (exclui horas adicionadas diretamente às tarefas principais ou no nível do projeto). &#x200B;
+   * Calculado no nível do projeto (inclui horas adicionadas diretamente às tarefas principais ou no nível do projeto). O último é recomendado. &#x200B;
+* **Configurações Globais vs. no Nível do Projeto:** Os administradores do sistema podem definir padrões globais para o método de índice de desempenho e estimar nos cálculos de conclusão, mas os gerentes de projeto podem substituir a configuração do método de índice de desempenho para projetos individuais. &#x200B;
+* **Flexibilidade no Gerenciamento de Métricas:** o sistema fornece ferramentas para que administradores e gerentes de projeto personalizem e gerenciem métricas de desempenho de maneira eficaz, garantindo a adaptabilidade às necessidades específicas do projeto.
 
-**Métricas de desempenho: configurações**
+## Tutoriais recomendados sobre este tópico
 
-Para definir os padrões do sistema para [!UICONTROL PIM] e [!UICONTROL EAC]:
-
-1. Selecione **[!UICONTROL Configurar]** no menu principal.
-1. Clique em **[!UICONTROL Preferências do projeto]** no menu do painel esquerdo e selecione **[!UICONTROL Projetos]**
-1. Na seção [!UICONTROL Status do projeto], encontre [!UICONTROL Método de índice de desempenho]. Selecione Baseado em horas ou Baseado em custos.
-1. Em [!UICONTROL Estimativa de conclusão], selecione Calcular no nível do projeto ou Total das tarefas e subtarefas.
-1. Clique em **[!UICONTROL Salvar]** na parte inferior da janela.
-
-![Uma imagem da tela [!UICONTROL Preferências do projeto]](assets/setting-up-finances-1.png)
-
-**Definir o [!UICONTROL PIM] em projetos individuais**
-
-1. Acesse a página de destino de um projeto.
-1. Clique em **[!UICONTROL Detalhes do projeto]** no painel esquerdo.
-1. Abra a seção **[!UICONTROL Finanças]**.
-1. Clique duas vezes no texto abaixo de **[!UICONTROL Método de índice de desempenho]** para editá-lo.
-1. Selecione Baseado em horas ou Baseado em custos.
-1. Clique em **[!UICONTROL Salvar alterações]** para finalizar.
-
-![Uma imagem da tela [!UICONTROL Detalhes do projeto]](assets/setting-up-finances-2.png)
-
-O [!UICONTROL PIM] pode ser definido para um modelo de projeto na seção [!UICONTROL Finanças] dos detalhes do modelo.
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [Configurar padrões de receita e custo da tarefa](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurar taxas de câmbio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurar tipos de despesa](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Entenda o acesso financeiro](/help/manage-work/project-finances/understand-financial-access.md)

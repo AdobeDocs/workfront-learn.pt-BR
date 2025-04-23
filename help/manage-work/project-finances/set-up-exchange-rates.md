@@ -1,6 +1,6 @@
 ---
 title: Configurar taxas de câmbio
-description: Saiba como usar taxas de câmbio em projetos e relatórios para refletir informações financeiras em diferentes moedas do mundo todo.
+description: Personalize as configurações de moeda com gerenciamento flexível de taxa de câmbio, personalização global e em nível de projeto, além de opções de entrada manuais para um rastreamento financeiro preciso.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 11%
 
 ---
 
 # Configurar taxas de câmbio
 
-O [!DNL Workfront] é compatível com diferentes moedas para organizações de clientes que são empresas multinacionais. As taxas de câmbio podem ser usadas em projetos e relatórios para refletir informações financeiras em diferentes moedas do mundo todo.
+O vídeo fornece um guia sobre o gerenciamento de moedas no sistema de rastreamento financeiro do Workfront. &#x200B; Ele explica que a moeda padrão é o dólar americano, mas moedas adicionais podem ser configuradas globalmente ou para projetos individuais e funções de trabalho.
+O vídeo enfatiza que o sistema não fornece as taxas de câmbio atuais, portanto, os usuários devem obtê-las externamente. &#x200B; Depois de definidas, as taxas de câmbio se tornam o padrão para projetos ou funções de trabalho, mas não são atualizadas automaticamente; os usuários com as permissões apropriadas devem atualizá-las manualmente. &#x200B; Depois de configurar as moedas, os usuários podem criar novos projetos e selecionar entre as opções de moeda disponíveis, com a capacidade de personalizar as taxas de câmbio para projetos individuais. &#x200B;
 
-As taxas de câmbio são gerenciadas pelos administradores do sistema. Moedas adicionais podem ser configuradas, conforme necessário, para a sua organização.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-A moeda base padrão do Workfront é o dólar dos Estados Unidos. Essa é a moeda na qual as informações financeiras serão calculadas por padrão. Esse padrão pode ser alterado globalmente e em projetos individuais.
+## Principais conclusões
 
-## Configurar moedas e taxas de câmbio
+* **Moeda Padrão:** a moeda padrão do sistema é o dólar americano, mas isso pode ser alterado globalmente ou para projetos individuais e funções de trabalho. &#x200B;
+* **Adição de Moedas:** Moedas adicionais podem ser configuradas juntamente com suas taxas de câmbio na área de configuração. &#x200B;
+* **Atualizações Manuais de Taxa de Câmbio:** o sistema não fornece taxas de câmbio atuais; os usuários devem originá-las externamente e inseri-las manualmente. &#x200B;
+* **Personalização Específica de Projeto:** As taxas de câmbio definidas na área de configuração são usadas como padrão, mas os usuários podem personalizar taxas de câmbio para projetos individuais. &#x200B;
+* **Atualizações e Permissões:** as alterações na área de instalação não atualizam automaticamente os projetos existentes. A atualização de taxas de câmbio para projetos ou funções de trabalho requer permissões de usuário apropriadas.
 
-![Uma imagem de seleção de taxas de câmbio](assets/setting-up-finances-4.png)
+## Tutoriais recomendados sobre este tópico
 
-**Selecione [!UICONTROL Configuração] no menu principal.**
-
-1. Expandir **[!UICONTROL Preferências do projeto]** no painel do menu esquerdo.
-1. Clique em **[!UICONTROL Taxas de câmbio]**.
-1. Clique no botão **[!UICONTROL Adicionar moeda]**.
-1. Selecione a moeda do país na lista suspensa.
-1. Insira a taxa de câmbio desejada da moeda.
-1. Se uma moeda diferente do dólar americano precisar ser a moeda base (padrão) do sistema do [!DNL Workfront], clique no botão ao lado do nome da moeda.
-1. Clique em **[!UICONTROL Salvar]** quando todas as moedas tiverem sido adicionadas.
-
-![Uma imagem da adição de uma moeda à lista de taxas de câmbio](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->O Workfront não atualiza nem rastreia os valores de mercado atuais das taxas de câmbio. As atualizações, se necessárias, precisam ser feitas manualmente.
+* [Entenda as métricas de desempenho](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurar padrões de receita e custo da tarefa](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurar tipos de despesa](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Entenda o acesso financeiro](/help/manage-work/project-finances/understand-financial-access.md)

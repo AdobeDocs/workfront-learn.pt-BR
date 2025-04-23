@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 3%
+source-wordcount: '359'
+ht-degree: 2%
 
 ---
 
@@ -61,7 +61,7 @@ Este vídeo enfatiza a importância da configuração e do rastreamento adequado
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Localizar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
-&lt;!—* [Atualizar finanças](/help/manage-work/project-finances/update-and-review-finances.md)—>
-* [Entenda as várias taxas de faturamento](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Encontrar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
+* [Entender várias taxas de cobrança](/help/manage-work/project-finances/multiple-billing-rates.md)
+  <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

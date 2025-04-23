@@ -1,6 +1,6 @@
 ---
 title: Configurar padrões de receita e custo da tarefa
-description: Saiba como o tipo de receita e o tipo de custo são usados para calcular as informações financeiras planejadas e reais de uma tarefa.
+description: Saiba onde o tipo de receita e os tipos de custo são usados e como configurar os padrões do sistema.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 16%
 
 ---
 
+
 # Configurar padrões de receita e custo da tarefa
 
-O tipo de receita e o tipo de custo são usados para calcular as informações financeiras planejadas e reais de uma tarefa. As informações padrão para cada uma delas podem ser definidas em todo o sistema, para que se apliquem a cada nova tarefa criada. As informações podem ser alteradas em projetos individuais ou registradas em modelos de projeto.
+Saiba onde o tipo de receita e os tipos de custo são usados e como configurar os padrões do sistema.
 
-**Há cinco tipos de receita padrão disponíveis:**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* Não Faturável
-* Horas por Valor da Hora do Recurso
-* Horas por Valor da Hora do Perfil
-* Horas por Valor de Hora Fixo
-* Receita com Valor Fixo
+## Principais conclusões
 
-**E há quatro tipos de custo padrão disponíveis:**
+* **Exibindo Dados de Custo e Receita:** Os detalhes de custo e receita de tarefas podem ser acessados abrindo-se a tarefa, selecionando-se os detalhes da tarefa e rolando-se até a seção financeira. &#x200B;
+* **Definindo Padrões para Tarefas:** Os administradores do sistema podem definir tipos padrão de custo e receita para gerentes de projeto navegando até &quot;Configuração > Preferências do Projeto > Tarefas e Problemas&quot;. &#x200B;
+* **Padrão de Tipo de Receita Comum:** &quot;Função por Hora&quot; é um padrão típico para o tipo de receita, permitindo que o tempo registrado seja registrado como potencialmente faturável se o usuário tiver uma função de trabalho com uma taxa de receita. &#x200B;
+* **Impacto das Configurações de Receita:** Se o tipo de receita estiver definido como &quot;Não Faturável&quot;, nenhuma receita será registrada para a tarefa. &#x200B;
+* **Padrão de Tipo de Custo Comum:** &quot;Usuário por Hora&quot; é usado com frequência como o tipo de custo padrão, extraindo dados de custo diretamente do perfil do usuário para um rastreamento eficiente. &#x200B;
 
-* Sem Custo
-* Horas por Valor de Hora Fixo
-* Horas por Valor da Hora do Recurso
-* Horas por Valor da Hora do Perfil
 
->[!NOTE]
->
->Quando os tipos de receita ou custo são definidos como Não faturável ou Sem custo, as estimativas de receita e custo não são geradas para a tarefa. Portanto, o trabalho na tarefa não contribui para a receita ou os custos do projeto.
+## Tutoriais recomendados sobre este tópico
 
-## Definir padrões de receita e custo
-
-Selecione **[!UICONTROL Configurar]** no menu principal.
-
-1. Clique em **[!UICONTROL Preferências do projeto]** no menu do painel esquerdo.
-1. Em seguida, clique em **[!UICONTROL Tarefas e problemas]**.
-1. Na seção [!UICONTROL Novo padrão de tarefa], selecione o [!UICONTROL Tipo de receita] e [!UICONTROL Tipo de custo] desejado.
-1. Clique em Salvar ao concluir.
-
-![Uma imagem da configuração de padrões de receita e custo](assets/setting-up-finances-3.png)
+* [Entenda as métricas de desempenho](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurar taxas de câmbio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Configurar tipos de despesa](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Entenda o acesso financeiro](/help/manage-work/project-finances/understand-financial-access.md)

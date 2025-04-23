@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 28%
 
 ---
 
 # Configurar tipos de despesa
 
-No [!DNL Workfront], as despesas representam custos não laborais associados a projetos e outros trabalhos. As despesas podem ser, por exemplo, despesas de viagem durante a visita a um cliente ou a compra de materiais necessários para concluir uma sessão fotográfica. Essas despesas devem ser registradas no projeto para que os custos planejados e os custos reais possam ser calculados e relatados nos projetos.
+O vídeo explica como gerenciar os tipos de despesas no Workfront, com foco na criação, uso e exclusão deles.
 
-O [!DNL Workfront] possui tipos de despesas predefinidos que podem ser usados ao inserir despesas. Os padrões não podem ser excluídos ou modificados, mas novos podem ser adicionados.
 
-* Propaganda
-* Consultoria
-* Entretenimento
-* Geral
-* Materiais
-* Impressão
-* Envio
-* Viagens
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-Admins de sistema podem adicionar tipos de despesas necessários à organização. Esses tipos de despesas adicionais podem ser modificados, ocultos ou excluídos para auxiliar a criação de relatórios financeiros necessários na organização.
+## Principais conclusões
 
-Gerentes de projetos, executivos e outras pessoas podem gerar relatórios de despesas (também é possível agrupar despesas individuais por tipo, se necessário) para tarefas, projetos, programas ou portfólios dentro do [!DNL Workfront]. Utilizar tipos de despesas facilita muito o gerenciamento das informações financeiras do projeto.
+* **Tipos de Despesas Pré-Criadas:** O Workfront inclui tipos de despesas pré-criadas que não podem ser excluídas, ocultas ou modificadas, garantindo a consistência no sistema.
+* **Tipos de Despesas Personalizadas:** Os Administradores do Sistema podem criar seus próprios tipos de despesas, que são editáveis, excluíveis e abrangem todo o sistema. Elas podem incluir unidades calculadas, como taxas de quilometragem.
+* **Criação de despesa:** ao criar uma despesa, os usuários selecionam um tipo de despesa, detalhes de entrada (por exemplo, quilometragem) e o sistema calcula o valor planejado automaticamente com base na taxa definida.
+* **Excluindo Tipos de Despesas:** os tipos de despesas personalizados só podem ser excluídos após serem substituídos em todas as instâncias em que são usados. Um relatório pode ser gerado para identificar essas instâncias.
 
-## Criar um tipo de despesa
+## Tutoriais recomendados sobre este tópico
 
-**Selecione [!UICONTROL Configuração] no menu principal**
-
-1. Clique em **[!UICONTROL Tipos de despesas]** no menu do painel esquerdo.
-1. Clique no botão **[!UICONTROL Novo tipo de despesa]**.
-1. Dê um nome para o tipo de despesa.
-1. Adicione uma descrição, se necessário.
-1. Clique no botão **[!UICONTROL Salvar]**.
-
-![Uma imagem da criação de um novo [!UICONTROL Tipo de despesa]](assets/setting-up-finances-6.png)
-
-## Utilizar tipos de despesas
-
-As opções de despesas aparecem no menu suspenso **[!UICONTROL Tipo de despesa]** quando os usuários criam uma despesa em um projeto ou tarefa no [!DNL Workfront].
-
-![Uma imagem mostrando a adição de uma nova despesa](assets/setting-up-finances-7.png)
+* [Entenda as métricas de desempenho](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Configurar padrões de receita e custo da tarefa](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Configurar taxas de câmbio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Entenda o acesso financeiro](/help/manage-work/project-finances/understand-financial-access.md)

@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
@@ -45,8 +45,8 @@ Os objetos que estão sendo restaurados aparecerão brevemente em uma seção [!
 
 Admins de grupo podem restaurar um projeto que esteja associado ao grupo que gerenciam, juntamente com quaisquer tarefas, problemas ou documentos associados.
 
-<!---
+<!--
 learn more URL
 Restoring deleted items
 Viewing items that have been recently restored
---->
+-->

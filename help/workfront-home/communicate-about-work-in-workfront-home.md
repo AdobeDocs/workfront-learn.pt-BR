@@ -11,8 +11,8 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
@@ -34,14 +34,14 @@ Neste vídeo, você aprenderá a:
 * “Marque” outros usuários do [!UICONTROL Workfront] com o @name para garantir que sejam notificados sobre a atualização. Esta é a melhor maneira de garantir que pessoas específicas vejam as informações mais recentes. Você pode “marcar” usuários individuais ou uma equipe em uma atualização.
 * Tenha em mente que marcar uma equipe ou um grupo e continuar respondendo dentro da discussão é o equivalente ao conhecido email “responder a todos”. Lembre-se disso para evitar causar aborrecimentos. Você pode direcionar a tag para cima ou para baixo, ainda dentro do contexto do objeto.
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * Se você não estiver atribuído a uma tarefa, mas quiser receber notificações, inscreva-se na tarefa. Saiba mais no artigo Inscrever-se em itens no[!UICONTROL Workfront] na nova experiência do [!UICONTROL Workfront].
 * Publique atualizações em um dia específico da semana, para que todos saibam quando procurar as informações mais recentes.
 * Use as ferramentas de rich text para formatar suas atualizações. Destaque as informações com negrito ou crie um resumo de fácil leitura com marcadores.
 
-<!---
+<!--
 learn more URLs
---->
+-->

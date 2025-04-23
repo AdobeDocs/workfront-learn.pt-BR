@@ -10,7 +10,7 @@ level: Beginner, Intermediate
 thumbnail: 10040.jpeg
 jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 100%
@@ -46,8 +46,8 @@ Os logs de auditoria podem ser exportados como um arquivo CSV (valores separados
 
 Botão ![[!UICONTROL Exportar] na página [!UICONTROL Logs de auditoria]](assets/admin-fund-audit-log-3.png)
 
-<!---
+<!--
 learn more URLs
 Audit logs
 Managing audit logs
---->
+-->

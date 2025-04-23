@@ -10,16 +10,16 @@ level: Beginner
 thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 100%
 
 ---
 
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
 # Configurar notificações de lembrete
 
@@ -54,12 +54,12 @@ Depois que as configurações do lembrete forem definidas e salvas, a notificaç
 
 As notificações de lembrete usam um formato de email e uma mensagem padrão. Se quiser personalizar o email, você pode criar um modelo.
 
-<!---
+<!--
 paragraph above needs a hyperlink to an article
---->
+-->
 
 ![Janela Novo modelo de email](assets/admin-fund-email-customization.png)
 
-<!---
+<!--
 learn more URLs
---->
+-->

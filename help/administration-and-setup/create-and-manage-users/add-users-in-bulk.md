@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
@@ -41,9 +41,9 @@ Os usuários importados aparecem na lista [!UICONTROL Usuários]. Edite as infor
 
 O [!DNL Workfront] fornece um modelo de início rápido para importar dados para o sistema. Também pode ser usado para importar usuários. Antes de usar o início rápido, o [!DNL Workfront] recomenda que você trabalhe com a pessoa responsável pela consultoria do [!DNL Workfront], pois há considerações das quais você deve estar ciente.
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 Consulte Importar dados para o Workfront por meio de inícios rápidos para obter informações detalhadas.
 

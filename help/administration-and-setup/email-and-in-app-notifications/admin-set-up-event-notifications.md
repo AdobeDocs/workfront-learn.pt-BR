@@ -10,20 +10,20 @@ level: Intermediate
 thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 100%
 
 ---
 
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
-<!---
+<!--
 add URL link in the note at the top of the LP
---->
+-->
 
 # Configurar notificações de eventos
 
@@ -107,6 +107,6 @@ Especificamente para gerentes de projeto:
 * [!UICONTROL Quando um problema for adicionada enviar email para o proprietário do projeto]
 * [!UICONTROL Uma tarefa marco foi concluída em um projeto de minha propriedade]
 
-<!---
+<!--
 learn more URLs
---->
+-->
