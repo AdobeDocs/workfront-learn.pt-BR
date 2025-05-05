@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
+source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2384'
 ht-degree: 94%
 
 ---
@@ -575,17 +575,7 @@ ht-degree: 94%
 
 + Início {#home}
    + [Remover, adicionar e reorganizar widgets na página inicial](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-   + [Encontrar seu trabalho](/help/workfront-home/find-your-work-in-workfront-home.md)
-   + [Organizar sua lista de tarefas](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-   + [Priorizar seu trabalho](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-   + [Indicar o status do trabalho](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-   + [Comunicação sobre o trabalho](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-   + [Registrar horas no trabalho](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [Marcar trabalhos atribuídos como concluídos](/help/workfront-home/mark-assigned-work-as-complete.md)
-   + [Aprovar trabalhos na [!UICONTROL página Inicial]](/help/workfront-home/approve-work-in-workfront-home.md)
-   + [Colaborar no trabalho com [!UICONTROL Minhas atualizações]](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-   + [Revisar o trabalho na seção [!UICONTROL Minhas atualizações] ou na [!UICONTROL página Inicial]](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [Entenda sobre as atualizações e notificações](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
 
 + Ágil {#agile}
 
