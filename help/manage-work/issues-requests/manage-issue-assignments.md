@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a:
 * Atualizar o progresso de problemas
 * Atualizar o status do problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446960/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

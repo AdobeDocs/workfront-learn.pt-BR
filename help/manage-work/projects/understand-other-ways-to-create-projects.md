@@ -55,7 +55,7 @@ O vídeo fornece um guia abrangente sobre como criar projetos no Workfront usand
 
 O vídeo enfatiza a flexibilidade do Workfront na criação de projetos por meio de modelos, arranhões, cópia ou importação, atendendo às diferentes necessidades do usuário. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432172/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

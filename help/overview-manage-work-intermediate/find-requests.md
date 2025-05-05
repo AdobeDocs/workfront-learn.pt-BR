@@ -33,7 +33,7 @@ Você aprenderá a encontrar essas solicitações nos seguintes locais:
 * Em um painel personalizado
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441659/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 ## Tutoriais recomendados sobre este tópico

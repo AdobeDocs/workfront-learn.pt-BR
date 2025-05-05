@@ -27,7 +27,7 @@ Em ambos os casos, quando o status do objeto muda para um especificado no proces
 
 Neste vídeo, você aprenderá a criar um processo de aprovação global e um processo de aprovação de uso único em um projeto, tarefa ou problema.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434692/?quality=12&learn=on&enablevpops&captions=por_br)
 
 >[!TIP]
 >

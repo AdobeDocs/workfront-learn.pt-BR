@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Como os usuários de prova podem se beneficiar dos modelos de fluxo de trabalho
 * Como começar a planejar quais modelos serão criados
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441302/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!--
 Learn More Icon

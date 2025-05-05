@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Definir datas de expiração em ativos individuais
 * Editar configurações de ativos
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419548/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Pastas de ativos
 

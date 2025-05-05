@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como adicionar e remover pessoas e equipes de um quadro, para que possam acessar as informações do quadro.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423045/?quality=12&learn=on&enablevpops&captions=por_br)

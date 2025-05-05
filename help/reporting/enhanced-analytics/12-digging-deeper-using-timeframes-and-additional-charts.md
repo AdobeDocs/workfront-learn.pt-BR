@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá:
 * Como detalhar um projeto no gráfico Plano de andamento para exibir o gráfico de burndown e o gráfico de tarefas em andamento
 * Como criar um filtro de período para ampliar um intervalo de datas
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437270/?quality=12&learn=on&enablevpops&captions=por_br)

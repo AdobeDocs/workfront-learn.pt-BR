@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Usar campos de metadados existentes
 * Criar campos de metadados personalizados
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419521/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Práticas recomendadas de metadados
 

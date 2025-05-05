@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Neste vídeo, aprenda como as filas de solicitações do [!DNL  Workfront] podem centralizar o gerenciamento da demanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437595/?quality=12&learn=on&enablevpops&captions=por_br)

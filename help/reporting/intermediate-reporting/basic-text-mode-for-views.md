@@ -40,7 +40,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Alguns modos de texto “plug and play” básicos que você pode usar em suas visualizações
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422892/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Compreender o modo de texto básico para exibições”
 

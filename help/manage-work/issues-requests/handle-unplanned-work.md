@@ -24,7 +24,7 @@ ht-degree: 12%
 O vídeo enfatiza a importância da comunicação na gestão de projetos e destaca o papel das questões como uma ferramenta chave para facilitar a comunicação. &#x200B; Ele explica a diferença entre atualizações e problemas, observando que os problemas são mais adequados para o trabalho que precisa ser atribuído, monitorado e resolvido antes que um projeto possa ser concluído. &#x200B; O vídeo fornece um guia passo a passo sobre como registrar problemas. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446571/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

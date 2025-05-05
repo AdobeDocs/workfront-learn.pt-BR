@@ -30,7 +30,7 @@ O vídeo explica o processo de fluxo de solicitações no Workfront, com foco no
 
 Ao abordar essas perguntas, os usuários podem planejar e configurar efetivamente sua fila de solicitações no Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441910/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 * Como navegar pelo Brand Connect
 * Como pesquisar ativos
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418751/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Critérios de pesquisa básica
 

@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Um modo de texto básico “plug and play” que você pode usar em seus filtros de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413832/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Compreender o modo de texto básico para filtros”
 

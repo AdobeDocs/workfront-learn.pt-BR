@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá:
 * Como acessar as configurações de relatório
 * Para que são usadas algumas configurações de relatório comuns
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445868/?quality=12&learn=on&enablevpops&captions=por_br)

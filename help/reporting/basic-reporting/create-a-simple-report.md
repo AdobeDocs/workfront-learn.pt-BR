@@ -24,7 +24,7 @@ Neste vídeo, você aprenderá a:
 
 * Crie um relatório simples usando um filtro, uma visualização e um agrupamento existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415834/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Criar um relatório simples”
 

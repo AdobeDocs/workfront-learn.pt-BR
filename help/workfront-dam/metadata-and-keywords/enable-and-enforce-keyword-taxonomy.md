@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá a:
 * Entenda quando usuários do [!UICONTROL Workfront DAM] podem inserir suas próprias palavras-chave
 * Configurar aspectos de pesquisa
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419505/?quality=12&learn=on&enablevpops&captions=por_br)

@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 
 * Ativar o projeto usando o status do projeto
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438990/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

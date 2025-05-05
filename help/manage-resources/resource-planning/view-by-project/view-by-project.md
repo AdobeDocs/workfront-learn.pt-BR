@@ -25,7 +25,7 @@ Neste vídeo, você:
 * Ver visualização [!UICONTROL Ver por projeto]
 * Saiba como as informações de recursos são exibidas nesta visualização
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431631/?quality=12&learn=on&enablevpops&captions=por_br)
 
 Para a opção Visualizar por Projeto, o padrão é mostrar a coluna Orçado, que extrai o número estimado de recursos necessários para um projeto a partir de um caso de negócios, caso tenha sido preenchido. Isso também significa que a coluna Líquido está, por padrão, usando os números da coluna Orçado para informar quantos recursos restam.
 

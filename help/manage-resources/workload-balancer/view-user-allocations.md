@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá a:
 * Selecione o modo Gráfico para obter uma exibição de alto nível da alocação de usuários
 * Mostrar detalhamentos de alocação diária dos usuários
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417883/?quality=12&learn=on&enablevpops&captions=por_br)

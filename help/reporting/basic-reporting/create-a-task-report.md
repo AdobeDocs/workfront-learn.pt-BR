@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 * Como criar um relatório de tarefas com um filtro complexo
 * Como localizar os relatórios que você cria
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448347/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Criar um relatório de tarefa”
 

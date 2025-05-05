@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá:
 * Como estimar as horas planejadas
 * Como adicionar horas planejadas a tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445338/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 ## Tutoriais e artigos recomendados sobre este tópico

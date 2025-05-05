@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como criar, gerenciar e personalizar exibições de tabela do tipo de registro no Adobe Workfront Planning para aprimorar a organização e a colaboração do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448144/?learn=on&enablevpops&captions=por_br)

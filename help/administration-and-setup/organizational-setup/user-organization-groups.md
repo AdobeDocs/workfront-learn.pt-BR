@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá a:
 * Associar um grupo
 * Criar e associar subgrupos
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432875/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Admins de grupo
 

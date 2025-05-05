@@ -35,6 +35,6 @@ Neste vídeo, você aprenderá:
 * Como criar um predecessor entre projetos
 * Como rastrear predecessores entre projetos em relatórios
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422839/?quality=12&learn=on&enablevpops&captions=por_br)
 
 Para saber como criar a visualização **Predecessores e sucessores entre projetos** e o relatório **Predecessores e sucessores entre projetos** usado no vídeo, consulte o tutorial [Compreender o modo de texto básico para visualizações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br) e certifique-se de seguir os tutoriais de pré-requisitos listados lá, se necessário.

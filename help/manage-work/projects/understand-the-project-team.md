@@ -24,7 +24,7 @@ ht-degree: 11%
 
 Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada e como mantê-la.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444594/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

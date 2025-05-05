@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Fazer comentários em uma prova de site estático
 * Fazer comentários em uma prova de site interativo
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445967/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!--
 ## Learn more

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Descubra como editar, adicionar, reorganizar e excluir colunas em um quadro.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422953/?quality=12&learn=on&enablevpops&captions=por_br)

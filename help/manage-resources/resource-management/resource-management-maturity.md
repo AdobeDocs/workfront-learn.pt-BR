@@ -32,7 +32,7 @@ No entanto, algumas pessoas podem estar mais adiantadas do que imaginam nessa jo
 
 ## Quatro estágios de maturidade do gerenciamento de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431655/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 ## Para onde ir a partir daqui

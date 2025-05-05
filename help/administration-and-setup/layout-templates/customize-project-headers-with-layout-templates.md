@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como adicionar e remover campos dos cabeçalhos de projeto por meio de modelos de layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422848?captions=por_br)

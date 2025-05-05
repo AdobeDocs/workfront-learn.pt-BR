@@ -27,4 +27,4 @@ Neste vídeo, você aprenderá a:
 * Adicionar itens no [!UICONTROL menu principal]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432304/?quality=12&learn=on&enablevpops&captions=por_br)

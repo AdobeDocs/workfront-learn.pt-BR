@@ -24,4 +24,4 @@ Neste vídeo, você aprenderá a:
 * Exibir ativos no Brand Connect
 * Exibir dados sobre um ativo, incluindo metadados e palavras-chave
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418744/?quality=12&learn=on&enablevpops&captions=por_br)

@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 * O que as expressões SUB, SUM, DIV e PROD fazem
 * Como criar uma expressão de dados SUB em um campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418968/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Informações adicionais: expressão ROUND
 

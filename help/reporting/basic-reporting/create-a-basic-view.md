@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como criar e modificar uma visualização
 * Como compartilhar uma visualização com outros usuários do Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450243/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Criar uma exibição básica”
 

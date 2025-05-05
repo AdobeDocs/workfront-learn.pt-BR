@@ -31,7 +31,7 @@ Neste vídeo, você aprenderá o seguinte sobre tipos de duração e restriçõe
 * Práticas recomendadas para usá-los
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422829/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 Para obter informações sobre como criar uma exibição de tipos de duração e restrições de tarefa, consulte a atividade **Exibição de tipos de duração e restrições de tarefa** em [Criar uma exibição básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR).

@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Definir um prazo para o processo de revisão e aprovação
 * Compartilhar o modelo de fluxo de trabalho automatizado com outras pessoas
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454256/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Opções adicionais de ativação de estágio
 

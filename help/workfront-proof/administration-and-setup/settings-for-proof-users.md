@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá a:
 * Ajustar as configurações de usuários de revisão no [!DNL  Workfront]
 * Ajustar as configurações do usuário de revisão nas configurações de back-end de revisão
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432922/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!--
 Lean More URLs

@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá a:
 * Fazer atribuições para uma tarefa não atribuída
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417882/?quality=12&learn=on&enablevpops&captions=por_br)

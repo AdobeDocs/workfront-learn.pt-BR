@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá sobre:
 * Exemplos de metas
 * Escopo de influência
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415832/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Designe pessoas responsáveis
 

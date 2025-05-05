@@ -23,7 +23,7 @@ Neste vídeo, você:
 
 * Obtenha uma introdução para o que você aprenderá com outro [!DNL Workfront] para vídeos do [!DNL Slack].
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435920/?quality=12&learn=on&enablevpops&captions=por_br)
 
 >[!NOTE]
 >

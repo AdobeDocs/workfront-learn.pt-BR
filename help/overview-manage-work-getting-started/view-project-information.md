@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a usar filtros, visualizações e agrupamentos pa
 * Informações no nível da tarefa
 * Informações no nível do problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453071/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

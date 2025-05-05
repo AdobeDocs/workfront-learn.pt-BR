@@ -31,7 +31,7 @@ Neste vídeo, você:
 
 * Obtenha uma introdução ao [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418795/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!-- Learn more graphic and link to article, below
 * Workfront DAM within Workfront

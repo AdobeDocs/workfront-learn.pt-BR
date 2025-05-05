@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá:
 * Um pouco sobre tarefas e problemas
 * Prática recomendada para começar a criar projetos
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435900/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

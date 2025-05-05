@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Como aplicar um fluxo de trabalho usando um modelo de prova
 * Como configurar um fluxo de trabalho automatizado do zero
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453015/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 

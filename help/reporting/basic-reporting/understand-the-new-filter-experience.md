@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá a:
 * Criar e editar filtros
 * Empilhar filtros
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422820/?quality=12&learn=on&enablevpops&captions=por_br)

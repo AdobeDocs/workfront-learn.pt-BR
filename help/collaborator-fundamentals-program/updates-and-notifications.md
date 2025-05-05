@@ -20,7 +20,7 @@ Neste vídeo, você aprenderá a:
 * Atualize manualmente suas solicitações de aprovação
 * Encontrar notificações
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440147/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!--
 learn more URLS

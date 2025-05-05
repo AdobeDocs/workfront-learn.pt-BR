@@ -35,4 +35,4 @@ Neste vídeo, você:
 * Pesquisará e visualizará ativos
 * Descobrirá como a estrutura de pastas afeta a organização e o acesso aos ativos
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432536/?quality=12&learn=on&enablevpops&captions=por_br)

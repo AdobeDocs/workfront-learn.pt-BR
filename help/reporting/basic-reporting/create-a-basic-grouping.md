@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Como criar um agrupamento
 * E como compartilhar um agrupamento com outros usuários do Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449820/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Criar um agrupamento básico”
 

@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá a:
 * Fazer upload de um site como uma prova estática
 * Fazer upload de um site como uma prova interativa
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445072/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 ## Considerações sobre conteúdo interativo

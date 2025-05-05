@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá a:
 * Configurar um modelo de metadados
 * Aplicar um modelo a uma pasta
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419486/?quality=12&learn=on&enablevpops&captions=por_br)

@@ -23,4 +23,4 @@ Neste vídeo, você aprenderá a:
 
 * Visualizar trabalhos recentes pelo [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435931/?quality=12&learn=on&enablevpops&captions=por_br)

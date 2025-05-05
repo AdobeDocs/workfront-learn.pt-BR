@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a criar e gerenciar status de sistema e grupo para objetos e fluxos de trabalho do Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451854/?learn=on&captions=por_br)

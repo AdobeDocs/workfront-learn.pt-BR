@@ -25,7 +25,7 @@ O vídeo explica como usar a ferramenta de Otimização do Portfolio no Workfron
 
 O vídeo enfatiza a importância de completar casos de negócios para comparações precisas e fornece instruções passo a passo para otimizar e gerenciar as prioridades do projeto de maneira eficaz. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446280/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais conclusões
 

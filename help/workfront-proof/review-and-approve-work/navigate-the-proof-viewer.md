@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá a:
 * Filtrar a coluna de comentários
 * Fechar a prova
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449855/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!-- 
 ## Learn more

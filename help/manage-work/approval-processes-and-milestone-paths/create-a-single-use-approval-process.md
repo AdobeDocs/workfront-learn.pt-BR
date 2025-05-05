@@ -26,7 +26,7 @@ O vídeo explica como criar e gerenciar processos de aprovação para projetos, 
 O vídeo demonstra a criação de processos de aprovação, configuração de aprovadores, configuração de status e uso de estágios para aprovações de vários níveis.
 &#x200B;Ela destaca a flexibilidade de processos globais e de uso único para gerenciar aprovações de tarefas de maneira eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434692/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

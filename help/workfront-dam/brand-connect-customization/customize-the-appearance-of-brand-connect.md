@@ -24,7 +24,7 @@ Neste vídeo, você aprenderá a:
 * Personalizar a barra de navegação e o rodapé
 * Personalizar a página inicial e a página de logon
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418780/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Configuração adicional de [!UICONTROL Aparência]
 

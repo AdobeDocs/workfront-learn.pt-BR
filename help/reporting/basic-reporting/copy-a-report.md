@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá:
 
 * Como criar rapidamente um novo relatório copiando e editando um relatório semelhante
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437050/?quality=12&learn=on&enablevpops&captions=por_br)

@@ -24,4 +24,4 @@ Neste vídeo, você aprenderá a:
 * Navegar pelos gráficos
 * Navegue pelo alinhamento de metas
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431648/?quality=12&learn=on&enablevpops&captions=por_br)

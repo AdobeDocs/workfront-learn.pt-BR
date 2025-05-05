@@ -23,4 +23,4 @@ Neste vídeo, você aprenderá a:
 
 * Atribuir tarefas no [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441522/?quality=12&learn=on&enablevpops&captions=por_br)

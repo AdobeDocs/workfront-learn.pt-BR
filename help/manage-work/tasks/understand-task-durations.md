@@ -27,7 +27,7 @@ A Workfront recomenda usar durações e predecessores para estabelecer linhas do
 &#x200B;Durações precisas são essenciais para um planejamento de projeto e um gerenciamento de recursos eficazes.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449348/?quality=12&learn=on&enablevpops&captions=por_br)
 
 ## Principais pontos
 

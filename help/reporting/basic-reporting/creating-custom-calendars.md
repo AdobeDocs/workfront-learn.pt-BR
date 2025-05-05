@@ -34,5 +34,5 @@ Neste vídeo, você aprenderá a:
 * Adicionar itens de trabalho ao agrupamento de calendários
 * Criar um calendário de folgas
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452398/?quality=12&learn=on&enablevpops&captions=por_br)
 

@@ -31,4 +31,4 @@ Neste vídeo, você aprenderá a:
 * Encontrar atribuições de trabalho novas e existentes
 * Revisar informações da atribuição
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432295/?quality=12&learn=on&enablevpops&captions=por_br)

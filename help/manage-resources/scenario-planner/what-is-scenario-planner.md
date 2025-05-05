@@ -30,4 +30,4 @@ Neste vídeo, você aprenderá:
 * Planejamento de cenário dentro da sua organização
 * Configurações de acesso necessárias para usar o [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413822/?quality=12&learn=on&enablevpops&captions=por_br)

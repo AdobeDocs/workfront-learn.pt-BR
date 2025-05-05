@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.  Está incluída uma coleção de práticas recomendadas, exercícios selecionados e outros recursos que ajudarão tanto você quanto sua organização a ter sucesso com o Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422436/?quality=12&learn=on&enablevpops&captions=por_br)
 
 <!-- 
 

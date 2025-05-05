@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Adicione um fluxo de trabalho ao gerar a prova
 * Adicione ou edite um fluxo de trabalho após a criação da prova
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443469/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 ## Quem pode fazer upload de documentos?

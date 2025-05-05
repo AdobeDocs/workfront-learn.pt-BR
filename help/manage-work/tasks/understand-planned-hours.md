@@ -27,7 +27,7 @@ As horas planejadas são cruciais para o gerenciamento de recursos no Workfront,
 Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas futuras e esclarecer expectativas com os trabalhadores.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445338/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 ## Principais pontos

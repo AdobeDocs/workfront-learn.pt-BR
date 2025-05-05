@@ -24,4 +24,4 @@ Neste vídeo, você aprenderá:
 * Para que o [!UICONTROL Brand Connect] é usado
 * Como acessar as configurações do [!UICONTROL Brand Connect] no [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418788/?quality=12&learn=on&enablevpops&captions=por_br)

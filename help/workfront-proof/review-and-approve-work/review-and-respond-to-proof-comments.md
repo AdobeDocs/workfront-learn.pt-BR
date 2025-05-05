@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá a:
 * Visualizar comentários de prova na seção de [!UICONTROL Atualizações]
 * Responder a um comentário de prova na seção de [!UICONTROL Atualizações] 
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438658/?quality=12&learn=on&enablevpops&captions=por_br)

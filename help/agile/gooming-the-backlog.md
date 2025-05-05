@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba como dividir histórias em histórias menores, repriorizar histórias na lista de pendências e marcar que as histórias estão prontas para serem colocadas em uma iteração.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413897/?quality=12&learn=on&enablevpops&captions=por_br)

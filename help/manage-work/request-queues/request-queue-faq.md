@@ -24,7 +24,7 @@ Na guia de [!UICONTROL Detalhes da fila] de solicitações ou projeto, certifiqu
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434161/?quality=12&learn=on&enablevpops&captions=por_br)
 
 **Forneci acesso à fila aos usuários, mas eles também podem ver o projeto da fila de solicitações. Porquê?**
 
@@ -62,7 +62,7 @@ Você pode acessar os campos nas origens de campo **[!UICONTROL Problema convert
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434181/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 **Qual é a melhor maneira de filtrar filas de solicitações em um relatório?**
@@ -73,7 +73,7 @@ Se o filtro do projeto incluir **Fila>>É pública>>Não é igual>>Nenhum**, o r
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434335/?quality=12&learn=on&enablevpops&captions=por_br)
 
 **Criar um status personalizado da fila de solicitações é uma boa ideia?**
 
