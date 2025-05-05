@@ -1,6 +1,6 @@
 ---
 title: Atualizar e revisar finanças
-description: Saiba como revisar as informações financeiras associadas a um projeto no  [!DNL  Workfront].
+description: Saiba como revisar as informações financeiras associadas a um projeto no  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

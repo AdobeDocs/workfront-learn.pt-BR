@@ -1,6 +1,6 @@
 ---
 title: Entenda a página do projeto
-description: Saiba mais sobre os principais recursos da página do projeto no  [!DNL  Workfront]  para ajudar você a planejar e gerenciar seus projetos.
+description: Saiba mais sobre os principais recursos da página do projeto no  [!DNL &#x200B; Workfront]  para ajudar você a planejar e gerenciar seus projetos.
 activity: use
 team: Technical Marketing
 feature: Work Management

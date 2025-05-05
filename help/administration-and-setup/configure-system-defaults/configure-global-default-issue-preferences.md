@@ -111,7 +111,7 @@ Janela de preferências ![[!UICONTROL Tarefas e problemas] com a seção [!UICON
 1. Expanda a seção **[!UICONTROL Preferências do projeto]** no painel do menu esquerdo.
 1. Selecione **[!UICONTROL Tarefas e problemas]**.
 1. Role até a seção **[!UICONTROL Acesso]** e localize a opção &quot;[!UICONTROL Quando alguém for atribuído a um PROBLEMA]&quot;.
-1. Defina o acesso de compartilhamento para o problema em si: [!UICONTROL Visualizar],[!UICONTROL  Contribuir] ou [!UICONTROL Gerenciar]. O [!DNL Workfront] recomenda deixar as opções avançadas como estão.
+1. Defina o acesso de compartilhamento para o problema em si: [!UICONTROL Visualizar],[!UICONTROL &#x200B; Contribuir] ou [!UICONTROL Gerenciar]. O [!DNL Workfront] recomenda deixar as opções avançadas como estão.
 1. Marque a caixa se o responsável pelo problema também deve ter acesso ao projeto
 1. Em seguida, selecione o acesso de compartilhamento para o projeto: [!UICONTROL Visualizar],[!UICONTROL Contribuir] ou [!UICONTROL Gerenciar]. Ao definir as [!UICONTROL Opções Avançadas], lembre-se dos fluxos de trabalho e das necessidades de acesso da sua organização.
 1. Salve quando terminar.

@@ -1,6 +1,6 @@
 ---
 title: Combine vários arquivos em uma única prova
-description: Aprenda como agilizar o processo de revisão combinando vários arquivos em uma única prova no [!DNL  Workfront].
+description: Aprenda como agilizar o processo de revisão combinando vários arquivos em uma única prova no [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
