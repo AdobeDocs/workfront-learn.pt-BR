@@ -26,7 +26,7 @@ Comece sua jornada do Workfront aprendendo a criar e planejar projetos. O Workfr
 
 Neste tutorial, você aprenderá a criar um projeto, planejar um projeto, gerenciar um projeto e fechar um projeto.
 
-Após concluir este tutorial, recomendamos [Gerenciar trabalho - intermediário](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) para aprimorar ainda mais suas habilidades de gerenciamento de projetos.
+Após concluir este tutorial, recomendamos [Gerenciar trabalho - intermediário](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=pt-BR) para aprimorar ainda mais suas habilidades de gerenciamento de projetos.
 
 >[!PREREQUISITES]
 >

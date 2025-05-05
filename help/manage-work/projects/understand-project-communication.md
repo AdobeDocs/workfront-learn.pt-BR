@@ -36,9 +36,9 @@ O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de
 
 >[!TIP]
 >
->Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
+>Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=pt-BR#activity-1-create-a-dashboard).
 
 ## Principais pontos
 

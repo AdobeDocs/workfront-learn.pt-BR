@@ -49,7 +49,7 @@ Crie este relatório fazendo uma cópia do relatório “Notas de pesquisa” cr
 
 ### Resposta 1
 
-1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Clique em **[!UICONTROL Ações do relatório]** e selecione **[!UICONTROL Copiar]**. O [!DNL Workfront] cria um novo relatório chamado “Pesquisa de notas (cópia)”.
 1. Vá para **[!UICONTROL Ações de relatório]** e clique em **[!UICONTROL Editar]**. Clique em **[!UICONTROL Configurações de relatório]** e altere o nome para “Notas de pesquisa neste projeto”.
 1. Clique em [!UICONTROL Solicitações de relatório] e exclua a solicitação [!UICONTROL Projeto] > [!UICONTROL Nome] da lista.

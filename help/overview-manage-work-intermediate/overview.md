@@ -38,7 +38,7 @@ Saiba mais sobre como aproveitar ao máximo o Workfront.
 >
 >* Boa compreensão do uso do Workfront
 >* Tipo de licença padrão com direitos para criar projetos habilitados
->* [Gerenciar trabalho - introdução](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [Gerenciar trabalho - introdução](https://experienceleague.adobe.com/?lang=pt-br&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Modelos de projeto

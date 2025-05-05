@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá:
 
 ## Saiba como criar uma exibição personalizada para ver e editar o status ativo de modelos de projeto
 
-Para criar uma exibição de modelo de projeto com uma coluna de status ativa, consulte a atividade **Exibição do status ativo do modelo de projeto** em [Criar uma exibição básica](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Para criar uma exibição de modelo de projeto com uma coluna de status ativa, consulte a atividade **Exibição do status ativo do modelo de projeto** em [Criar uma exibição básica](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutoriais recomendados sobre este tópico
 
