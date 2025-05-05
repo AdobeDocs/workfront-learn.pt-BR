@@ -1,6 +1,6 @@
 ---
 title: Noções básicas sobre a criação de projetos
-description: Saiba como criar, gerenciar e concluir projetos com eficiência, lidar com problemas inesperados e explorar dicas para iniciantes e dominar os recursos essenciais de gerenciamento de projetos. ​
+description: Saiba como criar, gerenciar e concluir projetos com eficiência, lidar com problemas inesperados e explorar dicas para iniciantes para dominar os recursos essenciais de gerenciamento de projetos.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 11%
+ht-degree: 22%
 
 ---
 
@@ -27,7 +27,7 @@ Este vídeo explica como criar e gerenciar um projeto do zero. &#x200B; Ele come
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 
-## Principais pontos
+## Principais conclusões
 
 * **Criação de um Projeto:** Comece criando um novo projeto, renomeando-o e definindo uma meta, uma descrição, uma data de início e uma data de conclusão.
 * **Analisar Trabalho:** Divida o projeto em tarefas individuais, estime durações, atribua responsabilidades e sequencie tarefas usando predecessores. &#x200B;

@@ -1,6 +1,6 @@
 ---
 title: Criar painéis
-description: Organize e exiba dados de projeto com painéis do Workfront, que podem ser personalizados, acessados facilmente, compartilhados e impressos para obter colaboração e gerenciamento de projetos perfeitos.
+description: Organize e exiba dados de projeto com painéis do Workfront, que podem ser personalizados, acessados com facilidade, compartilhados e impressos, simplificando a colaboração e o gerenciamento de projetos.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 62%
+ht-degree: 66%
 
 ---
 
