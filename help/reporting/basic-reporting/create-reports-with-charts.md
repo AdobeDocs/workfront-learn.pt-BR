@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 48%
+source-wordcount: '595'
+ht-degree: 39%
 
 ---
 
@@ -73,15 +73,16 @@ O final do trimestre está se aproximando e você talvez queira ver como os proj
 1. Na guia **[!UICONTROL Filtros]**, adicione duas regras de filtro:
 
    * [!UICONTROL Projeto] > [!UICONTROL Status igual a] > [!UICONTROL Concluído]
-   * [!UICONTROL Projeto] > [!UICONTROL &#x200B; Data efetiva de conclusão] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Projeto] > [!UICONTROL  Data efetiva de conclusão] > [!UICONTROL Último trimestre]
 
    ![Uma imagem da tela que permite adicionar filtros a um relatório](assets/chart-report-filters.png)
 
 1. Na guia **[!UICONTROL Gráfico]**, escolha **[!UICONTROL Coluna]** como o tipo de gráfico.
-1. Para o [!UICONTROL Eixo esquerdo (Y)], escolha [!UICONTROL Projeto] > [!UICONTROL Custo planejado].
-1. Para o [!UICONTROL Eixo inferior (X)], escolha [!UICONTROL Projeto] > [!UICONTROL Nome].
-1. Clique no botão **[!UICONTROL Gráfico de combinação]** e selecione [!UICONTROL Projeto] > [!UICONTROL Custo efetivo] no campo **[!UICONTROL Valor]**.
-1. Clique na seta ao lado da caixa de cores para alterar a cor do [!UICONTROL Custo efetivo]. Selecione uma das cores que aparece ou clique na caixa no canto inferior direito para abrir a paleta de cores.
+1. Para o [!UICONTROL Eixo esquerdo (Y)], escolha [!UICONTROL Custo Planejado].
+1. Para o [!UICONTROL Eixo Inferior (X)], escolha [!UICONTROL Nome].
+1. Clique no botão **[!UICONTROL Gráfico de Combinação]** e selecione [!UICONTROL Custo Real] no campo **[!UICONTROL Valor]**.
+1. No campo **[!UICONTROL Tipo de Gráfico]**, selecione Linha.
+1. Clique na caixa de cores para alterar a cor [!UICONTROL Custo Efetivo]. Selecione uma cor.
 1. Clique em **[!UICONTROL Salvar + Fechar]**. Quando for solicitado um nome de relatório, insira “Custo planejado comparado ao custo efetivo de projetos concluídos no último trimestre”.
 
    ![Uma imagem da tela que permite adicionar um gráfico a um relatório](assets/chart-report-chart.png)
