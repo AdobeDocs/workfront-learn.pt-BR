@@ -1,6 +1,6 @@
 ---
 title: Criar relatórios com gráficos
-description: Saiba como os gráficos podem melhorar a visualização de dados e como usar as ferramentas de gráfico no Workfront.
+description: Os gráficos aprimoram a visualização de dados organizando insights de dados por meio de filtros, agrupamentos e formatos de coluna empilhados personalizáveis, tornando a análise mais clara e acionável.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,45 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
+last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+workflow-type: tm+mt
+source-wordcount: '613'
+ht-degree: 48%
 
 ---
 
 # Criar relatórios com gráficos
 
-Neste vídeo, você aprenderá:
+O vídeo explica como usar gráficos para visualizar dados de maneira eficaz, especialmente para rastrear tarefas do projeto. &#x200B; Ela demonstra a criação de dois tipos de relatórios no Workfront:
 
-* Como os gráficos podem melhorar a visualização de dados
-* Como usar as ferramentas de gráfico do Workfront
+**Relatório de Tarefas Atrasadas por Projeto:**
+
+* Comece com um relatório de lista e aplique filtros para mostrar somente tarefas atrasadas e incompletas nos projetos atuais. &#x200B;
+* Agrupe tarefas por nome de projeto e crie um gráfico de pizza para visualizar a distribuição de tarefas atrasadas entre projetos. &#x200B;
+* Defina o gráfico como a guia padrão para facilitar o acesso. &#x200B;
+
+**Relatório de tarefas por projeto e status do progresso:**
+
+* Copie o primeiro relatório e adicione outro agrupamento para o status de progresso da tarefa.
+* Remova os filtros para incluir todas as tarefas, mostrando seu progresso durante a execução do projeto.
+* Use um gráfico de colunas empilhadas para exibir o número total de tarefas por projeto, com pilhas representando diferentes status de progresso.
+* Personalize as cores, se necessário, e salve o relatório.
+
+O vídeo destaca como gráficos de pizza e de colunas empilhadas podem fornecer insights sobre a distribuição de tarefas e o desempenho do projeto, ajudando os usuários a comparar projetos e entender visualmente o progresso da tarefa. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+
+## Principais conclusões
+
+* **Gráficos para Melhorar a Clareza dos Dados**: a visualização de dados com gráficos, como gráficos de pizza ou de coluna, facilita a compreensão da distribuição de tarefas e do progresso do projeto em comparação aos relatórios de lista. &#x200B;
+* **Filtragem para Insights Específicos**: a aplicação de filtros (por exemplo, tarefas incompletas e atrasadas em projetos atuais) ajuda a se concentrar em dados relevantes para análise direcionada. &#x200B;
+* **Agrupamento para melhor organização**: o agrupamento de tarefas por nome de projeto ou status de progresso organiza os dados de maneira eficaz, permitindo comparações significativas entre projetos. &#x200B;
+* **Opções de Personalização de Gráfico**: os usuários podem selecionar tipos de gráfico (por exemplo, pizza, coluna, barra) e personalizar cores para alinhá-las com preferências ou marcas. &#x200B;
+* **Gráficos de colunas empilhadas para Insights Detalhados**: os gráficos de colunas empilhadas fornecem uma visão abrangente do progresso das tarefas nos projetos, mostrando o total de tarefas e seus status em uma única visualização.
+
 
 ## Atividades “Criar relatórios com gráficos”
 
