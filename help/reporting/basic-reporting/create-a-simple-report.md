@@ -8,23 +8,35 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
+last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '247'
-ht-degree: 100%
+source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
+workflow-type: tm+mt
+source-wordcount: '467'
+ht-degree: 49%
 
 ---
 
 # Crie um relatório simples
 
-Neste vídeo, você aprenderá a:
+Este vídeo explica como criar e personalizar relatórios de projeto para analisar dados com eficiência. &#x200B; Ela começa destacando a importância dos relatórios no rastreamento do progresso do projeto, da conclusão da tarefa, da adesão ao orçamento e na identificação de problemas. O vídeo mostra como começar com um relatório de lista de projetos, ajustar filtros, visualizações e agrupamentos e criar um relatório personalizado para conveniência. &#x200B; &#x200B;
 
-* Crie um relatório simples usando um filtro, uma visualização e um agrupamento existentes
+O vídeo enfatiza que os relatórios personalizados mantêm as configurações padrão, mas alterações temporárias podem ser feitas ao visualizá-los. &#x200B; Os relatórios são armazenados na seção &quot;Meus relatórios&quot;, enquanto os relatórios compartilhados aparecem em &quot;Compartilhado comigo&quot; &#x200B; Os relatórios usados com frequência podem ser fixados ou marcados como favoritos para facilitar o acesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415834/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+
+## Principais conclusões
+
+
+* **Finalidade dos relatórios**: os relatórios ajudam a monitorar o progresso do projeto, a conclusão da tarefa, a adesão ao orçamento e a identificar problemas, tornando-os essenciais para um gerenciamento eficaz de projetos.
+* **Criação de relatórios personalizados**: os relatórios personalizados permitem salvar filtros, visualizações e agrupamentos específicos para facilitar o acesso, eliminando a necessidade de ajustar as configurações repetidamente. &#x200B;
+* **Etapas para criar um relatório:** selecione o tipo de objeto apropriado, nomeie o relatório, aplique filtros, exibições e agrupamentos, personalize colunas e salve o relatório. &#x200B;
+* **Configurações Padrão vs. Temporárias&#x200B;** Enquanto os visualizadores podem alterar temporariamente filtros, visualizações e agrupamentos, o relatório sempre reverterá para suas configurações padrão após a reabertura. &#x200B;
+* **Organização de relatórios**: os relatórios personalizados são armazenados em &quot;Meus relatórios&quot;, os relatórios compartilhados em &quot;Compartilhado comigo&quot; e os relatórios usados com frequência podem ser fixados ou marcados como favoritos para acesso rápido. &#x200B;
+
+
 
 ## Atividades “Criar um relatório simples”
 
