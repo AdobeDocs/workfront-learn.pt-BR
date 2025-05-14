@@ -39,7 +39,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Um modo de texto “plug and play” básico que você pode usar nos seus agrupamentos
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422901/?quality=12&learn=on&captions=por_br)
 
 ## Atividades “Compreender o modo de texto básico para agrupamentos”
 
