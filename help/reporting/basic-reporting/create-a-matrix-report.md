@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+workflow-type: tm+mt
+source-wordcount: '418'
+ht-degree: 62%
 
 ---
 
@@ -25,7 +26,15 @@ Neste vídeo, você aprenderá:
 * Quando um relatório matriz pode ser útil
 * E como criar um relatório matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/3448188/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Principais conclusões
+
+* **Estrutura do Relatório de Matriz:** os relatórios de matriz organizam dados em linhas e colunas, com totais automáticos de linhas e colunas. &#x200B; Eles são ideais para rastrear métricas como horas trabalhadas, custos e receita. &#x200B;
+* **Configuração de Filtros**: use filtros para se concentrar em dados específicos, como horas trabalhadas durante o último trimestre por usuários de uma equipe doméstica específica. &#x200B; A &quot;fonte de campo do proprietário&quot; ajuda a identificar membros relevantes da equipe. &#x200B;
+* **Opções de Agrupamento:** Em nosso exemplo, as linhas são agrupadas por &quot;nome do proprietário&quot; (pessoa que trabalhou as horas), enquanto as colunas são agrupadas por &quot;data de entrada de hora&quot; (por mês e semana). &#x200B;
+* **Dados Resumidos:** colunas como horas, custo real e receita são resumidas por padrão, garantindo que os totais sejam exibidos na matriz. Esses padrões podem ser desativados, se desejado. &#x200B;
+* **Integração de Gráfico:** Relatórios de matriz podem ser complementados com gráficos para visualização alternativa de dados, usando as mesmas informações de agrupamento. É possível definir a guia da matriz ou a guia do gráfico como a exibição padrão. &#x200B;
 
 ## Atividades “Criar um relatório de matriz”
 
