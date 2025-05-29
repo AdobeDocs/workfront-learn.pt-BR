@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '216'
-ht-degree: 100%
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 61%
 
 ---
 
@@ -26,7 +27,16 @@ Neste vídeo, você aprenderá:
 * Como compartilhar relatórios com qualquer pessoa
 * O que os destinatários podem ver e fazer com um relatório do Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447817/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Principais conclusões
+
+* **Envio de Relatórios para Usuários Externos:** É possível enviar relatórios para usuários que não são da Workfront inserindo seus endereços de email, facilitando o compartilhamento de dados fora da organização. &#x200B;
+* **Visibilidade de Controle de Direitos de Acesso:** a exibição do relatório pelo destinatário depende dos direitos de acesso definidos, garantindo a segurança dos dados e a visibilidade apropriada. &#x200B;
+* **Entrega repetitiva para instantâneos:** entregas agendadas fornecem instantâneos congelados de dados em horários específicos, úteis para rastrear tendências e manter um histórico de dados do projeto. &#x200B;
+* **Compartilhamento de Relatórios com Equipes:** Os relatórios podem ser compartilhados com indivíduos, equipes ou funções de trabalho, concedendo direitos de exibição ou gerenciamento. &#x200B; Os relatórios compartilhados aparecem na seção usuários &quot;Compartilhados comigo&quot;. &#x200B;
+* **Compartilhamento Público e em Todo o Sistema:** Os relatórios podem ser compartilhados por meio de links públicos para usuários externos ou podem ser exibidos em todo o sistema para todos os usuários do Workfront, oferecendo flexibilidade no compartilhamento de dados.
+
 
 ## Atividades “Enviar e compartilhar relatórios”
 
