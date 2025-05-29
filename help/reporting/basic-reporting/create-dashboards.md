@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
+last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 66%
+source-wordcount: '646'
+ht-degree: 49%
 
 ---
 
@@ -23,7 +24,7 @@ ht-degree: 66%
 O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 &#x200B;Ele explica que um painel é uma coleção de relatórios que permite aos usuários organizar e exibir dados relacionados em um local.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449127/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Principais conclusões
 
@@ -40,7 +41,7 @@ O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 
 Crie um [!UICONTROL painel] com apenas um relatório: “Notas de pesquisa neste projeto”. Isto é útil para encontrar rapidamente qualquer atualização feita em um projeto, mesmo que haja milhares de atualizações para pesquisar. Isso pesquisará as threads de atualização para extrair rapidamente quaisquer atualizações que atendam aos critérios especificados nos prompts.
 
-Crie este relatório fazendo uma cópia do relatório “Notas de pesquisa” criado na atividade “Criar um relatório de notas” (ou use outro relatório caso não tenha feito essa atividade).
+Crie este relatório fazendo uma cópia do relatório &quot;Search Notes&quot; que você criou na atividade &quot;Create a note report&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Remova a solicitação de nome do projeto da cópia e renomeie o relatório como “Notas de pesquisa neste projeto”.
 * Nomeie o [!UICONTROL Painel] como “Notas de pesquisa”.
@@ -49,7 +50,7 @@ Crie este relatório fazendo uma cópia do relatório “Notas de pesquisa” cr
 
 ### Resposta 1
 
-1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Clique em **[!UICONTROL Ações do relatório]** e selecione **[!UICONTROL Copiar]**. O [!DNL Workfront] cria um novo relatório chamado “Pesquisa de notas (cópia)”.
 1. Vá para **[!UICONTROL Ações de relatório]** e clique em **[!UICONTROL Editar]**. Clique em **[!UICONTROL Configurações de relatório]** e altere o nome para “Notas de pesquisa neste projeto”.
 1. Clique em [!UICONTROL Solicitações de relatório] e exclua a solicitação [!UICONTROL Projeto] > [!UICONTROL Nome] da lista.
@@ -61,7 +62,7 @@ Crie este relatório fazendo uma cópia do relatório “Notas de pesquisa” cr
 
    Em seguida, você usará um atalho para criar um novo painel e adicionar este relatório a ele.
 
-1. Clique em **[!UICONTROL Ações do relatório]** e selecione **[!UICONTROL Adicionar ao painel]** > **[!UICONTROL Novo painel]**.
+1. Clique em **[!UICONTROL Ações de Relatório]** e selecione **[!UICONTROL Adicionar ao Painel Clássico]** > **[!UICONTROL Novo Painel]**.
 1. Arraste o relatório “Notas de pesquisa neste projeto” para o painel **[!UICONTROL Layout]**.
 1. Observe que o nome do relatório se torna o nome do painel. Altere o nome para “Notas de pesquisa”.
 
@@ -73,8 +74,8 @@ Crie este relatório fazendo uma cópia do relatório “Notas de pesquisa” cr
 
    ![Uma imagem da tela de criação de um novo painel](assets/add-custom-section.png)
 
-1. Abra qualquer projeto. No menu do painel esquerdo, clique no ícone **[!UICONTROL Adicionar seção personalizada]**.
-1. No campo **[!UICONTROL Adicionar um painel]**, insira “Notas de pesquisa” e selecione o [!UICONTROL painel] na lista.
-1. No campo **[!UICONTROL Título da seção personalizada]**, insira “Notas de pesquisa”.
-1. Clique em **[!UICONTROL Adicionar nova seção]**.
-1. No menu do painel esquerdo, encontre “Notas de pesquisa”. Clique nos pontos à esquerda do nome da seção e arraste-a para a direita, abaixo de “Atualizações”.
+1. Abra qualquer projeto. No menu do painel esquerdo, clique no botão **[!UICONTROL Adicionar um painel]**.
+1. No campo **[!UICONTROL Escolher um painel]**, digite &quot;Notas de Pesquisa&quot; e selecione o [!UICONTROL painel] na lista.
+1. No campo **[!UICONTROL Nome do link rápido]**, digite &quot;Notas de Pesquisa&quot;.
+1. Clique em **[!UICONTROL Adicionar]**.
+1. No menu do painel esquerdo, localize as Notas de pesquisa perto da parte inferior. Clique nos pontos à esquerda do nome e arraste-o para a direita abaixo de Atualizações.
