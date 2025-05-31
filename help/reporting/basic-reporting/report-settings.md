@@ -27,4 +27,4 @@ Neste vídeo, você aprenderá:
 * Como executar seu relatório com os direitos de acesso de um usuário específico
 * Como configurar e usar prompts de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445868/?quality=12&learn=on&enablevpops&captions=por_br)
