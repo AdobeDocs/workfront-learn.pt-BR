@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '983'
-ht-degree: 100%
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+workflow-type: tm+mt
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +43,7 @@ Crie um novo projeto no Workfront para cada linha no arquivo CSV da lista de pro
    ![Design do cenário inicial - Imagem 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. Na próxima página, pesquise por Workfront e selecione esse aplicativo. Em seguida, clique em Continuar.
-1. No canto superior esquerdo da tela do designer de cenários, renomeie o cenário como “Design do cenário inicial”
+1. Na parte superior esquerda da tela do designer de cenários, renomeie o cenário como &quot;Design de cenário inicial&quot;
 1. Clique no módulo acionador vazio no centro da tela e selecione o aplicativo Workfront e, em seguida, selecione o módulo Baixar documento.
 
    **Autentique a conexão do módulo com sua conta do Workfront.**
@@ -55,7 +56,7 @@ Crie um novo projeto no Workfront para cada linha no arquivo CSV da lista de pro
 
    ![Design do cenário inicial - Imagem 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Digite a URL da **sua instância do Workfront** e clique em Próximo.
+1. Insira a URL de **sua conta de unidade de teste do Workfront** e clique em Avançar.
 
    ![Design do cenário inicial - Imagem 5](../12-exercises/assets/initial-scenario-design-5.png)
 
