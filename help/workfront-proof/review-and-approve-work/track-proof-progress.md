@@ -1,6 +1,6 @@
 ---
 title: Acompanhar progresso da prova
-description: Aprenda a usar os indicadores [!UICONTROL EACD], o progresso da prova e os relatórios para acompanhar o andamento de uma prova no  [!DNL  Workfront].
+description: Aprenda a usar os indicadores [!UICONTROL EACD], o progresso da prova e os relatórios para acompanhar o andamento de uma prova no  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Para visualizar o progresso da prova no [!DNL Workfront], você deve ter uma lic
 
 Obtenha uma visão de alto nível de como a prova está progredindo no processo de revisão e aprovação usando os ícones [!UICONTROL EACD] da lista de [!UICONTROL Documentos]. Esses ícones indicam ações específicas realizadas na prova.
 
-![Imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL  Workfront] com os ícones [!UICONTROL EACD] destacados.](assets/manage-proofs-socd.png)
+![Imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL &#x200B; Workfront] com os ícones [!UICONTROL EACD] destacados.](assets/manage-proofs-socd.png)
 
 Os ícones indicam o trabalho feito em uma prova desde o momento em que você a envia para os destinatários até o momento em que eles tomam uma decisão sobre a prova.
 
@@ -59,7 +59,7 @@ Se quiser saber o que cada destinatário individual da prova está fazendo, abra
 
 O status da prova é baseado no status dos recipients da prova do estágio. O status geral da prova é visível na página [!UICONTROL Documentos], à direita dos indicadores [!UICONTROL EACD], para que você possa saber facilmente se foi tomada uma decisão sobre a prova.
 
-![Uma imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL  Workfront] com o status geral da prova destacado.](assets/manage-proofs-overall-status.png)
+![Uma imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL &#x200B; Workfront] com o status geral da prova destacado.](assets/manage-proofs-overall-status.png)
 
 Este “status da prova” indica o status geral da prova. Por exemplo, se dois destinatários aprovaram a prova, seus status individuais serão exibidos como [!UICONTROL Aprovada]. No entanto, o terceiro destinatário ainda não tomou uma decisão, portanto, o status dessa pessoa é [!UICONTROL Pendente]. Portanto, o status geral é exibido como [!UICONTROL Pendente].
 
@@ -79,11 +79,11 @@ Você também pode aproveitar os recursos de relatórios do [!DNL Workfront's] p
 
 Um relatório de aprovação de prova ajuda a acompanhar as aprovações pendentes para garantir que os prazos sejam cumpridos.
 
-![Imagem de um relatório de aprovação de prova no [!DNL  Workfront].](assets/proof-approval-report.png)
+![Imagem de um relatório de aprovação de prova no [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Um relatório de versão do documento permite gerenciar e acompanhar versões da prova.
 
-![Imagem de um relatório de versão do documento no [!DNL  Workfront].](assets/document-version-report.png)
+![Imagem de um relatório de versão do documento no [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Recomendamos conversar com o(a) consultor(a) do [!DNL Workfront] para criar relatórios que atendam aos requisitos da sua organização. Alguns dos relatórios exigem conhecimento sobre os relatórios do modo de texto do [!DNL Workfront's].
 
