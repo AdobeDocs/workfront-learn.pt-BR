@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '827'
-ht-degree: 100%
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+workflow-type: tm+mt
+source-wordcount: '974'
+ht-degree: 77%
 
 ---
 
 # Criar uma visualização básica
 
-Neste vídeo, você aprenderá:
+O vídeo explica como criar e personalizar exibições no Workfront para exibir informações específicas sobre itens em uma lista, como projetos, tarefas, problemas e documentos. &#x200B; As exibições permitem que os usuários vejam detalhes como nome, descrição, status e outros campos relevantes para os itens. &#x200B;
 
-* O que é uma visualização no Workfront
-* Como criar e modificar uma visualização
-* Como compartilhar uma visualização com outros usuários do Workfront
+O vídeo enfatiza a flexibilidade das visualizações no Workfront e fornece instruções passo a passo para criá-las, personalizá-las e gerenciá-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450243/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Principais conclusões
+
+* **Personalizando Exibições**: os usuários podem editar exibições existentes ou criar novas adicionando, removendo ou reorganizando colunas para exibir informações específicas, como status ou orçamento do projeto.
+* **Edição em linha**: alguns campos em uma exibição de lista podem ser atualizados diretamente sem abrir itens individuais, tornando mais rápido fazer alterações. &#x200B;
+* **Criando Exibições do Zero**: os usuários podem criar exibições para atender a necessidades específicas, como rastrear a integridade do projeto, adicionando colunas relevantes como orçamento, custo real e status de progresso. &#x200B;
+* **Compartilhamento e Gerenciamento de Exibições**: as exibições personalizadas podem ser compartilhadas com membros da equipe para colaboração ou removidas quando não forem mais necessárias.
 
 ## Atividades “Criar uma exibição básica”
 
@@ -65,7 +70,7 @@ Passe o mouse sobre cada um dos ícones na coluna [!UICONTROL Ícones de status]
 
 ### Atividade 2: criar uma visualização de marcos
 
-Se você usa marcos, essa visualização é a maneira mais fácil de encontrá-los por nome e adicioná-los ou editá-los usando a edição em linha.
+Se você usa marcos, essa exibição é a maneira mais fácil de ver marcos por nome na lista de tarefas e adicioná-los ou removê-los de uma tarefa usando a edição em linha.
 
 Crie uma visualização de tarefas chamada “Visualização de marcos” com as seguintes colunas:
 
@@ -86,7 +91,7 @@ Crie uma visualização de tarefas chamada “Visualização de marcos” com as
 1. Em uma lista de tarefas do projeto, acesse o menu suspenso **[!UICONTROL Visualização]** e selecione **[!UICONTROL Nova visualização]**.
 1. Nomeie sua visualização como “Visualização de marco”.
 1. Clique na coluna [!UICONTROL Predecessores] para selecioná-la.
-1. No campo [!UICONTROL Exibir nesta coluna], clique no ícone de X no campo [!UICONTROL Tarefa >> Predecessores] e digite o “[!UICONTROL nome do marco]” e clique no “[!UICONTROL  Nome]” na lista.
+1. No campo [!UICONTROL Mostrar nesta coluna], clique no ícone &quot;menos&quot; no campo [!UICONTROL Tarefa >> Predecessoras], digite &quot;[!UICONTROL nome da etapa]&quot; e clique no &quot;[!UICONTROL Nome]&quot; na lista.
 1. Clique em **[!UICONTROL Salvar]**.
 
 ![Uma imagem de uma lista de tarefas usando uma visualização de marcos](assets/view-milestone-exercise-2.png)
