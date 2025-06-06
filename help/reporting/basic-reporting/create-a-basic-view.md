@@ -25,7 +25,7 @@ O vídeo explica como criar e personalizar exibições no Workfront para exibir 
 
 O vídeo enfatiza a flexibilidade das visualizações no Workfront e fornece instruções passo a passo para criá-las, personalizá-las e gerenciá-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450243/?quality=12&learn=on&captions=por_br)
 
 ## Principais conclusões
 
