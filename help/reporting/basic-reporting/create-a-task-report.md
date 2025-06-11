@@ -1,6 +1,6 @@
 ---
 title: Crie um relatório de tarefas
-description: Saiba como criar um relatório de tarefas com um filtro complexo e encontrar os relatórios que você cria no Workfront. Atividade - crie um relatório de observações com prompts.
+description: Saiba como criar um relatório de tarefas com um filtro complexo e encontrar os relatórios que você cria no Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
 workflow-type: tm+mt
-source-wordcount: '925'
-ht-degree: 100%
+source-wordcount: '1116'
+ht-degree: 77%
 
 ---
 
 # Crie um relatório de tarefas
 
-Neste vídeo, você aprenderá:
+O vídeo fornece um guia passo a passo sobre como criar um relatório personalizado para rastrear tarefas atrasadas atribuídas ao usuário conectado. Ele começa explicando a necessidade de relatórios personalizados quando os filtros, as exibições ou os relatórios internos existentes não atendem aos requisitos específicos. &#x200B; O relatório é chamado de &quot;Tarefas atrasadas atribuídas a mim&quot;, com uma descrição adicionada para maior clareza. &#x200B;
 
-* Como criar um relatório de tarefas com um filtro complexo
-* Como localizar os relatórios que você cria
+O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasadas, fornece insights sobre dependências e simplifica a navegação para os projetos de host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448347/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## Principais conclusões
+
+* **Criação de relatório personalizado**: quando os filtros existentes e os relatórios internos não atenderem às suas necessidades, você poderá criar um relatório personalizado do zero para se concentrar em dados específicos, como tarefas atrasadas atribuídas a você. &#x200B;
+* **Configuração de Filtro:** Use filtros para definir critérios de relatório, incluindo tarefas atrasadas, tarefas incompletas, projetos atuais e tarefas atribuídas ao usuário conectado. &#x200B;
+* **Colunas para Contexto:** adicione colunas como &quot;Pode Iniciar&quot; para identificar problemas de dependência e &quot;Nome do Projeto&quot; com hiperlinks para facilitar a navegação para projetos relacionados. &#x200B;
+* **Classificação por Prioridade:** Classifique tarefas pela coluna &quot;Concluído em&quot; em ordem crescente para priorizar as tarefas mais atrasadas na parte superior do relatório. &#x200B;
+* **Acessibilidade:** Salve o relatório, marque-o ou marque-o como favorito para acesso rápido, garantindo um rastreamento e gerenciamento eficiente de tarefas atrasadas.
+
 
 ## Atividades “Criar um relatório de tarefa”
 
 >[!TIP]
 >
 >Pegue suas espátulas e tigelas e prepare-se para experimentar as “receitas” em nosso [Livro de receitas de relatórios do cliente do Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Lá dentro, você encontrará instruções passo a passo para 10 relatórios, prontos para você preparar em seu ambiente hoje mesmo.
->Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
->Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
+>>Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
+>>Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
 
 
 ### Atividade 1: criar um relatório de notas com solicitações
@@ -114,11 +123,11 @@ Este é um relatório que mostra todos os problemas de uma fila de solicitaçõe
 
 Esse relatório também usa um formulário personalizado. Para saber como criar um formulário personalizado, consulte o tutorial [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=pt-BR).
 
-Esse formulário personalizado deve ser criado da seguinte maneira:
+Este formulário personalizado deve usar tipos de objeto Projeto e Problema e deve ser criado da seguinte maneira:
 
 Nome: feedback do processo administrativo
 
-1. Tipo de processo (campo suspenso)
+1. Tipo de processo (campo suspenso de seleção única)
    * níveis de acesso
    * processo de aprovação (somente global)
    * notificações de email
@@ -128,7 +137,7 @@ Nome: feedback do processo administrativo
    * notificações de lembrete
    * fila de solicitações
 1. Nome do processo (campo de texto de linha única)
-1. Grau do processo (campo suspenso)
+1. Nível do processo (campo suspenso de seleção única)
    * 1 - totalmente inútil
    * 2 - não muito útil
    * 3 - bom, mas poderia ser melhor
