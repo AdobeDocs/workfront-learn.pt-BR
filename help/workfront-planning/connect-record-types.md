@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba como conectar tipos de registro no Workfront Planning para simplificar fluxos de trabalho, aumentar a clareza e aprimorar a responsabilidade e a eficiência da equipe. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463803/?learn=on&enablevpops&captions=por_br)
