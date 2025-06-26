@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Entenda por que usar curingas
 * Crie um filtro com um curinga baseado no usuário
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413827/?quality=12&learn=on&captions=por_br)
 
 >[!TIP]
 >
