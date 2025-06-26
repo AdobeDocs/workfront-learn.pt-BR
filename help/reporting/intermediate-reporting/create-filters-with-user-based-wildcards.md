@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 87%
 
 ---
 
@@ -25,11 +26,11 @@ Neste vídeo, você aprenderá a:
 * Entenda por que usar curingas
 * Crie um filtro com um curinga baseado no usuário
 
->[!VIDEO](https://video.tv.adobe.com/v/3413827/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Use origem e nome do campo Usuários atribuídos >> ID, quando criar filtros que exibam uma informação de atribuição de tarefa ou problema.  Esta opção analisa todos os usuários atribuídos à tarefa ou problema, não apenas o “proprietário” ou responsável principal.
+>Use origem e nome do campo Usuários atribuídos >> ID, quando criar filtros que exibam uma informação de atribuição de tarefa ou problema.  Essa opção analisa todos os usuários atribuídos à tarefa ou problema, não apenas o &quot;proprietário&quot; ou o responsável principal.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ Neste vídeo, você aprenderá a:
 
 ### Atividade 1
 
-Você tem um tempinho extra esta semana e deseja saber se alguém na sua equipe precisa de ajuda com as tarefas. Crie um filtro de tarefas para encontrar tarefas que vencem esta semana e ainda não foram concluídas.
+Você tem um tempinho extra esta semana e deseja saber se alguém na sua equipe precisa de ajuda com as tarefas. Crie um filtro de tarefas para encontrar tarefas atribuídas à sua equipe inicial que vencem esta semana e ainda não foram concluídas.
 
 ### Resposta 1
 
