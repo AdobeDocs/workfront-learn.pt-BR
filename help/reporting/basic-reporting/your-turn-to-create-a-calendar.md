@@ -1,6 +1,6 @@
 ---
-title: Sua vez de criar um relatório de calendário
-description: Saiba como criar um calendário de cliente, mostrando as suas tarefas e problemas pendentes.
+title: Atividade - Criar um relatório de calendário
+description: Instruções passo a passo sobre como criar um calendário do cliente mostrando suas tarefas incompletas e problemas.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,18 +11,14 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 89%
+source-wordcount: '362'
+ht-degree: 81%
 
 ---
 
-# Sua vez de criar um relatório de calendário
-
-Nesta atividade, você aprenderá na prática como criar o seu próprio calendário.
-
-## Atividade: criar um calendário
+# Atividade - Criar um relatório de calendário
 
 Crie um calendário de cliente chamado de “Meu trabalho pendente”.
 
