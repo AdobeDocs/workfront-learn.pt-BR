@@ -8,11 +8,11 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2024-10-04T00:00:00Z
+last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 100%
@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Um modo de texto básico “plug and play” que você pode usar em seus filtros de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3413832/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Atividades “Compreender o modo de texto básico para filtros”
 
