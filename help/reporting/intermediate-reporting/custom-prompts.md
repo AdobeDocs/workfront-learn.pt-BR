@@ -8,10 +8,11 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 5bc402119573d7ca0f478e1ed134c2bcfee52d8f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
@@ -26,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como criar uma solicitação personalizada usando o modo de texto
 * Alguns exemplos que você pode usar nos relatórios
 
->[!VIDEO](https://video.tv.adobe.com/v/3413833/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
 ## Atividades “Criar prompts personalizados”
 
