@@ -1,6 +1,6 @@
 ---
 title: Entenda o modo de texto básico para agrupamentos
-description: Aprenda o que é modo de texto, o que é a mistura de maiúsculas e minúsculas, e alguns modos de texto “plug and play” básicos que você pode usar nos seus agrupamentos do Workfront.
+description: Saiba mais sobre modo de texto, camel case e alguns modos de texto básicos que você pode usar nos agrupamentos de relatório no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 88%
 
 ---
 
@@ -37,9 +38,9 @@ Neste vídeo, você aprenderá:
 
 * O que é o modo de texto
 * O que é camel case
-* Um modo de texto “plug and play” básico que você pode usar nos seus agrupamentos
+* Alguns _blocos de código do modo texto_ que você pode usar nos agrupamentos de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3422901/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Atividades “Compreender o modo de texto básico para agrupamentos”
 

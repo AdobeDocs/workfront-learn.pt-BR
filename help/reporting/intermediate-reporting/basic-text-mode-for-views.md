@@ -1,6 +1,6 @@
 ---
 title: Entenda o modo de texto básico para visualizações
-description: Aprenda o que é o modo de texto, o que é “Camel case” e veja alguns modos de texto “plug and play” básicos que você pode usar em suas visualizações no Workfront.
+description: Saiba mais sobre o modo de texto, camel case e alguns modos de texto básicos que você pode usar nas visualizações de relatório no Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 100%
+source-wordcount: '651'
+ht-degree: 94%
 
 ---
 
@@ -38,9 +39,9 @@ Neste vídeo, você aprenderá:
 
 * O que é o modo de texto
 * O que é camel case
-* Alguns modos de texto “plug and play” básicos que você pode usar em suas visualizações
+* Alguns _blocos de código do modo texto_ que você pode usar em suas exibições de relatórios
 
->[!VIDEO](https://video.tv.adobe.com/v/3422892/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Atividades “Compreender o modo de texto básico para exibições”
 
