@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
+source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
 workflow-type: tm+mt
-source-wordcount: '2284'
+source-wordcount: '2288'
 ht-degree: 93%
 
 ---
@@ -126,6 +126,7 @@ ht-degree: 93%
       + [Entenda as tarefas principais-secundárias](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [Trabalhar com tarefas](/help/manage-work/tasks/work-with-tasks.md)
       + [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+      + [Atualizar o status da tarefa](/help/manage-work/tasks/update-the-task-status.md)
       + [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
       + [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
