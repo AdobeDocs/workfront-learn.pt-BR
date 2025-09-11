@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: cbfd815936733ff07d3d084952588f5e8923f3d7
+source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
 workflow-type: tm+mt
-source-wordcount: '2298'
+source-wordcount: '2306'
 ht-degree: 93%
 
 ---
@@ -241,6 +241,7 @@ ht-degree: 93%
 
    + Painéis de tela {#canvas-dashboards}
       + [Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Criar um relatório de KPI em um Painel da Tela](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 
 
 + Gerenciar recursos {#manage-resources}
