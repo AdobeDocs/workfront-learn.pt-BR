@@ -60,6 +60,6 @@ Os desafios são para aqueles que querem tentar algo que envolva outros conceito
 
 As instruções passo a passo são fornecidas para ajudar você a concluir os exercícios de apresentação.
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), onde você pode publicar suas perguntas.
+Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=pt), onde você pode publicar suas perguntas.
