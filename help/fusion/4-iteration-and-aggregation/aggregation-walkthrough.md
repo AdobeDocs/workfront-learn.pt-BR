@@ -30,7 +30,7 @@ Usando o cenário “Introdução à iteração” que você criou no última ex
 
 O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423233/?quality=12&learn=on&enablevpops&captions=por_br)
 
 
 
