@@ -12,16 +12,16 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Além do tutorial básico de mapeamento
 
-Alterar o nome do projeto, a data de início planejada e a prioridade do “Design de cenário inicial” criados no tutorial inicial usando as fórmulas do painel de mapeamento.
+Alterar o nome do projeto, a data inicial planejada e a prioridade do “Design de cenário inicial” criados no tutorial inicial usando as fórmulas do painel de mapeamento.
 
 ![Uma imagem do cenário do Fusion](assets/understand-the-basics-1.png)
 
@@ -54,4 +54,4 @@ Crie uma tarefa em cada projeto criado como parte do tutorial anterior.
 
 ## Quer saber mais? Recomendamos o seguinte:
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=br)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

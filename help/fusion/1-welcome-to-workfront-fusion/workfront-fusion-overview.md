@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -60,6 +60,6 @@ Os desafios são para aqueles que querem tentar algo que envolva outros conceito
 
 As instruções passo a passo são fornecidas para ajudar você a concluir os exercícios de apresentação.
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=pt-BR)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=pt), onde você pode publicar suas perguntas.
+Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), onde você pode publicar suas perguntas.
