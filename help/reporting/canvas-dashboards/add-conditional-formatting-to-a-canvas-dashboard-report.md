@@ -1,14 +1,14 @@
 ---
-title: Criar um relatório de tabela em um Painel da tela de desenho
-description: Saiba como criar um relatório de tabela em um Painel da tela de desenho.
+title: Adicionar formatação condicional a um relatório do Canvas Dashboard
+description: Saiba como adicionar formatação condicional a um relatório do Painel da tela.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18773
-last-substantial-update: 2025-09-12T00:00:00Z
+jira: KT-18771
+last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ---
 
-# Criar um relatório de tabela em um Painel da tela de desenho
+# Adicionar formatação condicional a um relatório do Canvas Dashboard
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 [Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
 [Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
@@ -41,5 +41,5 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 * [Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Criar um relatório de KPI em um Painel da Tela](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-* [Adicionar formatação condicional a um relatório do Canvas Dashboard](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+* [Criar um relatório de tabela em um Painel da tela de desenho](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 
