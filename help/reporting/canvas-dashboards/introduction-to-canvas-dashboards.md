@@ -25,7 +25,7 @@ O recurso Painéis do Canvas é outra maneira de criar painéis no Workfront. No
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-Para obter mais informações, consulte o artigo [Visão geral dos painéis da tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Para obter mais informações, consulte o artigo [Visão geral dos painéis da tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Tutoriais recomendados sobre este tópico
 
