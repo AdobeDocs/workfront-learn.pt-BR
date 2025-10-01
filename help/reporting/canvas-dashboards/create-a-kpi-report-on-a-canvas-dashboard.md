@@ -32,7 +32,7 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 [Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474847/?quality=12&learn=on&enablevpops&captions=por_br)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
 [Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
