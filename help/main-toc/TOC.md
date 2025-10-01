@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutoriais do Workfront
-source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
+source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2331'
 ht-degree: 92%
 
 ---
@@ -244,7 +244,7 @@ ht-degree: 92%
       + [Criar um relatório de KPI em um Painel da Tela](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Criar um relatório de tabela em um Painel da tela de desenho](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [Adicionar formatação condicional a um relatório do Canvas Dashboard](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-
+      + [Usar um filtro OR em um relatório de Painel de controle da tela](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + Gerenciar recursos {#manage-resources}
    + Gerenciamento de recursos {#resource-management}
