@@ -29,7 +29,7 @@ O vídeo explica o conceito de componentes de relatórios no Workfront, que são
 * **Qualificador de Filtro:** Define quais valores incluir ou excluir em um relatório, como mostrar tarefas com prioridade &quot;alta&quot;. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447026/?quality=12&learn=on&captions=por_br)
 
 ## Principais conclusões
 

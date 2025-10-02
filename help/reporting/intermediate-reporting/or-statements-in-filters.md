@@ -25,7 +25,7 @@ O vídeo explica como criar e usar filtros com várias regras no Workfront. &#x2
 Como alternativa, é possível alterar a lógica do filtro para &quot;OU&quot;, que exibe itens que atendem a qualquer uma das condições.
 O vídeo também demonstra como criar filtros para tarefas usando grupos de filtros. &#x200B; Por exemplo, você pode criar dois grupos: um para tarefas incompletas atribuídas à equipe criativa que estão atrasadas e outro para tarefas incompletas atribuídas à equipe criativa que não estão atribuídas. &#x200B; Em cada grupo, a lógica &quot;AND&quot; se aplica, o que significa que todas as condições no grupo devem ser atendidas. &#x200B; A lógica &quot;OR&quot; entre grupos garante que as tarefas que atendem às condições de cada grupo sejam exibidas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470698/?quality=12&learn=on&captions=por_br)
 
 ## Atividade de filtro OU
 
