@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '977'
-ht-degree: 74%
+source-wordcount: '976'
+ht-degree: 75%
 
 ---
 
@@ -25,7 +25,7 @@ O vídeo explica como criar e personalizar exibições no Workfront para exibir 
 
 O vídeo enfatiza a flexibilidade das visualizações no Workfront e fornece instruções passo a passo para criá-las, personalizá-las e gerenciá-las.
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3450243/?quality=12&learn=on&enablevpops=0&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## Principais conclusões
 

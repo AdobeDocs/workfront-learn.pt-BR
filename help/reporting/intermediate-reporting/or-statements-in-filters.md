@@ -12,9 +12,9 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '320'
 ht-degree: 31%
 
 ---
@@ -25,7 +25,7 @@ O vídeo explica como criar e usar filtros com várias regras no Workfront. &#x2
 Como alternativa, é possível alterar a lógica do filtro para &quot;OU&quot;, que exibe itens que atendem a qualquer uma das condições.
 O vídeo também demonstra como criar filtros para tarefas usando grupos de filtros. &#x200B; Por exemplo, você pode criar dois grupos: um para tarefas incompletas atribuídas à equipe criativa que estão atrasadas e outro para tarefas incompletas atribuídas à equipe criativa que não estão atribuídas. &#x200B; Em cada grupo, a lógica &quot;AND&quot; se aplica, o que significa que todas as condições no grupo devem ser atendidas. &#x200B; A lógica &quot;OR&quot; entre grupos garante que as tarefas que atendem às condições de cada grupo sejam exibidas.
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3470698/?quality=12&learn=on&enablevpops=0&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on)
 
 ## Atividade de filtro OU
 

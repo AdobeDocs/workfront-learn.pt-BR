@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 89%
+source-wordcount: '423'
+ht-degree: 90%
 
 ---
 
@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá sobre:
 * Camel case
 * Alguns _blocos de código do modo texto_ que você pode usar nos filtros de relatório
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3413832/?quality=12&learn=on&enablevpops=0&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Atividades “Compreender o modo de texto básico para filtros”
 

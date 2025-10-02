@@ -12,9 +12,9 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 87%
 
 ---
@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Entenda por que usar curingas
 * Crie um filtro com um curinga baseado no usuário
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3413827/?quality=12&learn=on&enablevpops=0&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
