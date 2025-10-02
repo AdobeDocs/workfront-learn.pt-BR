@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá a:
 * Adicione itens ao menu do painel esquerdo
 * Reorganize itens no menu do painel
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432891/?quality=12&learn=on&enablevpops=1&captions=por_br)

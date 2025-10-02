@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Aprenda a finalidade dos cronogramas, como criar e editá-los e conheça as configurações adicionais para determinar melhor quando o trabalho pode ser realizado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423343/?quality=12&learn=on&enablevpops=1&captions=por_br)
 

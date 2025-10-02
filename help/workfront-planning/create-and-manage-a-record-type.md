@@ -21,4 +21,4 @@ ht-degree: 76%
 
 Saiba como criar, importar e gerenciar tipos de registros personalizados no planejamento do Adobe Workfront para organizar e rastrear itens relacionados ao trabalho com eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448089/?learn=on&enablevpops=1&captions=por_br)

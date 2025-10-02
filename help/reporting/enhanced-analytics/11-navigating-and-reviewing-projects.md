@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 
 * Como ler o gráfico Plano de andamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439016/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Gráfico Plano de andamento
 

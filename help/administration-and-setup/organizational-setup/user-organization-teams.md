@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Como usar equipes multifuncionais
 * Como criar e associar equipes
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432885/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Criação de equipe
 

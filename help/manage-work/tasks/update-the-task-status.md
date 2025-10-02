@@ -20,7 +20,7 @@ ht-degree: 17%
 
 O vídeo fornece um tutorial sobre como, por que e com que frequência atualizar o status da tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471172/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá sobre:
 * Erros de loop de dependência
 * Atalhos e práticas recomendadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454533/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 Para obter mais informações sobre o uso de predecessores, consulte [Usar predecessores de tarefa](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=pt-BR).
 

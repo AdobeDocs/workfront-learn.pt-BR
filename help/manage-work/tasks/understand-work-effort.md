@@ -24,7 +24,7 @@ ht-degree: 12%
 O vídeo explica como usar o recurso Esforço de trabalho no Workfront para estimar horas planejadas para tarefas quando estimativas precisas são difíceis de determinar.
 Ele demonstra como criar uma visualização personalizada do Esforço de trabalho para simplificar o gerenciamento de tarefas, adicionando colunas relevantes como Esforço de trabalho, Horas planejadas e Tipo de duração
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447404/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

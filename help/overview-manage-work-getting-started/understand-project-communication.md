@@ -30,7 +30,7 @@ Neste vídeo, saiba se comunicar com todas as partes interessadas do projeto usa
 * Problemas
 * Relatórios
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436150/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!TIP]
 >

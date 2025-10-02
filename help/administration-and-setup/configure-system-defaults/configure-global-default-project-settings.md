@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a:
 * Definir as preferências globais do projeto
 * Criar e usar agendas
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423352/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Configurações de projetos, tarefas e problemas globais e de grupos
 

@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá a:
 * Planejar a manutenção de metadados e palavras-chave
 * Estabelecer práticas recomendadas para o [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419477/?quality=12&learn=on&enablevpops=1&captions=por_br)

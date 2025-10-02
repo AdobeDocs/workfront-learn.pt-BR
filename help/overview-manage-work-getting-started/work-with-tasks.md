@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá:
 * Formas de adicionar e excluir tarefas
 * Como alterar a ordem das tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448561/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá a:
 * Fazer comentários e marcações em uma versão
 * Comparar a versão atual com uma versão anterior do arquivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446901/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 <!--
 ## Learn more

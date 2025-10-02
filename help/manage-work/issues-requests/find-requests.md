@@ -30,7 +30,7 @@ Este vídeo explica como localizar e gerenciar solicitações no Workfront. O v�
 * Relatórios e painéis personalizados
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441659/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

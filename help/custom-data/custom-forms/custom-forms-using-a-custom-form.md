@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a anexar um formulário personalizado a objetos no Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431639/?quality=12&learn=on&enablevpops=1&captions=por_br)

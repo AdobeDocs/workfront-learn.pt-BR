@@ -24,7 +24,7 @@ ht-degree: 8%
 O vídeo explica o gerenciamento de portfólio, com foco em como os gerentes podem otimizar a seleção de projetos para se alinharem às metas da empresa. &#x200B; Ele introduz o conceito de portfólios como coleções de projetos que competem por recursos, orçamentos e agendamentos compartilhados. &#x200B; Os gerentes podem usar ferramentas como o Portfolio Otimizer para comparar projetos com base em critérios como mão de obra, despesas, risco, ROI e alinhamento com as metas do portfólio. &#x200B; A preparação de projetos para comparação envolve a criação de um business case para cada um. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442833/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

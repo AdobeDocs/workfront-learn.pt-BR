@@ -35,4 +35,4 @@ Neste vídeo, você aprenderá sobre:
 * Informações resumidas
 * E como criar um item de calendário ad-hoc
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438764/?quality=12&learn=on&enablevpops=1&captions=por_br)

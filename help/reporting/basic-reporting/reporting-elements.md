@@ -24,7 +24,7 @@ O vídeo explica como usar os elementos de relatórios do Workfront — filtros,
 
 O vídeo também demonstra como personalizar elementos de relatórios e compartilhá-los com outras pessoas. &#x200B; Essas ferramentas permitem que os usuários listem relatórios de acordo com suas necessidades para melhorar a visibilidade e o gerenciamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447793/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

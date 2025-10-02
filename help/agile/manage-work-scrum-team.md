@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a:
 
 Neste vídeo, você aprenderá a: gerar um projeto de lista de pendências para uma equipe ágil e criar uma nova história.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413895/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 A equipe ágil cuidará da lista de pendências em conjunto. Basicamente, isso significa que ocorrerão três coisas.
 

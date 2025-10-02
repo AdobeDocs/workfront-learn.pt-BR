@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba o que é um marcador e como fixar páginas importantes ou pertinentes para um conjunto de usuários por meio de modelos de layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422811/?quality=12&learn=on&enablevpops=1&captions=por_br)

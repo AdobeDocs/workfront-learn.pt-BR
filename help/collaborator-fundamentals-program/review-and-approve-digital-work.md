@@ -22,7 +22,7 @@ Neste vídeo, você aprenderá a:
 * Fazer aprovações de documentos
 * Fazer aprovações de provas
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444951/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 <!--
 learn more URLS

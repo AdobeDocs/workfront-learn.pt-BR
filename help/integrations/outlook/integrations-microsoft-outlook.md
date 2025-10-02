@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá a:
 
 * Instale o suplemento do Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431661/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!IMPORTANT]
 >

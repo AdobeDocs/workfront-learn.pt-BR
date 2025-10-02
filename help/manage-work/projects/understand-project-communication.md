@@ -32,7 +32,7 @@ O vídeo enfatiza a importância de uma comunicação eficaz para o sucesso do p
 
 O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de tarefas e a geração de relatórios, garantindo que todas as informações relacionadas ao projeto sejam acessíveis e organizadas. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436150/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!TIP]
 >

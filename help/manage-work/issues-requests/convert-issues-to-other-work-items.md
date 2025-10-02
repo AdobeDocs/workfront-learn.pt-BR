@@ -22,7 +22,7 @@ ht-degree: 23%
 
 O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445435/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

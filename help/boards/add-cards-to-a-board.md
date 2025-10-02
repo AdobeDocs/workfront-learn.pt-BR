@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como adicionar cartões a um quadro novo ou utilizando um item de trabalho preexistente.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423054/?quality=12&learn=on&enablevpops=1&captions=por_br)

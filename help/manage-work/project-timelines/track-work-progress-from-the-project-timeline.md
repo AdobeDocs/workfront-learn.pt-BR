@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá sobre:
 * Percentual completo
 * Status do progresso
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438213/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 
 ## Tutoriais recomendados sobre este tópico

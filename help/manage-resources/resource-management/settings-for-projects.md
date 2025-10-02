@@ -24,4 +24,4 @@ Neste tutorial em vídeo, você aprenderá:
 
 * Como otimizar ferramentas de gerenciamento de recursos: durações e datas planejadas, horas planejadas e atribuições de funções
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431650/?quality=12&learn=on&enablevpops=1&captions=por_br)

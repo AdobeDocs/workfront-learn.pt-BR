@@ -24,7 +24,7 @@ ht-degree: 18%
 
 O vídeo fornece uma visão geral do gerenciamento de um projeto depois que seu status é alterado para &quot;Atual&quot; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445172/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

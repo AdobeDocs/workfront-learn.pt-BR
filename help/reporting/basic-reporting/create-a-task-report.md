@@ -25,7 +25,7 @@ O vídeo fornece um guia passo a passo sobre como criar um relatório personaliz
 
 O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasadas, fornece insights sobre dependências e simplifica a navegação para os projetos de host. &#x200B;
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3448347/?quality=12&learn=on&enablevpops=0&captions=por_br)
 
 ## Principais conclusões
 

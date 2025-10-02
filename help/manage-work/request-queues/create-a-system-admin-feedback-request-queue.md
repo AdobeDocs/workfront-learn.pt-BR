@@ -34,7 +34,7 @@ O vídeo enfatiza a importância da participação do usuário e da transparênc
 &#x200B;Links para tutoriais para criar relatórios e formulários personalizados são fornecidos para orientação adicional.
 
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3450502/?quality=12&learn=on&enablevpops=0&captions=por_br)
 
 ## Principais conclusões
 

@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como criar uma solicitação personalizada usando o modo de texto
 * Alguns exemplos que você pode usar nos relatórios
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3413833/?quality=12&learn=on&enablevpops=0&captions=por_br)
 
 ## Atividades “Criar prompts personalizados”
 

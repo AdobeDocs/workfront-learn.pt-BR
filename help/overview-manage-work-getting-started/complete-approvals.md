@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá:
 * Como encontrar e lidar com aprovações de tarefas não resolvidas
 * Como encontrar e lidar com aprovações de problemas não resolvidas
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439429/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

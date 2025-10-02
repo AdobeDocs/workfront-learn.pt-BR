@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá a:
 * Marcar trabalho como atribuições de prioridade
 * Filtre a [!UICONTROL Lista de trabalho] para ver somente o trabalho prioritário
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438537/?quality=12&learn=on&enablevpops=1&captions=por_br)

@@ -31,7 +31,7 @@ Neste vídeo, você aprenderá:
 * Como a definição de uma data inicial da tarefa afetará a restrição da tarefa
 * Como inserir predecessores
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447325/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 <!--
 Learn more urls

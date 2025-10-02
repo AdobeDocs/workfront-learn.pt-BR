@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá a:
 * Selecione uma visualização para comparar diferentes tipos de data no [!DNL Workfront's]
 * Use o status do progresso para ajudar a acompanhar o progresso do trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436612/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!NOTE]
 >

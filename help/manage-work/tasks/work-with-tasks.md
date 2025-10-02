@@ -23,7 +23,7 @@ ht-degree: 12%
 
 Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront. Ela enfatiza o gerenciamento eficiente de tarefas, incluindo edição, exclusão, adição, duplicação e reorganização de tarefas em um plano de projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448561/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

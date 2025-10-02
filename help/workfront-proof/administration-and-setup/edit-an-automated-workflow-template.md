@@ -44,7 +44,7 @@ Cada estágio de um fluxo de trabalho automatizado possui sua própria seção, 
 
 Este vídeo demonstra algumas das alterações que você pode fazer na área [!UICONTROL Fluxo de trabalho]. Consulte a lista com marcadores neste vídeo, que descreve essas configurações.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432616/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 Veja novamente as alterações do modelo de prova que você pode fazer na seção [!UICONTROL Fluxo de trabalho]:
 

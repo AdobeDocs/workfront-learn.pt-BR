@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá a:
 
 * Navegue pela seção [!UICONTROL Lista de metas] para adicionar uma nova meta
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413821/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Copiar uma meta existente
 

@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá:
 * Como as durações influenciam os cronogramas de projetos
 * Práticas recomendadas de uso das durações de tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449348/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

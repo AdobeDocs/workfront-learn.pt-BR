@@ -25,4 +25,4 @@ Neste vídeo, você aprenderá:
 
 * Como fazer atualizações utilizando o gráfico Tarefas em andamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436867/?quality=12&learn=on&enablevpops=1&captions=por_br)

@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá sobre:
 * Datas planejadas, projetadas e reais; e
 * Como são usadas no cálculo do status do progresso
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436612/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!NOTE]
 >

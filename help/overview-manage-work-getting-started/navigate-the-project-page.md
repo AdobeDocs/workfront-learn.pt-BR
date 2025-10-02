@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá:
 * Onde fazer upload de documentos
 * Como ver o histórico de atualizações
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449731/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais elementos da página do projeto
 

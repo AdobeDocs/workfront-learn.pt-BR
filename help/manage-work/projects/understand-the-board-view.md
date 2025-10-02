@@ -23,7 +23,7 @@ ht-degree: 11%
 
 O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma maneira alternativa de exibir e gerenciar tarefas do projeto. &#x200B; Na exibição Quadro, as tarefas são exibidas como cartões em um quadro estilo Kanban, permitindo que os usuários classifiquem, agrupem e movam tarefas dentro ou entre colunas. &#x200B; Mover uma tarefa atualiza seu status automaticamente, o que é refletido na exibição da lista de tarefas. &#x200B; Os usuários podem criar novos cartões, que geram novas tarefas no projeto e editá-los ou atribuí-los diretamente na exibição Quadro. &#x200B; Colunas e cartões podem ser configurados e tarefas podem ser sequenciadas usando predecessores na exibição de lista de tarefas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423282/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

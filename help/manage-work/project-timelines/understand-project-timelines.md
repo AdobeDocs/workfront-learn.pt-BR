@@ -28,7 +28,7 @@ O que você aprenderá:
 * Diferentes exibições no Workfront, como a exibição padrão para planejamento e a exibição de status para monitoramento do progresso, que inclui sinalizadores para progresso, comentários, documentos, problemas, aprovações, caminho crítico e marcos. As atividades recentes podem ser rastreadas para ver atualizações e notas.
 * O agendamento pode ser feito a partir de uma data de início ou de uma data de conclusão, com o Workfront calculando as datas correspondentes com base na duração da tarefa e nos predecessores. O vídeo aconselha a programação de uma data de início para datas de conclusão críticas para permitir alguma folga. Restrições de tarefa, como &quot;o mais rápido possível&quot; e &quot;o mais tarde possível&quot;, também são abordadas, mostrando como elas afetam o agendamento de tarefas. É possível criar exibições personalizadas para exibir restrições de tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435840/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!IMPORTANT]
 >

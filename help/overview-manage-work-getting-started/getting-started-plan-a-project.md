@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá:
 * Como uma [!UICONTROL visualização] pode ajudar você a ver as informações de que precisa
 * Como definir a data de início ou de conclusão
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448572/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

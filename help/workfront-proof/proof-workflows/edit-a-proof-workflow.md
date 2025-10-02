@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Adicionar usuários a um fluxo de trabalho existente
 * Automatizar um fluxo de trabalho existente
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445457/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Sua vez
 

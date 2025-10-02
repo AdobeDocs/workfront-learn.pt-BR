@@ -31,7 +31,7 @@ O vídeo explica como revisar e aprovar o trabalho digital usando o widget &quot
 
 O vídeo enfatiza a flexibilidade na revisão e aprovação do trabalho, com opções para adicionar comentários e especificar alterações, conforme necessário. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444951/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

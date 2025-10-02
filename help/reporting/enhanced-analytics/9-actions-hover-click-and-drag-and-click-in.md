@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Criar um período em um gráfico
 * Como exibir gráficos adicionais
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438570/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Clique em um gráfico para obter mais informações
 

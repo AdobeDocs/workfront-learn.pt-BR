@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Adicione um marco em uma tarefa
 * Práticas recomendadas para aplicar marcos
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430283/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!TIP]
 >

@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a monitorar o progresso do projeto por meio de:
 * Problemas em aberto
 * A coluna de atualização da condição
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447415/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

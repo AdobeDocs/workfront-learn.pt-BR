@@ -23,5 +23,5 @@ ht-degree: 100%
 
 Saiba como os usuários podem controlar que notificações no aplicativo e por email receber para que recebam emails relevantes e úteis sobre seu trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442812/?quality=12&learn=on&enablevpops=1&captions=por_br)
 

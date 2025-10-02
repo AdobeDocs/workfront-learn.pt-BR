@@ -23,7 +23,7 @@ ht-degree: 26%
 
 O recurso Painéis do Canvas é outra maneira de criar painéis no Workfront. No momento, ela está na Beta geral, o que significa que todos os clientes da Workfront podem usar o recurso, se estiverem inscritos na versão beta. Um Administrador do sistema precisa fazer o registro. Este vídeo mostrará como.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474025/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 Para obter mais informações, consulte o artigo [Visão geral dos painéis da tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 

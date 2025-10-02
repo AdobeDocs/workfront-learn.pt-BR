@@ -27,4 +27,4 @@ Neste vídeo, você aprenderá a:
 * Conecte-se a uma API externa
 * Use o editor de fórmulas para extrair informações de uma matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435880/?quality=12&learn=on&enablevpops=1&captions=por_br)

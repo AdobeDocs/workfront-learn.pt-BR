@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá:
 * Como criar funções.
 * Como aplicar funções de trabalho a usuários para que sejam atribuídos ao trabalho correto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452431/?quality=12&learn=on&enablevpops=1&captions=por_br)

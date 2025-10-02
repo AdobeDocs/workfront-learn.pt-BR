@@ -33,7 +33,7 @@ Este vídeo fornece uma visão geral de filtros, visualizações e agrupamentos 
 
 O vídeo enfatiza a personalização e fornece links para tutoriais para aprendizado adicional. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453071/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

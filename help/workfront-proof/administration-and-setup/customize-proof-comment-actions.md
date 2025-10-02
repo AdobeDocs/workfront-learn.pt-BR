@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Como as ações são usadas nos comentários
 * Como personalizar rótulos de ação
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432937/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Sua vez
 

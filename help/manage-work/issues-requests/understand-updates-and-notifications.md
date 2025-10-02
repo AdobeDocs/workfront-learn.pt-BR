@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá a:
 * Atualize manualmente suas solicitações de aprovação
 * Encontre as notificações do Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440147/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 <!--
 learn more URLS

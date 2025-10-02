@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá a:
 * Fazer upload de um documento
 * Localizar treinamento sobre o upload de provas
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440375/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

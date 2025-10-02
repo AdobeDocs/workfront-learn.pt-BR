@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 
 * Para que a equipe do projeto pode ser usada e como mantê-la
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444594/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

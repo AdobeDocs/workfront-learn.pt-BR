@@ -23,4 +23,4 @@ Neste vídeo, você aprenderá a:
 
 * Acessar a sua lista de tarefas no [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437925/?quality=12&learn=on&enablevpops=1&captions=por_br)

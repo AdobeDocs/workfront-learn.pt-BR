@@ -79,7 +79,7 @@ Neste vídeo, você aprenderá a:
 * Fazer uma solicitação
 * Visualize as solicitações enviadas
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415831/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Itens que aguardam sua aprovação
 

@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 * O longo caminho para criar uma tarefa em um projeto do Workfront
 * Alguns atalhos úteis para criar tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423161/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

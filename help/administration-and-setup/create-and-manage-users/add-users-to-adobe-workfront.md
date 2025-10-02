@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Saiba como adicionar usuários ao Workfront copiando um usuário existente, importando novos usuários em massa e criando um novo usuário do zero.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447048/?quality=12&learn=on&enablevpops=1&captions=por_br)
 

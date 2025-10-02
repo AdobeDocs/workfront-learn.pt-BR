@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá a:
 * Crie documentação detalhada e compartilhável
 * Profundidade, amplitude, complexidade e carga do teste
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418736/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Lista de verificação de considerações de teste
 

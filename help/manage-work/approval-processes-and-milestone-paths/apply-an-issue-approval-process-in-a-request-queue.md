@@ -31,7 +31,7 @@ ht-degree: 11%
 O vídeo explica o processo de aplicar um processo de aprovação padrão ao criar uma fila de solicitações. &#x200B; Quando uma solicitação é criada, ela começa com o status &quot;Novo - Aprovação pendente&quot; e uma notificação de aprovação é enviada ao aprovador designado. &#x200B; Se aprovado, o status muda para &quot;Novo&quot;, permitindo que os indivíduos designados comecem a trabalhar. &#x200B; Se rejeitado, o status pode reverter incorretamente para &quot;Novo&quot; devido a um erro comum na configuração do processo de aprovação. &#x200B;
 O vídeo destaca que o processo de aprovação é acionado quando o status é definido como &quot;Novo&quot;, que é o padrão para novas solicitações. &#x200B; Se for rejeitada, o sistema assumirá como padrão a alteração do status para o anterior, o que não é ideal para novas solicitações. &#x200B; Em vez disso, um status diferente, como &quot;Não resolverá&quot;, deve ser escolhido. &#x200B; O vídeo também observa que não há status &quot;Rejeitado&quot; fornecido por padrão, mas um administrador do sistema pode criar um, se necessário. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3455029/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

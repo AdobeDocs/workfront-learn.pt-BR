@@ -31,7 +31,7 @@ Neste vídeo, você:
 * Entenderá o valor dos modelos de projeto ao atribuir tarefas
 * Entenderá o valor de atribuir tarefas às equipes
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445745/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 <!--
 learn more urls:

@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 * Vantagens de se registrar horas
 * Como registrar horas em atribuições de trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438603/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Dicas para se registrar horas de trabalho na página [!DNL Home]
 

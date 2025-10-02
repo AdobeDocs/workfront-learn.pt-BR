@@ -25,7 +25,7 @@ O vídeo explica como monitorar o progresso geral do projeto usando vários indi
 
 O vídeo enfatiza a importância de atualizações regulares pelos membros da equipe e do gerenciamento pró-ativo de problemas para garantir um rastreamento preciso e a conclusão oportuna do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447415/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

@@ -27,4 +27,4 @@ Neste vídeo, você aprenderá:
 * Como uma taxonomia de palavras-chave pode ser benéfica
 * Pesquisando ativos usando metadados e palavras-chave
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419529/?quality=12&learn=on&enablevpops=1&captions=por_br)

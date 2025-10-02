@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá:
 * Como fazer uma busca detalhada para ver os detalhes da tarefa
 * Como comunicar-se com as partes interessadas
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445172/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Tutoriais recomendados sobre este tópico
 

@@ -27,7 +27,7 @@ Neste vídeo, aprenda a usar:
 * O gráfico de Gantt do projeto
 * O gráfico de Gantt de tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448011/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
 

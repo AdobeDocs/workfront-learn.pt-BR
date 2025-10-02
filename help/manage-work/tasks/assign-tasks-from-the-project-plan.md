@@ -25,7 +25,7 @@ ht-degree: 14%
 O vídeo explica vários métodos para atribuir tarefas em um plano de projeto. Ele enfatiza o uso de ferramentas como filtros, modelos e recursos de gerenciamento para simplificar as atribuições de tarefas e otimizar os fluxos de trabalho do projeto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445745/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

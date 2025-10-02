@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá a:
 * Colaborar com uma lightbox
 * Compartilhar o conteúdo de uma lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432538/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Pastas x lightboxes
 

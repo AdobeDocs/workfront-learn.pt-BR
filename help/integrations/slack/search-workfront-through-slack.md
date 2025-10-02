@@ -23,4 +23,4 @@ Neste vídeo, você aprenderá a:
 
 * Pesquisar no [!DNL Workfront] utilizando o [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437514/?quality=12&learn=on&enablevpops=1&captions=por_br)

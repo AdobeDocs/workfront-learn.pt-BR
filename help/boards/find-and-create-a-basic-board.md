@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenha uma melhor compreensão do que é um Quadro e como ele pode beneficiar você e/ou sua equipe na gestão do trabalho. Veja onde acessar quadros e como criar um quadro básico.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422943/?quality=12&learn=on&enablevpops=1&captions=por_br)

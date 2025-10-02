@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá sobre:
 * Agendamento de projetos a partir da data de início ou de conclusão
 * Restrições de tarefa
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435840/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 >[!IMPORTANT]
 >

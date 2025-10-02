@@ -24,7 +24,7 @@ ht-degree: 14%
 
 O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações no Workfront. Ele explica o processo de criação de uma solicitação, começando selecionando &quot;Solicitações&quot; no menu principal e clicando no botão &quot;Nova solicitação&quot;. &#x200B; Os usuários podem escolher um tipo de solicitação a partir de filas projetadas de forma personalizada e personalizadas de acordo com os fluxos de trabalho de sua organização.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415831/?quality=12&learn=on&enablevpops=1&captions=por_br)
 
 ## Principais conclusões
 

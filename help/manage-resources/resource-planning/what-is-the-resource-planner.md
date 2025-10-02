@@ -25,4 +25,4 @@ Para verdadeiramente capacitar as pessoas, os gestores devem planejar e programa
 No entanto, essa tarefa pode ser um pouco mais fácil com o Planejador de recursos da Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437259/?quality=12&learn=on&enablevpops=1&captions=por_br)
