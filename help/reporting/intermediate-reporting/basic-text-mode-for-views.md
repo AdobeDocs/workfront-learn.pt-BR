@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Alguns _blocos de código do modo texto_ que você pode usar em suas exibições de relatórios
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3410571/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender o modo de texto básico para exibições”
 

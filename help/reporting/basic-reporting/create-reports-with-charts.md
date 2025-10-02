@@ -38,7 +38,7 @@ O vídeo explica como usar gráficos para visualizar dados de maneira eficaz, es
 
 O vídeo destaca como gráficos de pizza e de colunas empilhadas podem fornecer insights sobre a distribuição de tarefas e o desempenho do projeto, ajudando os usuários a comparar projetos e entender visualmente o progresso da tarefa. &#x200B;
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
@@ -73,7 +73,7 @@ O final do trimestre está se aproximando e você talvez queira ver como os proj
 1. Na guia **[!UICONTROL Filtros]**, adicione duas regras de filtro:
 
    * [!UICONTROL Projeto] > [!UICONTROL Status igual a] > [!UICONTROL Concluído]
-   * [!UICONTROL Projeto] > [!UICONTROL  Data efetiva de conclusão] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Projeto] > [!UICONTROL &#x200B; Data efetiva de conclusão] > [!UICONTROL Último trimestre]
 
    ![Uma imagem da tela que permite adicionar filtros a um relatório](assets/chart-report-filters.png)
 

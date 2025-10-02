@@ -24,7 +24,7 @@ ht-degree: 34%
 Este vídeo explica como criar e gerenciar agrupamentos no Workfront para organizar listas de projetos de maneira eficaz. &#x200B; Os agrupamentos são um dos três principais elementos de relatórios, juntamente com filtros e visualizações, e ajudam a organizar resultados com base em informações compartilhadas. &#x200B;
 Este tutorial fornece etapas práticas para organizar listas de projetos para simplificar o trabalho e a colaboração diários. &#x200B;
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335147/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

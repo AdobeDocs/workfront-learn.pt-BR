@@ -31,7 +31,7 @@ Este vídeo fornece um guia passo a passo sobre como criar um fluxo de solicita�
 O vídeo mostra como criar tópicos da fila, que estão vinculados a regras de roteamento, grupos de tópicos, formulários personalizados, processos de aprovação e durações padrão.
 Por fim, o vídeo mostra como testar a configuração enviando uma solicitação para garantir que ela seja roteada corretamente. &#x200B; Se surgirem problemas, ajustes poderão ser feitos na fila. &#x200B; O vídeo enfatiza a importância de verificar a estrutura e a funcionalidade do fluxo de solicitações para garantir o roteamento e a organização adequados.
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

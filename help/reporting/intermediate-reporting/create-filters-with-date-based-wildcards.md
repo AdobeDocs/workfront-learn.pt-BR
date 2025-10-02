@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá a:
 * Criar uma data personalizada usando curingas, atributos, operadores e modificadores
 * Criar um intervalo de datas personalizado usando curingas
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336812/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## Atividades “Criar filtros com curingas baseados em data”

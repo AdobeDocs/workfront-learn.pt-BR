@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Revise os filtros de projeto integrados para ver como eles são criados
 * Crie seu próprio filtro de projeto usando o que você aprendeu
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336817/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender filtros de projeto integrados”
 

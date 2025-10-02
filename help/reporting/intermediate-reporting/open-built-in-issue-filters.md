@@ -27,7 +27,7 @@ Neste vídeo, você:
 * Saiba mais sobre alguns elementos úteis para relatar problemas
 * Aprenda a criar o seu próprio filtro de problemas
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336819/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## Atividades “Compreender filtros de problemas integrados”

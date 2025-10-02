@@ -31,7 +31,7 @@ Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e 
 * Depois que o modelo é criado, ele pode ser usado para produzir novos projetos. O vídeo mostra como criar um novo projeto a partir do modelo, fazer os ajustes necessários e adicionar tarefas ou modificar a duração, conforme necessário. &#x200B; Também mostra como atribuir funções de trabalho a tarefas usando as funcionalidades de planejamento e agendamento de recursos. &#x200B;
 * O vídeo explica como salvar um projeto existente como um novo modelo, permitindo atualizações e melhorias no fluxo de trabalho. &#x200B; Ele destaca a importância do gerenciamento de modelos para evitar confusão e garantir a execução simplificada do projeto. &#x200B;
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335210/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

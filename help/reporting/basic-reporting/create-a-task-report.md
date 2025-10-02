@@ -25,7 +25,7 @@ O vídeo fornece um guia passo a passo sobre como criar um relatório personaliz
 
 O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasadas, fornece insights sobre dependências e simplifica a navegação para os projetos de host. &#x200B;
 
->[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
@@ -41,8 +41,8 @@ O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasada
 >[!TIP]
 >
 >Pegue suas espátulas e tigelas e prepare-se para experimentar as “receitas” em nosso [Livro de receitas de relatórios do cliente do Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Lá dentro, você encontrará instruções passo a passo para 10 relatórios, prontos para você preparar em seu ambiente hoje mesmo.
->>Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
->>Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
+>&#x200B;>Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
+>&#x200B;>Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
 
 
 ### Atividade 1: criar um relatório de notas com solicitações
@@ -86,7 +86,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Nota] > [!UICONTROL Texto de auditoria]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
    * [!UICONTROL Tarefa] > [!UICONTROL Nome]
    * [!UICONTROL Problema] > [!UICONTROL Nome]
 
@@ -112,7 +112,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Projeto] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
 
 1. Marque a caixa para **[!UICONTROL Mostrar prompts em painéis]**.
 1. Salve e feche o relatório.
