@@ -13,10 +13,10 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '244'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 10%
 
 O vídeo fornece um guia passo a passo sobre a criação de uma fila de solicitações no Workfront. &#x200B; O vídeo é concluído demonstrando como enviar uma solicitação usando a fila recém-criada, mostrando o processo de inserir detalhes e verificando o envio na guia &quot;solicitações enviadas&quot;. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Criando uma Fila de Solicitações:** Comece criando um novo projeto e nomeando-o, que servirá posteriormente como a fila de solicitações. &#x200B; Marque a caixa &quot;publicar como fila de solicitações de ajuda&quot; para designá-la oficialmente como uma fila. &#x200B;
 * **Permissões de Acesso:** Defina quem pode enviar solicitações à fila, escolhendo entre quatro opções: qualquer pessoa, visualizadores de projeto, membros da empresa ou membros do grupo. &#x200B;

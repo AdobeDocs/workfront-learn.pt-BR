@@ -11,8 +11,8 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Neste vídeo, você:
 * Ver visualização [!UICONTROL Ver por projeto]
 * Saiba como as informações de recursos são exibidas nesta visualização
 
->[!VIDEO](https://video.tv.adobe.com/v/3431631/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
 
 Para a opção Visualizar por Projeto, o padrão é mostrar a coluna Orçado, que extrai o número estimado de recursos necessários para um projeto a partir de um caso de negócios, caso tenha sido preenchido. Isso também significa que a coluna Líquido está, por padrão, usando os números da coluna Orçado para informar quantos recursos restam.
 

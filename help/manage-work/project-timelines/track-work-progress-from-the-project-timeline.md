@@ -13,8 +13,8 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá sobre:
 * Percentual completo
 * Status do progresso
 
->[!VIDEO](https://video.tv.adobe.com/v/3438213/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriais recomendados sobre este tópico

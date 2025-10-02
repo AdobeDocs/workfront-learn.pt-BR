@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 20%
+ht-degree: 21%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 20%
 
 O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você tiver os direitos de abrir um modelo, poderá usá-lo como atalho para criar um projeto. &#x200B; Para fazer isso, abra o modelo, acesse o menu de três pontos e selecione &quot;Criar projeto&quot;. &#x200B; Isso leva você a uma tela onde é possível editar os detalhes do projeto. &#x200B; Depois de pronto, clique em &quot;Criar projeto&quot; para finalizar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456018/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Acesso ao modelo:** Você precisa de direitos para abrir um modelo e criar um projeto a partir dele. &#x200B;
 * **Opção de Atalho:** usar um modelo pode ser um atalho útil em comparação a iniciar um projeto do zero. &#x200B;

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 22%
@@ -25,7 +25,7 @@ ht-degree: 22%
 Este vídeo explica como criar e gerenciar um projeto do zero. &#x200B; Ele começa criando um novo projeto, renomeando-o e definindo uma meta com uma descrição, uma data de início e uma data de conclusão. Os projetos podem ser divididos em tarefas, que são trabalhos planejados com durações e atribuições estimadas. &#x200B; As tarefas podem ser sequenciadas usando predecessoras e o status do projeto pode ser definido como &quot;Atual&quot; para notificar a equipe e incluí-lo nos relatórios. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435900/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

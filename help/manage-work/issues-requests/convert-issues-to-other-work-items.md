@@ -11,10 +11,10 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 22%
+ht-degree: 23%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 22%
 
 O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445435/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Processo de Conversão Simples:** Para converter um problema/solicitação em uma tarefa, abra o problema, clique no menu de três pontos e selecione &quot;Converter em Tarefa&quot; &#x200B; O nome e a descrição da tarefa são copiados por padrão, mas podem ser editados. &#x200B;
 * **Seleção de Projeto de Destino:** Você pode escolher o projeto de destino para a tarefa, seja o projeto padrão onde o problema reside ou outro projeto ao qual você tem acesso. &#x200B;

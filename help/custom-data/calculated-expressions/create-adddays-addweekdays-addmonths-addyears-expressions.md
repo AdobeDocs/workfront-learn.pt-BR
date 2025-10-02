@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Neste vídeo, você aprenderá:
 * O que as expressões ADDDAYS, ADDWEEKDAY, ADDMONTHS e ADDYEAR calculam
 * Como criar uma expressão de dados ADDWEEKDAYS em um campo calculado
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## Exemplos adicionais
 
@@ -33,9 +33,9 @@ Veja abaixo algumas expressões ADDDAYS, ADDWEEKDAY, ADDMONTHS e ADDYEAR adicion
 
 **Deveria ter sido concluída até**
 
-O cliente deseja saber quando a tarefa deveria ter sido concluída com base na data de início efetiva e na duração planejada. A data de conclusão projetada não funcionará neste caso porque pode ser alterada se a tarefa estiver atrasada, e a data de conclusão planejada não ajuda se houver atrasos nas tarefas anteriores.
+O cliente deseja saber quando a tarefa deveria ter sido concluída com base na data inicial real e na duração planejada. A data de conclusão projetada não funcionará neste caso porque pode ser alterada se a tarefa estiver atrasada, e a data de conclusão planejada não ajuda se houver atrasos nas tarefas anteriores.
 
-A expressão criada foi: ADDDAYS({actualStartDate},{durationMinutes}/480)
+A expressão criada foi ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 O tempo no campo Duração é armazenado em minutos. Portanto, nesta expressão, o campo Duração não pode ser independente se o tempo for refletido em dias. Para que isso aconteça, a Duração deve ser dividida por 480 minutos (480 minutos = 8 horas = 1 dia)
 

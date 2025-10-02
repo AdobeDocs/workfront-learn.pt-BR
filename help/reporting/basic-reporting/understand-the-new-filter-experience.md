@@ -1,6 +1,6 @@
 ---
 title: Entender a nova experiência de filtro
-description: Saiba como ativar e desativar a nova experiência de filtro, criar e editar filtros e empilhar filtros.
+description: Saiba como habilitar e desabilitar a nova experiência de filtro, criar, editar e empilhar filtros.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: kt-13080
 doc-type: video
 exl-id: a2c1c2eb-a872-4718-a5ec-7a4532d1510f
-source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá a:
 * Criar e editar filtros
 * Empilhar filtros
 
->[!VIDEO](https://video.tv.adobe.com/v/3422820/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)

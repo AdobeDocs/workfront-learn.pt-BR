@@ -12,10 +12,10 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '398'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
@@ -32,15 +32,15 @@ O vídeo enfatiza a importância de uma comunicação eficaz para o sucesso do p
 
 O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de tarefas e a geração de relatórios, garantindo que todas as informações relacionadas ao projeto sejam acessíveis e organizadas. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436150/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=pt-BR#activity-1-create-a-dashboard).
+>Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
-## Principais pontos
+## Principais conclusões
 
 * **Comunicação eficaz das partes interessadas:** atualize regularmente as partes interessadas sobre o progresso, os problemas e as resoluções do projeto para garantir a transparência e o alinhamento.
 * **Clareza de tarefas e evitar o desgaste do escopo:** defina claramente as responsabilidades dos membros da equipe, use subtarefas para vários atribuídos e concentre-se em fornecer exatamente o que o projeto requer.

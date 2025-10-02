@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 11%
 
 Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada e como mantê-la.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444594/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **População Automática de Equipe:** a equipe do projeto é preenchida automaticamente quando os usuários recebem tarefas ou são designados como proprietários do projeto. &#x200B; No entanto, os usuários não são removidos automaticamente quando suas atribuições são removidas; isso deve ser feito manualmente. &#x200B;
 * **Atualizações Manuais:** Você pode adicionar ou remover pessoas manualmente da equipe do projeto, mesmo que elas não tenham atribuições, garantindo que a lista da equipe permaneça precisa e atualizada. &#x200B;

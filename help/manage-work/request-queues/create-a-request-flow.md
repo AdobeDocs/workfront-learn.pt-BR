@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '403'
 ht-degree: 9%
 
 ---
@@ -31,9 +31,9 @@ Este vídeo fornece um guia passo a passo sobre como criar um fluxo de solicita�
 O vídeo mostra como criar tópicos da fila, que estão vinculados a regras de roteamento, grupos de tópicos, formulários personalizados, processos de aprovação e durações padrão.
 Por fim, o vídeo mostra como testar a configuração enviando uma solicitação para garantir que ela seja roteada corretamente. &#x200B; Se surgirem problemas, ajustes poderão ser feitos na fila. &#x200B; O vídeo enfatiza a importância de verificar a estrutura e a funcionalidade do fluxo de solicitações para garantir o roteamento e a organização adequados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433827/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0)
 
-## Principais pontos
+## Principais conclusões
 
 * **Configuração das Regras de Roteamento:** as regras de roteamento determinam como as solicitações são atribuídas, seja a equipes (por exemplo, equipe da Creative) ou indivíduos (por exemplo, Jennifer Campbell ou Mark Lewis). &#x200B; Essas regras são criadas nomeando-as, adicionando descrições e selecionando responsáveis ou equipes padrão.
 * **Criação de grupos de tópicos:** os grupos de tópicos ajudam a organizar solicitações em categorias como &quot;Digital&quot; e &quot;Imprimir&quot;. &#x200B; Não há limite para o número de grupos de tópicos que podem ser criados, e eles podem ser aninhados até 10 níveis de profundidade.

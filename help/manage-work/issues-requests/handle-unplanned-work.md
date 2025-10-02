@@ -12,10 +12,10 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '264'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 12%
 O vídeo enfatiza a importância da comunicação na gestão de projetos e destaca o papel das questões como uma ferramenta chave para facilitar a comunicação. &#x200B; Ele explica a diferença entre atualizações e problemas, observando que os problemas são mais adequados para o trabalho que precisa ser atribuído, monitorado e resolvido antes que um projeto possa ser concluído. &#x200B; O vídeo fornece um guia passo a passo sobre como registrar problemas. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446571/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Problemas vs. Atualizações:** use problemas para tarefas que precisam ser atribuídas, acompanhadas e resolvidas antes da conclusão do projeto, pois são mais fáceis de monitorar e organizar em comparação às atualizações. &#x200B;
 * **Problemas de log:** problemas podem ser registrados no nível de tarefa ou de projeto através da guia PROBLEMAS. &#x200B; As prioridades podem ser definidas e as notificações por email podem ser configuradas para atribuições e atualizações.

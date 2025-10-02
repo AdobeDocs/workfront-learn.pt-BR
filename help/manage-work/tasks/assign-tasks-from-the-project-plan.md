@@ -13,10 +13,10 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 13%
 O vídeo explica vários métodos para atribuir tarefas em um plano de projeto. Ele enfatiza o uso de ferramentas como filtros, modelos e recursos de gerenciamento para simplificar as atribuições de tarefas e otimizar os fluxos de trabalho do projeto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445745/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Edição em linha para Atribuições rápidas:** atribua tarefas facilmente digitando um nome e selecionando em uma lista, com a funcionalidade de digitação antecipada para uma seleção mais rápida. &#x200B;
 * **Edição em Massa para Eficiência:** atribua várias tarefas à mesma pessoa selecionando tarefas, usando a edição em massa e escolhendo o nome na lista. &#x200B;

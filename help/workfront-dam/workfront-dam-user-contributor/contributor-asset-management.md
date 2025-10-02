@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 Neste vídeo, você aprenderá a:
 
 * Usar o menu “Editar” de um ativo
-* Definir uma data de vencimento
+* Definir uma data de expiração
 * Exibir notificações
 * Estabelecer configurações de notificação individuais
 * Fazer upload de uma versão de ativo
@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a:
 * Aplicar um modelo de metadados a uma pasta
 * Estabelecer permissões de pasta
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops=1)
 
 ## Como as versões de ativos funcionam
 
@@ -45,7 +45,7 @@ Você também pode fazer o upload manual de versões de um ativo específico. Cl
 
 Se você publicar um ativo com versões no Brand Connect, o usuário do Brand Connect verá somente a versão mais recente do ativo.
 
-## Status e vencimento de pastas e ativos
+## Status e expiração de pastas e ativos
 
 Os status são outra maneira de gerenciar o acesso a pastas e ativos no [!UICONTROL DAM do Workfront]. Os status podem ser usados para ocultar determinados ativos ou pastas dos usuários do [!UICONTROL Brand Connect], ou para encerrar um ativo ou pasta, para que ninguém além do(a) admin de sistema possa acessá-los.
 

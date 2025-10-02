@@ -12,10 +12,10 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -40,11 +40,11 @@ O vídeo explica como usar o Gráfico de Gantt do Projeto e o Gráfico de Gantt 
 
 O vídeo enfatiza a flexibilidade dos gráficos de Gantt, permitindo que os usuários personalizem visualizações e exibam vários elementos simultaneamente para melhorar o gerenciamento do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448011/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
 
-## Principais pontos
+## Principais conclusões
 
 * **Visão geral:** os gráficos de Gantt fornecem uma visão geral abrangente de tarefas, projetos e portfólios, facilitando a compreensão de relacionamentos e o compartilhamento de recursos entre projetos. &#x200B;
 * **Rastreamento de Progresso:** Os indicadores de status de progresso (verde, amarelo, vermelho e azul claro) ajudam a monitorar as linhas do tempo do projeto e da tarefa, destacando os status no prazo, em risco, atrasado ou atrasado. &#x200B;

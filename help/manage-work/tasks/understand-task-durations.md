@@ -13,10 +13,10 @@ last-substantial-update: 2024-06-03T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -27,9 +27,9 @@ A Workfront recomenda usar durações e predecessores para estabelecer linhas do
 &#x200B;Durações precisas são essenciais para um planejamento de projeto e um gerenciamento de recursos eficazes.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449348/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Definição de Duração da Tarefa:** a duração da tarefa é a diferença entre a data de início planejada de uma tarefa e a data de conclusão planejada, representando a janela de tempo para a conclusão do trabalho. &#x200B;
 * **Impacto na Linha de Tempo do Projeto:** as durações das tarefas afetam diretamente a duração geral do projeto e a data de conclusão planejada, tornando-as cruciais para um planejamento de projeto preciso. &#x200B;

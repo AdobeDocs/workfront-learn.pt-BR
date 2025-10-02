@@ -9,8 +9,8 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Na guia de [!UICONTROL Detalhes da fila] de solicitações ou projeto, certifiqu
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434161/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **Forneci acesso à fila aos usuários, mas eles também podem ver o projeto da fila de solicitações. Porquê?**
 
@@ -62,7 +62,7 @@ Você pode acessar os campos nas origens de campo **[!UICONTROL Problema convert
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434181/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **Qual é a melhor maneira de filtrar filas de solicitações em um relatório?**
@@ -73,7 +73,7 @@ Se o filtro do projeto incluir **Fila>>É pública>>Não é igual>>Nenhum**, o r
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434335/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **Criar um status personalizado da fila de solicitações é uma boa ideia?**
 

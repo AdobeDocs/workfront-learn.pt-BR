@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 9%
@@ -27,9 +27,9 @@ Para finalizar, clique em &quot;Copiar projeto&quot; &#x200B;
 Problemas não podem ser copiadas diretamente durante este processo, pois não são consideradas trabalho planejado. &#x200B; Para copiar problemas, vá para a guia Problemas, selecione os problemas desejados e use a opção &quot;Copiar para&quot; para transferi-los para o novo projeto. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456043/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Copiando um Projeto:** Abra o projeto, clique no menu de três pontos ao lado do nome do projeto e selecione &quot;Copiar&quot; para duplicá-lo. &#x200B;
 * **Ajuste das Configurações do Projeto:** Renomeie o projeto e altere seu status para &quot;Planejamento&quot; para evitar o envio de notificações aos usuários atribuídos.

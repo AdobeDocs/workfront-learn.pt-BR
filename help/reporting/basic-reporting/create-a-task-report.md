@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 78%
@@ -25,7 +25,7 @@ O vídeo fornece um guia passo a passo sobre como criar um relatório personaliz
 
 O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasadas, fornece insights sobre dependências e simplifica a navegação para os projetos de host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448347/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Principais conclusões
 
@@ -41,8 +41,8 @@ O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasada
 >[!TIP]
 >
 >Pegue suas espátulas e tigelas e prepare-se para experimentar as “receitas” em nosso [Livro de receitas de relatórios do cliente do Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). Lá dentro, você encontrará instruções passo a passo para 10 relatórios, prontos para você preparar em seu ambiente hoje mesmo.
->&#x200B;>Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
->&#x200B;>Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
+>>Reunimos os relatórios favoritos dos clientes e os compilamos em um livro de receitas rápidas e de fácil digestão, para você levá-las e testá-las em sua própria cozinha do Workfront.
+>>Esses 10 relatórios vêm de clientes que são exatamente como você. Espalhados por setores, departamentos, equipes, posições e todos em diferentes empresas, devemos um enorme agradecimento aos incríveis clientes que compartilharam um de seus relatórios favoritos. Alguns relatórios são simples (mas incrivelmente úteis), e outros são mais complexos para elevar o nível dos seus relatórios.
 
 
 ### Atividade 1: criar um relatório de notas com solicitações
@@ -86,7 +86,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Nota] > [!UICONTROL Texto de auditoria]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
    * [!UICONTROL Tarefa] > [!UICONTROL Nome]
    * [!UICONTROL Problema] > [!UICONTROL Nome]
 
@@ -112,7 +112,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Projeto] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
 
 1. Marque a caixa para **[!UICONTROL Mostrar prompts em painéis]**.
 1. Salve e feche o relatório.
@@ -178,7 +178,7 @@ Filtre a ID do projeto da fila de solicitações que contém os problemas de fee
 
    * [!UICONTROL Problema] > [!UICONTROL Nome]
    * [!UICONTROL Contato principal] > [!UICONTROL Nome]
-      * Observação: “Owner:Name” é exibido como o rótulo da coluna. Você pode alterar isso para “Relatado por” clicando em Opções avançadas e digitando “Relatado por” no campo **Rótulo de coluna personalizado**.
+      * Observação: ele aparece com &quot;Proprietário:Name&quot; como o rótulo da coluna. Você pode alterar isso para “Relatado por” clicando em Opções avançadas e digitando “Relatado por” no campo **Rótulo de coluna personalizado**.
    * [!UICONTROL Problema] > [!UICONTROL Tipo de processo]
    * [!UICONTROL Problema] > [!UICONTROL Nome do processo]
    * [!UICONTROL Problema] > [!UICONTROL Grau do processo]

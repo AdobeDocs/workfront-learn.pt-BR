@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 75%
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como compartilhar um modelo de projeto e conceder direitos para ativá-lo e desativá-lo.
 * Como ativar e desativar um modelo de projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444995/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá:
 
 ## Saiba como criar uma exibição personalizada para ver e editar o status ativo de modelos de projeto
 
-Para criar uma exibição de modelo de projeto com uma coluna de status ativa, consulte a atividade **Exibição do status ativo do modelo de projeto** em [Criar uma exibição básica](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Para criar uma exibição de modelo de projeto com uma coluna de status ativa, consulte a atividade **Exibição do status ativo do modelo de projeto** em [Criar uma exibição básica](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutoriais recomendados sobre este tópico
 

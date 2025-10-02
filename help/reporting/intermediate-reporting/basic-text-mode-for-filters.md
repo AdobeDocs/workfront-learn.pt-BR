@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 90%
+source-wordcount: '424'
+ht-degree: 89%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 90%
 
 >[!TIP]
 >
->* Para obter uma compreensão mais aprofundada do modo de texto, recomendamos assistir ao evento do webinário gravado [Pergunte ao especialista - Introdução aos relatórios em modo de texto](https://experienceleague.adobe.com/pt-br/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting), que tem uma hora de duração.
+>* Para obter uma compreensão mais aprofundada do modo de texto, recomendamos assistir ao evento do webinário gravado [Pergunte ao especialista - Introdução aos relatórios em modo de texto](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting), que tem uma hora de duração.
 >* Para aprender ainda mais sobre o modo de texto, recomendamos assistir aos tutoriais de [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=pt-BR), que juntos têm cinco horas e meia de duração.
 >* Clique aqui para acessar o [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá sobre:
 * Camel case
 * Alguns _blocos de código do modo texto_ que você pode usar nos filtros de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3413832/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/336820/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Atividades “Compreender o modo de texto básico para filtros”
 

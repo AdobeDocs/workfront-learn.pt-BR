@@ -11,7 +11,7 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 99%
@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá a:
 * Crie documentação detalhada e compartilhável
 * Profundidade, amplitude, complexidade e carga do teste
 
->[!VIDEO](https://video.tv.adobe.com/v/3418736/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## Lista de verificação de considerações de teste
 
@@ -48,4 +48,4 @@ Priorize os testes durante todo o ciclo de vida da sua implementação do Workfr
 
 ## Quer saber mais? Recomendamos o seguinte:
 
-[Documentação do Workfront Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentação do Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

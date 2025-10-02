@@ -12,10 +12,10 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 14%
 
 O vídeo mostra como converter um problema ou uma solicitação em um projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446627/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Processo de conversão**: para converter um problema ou solicitação em um projeto, selecione o problema, use o menu de três pontos e escolha uma opção de conversão, de preferência usando um modelo. &#x200B;
 * **Seleção de Modelo:** O uso de um modelo é recomendado para fins de consistência e facilidade. &#x200B; Você pode revisar e selecionar o modelo apropriado com base nos requisitos do projeto. &#x200B;

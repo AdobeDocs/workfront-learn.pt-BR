@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -28,10 +28,10 @@ Neste vídeo, você aprenderá:
 * O que é um predecessor no Workfront
 * Como usar durações e predecessores para criar uma linha de tempo
 * Como os predecessores sequenciam tarefas em um projeto
-* Como a definição de uma data de início da tarefa afetará a restrição da tarefa
+* Como a definição de uma data inicial da tarefa afetará a restrição da tarefa
 * Como inserir predecessores
 
->[!VIDEO](https://video.tv.adobe.com/v/3447325/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

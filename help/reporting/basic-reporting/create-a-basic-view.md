@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 77%
+source-wordcount: '977'
+ht-degree: 74%
 
 ---
 
@@ -25,7 +25,7 @@ O vídeo explica como criar e personalizar exibições no Workfront para exibir 
 
 O vídeo enfatiza a flexibilidade das visualizações no Workfront e fornece instruções passo a passo para criá-las, personalizá-las e gerenciá-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450243/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Principais conclusões
 
@@ -133,9 +133,9 @@ Mude o [!UICONTROL Formato do campo] nas colunas [!UICONTROL Data de início] e 
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
 1. No campo [!UICONTROL Exibir nesta coluna], digite [!UICONTROL “restrição”] e selecione [!UICONTROL “Data da restrição”] na origem do campo Tarefa.
 1. Selecione a coluna [!UICONTROL Data de início] e clique em [!UICONTROL Opções avançadas].
-1. No menu suspenso [!UICONTROL Formato do campo], selecione [!UICONTROL “17/10/60 3h00”].
+1. Na lista suspensa [!UICONTROL Formato do Campo], selecione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Selecione a coluna [!UICONTROL Data de expiração] e clique em [!UICONTROL Opções avançadas].
-1. No menu suspenso [!UICONTROL Formato do campo], selecione [!UICONTROL “17/10/60 3h00”].
+1. Na lista suspensa [!UICONTROL Formato do Campo], selecione [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Clique em **[!UICONTROL Salvar]**.
 
 ### Atividade 4: criar uma exibição do status ativo do modelo de projeto

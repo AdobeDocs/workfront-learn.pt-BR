@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 88%
+source-wordcount: '288'
+ht-degree: 87%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 88%
 
 >[!TIP]
 >
->* Para obter uma compreensão mais aprofundada do modo de texto, recomendamos assistir ao evento do webinário gravado [Pergunte ao especialista - Introdução aos relatórios em modo de texto](https://experienceleague.adobe.com/pt-br/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting), que tem uma hora de duração.
+>* Para obter uma compreensão mais aprofundada do modo de texto, recomendamos assistir ao evento do webinário gravado [Pergunte ao especialista - Introdução aos relatórios em modo de texto](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting), que tem uma hora de duração.
 >* Para aprender ainda mais sobre o modo de texto, recomendamos assistir aos tutoriais de [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=pt-BR), que juntos têm cinco horas e meia de duração.
 >* Clique aqui para acessar o [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
@@ -40,7 +40,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Alguns _blocos de código do modo texto_ que você pode usar nos agrupamentos de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3470785/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3410641/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Atividades “Compreender o modo de texto básico para agrupamentos”
 

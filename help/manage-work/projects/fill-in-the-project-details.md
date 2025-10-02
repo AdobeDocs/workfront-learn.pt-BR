@@ -12,10 +12,10 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 27%
+ht-degree: 28%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 27%
 Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao criar um projeto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Usar nomes de projeto descritivos:** evite confusão nomeando projetos de forma descritiva em vez de usar títulos genéricos. &#x200B; Organizar projetos em portfólios e programas melhora a geração de relatórios e a consistência. &#x200B;
 * **Definir Status Apropriado do Projeto:** Comece com o status &quot;Planejamento&quot; ao criar um projeto e alterne para &quot;Atual&quot; quando o projeto for ativado. &#x200B; Os status não &quot;Atuais&quot; pausam as notificações, permitindo o replanejamento sem interrupções. &#x200B;

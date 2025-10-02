@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -36,6 +36,6 @@ Neste vídeo, você aprenderá:
 * Como criar um predecessor entre projetos
 * Como rastrear predecessores entre projetos em relatórios
 
->[!VIDEO](https://video.tv.adobe.com/v/3422839/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 Para saber como criar a visualização **Predecessores e sucessores entre projetos** e o relatório **Predecessores e sucessores entre projetos** usado no vídeo, consulte o tutorial [Compreender o modo de texto básico para visualizações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br) e certifique-se de seguir os tutoriais de pré-requisitos listados lá, se necessário.

@@ -13,7 +13,7 @@ exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 7%
@@ -34,7 +34,7 @@ O vídeo discute as métricas e configurações de desempenho financeiro para o 
 
 O vídeo enfatiza a flexibilidade e o controle disponíveis para administradores de sistema e gerentes de projeto no gerenciamento de métricas e cálculos de desempenho. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ Neste vídeo, você aprenderá a:
 * Exibir ativos no Brand Connect
 * Exibir dados sobre um ativo, incluindo metadados e palavras-chave
 
->[!VIDEO](https://video.tv.adobe.com/v/3418744/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops=1)

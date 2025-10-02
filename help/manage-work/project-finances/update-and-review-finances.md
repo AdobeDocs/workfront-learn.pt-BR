@@ -1,6 +1,6 @@
 ---
 title: Atualizar finanças
-description: Simplifique o rastreamento e o faturamento de custos definindo taxas, atribuindo tipos de custo e receita a tarefas, gerenciando despesas e criando registros de faturamento. A Workfront não faz o faturamento real.
+description: Simplifique o monitoramento de custos e o faturamento definindo taxas, atribuindo tipos de custo e receita a tarefas, gerenciando despesas e criando registros de faturamento. O Workfront não faz o faturamento real.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ O Workfront rastreia itens faturáveis, mas não lida com a faturação real; os
 
 Este vídeo enfatiza a importância da configuração e do rastreamento adequados para simplificar os processos de faturamento do cliente. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
@@ -62,6 +62,6 @@ Este vídeo enfatiza a importância da configuração e do rastreamento adequado
 ## Tutoriais recomendados sobre este tópico
 
 * [Encontrar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
-* [Entender várias taxas de cobrança](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Entender várias taxas de faturamento](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

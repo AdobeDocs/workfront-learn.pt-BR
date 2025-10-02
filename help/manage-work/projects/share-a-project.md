@@ -12,7 +12,7 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 7%
@@ -41,9 +41,9 @@ O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para 
 
 O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilhamento eficiente e destaca o papel dos administradores na personalização das preferências de compartilhamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423152/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Direitos de Acesso Automático:** o Workfront atribui automaticamente direitos de acesso apropriados com base em funções (por exemplo, criadores de projetos, trabalhadores, patrocinadores e gerentes de recursos) para simplificar o compartilhamento. &#x200B;
 * **Opções de Compartilhamento Flexíveis:** os projetos podem ser compartilhados com indivíduos, equipes, funções de trabalho, grupos ou empresas, e as permissões podem ser herdadas por meio de portfólios ou programas. &#x200B;

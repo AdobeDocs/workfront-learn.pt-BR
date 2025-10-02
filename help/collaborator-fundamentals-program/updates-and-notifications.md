@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8809
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 100%
@@ -20,7 +20,7 @@ Neste vídeo, você aprenderá a:
 * Atualize manualmente suas solicitações de aprovação
 * Encontrar notificações
 
->[!VIDEO](https://video.tv.adobe.com/v/3440147/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

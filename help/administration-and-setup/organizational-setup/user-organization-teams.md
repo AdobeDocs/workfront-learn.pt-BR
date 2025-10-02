@@ -11,7 +11,7 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Como usar equipes multifuncionais
 * Como criar e associar equipes
 
->[!VIDEO](https://video.tv.adobe.com/v/3432885/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## Criação de equipe
 
@@ -50,7 +50,7 @@ Janela ![[!UICONTROL Editar equipe]](assets/admin-fund-team-settings.png)
 
 Por padrão, o botão [!UICONTROL Trabalhar na tarefa] simplesmente informa o [!DNL Workfront] que você trabalhará na tarefa sem alterar o status dela para Em andamento (ou um status equivalente). Para que o [!DNL Workfront] modifique automaticamente o status, altere o botão [!UICONTROL Trabalhar na tarefa] para um botão [!UICONTROL Iniciar]. Basta marcar a caixa nas configurações da equipe.
 
-Ao clicar no botão [!UICONTROL Iniciar], o status da tarefa ou do problema muda de Novo para o status selecionado nas configurações da equipe. O [!DNL Workfront] também registra uma data de início efetivo para a tarefa.
+Ao clicar no botão [!UICONTROL Iniciar], o status da tarefa ou do problema muda de Novo para o status selecionado nas configurações da equipe. O [!DNL Workfront] também registra uma data inicial real para a tarefa.
 
 Seção ![[!UICONTROL Trabalhar na tarefa] da janela [!UICONTROL Editar equipe]](assets/admin-fund-start-button-team.png)
 

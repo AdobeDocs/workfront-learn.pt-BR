@@ -12,10 +12,10 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
@@ -25,9 +25,9 @@ O vídeo fornece orientação sobre como planejar com eficiência um projeto no 
 
 O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448572/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Concentre-se em cinco campos principais:** Entenda as tarefas, atribuições, durações, horas planejadas e predecessores para fazer alterações precisas e eficientes no plano do projeto. &#x200B;
 * **Definir Status do Projeto como &quot;Planejamento&quot;:** Verifique se o status do projeto está definido como &quot;Planejamento&quot; para evitar notificações desnecessárias ao ajustar o plano. &#x200B;

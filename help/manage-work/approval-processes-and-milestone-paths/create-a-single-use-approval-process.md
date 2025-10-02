@@ -13,7 +13,7 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 25%
@@ -26,9 +26,9 @@ O vídeo explica como criar e gerenciar processos de aprovação para projetos, 
 O vídeo demonstra a criação de processos de aprovação, configuração de aprovadores, configuração de status e uso de estágios para aprovações de vários níveis.
 &#x200B;Ela destaca a flexibilidade de processos globais e de uso único para gerenciar aprovações de tarefas de maneira eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434692/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Tipos de Processos de Aprovação:** há dois tipos: processos de aprovação globais (compartilhados entre tarefas, projetos ou problemas) e processos de aprovação de uso único (específicos para uma única tarefa, projeto ou problema).
 * **Processos de Aprovação Global:** eles são criados na seção Configuração > Processos > Aprovações e podem ser acionados por status específicos. &#x200B; Eles podem envolver vários aprovadores ou aprovações por etapas.

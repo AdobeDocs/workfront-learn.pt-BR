@@ -12,10 +12,10 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 11%
 
 Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront. Ela enfatiza o gerenciamento eficiente de tarefas, incluindo edição, exclusão, adição, duplicação e reorganização de tarefas em um plano de projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448561/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Edição Embutida para Alterações Rápidas:** Clique duas vezes em um campo para editar diretamente as informações da tarefa e use a tecla Tab para navegar entre os campos e obter atualizações mais rápidas. &#x200B;
 * **Excluindo Tarefas com Backup da Lixeira:** as tarefas excluídas são movidas para a Lixeira por 30 dias, acessíveis apenas pelos administradores do sistema, garantindo a capacidade de recuperação, se necessário. &#x200B;

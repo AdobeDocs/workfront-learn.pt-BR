@@ -12,10 +12,10 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 12%
+ht-degree: 13%
 
 ---
 
@@ -25,9 +25,9 @@ O vídeo explica como monitorar o progresso geral do projeto usando vários indi
 
 O vídeo enfatiza a importância de atualizações regulares pelos membros da equipe e do gerenciamento pró-ativo de problemas para garantir um rastreamento preciso e a conclusão oportuna do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447415/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Cálculo do Percentual Concluído:** o andamento geral do projeto é calculado com base nos valores do Percentual Concluído de tarefas individuais, ponderados por sua duração ou horas planejadas. &#x200B;
 * **Datas planejadas vs. projetadas:** o Workfront calcula as datas de início/conclusão planejadas e projetadas com base na duração da tarefa e em suas predecessoras. &#x200B; As discrepâncias entre essas datas indicam possíveis atrasos. &#x200B;

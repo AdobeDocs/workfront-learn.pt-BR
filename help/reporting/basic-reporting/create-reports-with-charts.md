@@ -12,9 +12,9 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '596'
 ht-degree: 39%
 
 ---
@@ -38,7 +38,7 @@ O vídeo explica como usar gráficos para visualizar dados de maneira eficaz, es
 
 O vídeo destaca como gráficos de pizza e de colunas empilhadas podem fornecer insights sobre a distribuição de tarefas e o desempenho do projeto, ajudando os usuários a comparar projetos e entender visualmente o progresso da tarefa. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450019/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Principais conclusões
 
@@ -73,7 +73,7 @@ O final do trimestre está se aproximando e você talvez queira ver como os proj
 1. Na guia **[!UICONTROL Filtros]**, adicione duas regras de filtro:
 
    * [!UICONTROL Projeto] > [!UICONTROL Status igual a] > [!UICONTROL Concluído]
-   * [!UICONTROL Projeto] > [!UICONTROL &#x200B; Data efetiva de conclusão] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Projeto] > [!UICONTROL  Data efetiva de conclusão] > [!UICONTROL Último trimestre]
 
    ![Uma imagem da tela que permite adicionar filtros a um relatório](assets/chart-report-filters.png)
 

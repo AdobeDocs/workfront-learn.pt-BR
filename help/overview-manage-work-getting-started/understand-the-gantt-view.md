@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10144
 hide: true
 exl-id: dd1d0a8d-3093-4e46-ac0d-20ae79fee8a4
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Neste vídeo, aprenda a usar:
 * O gráfico de Gantt do projeto
 * O gráfico de Gantt de tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/3448011/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
 

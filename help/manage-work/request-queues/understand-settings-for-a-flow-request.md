@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 11%
@@ -30,9 +30,9 @@ O vídeo explica o processo de fluxo de solicitações no Workfront, com foco no
 
 Ao abordar essas perguntas, os usuários podem planejar e configurar efetivamente sua fila de solicitações no Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441910/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Tópicos da Fila:** Defina e organize diferentes tipos de solicitações em tópicos da fila para simplificar a categorização e a personalização. &#x200B;
 * **Grupos de Tópicos:** use grupos de tópicos para organizar ainda mais os tópicos da fila, facilitando a localização de solicitações relacionadas (por exemplo, agrupando categorias &quot;Imprimir&quot; e &quot;Digital&quot;). &#x200B;

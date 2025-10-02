@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 21%
+ht-degree: 23%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 21%
 
 Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439553/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Filtros e Opções de Pesquisa:** Use filtros e ferramentas de pesquisa, incluindo Pesquisa Avançada, para localizar rapidamente projetos específicos com base em nomes, descrições ou campos de dados personalizados. &#x200B;
 * **Lista de Recentes:** os projetos visualizados recentemente aparecem automaticamente na lista de Recentes, que pode exibir até 20 projetos para acesso rápido. &#x200B;

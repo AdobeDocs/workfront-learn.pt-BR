@@ -12,7 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 12%
@@ -24,9 +24,9 @@ ht-degree: 12%
 O vídeo explica como usar o recurso Esforço de trabalho no Workfront para estimar horas planejadas para tarefas quando estimativas precisas são difíceis de determinar.
 Ele demonstra como criar uma visualização personalizada do Esforço de trabalho para simplificar o gerenciamento de tarefas, adicionando colunas relevantes como Esforço de trabalho, Horas planejadas e Tipo de duração
 
->[!VIDEO](https://video.tv.adobe.com/v/3447404/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Recurso do esforço de trabalho para estimar o tempo planejado:** o recurso do esforço de trabalho no Workfront ajuda a estimar as horas planejadas para tarefas com base em sua duração, facilitando a criação de planos de projeto quando as horas planejadas são difíceis de estimar. &#x200B;
 * **Porcentagens do esforço de trabalho personalizáveis:** o Workfront calcula as horas planejadas usando porcentagens da duração da tarefa (por exemplo, Esforço de trabalho do Medium = 50%, Esforço de trabalho grande = 75%) e essas porcentagens podem ser ajustadas conforme necessário. &#x200B;

@@ -12,10 +12,10 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 10%
 
 O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma maneira alternativa de exibir e gerenciar tarefas do projeto. &#x200B; Na exibição Quadro, as tarefas são exibidas como cartões em um quadro estilo Kanban, permitindo que os usuários classifiquem, agrupem e movam tarefas dentro ou entre colunas. &#x200B; Mover uma tarefa atualiza seu status automaticamente, o que é refletido na exibição da lista de tarefas. &#x200B; Os usuários podem criar novos cartões, que geram novas tarefas no projeto e editá-los ou atribuí-los diretamente na exibição Quadro. &#x200B; Colunas e cartões podem ser configurados e tarefas podem ser sequenciadas usando predecessores na exibição de lista de tarefas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423282/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Visão geral do modo de exibição de Quadro:** o modo de exibição de Quadro no Workfront oferece uma interface em estilo Kanban para exibir e gerenciar tarefas do projeto, fornecendo uma alternativa ao modo de exibição de lista de tarefas tradicional. &#x200B;
 * **Gerenciamento de tarefas:** as tarefas podem ser classificadas, agrupadas e movidas dentro ou entre colunas, com atualizações de status aplicadas automaticamente quando as tarefas são movidas. &#x200B;

@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 100%
 
@@ -52,4 +52,4 @@ Neste vídeo, você aprenderá a:
 * Alinhar metas usando uma abordagem de baixo para cima e de cima para baixo
 * Navegar pela seção [!UICONTROL Alinhamento de metas]
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)

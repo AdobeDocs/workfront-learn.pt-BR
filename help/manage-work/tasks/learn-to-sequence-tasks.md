@@ -13,7 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 10%
@@ -27,9 +27,9 @@ O vídeo mostra como definir predecessores para novas tarefas, garantindo a orde
 &#x200B;Ela enfatiza a importância de praticar com predecessores para entender seu impacto nas linhas do tempo do projeto e recomenda usar durações e predecessores para um planejamento de projeto eficiente.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447325/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Predecessoras Definem a Ordem de Tarefas:** Predecessoras estabelecem a sequência de tarefas, garantindo que determinadas tarefas sejam concluídas antes que outras possam começar, o que é crucial para o sucesso do projeto. &#x200B;
 * **Linhas do Tempo de Impacto da Duração:** As durações de tarefas definem o período do trabalho e ajustam as datas de início e de conclusão, criando um efeito em cascata nas tarefas dependentes. &#x200B;

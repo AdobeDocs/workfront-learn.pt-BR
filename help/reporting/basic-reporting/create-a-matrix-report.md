@@ -12,9 +12,9 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '419'
 ht-degree: 62%
 
 ---
@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Quando um relatório matriz pode ser útil
 * E como criar um relatório matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/3448188/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335156/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Principais conclusões
 

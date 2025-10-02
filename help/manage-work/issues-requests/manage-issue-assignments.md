@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 25%
@@ -30,9 +30,9 @@ Neste vídeo, você aprenderá a:
 * Atualizar o progresso de problemas
 * Atualizar o status do problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3446960/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Atribuição de problemas:** use a edição em linha no campo de atribuições para atribuir problemas a usuários ou equipes, e certifique-se de clicar em &quot;salvar&quot; depois de fazer atribuições. &#x200B; Os líderes de equipe podem usar o balanceador de carga de trabalho para atribuir tarefas arrastando-as e soltando-as nos calendários dos membros da equipe. &#x200B;
 * **Localizando Problemas Atribuídos:** Os problemas atribuídos a você aparecem na lista de trabalho da Página Inicial, que pode ser filtrada. &#x200B; Problemas atribuídas pela equipe ficam visíveis na seção de solicitação da equipe, onde os membros da equipe podem aceitar ou reatribuir tarefas. &#x200B; Esses problemas também aparecem no balanceador de carga de trabalho para melhorar a visibilidade. &#x200B;

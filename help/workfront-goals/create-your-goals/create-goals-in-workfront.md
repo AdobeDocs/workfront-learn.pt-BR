@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 100%
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 # Criar metas
 
-No [!DNL Workfront Goals], os executivos e as equipes de liderança corporativa podem ver o progresso de toda a organização em cada nível, até o indivíduo. O [!DNL Workfront Goals] fornece a visibilidade para obter insights acionáveis principais para promover as prioridades mais altas, identificar objetivos que estão em risco, diagnosticar problemas em tempo real e corrigir o curso de forma proativa.
+No [!DNL Workfront Goals], os executivos e as equipes de liderança corporativa podem ver o progresso de toda a organização em cada nível, até a pessoa. O [!DNL Workfront Goals] fornece a visibilidade para obter insights acionáveis principais para promover as prioridades mais altas, identificar objetivos que estão em risco, diagnosticar problemas em tempo real e corrigir o curso de forma proativa.
 
-O [!DNL Workfront Goals] também permite que colaboradores individuais vejam como seu trabalho contribui para o panorama geral. O trabalho é mais relevante quando os indivíduos podem ver onde seu trabalho é importante.
+O [!DNL Workfront Goals] também permite que colaboradores individuais vejam como seu trabalho contribui para o panorama geral. O trabalho é mais relevante quando as pessoas podem ver onde seu trabalho é importante.
 
 Há três maneiras de criar metas com o [!DNL Workfront]:
 
@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá a:
 
 * Navegue pela seção [!UICONTROL Lista de metas] para adicionar uma nova meta
 
->[!VIDEO](https://video.tv.adobe.com/v/3413821/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
 
 ## Copiar uma meta existente
 
@@ -93,5 +93,5 @@ Neste vídeo, você aprenderá a:
 
 * Adicionar uma atividade e convertê-la em uma meta alinhada
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
 

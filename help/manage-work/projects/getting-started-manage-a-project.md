@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 17%
+ht-degree: 18%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 17%
 
 O vídeo fornece uma visão geral do gerenciamento de um projeto depois que seu status é alterado para &quot;Atual&quot; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3445172/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Monitoramento de Progresso:** Projetos com status &quot;Atual&quot; são exibidos em relatórios, permitindo que os gerentes acompanhem o progresso (na programação, atrasado ou em atraso).
 * **Dependências entre Projetos:** as dependências podem ser gerenciadas e visualizadas no modo de exibição de Gantt do Projeto, com opções para detalhar os insights.

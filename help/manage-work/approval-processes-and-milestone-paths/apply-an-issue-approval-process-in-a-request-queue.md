@@ -12,10 +12,11 @@ jira: KT-17578
 last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '376'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
@@ -30,9 +31,9 @@ ht-degree: 5%
 O vídeo explica o processo de aplicar um processo de aprovação padrão ao criar uma fila de solicitações. &#x200B; Quando uma solicitação é criada, ela começa com o status &quot;Novo - Aprovação pendente&quot; e uma notificação de aprovação é enviada ao aprovador designado. &#x200B; Se aprovado, o status muda para &quot;Novo&quot;, permitindo que os indivíduos designados comecem a trabalhar. &#x200B; Se rejeitado, o status pode reverter incorretamente para &quot;Novo&quot; devido a um erro comum na configuração do processo de aprovação. &#x200B;
 O vídeo destaca que o processo de aprovação é acionado quando o status é definido como &quot;Novo&quot;, que é o padrão para novas solicitações. &#x200B; Se for rejeitada, o sistema assumirá como padrão a alteração do status para o anterior, o que não é ideal para novas solicitações. &#x200B; Em vez disso, um status diferente, como &quot;Não resolverá&quot;, deve ser escolhido. &#x200B; O vídeo também observa que não há status &quot;Rejeitado&quot; fornecido por padrão, mas um administrador do sistema pode criar um, se necessário. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455029/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Processo de aprovação padrão:** Ao criar uma fila de solicitações, você pode aplicar um processo de aprovação padrão que atribui automaticamente um fluxo de trabalho de aprovação a cada solicitação.
 * **Alterações de Status Após a Aprovação:** as solicitações aprovadas alteram seu status de &quot;Novo - Aprovação pendente&quot; para &quot;Novo&quot;, permitindo que os indivíduos atribuídos comecem a trabalhar nelas.

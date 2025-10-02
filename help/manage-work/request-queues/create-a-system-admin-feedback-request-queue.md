@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 20%
 
 ---
@@ -34,9 +34,9 @@ O vídeo enfatiza a importância da participação do usuário e da transparênc
 &#x200B;Links para tutoriais para criar relatórios e formulários personalizados são fornecidos para orientação adicional.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450502/?quality=12&learn=on&captions=por_br)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/3427124/?quality=12&amp;learn=on&amp;enablevpops=0)
 
-## Principais pontos
+## Principais conclusões
 
 * **Finalidade da Fila de Solicitações de Comentários:** a fila foi projetada para coletar comentários de usuários sobre processos e fluxos de trabalho criados por administradores do sistema, permitindo melhorias e otimização.&#x200B;
 * **Forms Personalizado para Feedback:** Os campos não nativos exigem formulários personalizados, que são anexados a problemas de feedback, para coletar informações específicas, como tipo de processo, nível e feedback detalhado.
@@ -45,7 +45,7 @@ O vídeo enfatiza a importância da participação do usuário e da transparênc
 * **Teste e acessibilidade:** a fila é testada com solicitações de exemplo, garantindo a funcionalidade. Ele é publicado como uma fila de solicitações de ajuda, acessível a todos os usuários, com uma duração de conclusão padrão de 10 dias.
 
 
-Para saber como criar o **relatório de feedback da equipe de administração** usado no vídeo, consulte a atividade **Criar um relatório de feedback da equipe de administração** no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Para saber como criar o **relatório de feedback da equipe de administração** usado no vídeo, consulte a atividade **Criar um relatório de feedback da equipe de administração** no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Para saber como criar um formulário personalizado, consulte o tutorial [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=pt-BR).
 

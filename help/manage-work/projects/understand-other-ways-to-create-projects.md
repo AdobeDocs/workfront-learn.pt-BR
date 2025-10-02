@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -55,9 +55,9 @@ O vídeo fornece um guia abrangente sobre como criar projetos no Workfront usand
 
 O vídeo enfatiza a flexibilidade do Workfront na criação de projetos por meio de modelos, arranhões, cópia ou importação, atendendo às diferentes necessidades do usuário. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432172/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Modelos Simplificam A Criação De Projetos:**
 * É altamente recomendado usar um modelo, pois ele pode predefinir os principais detalhes, como tarefas, formulários e opções de compartilhamento, economizando tempo e esforço. &#x200B;

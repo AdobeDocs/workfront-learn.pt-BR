@@ -12,9 +12,9 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 49%
 
 ---
@@ -25,7 +25,7 @@ Este vídeo explica como criar e personalizar relatórios de projeto para analis
 
 O vídeo enfatiza que os relatórios personalizados mantêm as configurações padrão, mas alterações temporárias podem ser feitas ao visualizá-los. &#x200B; Os relatórios são armazenados na seção &quot;Meus relatórios&quot;, enquanto os relatórios compartilhados aparecem em &quot;Compartilhado comigo&quot; &#x200B; Os relatórios usados com frequência podem ser fixados ou marcados como favoritos para facilitar o acesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO]&#x200B;(https://video.tv.adobe.com/v/335153/?quality=12&amp;learn=on&amp;enablevpops=0)
 
 ## Principais conclusões
 

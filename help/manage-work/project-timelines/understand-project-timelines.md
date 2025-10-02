@@ -1,6 +1,6 @@
 ---
 title: Entender as linhas de tempo do projeto
-description: Saiba como atribuir tarefas, usar gráficos de Gantt e recursos de Caminho Crítico, monitorar projetos por meio de exibições, agendar tarefas com eficiência e aplicar restrições para um planejamento de projeto ideal.
+description: Saiba como atribuir tarefas, usar gráficos de Gantt e recursos de caminho crítico, monitorar projetos por meio de exibições, agendar tarefas com eficiência e aplicar restrições para um planejamento de projeto ideal.
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '701'
-ht-degree: 6%
+ht-degree: 11%
 
 ---
 
@@ -28,13 +28,13 @@ O que você aprenderá:
 * Diferentes exibições no Workfront, como a exibição padrão para planejamento e a exibição de status para monitoramento do progresso, que inclui sinalizadores para progresso, comentários, documentos, problemas, aprovações, caminho crítico e marcos. As atividades recentes podem ser rastreadas para ver atualizações e notas.
 * O agendamento pode ser feito a partir de uma data de início ou de uma data de conclusão, com o Workfront calculando as datas correspondentes com base na duração da tarefa e nos predecessores. O vídeo aconselha a programação de uma data de início para datas de conclusão críticas para permitir alguma folga. Restrições de tarefa, como &quot;o mais rápido possível&quot; e &quot;o mais tarde possível&quot;, também são abordadas, mostrando como elas afetam o agendamento de tarefas. É possível criar exibições personalizadas para exibir restrições de tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435840/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
 >Para obter uma explicação mais completa sobre os tipos de duração e restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
 
-## Principais pontos
+## Principais conclusões
 
 * **Atribuição e Gerenciamento de Tarefas:** tarefas pai agrupam várias subtarefas, que são atribuídas a funções de trabalho e, posteriormente, a usuários com as habilidades necessárias. &#x200B; Predecessores indicam relações sequenciais, enquanto tarefas sem predecessores podem ser feitas em paralelo. &#x200B;
 * **Gráfico de Gantt e Caminho Crítico:** o gráfico de Gantt fornece uma linha do tempo visual do projeto, e o recurso Caminho Crítico destaca tarefas que poderão atrasar o projeto se elas forem ignoradas. &#x200B;

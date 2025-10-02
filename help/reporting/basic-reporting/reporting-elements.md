@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: 7a6bf5fe51622de59749b821009e5d645d04719f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 3%
@@ -24,7 +24,7 @@ O vídeo explica como usar os elementos de relatórios do Workfront — filtros,
 
 O vídeo também demonstra como personalizar elementos de relatórios e compartilhá-los com outras pessoas. &#x200B; Essas ferramentas permitem que os usuários listem relatórios de acordo com suas necessidades para melhorar a visibilidade e o gerenciamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447793/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

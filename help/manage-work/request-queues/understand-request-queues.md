@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 11%
 
 Este vídeo explica o conceito de Filas de solicitações no Workfront, a finalidade delas e como enviar e gerenciar solicitações. &#x200B; As Filas de solicitações servem como um local centralizado para enviar vários tipos de solicitações. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447015/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Finalidade das Filas de Solicitações:** as Filas de Solicitações na Workfront fornecem um local centralizado para o envio de vários tipos de solicitações, como PTO, atualizações de software, sugestões de clientes e necessidades de treinamento.
 * **Enviando uma solicitação**: os usuários podem enviar solicitações navegando até a área Solicitação, selecionando o tipo de solicitação, preenchendo campos como Assunto, Descrição, campos opcionais (por exemplo, Documento) e preenchendo um formulário personalizado. &#x200B;

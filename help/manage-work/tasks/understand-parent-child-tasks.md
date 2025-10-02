@@ -12,10 +12,10 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 8%
 Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são componentes essenciais de um projeto, representando os itens de trabalho necessários para a conclusão.&#x200B; O vídeo enfatiza a importância de organizar as tarefas com precisão como uma etapa essencial no planejamento e no gerenciamento do projeto. Ele demonstra como começar a trabalhar com tarefas e explica as relações entre tarefas pai e filho.
 &#x200B;As tarefas pai atuam como organizadores, agrupando o projeto em fases, estágios ou marcos, e não são atribuídas a indivíduos. Tarefas secundárias, ou subtarefas, representam trabalho acionável atribuído aos membros da equipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445601/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Tarefas como Backbone de Projeto:** as tarefas representam os itens de trabalho necessários para concluir um projeto e são cruciais para o planejamento e o gerenciamento eficaz do projeto. &#x200B;
 * **Estrutura de Tarefas Pai/Filho:** as tarefas pai agrupam o projeto em fases, estágios ou marcos, enquanto as tarefas filho (subtarefas) representam trabalho acionável atribuído aos membros da equipe. &#x200B;

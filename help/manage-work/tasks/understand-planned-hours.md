@@ -13,10 +13,10 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ As horas planejadas são cruciais para o gerenciamento de recursos no Workfront,
 Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas futuras e esclarecer expectativas com os trabalhadores.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445338/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
-## Principais pontos
+## Principais conclusões
 
 * **Importância das horas planejadas:** as horas planejadas ajudam a estimar a duração das tarefas, gerenciar a alocação de recursos e controlar o tempo gasto, melhorando o planejamento de projetos futuros. &#x200B;
 * **Dicas de Estimativa Precisas:** Divida tarefas longas em subtarefas menores, controle o tempo efetivamente e documente alterações ou problemas para refinar estimativas de horas planejadas. &#x200B;

@@ -12,7 +12,7 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 5%
@@ -33,9 +33,9 @@ Este vídeo fornece uma visão geral de filtros, visualizações e agrupamentos 
 
 O vídeo enfatiza a personalização e fornece links para tutoriais para aprendizado adicional. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453071/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Filtros personalizáveis:** Filtros como &quot;Projetos que possuo&quot; e &quot;Fora do cronograma&quot; ajudam a restringir listas de projetos, e os usuários podem personalizar ou empilhar filtros para resultados mais específicos. &#x200B;
 * **Exibições Detalhadas:** Exibições como &quot;Exibição de Todas as Datas&quot; e &quot;Exibição da História Real&quot; fornecem informações sobre datas planejadas, projetadas e reais, bem como resumos de projetos e atualizações de condições. &#x200B;

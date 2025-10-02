@@ -13,10 +13,10 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 13%
 
 O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações no Workfront. Ele explica o processo de criação de uma solicitação, começando selecionando &quot;Solicitações&quot; no menu principal e clicando no botão &quot;Nova solicitação&quot;. &#x200B; Os usuários podem escolher um tipo de solicitação a partir de filas projetadas de forma personalizada e personalizadas de acordo com os fluxos de trabalho de sua organização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415831/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Criação de solicitação simplificada**: os usuários podem criar solicitações facilmente selecionando &quot;Solicitações&quot; no menu principal, escolhendo um tipo de solicitação, preenchendo campos obrigatórios e anexando documentos relevantes. &#x200B;
 * **Fluxos de trabalho personalizáveis:** as filas de solicitações e os formulários são adaptados aos fluxos de trabalho organizacionais, permitindo que os usuários especifiquem detalhes (por exemplo, mídia na loja, mídia externa, social) e prioridade.

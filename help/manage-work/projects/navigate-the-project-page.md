@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 55%
@@ -33,9 +33,9 @@ Este vídeo fornece uma visão geral da navegação e do gerenciamento da págin
 * **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Os documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449731/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
-## Principais pontos
+## Principais conclusões
 
 * **Visão geral do Cabeçalho do Projeto:** acesse rapidamente os detalhes principais do projeto, como porcentagem concluída, gerente do projeto, data de vencimento, status e condição. &#x200B; O status também controla notificações e estágios de workflow. &#x200B;
 * **Gerenciamento de tarefas:** use a lista de tarefas para rastrear etapas do projeto, aplicar filtros rápidos para localizar tarefas e fazer edições em linha. &#x200B; Acesse informações detalhadas da tarefa por meio do painel de resumo ou da página de tarefas. &#x200B;

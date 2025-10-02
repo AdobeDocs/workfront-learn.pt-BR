@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá a:
 * Fazer upload de um documento
 * Localizar treinamento sobre o upload de provas
 
->[!VIDEO](https://video.tv.adobe.com/v/3440375/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

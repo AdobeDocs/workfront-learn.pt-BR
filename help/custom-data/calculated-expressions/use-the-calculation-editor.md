@@ -11,8 +11,8 @@ thumbnail: 339959.png
 jira: KT-9506
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ Neste vídeo, você aprenderá:
 * Recursos do Editor de Cálculo
 * Como criar uma expressão de data ADDWEEKDAYS em um campo calculado usando o Editor de Cálculo
 
->[!VIDEO](https://video.tv.adobe.com/v/3413834/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops=1)

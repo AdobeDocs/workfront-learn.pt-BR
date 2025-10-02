@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Neste vídeo, você:
 * Entenderá o valor dos modelos de projeto ao atribuir tarefas
 * Entenderá o valor de atribuir tarefas às equipes
 
->[!VIDEO](https://video.tv.adobe.com/v/3445745/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:

@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Neste vídeo, você aprenderá a:
 
 * Conceda acesso às metas a usuários selecionados
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops=1)
 
 Admins de sistema podem acompanhar quantas licenças do [!DNL Workfront Goals] foram usadas através da área **[!UICONTROL Configuração]** do Workfront.
 

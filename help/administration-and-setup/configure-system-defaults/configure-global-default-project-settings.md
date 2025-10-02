@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a:
 * Definir as preferências globais do projeto
 * Criar e usar agendas
 
->[!VIDEO](https://video.tv.adobe.com/v/3423352/?quality=12&learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## Configurações de projetos, tarefas e problemas globais e de grupos
 
@@ -44,7 +44,7 @@ Você verá algo semelhante ao abrir as configurações de [!UICONTROL Tarefas e
 
 No entanto, é possível que nem todos os grupos no [!DNL Workfront] precisem das mesmas preferências de projetos, tarefas e problemas. Por exemplo, o grupo de marketing deseja que o status de um novo projeto seja “Planejamento”, enquanto o grupo de gerentes de projetos prefere o status “Solicitação”.
 
-O [!DNL Workfront] permite que admins de grupo ajustem determinadas preferências de projetos, tarefas e problemas para seus grupos. As preferências que podem ser ajustadas são determinadas por admins de sistema do [!DNL Workfront], usando os botões “bloquear/desbloquear”.
+O [!DNL Workfront] permite que admins de grupo ajustem determinadas preferências de projetos, tarefas e problemas para seus grupos. As preferências que podem ser ajustadas são determinadas por admins de sistema do [!DNL Workfront], usando os botões de alternância “bloquear/desbloquear”.
 
 Comece navegando até a área [!UICONTROL Configuração]:
 

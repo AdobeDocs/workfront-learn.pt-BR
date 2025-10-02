@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Crie e edite grupos
 * Adicione e edite usuários
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
 ## Revisão de grupos e usuários
 
@@ -38,7 +38,7 @@ Os grupos controlam o acesso às pastas de ativos no [!UICONTROL Workfront DAM].
 
 Ao criar grupos, é vital ter em mente quais pastas de ativos os membros desse grupo precisarão acessar no [!UICONTROL DAM do Workfront].
 
-Usuários são os indivíduos com logons para o [!UICONTROL Workfront DAM]. Eles não podem acessar nada no [!UICONTROL Workfront DAM] a menos que sejam atribuídos a um grupo. Os usuários podem pertencer a mais de um grupo, dependendo das necessidades.
+Usuários são as pessoas com logons para o [!UICONTROL Workfront DAM]. Eles não podem acessar nada no [!UICONTROL Workfront DAM] a menos que sejam atribuídos a um grupo. Os usuários podem pertencer a mais de um grupo, dependendo das necessidades.
 
 ## Grupos padrão
 

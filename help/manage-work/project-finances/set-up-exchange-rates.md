@@ -1,6 +1,6 @@
 ---
 title: Configurar taxas de câmbio
-description: Personalize as configurações de moeda com gerenciamento flexível de taxa de câmbio, personalização global e em nível de projeto, além de opções de entrada manuais para um rastreamento financeiro preciso.
+description: Personalize as configurações de moeda com gerenciamento flexível de taxa de câmbio, personalização global e em nível de projeto, além de opções de entrada manual para um monitoramento financeiro preciso.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 11%
+ht-degree: 18%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 O vídeo fornece um guia sobre o gerenciamento de moedas no sistema de rastreamento financeiro do Workfront. &#x200B; Ele explica que a moeda padrão é o dólar americano, mas moedas adicionais podem ser configuradas globalmente ou para projetos individuais e funções de trabalho.
 O vídeo enfatiza que o sistema não fornece as taxas de câmbio atuais, portanto, os usuários devem obtê-las externamente. &#x200B; Depois de definidas, as taxas de câmbio se tornam o padrão para projetos ou funções de trabalho, mas não são atualizadas automaticamente; os usuários com as permissões apropriadas devem atualizá-las manualmente. &#x200B; Depois de configurar as moedas, os usuários podem criar novos projetos e selecionar entre as opções de moeda disponíveis, com a capacidade de personalizar as taxas de câmbio para projetos individuais. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
