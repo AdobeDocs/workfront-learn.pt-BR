@@ -73,7 +73,7 @@ O final do trimestre está se aproximando e você talvez queira ver como os proj
 1. Na guia **[!UICONTROL Filtros]**, adicione duas regras de filtro:
 
    * [!UICONTROL Projeto] > [!UICONTROL Status igual a] > [!UICONTROL Concluído]
-   * [!UICONTROL Projeto] > [!UICONTROL  Data efetiva de conclusão] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Projeto] > [!UICONTROL &#x200B; Data efetiva de conclusão] > [!UICONTROL Último trimestre]
 
    ![Uma imagem da tela que permite adicionar filtros a um relatório](assets/chart-report-filters.png)
 
