@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Que formatação condicional está em uma visualização
 * Como criar e modificar a formatação condicional
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3445446/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 
 ## Resumo de formatação condicional

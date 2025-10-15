@@ -24,7 +24,7 @@ ht-degree: 49%
 O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 &#x200B;Ele explica que um painel é uma coleção de relatórios que permite aos usuários organizar e exibir dados relacionados em um local.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449127/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

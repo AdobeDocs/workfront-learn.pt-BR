@@ -40,7 +40,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Alguns _blocos de código do modo texto_ que você pode usar nos agrupamentos de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470785/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender o modo de texto básico para agrupamentos”
 

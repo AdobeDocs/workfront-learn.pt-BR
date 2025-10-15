@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 * Quando um relatório matriz pode ser útil
 * E como criar um relatório matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448188/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
