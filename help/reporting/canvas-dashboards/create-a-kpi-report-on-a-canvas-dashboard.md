@@ -35,8 +35,8 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
-[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Criar um relatório de KPI em um Painel da Tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Criar um relatório de KPI em um Painel da Tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Tutoriais recomendados sobre este tópico
 

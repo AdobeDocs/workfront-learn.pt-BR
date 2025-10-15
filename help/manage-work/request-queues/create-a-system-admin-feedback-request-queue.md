@@ -45,7 +45,7 @@ O vídeo enfatiza a importância da participação do usuário e da transparênc
 * **Teste e acessibilidade:** a fila é testada com solicitações de exemplo, garantindo a funcionalidade. Ele é publicado como uma fila de solicitações de ajuda, acessível a todos os usuários, com uma duração de conclusão padrão de 10 dias.
 
 
-Para saber como criar o **relatório de feedback da equipe de administração** usado no vídeo, consulte a atividade **Criar um relatório de feedback da equipe de administração** no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Para saber como criar o **relatório de feedback da equipe de administração** usado no vídeo, consulte a atividade **Criar um relatório de feedback da equipe de administração** no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Para saber como criar um formulário personalizado, consulte o tutorial [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=pt-BR).
 

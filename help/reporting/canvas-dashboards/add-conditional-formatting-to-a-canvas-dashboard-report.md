@@ -35,8 +35,8 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 >[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
-[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Criar um relatório de tabela em um Painel da Tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Criar um relatório de tabela em um Painel da Tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutoriais recomendados sobre este tópico
 
