@@ -12,7 +12,7 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 45%
@@ -29,7 +29,7 @@ O vídeo explica o conceito de componentes de relatórios no Workfront, que são
 * **Qualificador de Filtro:** Define quais valores incluir ou excluir em um relatório, como mostrar tarefas com prioridade &quot;alta&quot;. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447026/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

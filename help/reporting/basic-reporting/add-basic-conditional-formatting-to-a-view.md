@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 99%
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Que formatação condicional está em uma visualização
 * Como criar e modificar a formatação condicional
 
->[!VIDEO](https://video.tv.adobe.com/v/3445446/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
 
 
 ## Resumo de formatação condicional
@@ -64,7 +64,7 @@ Isso ajudará você a detectar tarefas com problemas sem incluir a coluna de sta
 1. Selecione a coluna [!UICONTROL Nome da tarefa]. Esta é a coluna à qual você deseja aplicar a formatação condicional, portanto ela aparecerá em vermelho ou amarelo se o status do progresso da tarefa não for Dentro do prazo.
 1. Clique em **[!UICONTROL Opções avançadas]** no canto superior direito da janela do Report Builder.
 1. Clique em **[!UICONTROL Adicionar uma regra para esta coluna]**.
-1. Inicie a regra da coluna alterando [!UICONTROL Tarefa] > [!UICONTROL Nome] na parte superior da janela para[!UICONTROL &#x200B; Tarefa] > [!UICONTROL Status do progresso]. Basta clicar no ícone **[!UICONTROL X]** ao lado de [!UICONTROL Tarefa] > [!UICONTROL Nome] para excluí-la do campo.
+1. Inicie a regra da coluna alterando [!UICONTROL Tarefa] > [!UICONTROL Nome] na parte superior da janela para[!UICONTROL  Tarefa] > [!UICONTROL Status do progresso]. Basta clicar no ícone **[!UICONTROL X]** ao lado de [!UICONTROL Tarefa] > [!UICONTROL Nome] para excluí-la do campo.
 1. Digite “progresso” no campo e selecione [!UICONTROL Status do progresso] na origem do campo [!UICONTROL Tarefa].
 1. Selecione **[!UICONTROL Atrasado]** no campo à direita do qualificador [!UICONTROL Igual].
 1. Escolha um fundo vermelho na linha [!UICONTROL Cor do texto].

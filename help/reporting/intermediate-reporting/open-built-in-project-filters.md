@@ -12,7 +12,7 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 * Revise os filtros de projeto integrados para ver como eles são criados
 * Crie seu próprio filtro de projeto usando o que você aprendeu
 
->[!VIDEO](https://video.tv.adobe.com/v/3413829/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender filtros de projeto integrados”
 

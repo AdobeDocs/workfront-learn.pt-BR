@@ -1,25 +1,24 @@
 ---
-title: Criar um relatório de KPI em um Painel de Controle da Tela
-description: Saiba como criar um relatório de KPI em um painel da tela.
+title: Criar um relatório de gráfico em um Painel da Tela
+description: Saiba como criar um relatório de gráfico em um Painel de tela.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18769
-last-substantial-update: 2025-09-11T00:00:00Z
+jira: KT-18772
+last-substantial-update: 2025-10-15T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 14%
+ht-degree: 9%
 
 ---
 
-# Criar um relatório de KPI em um Painel de Controle da Tela
+# Criar um relatório de gráfico em um Painel da Tela
 
 >[!PREREQUISITES]
 >
@@ -32,16 +31,16 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 [Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
 [Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Criar um relatório de KPI em um Painel da Tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Criar um relatório de gráfico em um Painel da Tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução aos Painéis do Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
-* [Criar um relatório de gráfico em um Painel da Tela](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
+* [Introdução aos painéis de tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Criar um relatório de KPI em um Painel de Controle da Tela](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Criar um relatório de tabela em um Painel da tela de desenho](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Adicionar formatação condicional a um relatório do Canvas Dashboard](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [Usar um filtro OR em um relatório de Painel de controle da tela](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

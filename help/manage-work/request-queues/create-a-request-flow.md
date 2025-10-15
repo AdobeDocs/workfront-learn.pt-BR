@@ -13,7 +13,7 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 9%
@@ -31,7 +31,7 @@ Este vídeo fornece um guia passo a passo sobre como criar um fluxo de solicita�
 O vídeo mostra como criar tópicos da fila, que estão vinculados a regras de roteamento, grupos de tópicos, formulários personalizados, processos de aprovação e durações padrão.
 Por fim, o vídeo mostra como testar a configuração enviando uma solicitação para garantir que ela seja roteada corretamente. &#x200B; Se surgirem problemas, ajustes poderão ser feitos na fila. &#x200B; O vídeo enfatiza a importância de verificar a estrutura e a funcionalidade do fluxo de solicitações para garantir o roteamento e a organização adequados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433827/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

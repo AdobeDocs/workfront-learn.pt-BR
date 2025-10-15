@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Neste vídeo, você:
 * Saiba mais sobre alguns elementos úteis para relatar problemas
 * Aprenda a criar o seu próprio filtro de problemas
 
->[!VIDEO](https://video.tv.adobe.com/v/3413831/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## Atividades “Compreender filtros de problemas integrados”
