@@ -24,7 +24,7 @@ ht-degree: 49%
 O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 &#x200B;Ele explica que um painel é uma coleção de relatórios que permite aos usuários organizar e exibir dados relacionados em um local.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449127/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
@@ -41,7 +41,7 @@ O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 
 Crie um [!UICONTROL painel] com apenas um relatório: “Notas de pesquisa neste projeto”. Isto é útil para encontrar rapidamente qualquer atualização feita em um projeto, mesmo que haja milhares de atualizações para pesquisar. Isso pesquisará as threads de atualização para extrair rapidamente quaisquer atualizações que atendam aos critérios especificados nos prompts.
 
-Crie este relatório fazendo uma cópia do relatório &quot;Search Notes&quot; que você criou na atividade &quot;Create a note report&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+Crie este relatório fazendo uma cópia do relatório &quot;Search Notes&quot; que você criou na atividade &quot;Create a note report&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Remova a solicitação de nome do projeto da cópia e renomeie o relatório como “Notas de pesquisa neste projeto”.
 * Nomeie o [!UICONTROL Painel] como “Notas de pesquisa”.
@@ -50,7 +50,7 @@ Crie este relatório fazendo uma cópia do relatório &quot;Search Notes&quot; q
 
 ### Resposta 1
 
-1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Clique em **[!UICONTROL Ações do relatório]** e selecione **[!UICONTROL Copiar]**. O [!DNL Workfront] cria um novo relatório chamado “Pesquisa de notas (cópia)”.
 1. Vá para **[!UICONTROL Ações de relatório]** e clique em **[!UICONTROL Editar]**. Clique em **[!UICONTROL Configurações de relatório]** e altere o nome para “Notas de pesquisa neste projeto”.
 1. Clique em [!UICONTROL Solicitações de relatório] e exclua a solicitação [!UICONTROL Projeto] > [!UICONTROL Nome] da lista.

@@ -25,7 +25,7 @@ ht-degree: 22%
 Este vídeo explica como criar e gerenciar um projeto do zero. &#x200B; Ele começa criando um novo projeto, renomeando-o e definindo uma meta com uma descrição, uma data de início e uma data de conclusão. Os projetos podem ser divididos em tarefas, que são trabalhos planejados com durações e atribuições estimadas. &#x200B; As tarefas podem ser sequenciadas usando predecessoras e o status do projeto pode ser definido como &quot;Atual&quot; para notificar a equipe e incluí-lo nos relatórios. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435900/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
