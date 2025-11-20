@@ -86,7 +86,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Nota] > [!UICONTROL Texto de auditoria]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
    * [!UICONTROL Tarefa] > [!UICONTROL Nome]
    * [!UICONTROL Problema] > [!UICONTROL Nome]
 
@@ -112,7 +112,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Projeto] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
 
 1. Marque a caixa para **[!UICONTROL Mostrar prompts em painéis]**.
 1. Salve e feche o relatório.
