@@ -1,9 +1,10 @@
 ---
-user-guide-description: Tutoriais do Workfront
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+user-guide-title: Tutoriais do Workfront
+user-guide-description: Uma biblioteca de vídeos e artigos de treinamento criada para ajudá-lo a entender melhor os recursos e as configurações do Workfront.
+source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
 workflow-type: tm+mt
-source-wordcount: '2339'
-ht-degree: 92%
+source-wordcount: '2356'
+ht-degree: 91%
 
 ---
 
@@ -343,7 +344,7 @@ ht-degree: 92%
       + [Aprimore seu fluxo de trabalho com a integração do G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Criar visibilidade com a integração do  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Criar visibilidade com a integração do  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instale o suplemento do Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -521,7 +522,7 @@ ht-degree: 92%
       + [Entenda o  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Entenda as configurações do sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Entenda o [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos e usuários](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurar a integração no Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
@@ -568,7 +569,6 @@ ht-degree: 92%
 
 
 + Ágil {#agile}
-
    + Introdução ao gerenciamento de trabalho ágil {#intro-to-agile}
       + [Benefícios de usar uma metodologia ágil](/help/agile/benefits-of-using-agile.md)
       + [O que é a metodologia Scrum e como ela funciona?](/help/agile/what-is-the-scrum-methodology.md)
