@@ -47,4 +47,4 @@ Neste vídeo, você aprenderá a utilizar o aplicativo da Creative Cloud para:
 * Registrar de tempo
 * Marcar seu trabalho como concluído
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431666/?captions=por_br&quality=12&learn=on&enablevpops=1)
