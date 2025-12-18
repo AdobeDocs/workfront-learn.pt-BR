@@ -9,13 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integração" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -25,7 +26,6 @@ ht-degree: 100%
 Integre o Workfront à Creative Cloud para encontrar e atualizar trabalhos atribuídos a você no Adobe Workfront sem sair dos seguintes aplicativos da Adobe Creative Cloud:
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -34,12 +34,7 @@ Integre o Workfront à Creative Cloud para encontrar e atualizar trabalhos atrib
 Você deve instalar o plug-in correto para o aplicativo da Adobe Creative Cloud que está utilizando:
 
 * Para o Photoshop, consulte [Instalar e abrir o Adobe Workfront para Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=pt-BR)
-* Para o XD, consulte [Instalar e abrir o Adobe Workfront para XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=pt-BR)
 * Para o InDesign, Illustrator, Premiere Pro e After Effects, consulte [Instalar e abrir o Adobe Workfront para design e vídeo](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=pt-BR)
-
->[!NOTE]
->
->Os recursos do **Premiere Pro** e **After Effects** para upload de vídeo, revisão e aprovação no Workfront não estão disponíveis para este plug-in no momento.
 
 
 Neste vídeo, você aprenderá a utilizar o aplicativo da Creative Cloud para:
@@ -52,4 +47,4 @@ Neste vídeo, você aprenderá a utilizar o aplicativo da Creative Cloud para:
 * Registrar de tempo
 * Marcar seu trabalho como concluído
 
->[!VIDEO](https://video.tv.adobe.com/v/3431666/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
