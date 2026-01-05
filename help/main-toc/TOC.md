@@ -173,7 +173,7 @@ ht-degree: 91%
       + [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [Editar a equipe do projeto em um modelo de projeto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
-   + Cronogramas de projeto {#project-timelines}
+   + Linhas do tempo do projeto {#project-timelines}
       + [Entenda as linhas do tempo do projeto](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [Entenda os tipos de data e os status do progresso](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Acompanhe o progresso da linha do tempo do projeto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
@@ -272,7 +272,7 @@ ht-degree: 91%
 
    + Calendário de folga pessoal {#personal-time-off-calendar}
       + [Por que usar o calendário de folga?](/help/manage-resources/pto/why-use-time-off-calendar.md)
-      + [Como as folgas afetam os cronogramas do projeto](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
+      + [Como as folgas afetam as linhas do tempo do projeto](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Gerenciar folgas de outros usuários](/help/manage-resources/pto/manage-other-users-time-off.md)
       + [Veja as folgas ao atribuir tarefas](/help/manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Visibilidade em ferramentas de gerenciamento de recursos](/help/manage-resources/pto/visibility-in-resource-management-tools.md)
@@ -344,7 +344,7 @@ ht-degree: 91%
       + [Aprimore seu fluxo de trabalho com a integração do G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Criar visibilidade com a integração do  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Criar visibilidade com a integração do  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instale o suplemento do Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -471,7 +471,7 @@ ht-degree: 91%
 + Prova do Workfront {#workfront-proof}
    + [Entenda os benefícios da revisão](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Entenda a diferença entre um documento e uma prova](/help/workfront-proof/document-vs-proof.md)
-   + [Explicação sobre os visualizadores de provas](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
+   + [Explicação sobre os visualizadores de revisões](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + Administração e configuração {#administration-and-setup-for-proof}
       + [O que é um modelo de fluxo de trabalho automatizado](/help/workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
@@ -522,7 +522,7 @@ ht-degree: 91%
       + [Entenda o  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Entenda as configurações do sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Entenda o [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos e usuários](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurar a integração no Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
