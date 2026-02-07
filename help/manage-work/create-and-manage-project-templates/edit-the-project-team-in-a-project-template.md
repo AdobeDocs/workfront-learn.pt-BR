@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como evitar a inclusão involuntária de membros da equipe que **não** são do projeto em uma equipe do modelo do projeto.
 * Como editar a equipe do modelo do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441555/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

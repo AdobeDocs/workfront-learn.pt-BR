@@ -27,7 +27,7 @@ Para finalizar, clique em &quot;Copiar projeto&quot; &#x200B;
 Problemas não podem ser copiadas diretamente durante este processo, pois não são consideradas trabalho planejado. &#x200B; Para copiar problemas, vá para a guia Problemas, selecione os problemas desejados e use a opção &quot;Copiar para&quot; para transferi-los para o novo projeto. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456043/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

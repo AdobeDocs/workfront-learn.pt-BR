@@ -27,7 +27,7 @@ O vídeo mostra como definir predecessores para novas tarefas, garantindo a orde
 &#x200B;Ela enfatiza a importância de praticar com predecessores para entender seu impacto nas linhas do tempo do projeto e recomenda usar durações e predecessores para um planejamento de projeto eficiente.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447325/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

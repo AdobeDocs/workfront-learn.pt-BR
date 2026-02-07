@@ -27,7 +27,7 @@ Para aprovações, os usuários podem delegá-las por meio do widget &quot;Aguar
 As aprovações delegadas são marcadas no sistema, mostrando quem as delegou e para quem. &#x200B; Atualizações relacionadas a aprovações são exibidas na guia Update e a atividade do sistema pode ser exibida na guia System Activity. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446381/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

@@ -20,7 +20,7 @@ ht-degree: 14%
 
 Neste vídeo, você aprenderá sobre os status de problemas e as práticas recomendadas para usá-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3472970/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

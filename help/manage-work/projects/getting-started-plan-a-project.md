@@ -25,7 +25,7 @@ O vídeo fornece orientação sobre como planejar com eficiência um projeto no 
 
 O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448572/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

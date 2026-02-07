@@ -45,7 +45,7 @@ O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para 
 
 O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilhamento eficiente e destaca o papel dos administradores na personalização das preferências de compartilhamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423152/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
