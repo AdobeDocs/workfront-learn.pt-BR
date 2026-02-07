@@ -1,5 +1,5 @@
 ---
-title: Compreender o [!UICONTROL Portfolio Otimizer]
+title: Otimize as prioridades de projeto com a ferramenta de Otimização do Portfolio
 description: Otimize o gerenciamento de projetos no Workfront concluindo casos de negócios para comparações justas, filtrando projetos por status, ajustando pontuações dinamicamente, priorizando projetos de maneira eficaz e alinhando o planejamento de recursos às metas do portfólio.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '291'
 ht-degree: 4%
 
 ---
 
-# Compreender o [!UICONTROL Portfolio Otimizer]
+# Otimize as prioridades de projeto com a ferramenta de Otimização do Portfolio
 
 O vídeo explica como usar a ferramenta de Otimização do Portfolio no Workfront para avaliar e priorizar projetos em um portfólio. &#x200B; Ele começa enviando um business case para um projeto, alterando seu status para &quot;solicitado&quot; e permitindo que as opções o aprovem ou rejeitem. &#x200B; Antes da aprovação, os usuários podem comparar o projeto com outros no portfólio usando a ferramenta Portfolio Otimization. &#x200B;
 
 O vídeo enfatiza a importância de completar casos de negócios para comparações precisas e fornece instruções passo a passo para otimizar e gerenciar as prioridades do projeto de maneira eficaz. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446280/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

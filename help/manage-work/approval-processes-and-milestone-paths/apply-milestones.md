@@ -1,5 +1,5 @@
 ---
-title: Aplique marcos
+title: Aplicar caminhos de etapas a projetos e tarefas
 description: Saiba como aplicar caminhos de marco em um projeto e associar tarefas importantes a etapas de marco no projeto.
 feature: Work Management
 thumbnail: 335205.jpeg
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 79%
 
 ---
 
-# Aplique marcos
+# Aplicar caminhos de etapas a projetos e tarefas
 
 Neste vídeo, você aprenderá a:
 
@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Adicione um marco em uma tarefa
 * Práticas recomendadas para aplicar marcos
 
->[!VIDEO](https://video.tv.adobe.com/v/3430283/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
@@ -37,5 +37,5 @@ Neste vídeo, você aprenderá a:
 ## Tutoriais recomendados sobre este tópico
 
 * [Exibir marcos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Criar marcos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Aplicar caminhos de etapas a projetos e tarefas](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 * [Atividade de exibição de marcos em “Criar uma visualização básica”](/help/reporting/basic-reporting/create-a-basic-view.md)

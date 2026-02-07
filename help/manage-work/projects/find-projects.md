@@ -1,5 +1,5 @@
 ---
-title: Encontrar projetos
+title: Encontre projetos com eficiência
 description: Simplifique o gerenciamento de projetos com filtros, ferramentas de pesquisa, listas de recentes, favoritos, projetos fixados e relatórios ou painéis personalizados para obter acesso rápido e organizado aos projetos.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 23%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
-# Encontrar projetos
+# Encontre projetos com eficiência
 
 Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439553/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

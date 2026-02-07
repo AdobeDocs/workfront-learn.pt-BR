@@ -1,5 +1,5 @@
 ---
-title: Delegar tarefas, problemas e aprovações
+title: Delegar tarefas, problemas e aprovações efetivamente
 description: Simplifique os fluxos de trabalho de delegação ativando a delegação de tarefas e aprovações na Configuração, utilizando os botões "Delegar" e "Delegar aprovação", definindo notificações por email para atribuições e rastreando atualizações e atividade do sistema para uma supervisão clara.
 activity: use
 feature: Approvals
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 7%
+source-wordcount: '432'
+ht-degree: 5%
 
 ---
 
-# Delegar tarefas, problemas e aprovações
+# Delegar tarefas, problemas e aprovações efetivamente
 
 O vídeo explica como delegar tarefas, problemas e aprovações. &#x200B; Para habilitar a delegação, o administrador do sistema ou do grupo deve ativar o recurso em Configuração, em Preferências do Projeto. &#x200B; Uma vez habilitado, os usuários podem delegar todas as suas tarefas e problemas para outra pessoa por um período de tempo especificado usando o botão &quot;Delegar&quot; no widget Minhas tarefas. &#x200B; A delegação se aplica a tarefas e problemas juntos e eles devem ser atribuídos à mesma pessoa. &#x200B; As delegações podem ser definidas com ou sem uma data de término, e os usuários podem interromper as delegações manualmente a qualquer momento. &#x200B;
 Para aprovações, os usuários podem delegá-las por meio do widget &quot;Aguardando minha aprovação&quot;. &#x200B; A delegação se aplica a aprovações existentes e novas durante o período especificado, mas somente a projetos, tarefas e problemas, não para documentos, provas ou folhas de horas. &#x200B; As notificações para tarefas delegadas, problemas e aprovações podem ser habilitadas pelo administrador para informar o delegador e o delegado. &#x200B;
 As aprovações delegadas são marcadas no sistema, mostrando quem as delegou e para quem. &#x200B; Atualizações relacionadas a aprovações são exibidas na guia Update e a atividade do sistema pode ser exibida na guia System Activity. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446381/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

@@ -1,5 +1,5 @@
 ---
-title: Introdução ao planejamento de um projeto
+title: Planejar um projeto com eficiência no Workfront
 description: Simplifique o planejamento de projetos com foco nos campos principais, definindo o status como "Planejamento", usando as exibições apropriadas, selecionando datas de início realistas e aproveitando os modos de agendamento para obter linhas do tempo precisas.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 15%
+source-wordcount: '275'
+ht-degree: 11%
 
 ---
 
-# Introdução ao planejamento de um projeto
+# Planejar um projeto com eficiência no Workfront
 
 O vídeo fornece orientação sobre como planejar com eficiência um projeto no Workfront. &#x200B; Ressalta a importância de estabelecer uma base sólida para garantir que o projeto seja concluído no prazo e bem-sucedido. &#x200B; As principais etapas incluem compreender cinco campos críticos: Tarefas, Atribuições, Durações, Horas planejadas e Predecessores. &#x200B; Esses campos permitem ajustes rápidos e precisos no plano do projeto. &#x200B;
 
 O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448572/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

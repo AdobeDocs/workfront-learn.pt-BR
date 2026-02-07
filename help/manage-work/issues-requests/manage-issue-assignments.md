@@ -1,5 +1,5 @@
 ---
-title: Gerenciar atribuições de problemas
+title: Gerenciar atribuições de problemas com eficiência
 description: Gerencie problemas efetivamente no Workfront usando a edição em linha e o balanceador de carga de trabalho para atribuições, rastreando e atualizando o progresso, alterando os status dos problemas e seguindo fluxos de trabalho específicos da equipe para uma execução perfeita do projeto.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 25%
+source-wordcount: '291'
+ht-degree: 23%
 
 ---
 
-# Gerenciar atribuições de problemas
+# Gerenciar atribuições de problemas com eficiência
 
 O gerenciamento de problemas é uma responsabilidade importante do(a) gerente de projeto e das pessoas designadas para trabalhar nos problemas.
 
@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a:
 * Atualizar o progresso de problemas
 * Atualizar o status do problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3446960/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

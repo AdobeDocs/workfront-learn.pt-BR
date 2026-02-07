@@ -1,5 +1,5 @@
 ---
-title: Entenda sobre [!UICONTROL esforço de trabalho]
+title: Estimar horas de tarefas com esforço de trabalho
 description: Simplifique o planejamento de tarefas no Workfront com o recurso Esforço de trabalho, permitindo estimativas personalizáveis de horas planejadas, edição em linha e em massa e exibições personalizadas para um gerenciamento eficiente do projeto.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 12%
+source-wordcount: '289'
+ht-degree: 10%
 
 ---
 
-# Entenda sobre [!UICONTROL esforço de trabalho]
+# Estimar horas de tarefas com esforço de trabalho
 
 O vídeo explica como usar o recurso Esforço de trabalho no Workfront para estimar horas planejadas para tarefas quando estimativas precisas são difíceis de determinar.
 Ele demonstra como criar uma visualização personalizada do Esforço de trabalho para simplificar o gerenciamento de tarefas, adicionando colunas relevantes como Esforço de trabalho, Horas planejadas e Tipo de duração
 
->[!VIDEO](https://video.tv.adobe.com/v/3447404/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

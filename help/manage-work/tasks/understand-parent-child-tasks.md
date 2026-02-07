@@ -1,5 +1,5 @@
 ---
-title: Entenda as tarefas principais-secundárias
+title: Entender os relacionamentos entre tarefas pai e filho
 description: Otimize o gerenciamento de projetos com tarefas como base, usando estruturas pai-filho, conclusão automática de tarefas pai, ferramentas flexíveis de organização e estruturação de tarefas personalizadas para obter eficiência.
 activity: use
 feature: Work Management
@@ -12,19 +12,19 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 9%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 
-# Entenda as tarefas principais-secundárias
+# Entender os relacionamentos entre tarefas pai e filho
 
 Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são componentes essenciais de um projeto, representando os itens de trabalho necessários para a conclusão.&#x200B; O vídeo enfatiza a importância de organizar as tarefas com precisão como uma etapa essencial no planejamento e no gerenciamento do projeto. Ele demonstra como começar a trabalhar com tarefas e explica as relações entre tarefas pai e filho.
 &#x200B;As tarefas pai atuam como organizadores, agrupando o projeto em fases, estágios ou marcos, e não são atribuídas a indivíduos. Tarefas secundárias, ou subtarefas, representam trabalho acionável atribuído aos membros da equipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445601/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

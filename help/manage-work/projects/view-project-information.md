@@ -1,5 +1,5 @@
 ---
-title: Exibir informações do projeto
+title: Explore filtros, visualizações e agrupamentos para o gerenciamento de projetos
 description: Simplifique os fluxos de trabalho do projeto com filtros personalizáveis, exibições detalhadas, agrupamentos eficientes, ferramentas de gerenciamento de tarefas e recursos de rastreamento de problemas para melhorar a organização e a clareza.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 5%
+source-wordcount: '427'
+ht-degree: 4%
 
 ---
 
-# Exibir informações do projeto
+# Explore filtros, visualizações e agrupamentos para o gerenciamento de projetos
 
 Este vídeo fornece uma visão geral de filtros, visualizações e agrupamentos no Workfront para ajudar os usuários a gerenciar e analisar projetos, tarefas e problemas com eficiência. &#x200B; Os principais pontos incluem:
 
@@ -33,7 +33,7 @@ Este vídeo fornece uma visão geral de filtros, visualizações e agrupamentos 
 
 O vídeo enfatiza a personalização e fornece links para tutoriais para aprendizado adicional. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453071/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

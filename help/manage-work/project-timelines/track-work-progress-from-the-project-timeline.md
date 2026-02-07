@@ -1,5 +1,5 @@
 ---
-title: Acompanhe o progresso da linha do tempo do projeto
+title: Rastrear o progresso usando a porcentagem concluída e o status do progresso
 description: Saiba como acompanhar o progresso do trabalho na linha do tempo do projeto usando percentual concluído e status do progresso.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 78%
 
 ---
 
-# Acompanhe o progresso da linha do tempo do projeto
+# Rastrear o progresso usando a porcentagem concluída e o status do progresso
 
 Certifique-se de que as tarefas estejam progredindo da maneira esperada para atender aos prazos do projeto.
 
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá sobre:
 * Percentual completo
 * Status do progresso
 
->[!VIDEO](https://video.tv.adobe.com/v/3438213/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## Tutoriais recomendados sobre este tópico

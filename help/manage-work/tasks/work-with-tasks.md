@@ -1,5 +1,5 @@
 ---
-title: Trabalhar com tarefas
+title: Gerenciar tarefas com eficiência no Workfront
 description: Aprimore o gerenciamento de tarefas com edição em linha, backups da Lixeira para tarefas excluídas, adições de estruturas pai-filho, duplicação de tarefas e ferramentas de reorganização intuitivas como arrastar e soltar no Workfront.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 12%
+source-wordcount: '211'
+ht-degree: 9%
 
 ---
 
-# Trabalhar com tarefas
+# Gerenciar tarefas com eficiência no Workfront
 
 Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront. Ela enfatiza o gerenciamento eficiente de tarefas, incluindo edição, exclusão, adição, duplicação e reorganização de tarefas em um plano de projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448561/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

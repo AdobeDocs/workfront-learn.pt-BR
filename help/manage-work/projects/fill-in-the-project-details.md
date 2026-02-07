@@ -1,5 +1,5 @@
 ---
-title: Preencha os detalhes do projeto
+title: Preencha os detalhes essenciais do projeto
 description: Otimize a eficiência do gerenciamento de projetos usando nomes descritivos, definindo status apropriados, escolhendo o modo de agendamento correto, aproveitando modelos e formulários personalizados e gerenciando recursos com pools e agendamentos de recursos.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 28%
+ht-degree: 23%
 
 ---
 
-# Preencha os detalhes do projeto
+# Preencha os detalhes essenciais do projeto
 
 Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao criar um projeto.
 

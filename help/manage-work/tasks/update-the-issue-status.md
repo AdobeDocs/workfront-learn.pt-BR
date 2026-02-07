@@ -1,5 +1,5 @@
 ---
-title: Atualizar o status do problema
+title: Atualizar status de problemas efetivamente
 description: Saiba mais sobre os status de problemas e as práticas recomendadas para usá-los.
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-09-03T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 18%
+ht-degree: 14%
 
 ---
 
-# Atualizar o status do problema
+# Atualizar status de problemas efetivamente
 
 Neste vídeo, você aprenderá sobre os status de problemas e as práticas recomendadas para usá-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472970/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

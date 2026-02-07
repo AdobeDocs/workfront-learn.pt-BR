@@ -1,5 +1,5 @@
 ---
-title: Copiar um projeto existente
+title: Copie um projeto existente com eficiência
 description: duplique facilmente os projetos usando a opção "Copiar" no menu de três pontos, renomeando e definindo o status para "Planejamento", copiando dados e formulários personalizados e transferindo problemas separadamente por meio da guia Problemas para configurações de projeto personalizadas.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 9%
+source-wordcount: '320'
+ht-degree: 7%
 
 ---
 
-# Copiar um projeto existente
+# Copie um projeto existente com eficiência
 
 O vídeo explica como copiar um projeto em vez de usar um modelo. &#x200B; Para copiar um projeto, abra o projeto desejado, clique no menu de três pontos ao lado do nome do projeto e selecione &quot;Copiar&quot;. &#x200B; Na janela Copiar Projeto, você pode renomear o projeto e alterar seu status, normalmente para &quot;Planejamento&quot; para evitar o envio de notificações aos usuários atribuídos. &#x200B; Você pode escolher se deseja copiar atribuições, andamento, dados personalizados etc. &#x200B;
 Para finalizar, clique em &quot;Copiar projeto&quot; &#x200B;
 Problemas não podem ser copiadas diretamente durante este processo, pois não são consideradas trabalho planejado. &#x200B; Para copiar problemas, vá para a guia Problemas, selecione os problemas desejados e use a opção &quot;Copiar para&quot; para transferi-los para o novo projeto. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456043/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

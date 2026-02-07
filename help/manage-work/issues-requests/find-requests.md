@@ -1,5 +1,5 @@
 ---
-title: Localizar e gerenciar solicitações
+title: Encontre e gerencie solicitações com eficiência
 description: Saiba como usar filtros, gerenciar atribuições de equipe, criar relatórios e painéis personalizados e esclarecer o significado de "meu" em diferentes contextos para um gerenciamento eficaz de solicitações.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 83%
+source-wordcount: '229'
+ht-degree: 80%
 
 ---
 
-# Localizar e gerenciar solicitações
+# Encontre e gerencie solicitações com eficiência
 
 Este vídeo explica como localizar e gerenciar solicitações no Workfront. O vídeo aborda quatro domínios principais:
 
@@ -30,7 +30,7 @@ Este vídeo explica como localizar e gerenciar solicitações no Workfront. O v�
 * Relatórios e painéis personalizados
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441659/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

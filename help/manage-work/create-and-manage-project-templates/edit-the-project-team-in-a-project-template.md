@@ -1,5 +1,5 @@
 ---
-title: Editar a equipe do projeto em um modelo de projeto
+title: Editar a equipe do projeto em um modelo
 description: Aprenda a editar a equipe no modelo do projeto e evite incluir membros da equipe no modelo de maneira involuntária.
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 82%
 
 ---
 
-# Editar a equipe do projeto em um modelo de projeto
+# Editar a equipe do projeto em um modelo
 
 Neste vídeo, você aprenderá:
 
 * Como evitar a inclusão involuntária de membros da equipe que **não** são do projeto em uma equipe do modelo do projeto.
 * Como editar a equipe do modelo do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441555/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

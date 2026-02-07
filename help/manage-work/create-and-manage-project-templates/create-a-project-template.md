@@ -1,5 +1,5 @@
 ---
-title: Crie um Modelo de Projeto e Saiba mais sobre [!UICONTROL Blueprints]
+title: Criar um modelo de projeto e explorar Blueprints
 description: Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e entenda como os [!UICONTROL blueprints] podem fornecer acesso a diversos modelos de projeto úteis criados por especialistas do Workfront.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 55%
+source-wordcount: '633'
+ht-degree: 54%
 
 ---
 
-# Crie um modelo de projeto e saiba mais sobre [!UICONTROL blueprints]
+# Criar um modelo de projeto e explorar Blueprints
 
 
 Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e entenda como os [!UICONTROL blueprints] podem fornecer acesso a diversos modelos de projeto úteis criados por especialistas do Workfront.

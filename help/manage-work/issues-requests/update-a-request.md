@@ -1,5 +1,5 @@
 ---
-title: Atualizar uma solicitação
+title: Atualizar uma solicitação no Workfront
 description: Simplifique o gerenciamento de solicitações no Workfront usando filtros para localizar solicitações, atualizar status e detalhes com eficiência, acessar informações completas e promover colaboração centralizada para fluxos de trabalho simplificados.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 8%
+source-wordcount: '252'
+ht-degree: 5%
 
 ---
 
-# Atualizar uma solicitação
+# Atualizar uma solicitação no Workfront
 
 O vídeo explica como localizar e atualizar solicitações no Adobe Workfront. &#x200B; Depois de enviar uma solicitação, você pode adicionar informações ou fazer perguntas para garantir que os detalhes mais recentes estejam disponíveis para quem está trabalhando nela. &#x200B; &#x200B;
 

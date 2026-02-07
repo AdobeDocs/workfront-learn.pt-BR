@@ -1,5 +1,5 @@
 ---
-title: Faça upload de ativos
+title: Fazer upload e gerenciar ativos do projeto
 description: Faça upload de documentos e provas no projeto antes de fechá-lo para garantir que todos os dados relevantes estejam associados ao projeto.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
-# Faça upload de ativos
+# Fazer upload e gerenciar ativos do projeto
 
 Neste vídeo, você aprenderá a:
 
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá a:
 * Fazer upload de um documento
 * Localizar treinamento sobre o upload de provas
 
->[!VIDEO](https://video.tv.adobe.com/v/3440375/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

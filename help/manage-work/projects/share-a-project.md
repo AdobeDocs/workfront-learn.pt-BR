@@ -1,5 +1,5 @@
 ---
-title: Compartilhar um projeto
+title: Compartilhar projetos com eficiência no Workfront
 description: Simplifique o compartilhamento de projetos no Workfront com direitos de acesso automáticos, opções flexíveis, gerenciamento baseado em equipe, compartilhamento de modelos e padrões de sistema personalizáveis para colaboração simplificada.
 activity: use
 team: Technical Marketing
@@ -12,36 +12,40 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 7%
+source-wordcount: '361'
+ht-degree: 5%
 
 ---
 
-# Compartilhar um projeto
+# Compartilhar projetos com eficiência no Workfront
 
 O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para garantir que as partes interessadas e os colaboradores tenham a visibilidade e o acesso necessários. &#x200B; O Workfront simplifica o compartilhamento atribuindo automaticamente direitos de acesso apropriados com base em funções:
 
 **Compartilhamento Automático:**
+
 * Os criadores de projetos têm direitos gerenciados para exibir e editar o projeto, as tarefas e os problemas.
 * Os trabalhadores atribuídos a tarefas obtêm direitos de visualização para todo o projeto e direitos de colaborador para suas tarefas.
 * Os patrocinadores do projeto podem visualizar o projeto, enquanto os gerentes de recursos podem gerenciá-lo, mas não podem excluí-lo.
 
 **Compartilhamento Manual:**
+
 * Os projetos podem ser compartilhados com indivíduos, equipes, funções de trabalho, grupos ou empresas.
 * As práticas recomendadas incluem criar equipes tendo em mente o compartilhamento e usar portfólios ou programas para herdar permissões em vários projetos.
 
 **Compartilhamento de Modelos e em Massa:**
+
 * A edição em massa permite o compartilhamento de ajustes em vários projetos. &#x200B;
 * As configurações de compartilhamento podem ser pré-definidas em modelos de projeto para economizar tempo. &#x200B;
 
 **Padrões do sistema:**
+
 * Os administradores de sistema ou de grupo podem modificar as configurações padrão de compartilhamento, como conceder direitos de colaborador a membros da equipe atribuídos a tarefas.
 
 O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilhamento eficiente e destaca o papel dos administradores na personalização das preferências de compartilhamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423152/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

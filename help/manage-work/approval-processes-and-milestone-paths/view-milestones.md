@@ -1,5 +1,5 @@
 ---
-title: Exibir marcos
+title: Exibir etapas em seus projetos
 description: Saiba como usar a exibição de marcos na área [!UICONTROL Projeto].
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 87%
 
 ---
 
-# Exibir marcos
+# Exibir etapas em seus projetos
 
 Neste vídeo, você aprenderá a:
 

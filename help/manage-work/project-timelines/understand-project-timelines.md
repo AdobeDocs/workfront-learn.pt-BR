@@ -1,5 +1,5 @@
 ---
-title: Entender as linhas de tempo do projeto
+title: Explorar linhas do tempo do projeto no Workfront
 description: Saiba como atribuir tarefas, usar gráficos de Gantt e recursos de caminho crítico, monitorar projetos por meio de exibições, agendar tarefas com eficiência e aplicar restrições para um planejamento de projeto ideal.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 11%
+source-wordcount: '705'
+ht-degree: 10%
 
 ---
 
-# Entenda as linhas do tempo do projeto
+# Explorar linhas do tempo do projeto no Workfront
 
 O que você aprenderá:
 
@@ -28,7 +28,7 @@ O que você aprenderá:
 * Diferentes exibições no Workfront, como a exibição padrão para planejamento e a exibição de status para monitoramento do progresso, que inclui sinalizadores para progresso, comentários, documentos, problemas, aprovações, caminho crítico e marcos. As atividades recentes podem ser rastreadas para ver atualizações e notas.
 * O agendamento pode ser feito a partir de uma data de início ou de uma data de conclusão, com o Workfront calculando as datas correspondentes com base na duração da tarefa e nos predecessores. O vídeo aconselha a programação de uma data de início para datas de conclusão críticas para permitir alguma folga. Restrições de tarefa, como &quot;o mais rápido possível&quot; e &quot;o mais tarde possível&quot;, também são abordadas, mostrando como elas afetam o agendamento de tarefas. É possível criar exibições personalizadas para exibir restrições de tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435840/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

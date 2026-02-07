@@ -1,5 +1,5 @@
 ---
-title: Introdução ao gerenciamento de um projeto
+title: Gerenciar um projeto com o status atual
 description: Acompanhe o progresso do projeto de maneira eficaz com relatórios, gerencie dependências por meio de visualizações de Gantt, monitore tarefas e aprovações, aprimore a comunicação da equipe e garanta fluxos de trabalho tranquilos com atualizações frequentes.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 18%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 
-# Introdução ao gerenciamento de um projeto
+# Gerenciar um projeto com o status atual
 
 O vídeo fornece uma visão geral do gerenciamento de um projeto depois que seu status é alterado para &quot;Atual&quot; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3445172/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

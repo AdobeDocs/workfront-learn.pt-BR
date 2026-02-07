@@ -1,5 +1,5 @@
 ---
-title: Compartilhar um modelo de projeto
+title: Compartilhar um modelo de projeto com eficiência
 description: Saiba como compartilhar um modelo de projeto e como compartilhar projetos criados a partir de um modelo.
 activity: use
 feature: Work Management
@@ -12,14 +12,14 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 87%
 
 ---
 
-# Compartilhar um modelo de projeto
+# Compartilhar um modelo de projeto com eficiência
 
 Você aprenderá a:
 

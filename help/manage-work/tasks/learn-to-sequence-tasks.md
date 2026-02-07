@@ -1,5 +1,5 @@
 ---
-title: Aprenda a sequenciar tarefas
+title: Sequenciar tarefas efetivamente no Workfront
 description: Simplifique o gerenciamento de projetos definindo a ordem das tarefas com predecessores, definindo linhas do tempo por meio de durações, simplificando sequências com o uso de modelos, evitando restrições manuais e refinando habilidades com a prática.
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 10%
+source-wordcount: '222'
+ht-degree: 7%
 
 ---
 
-# Aprenda a sequenciar tarefas
+# Sequenciar tarefas efetivamente no Workfront
 
 O vídeo explica como sequenciar tarefas no Workfront usando predecessores e durações para gerenciar linhas do tempo do projeto de maneira eficaz.
 O vídeo mostra como definir predecessores para novas tarefas, garantindo a ordem sequencial e datas de início precisas.
 &#x200B;Ela enfatiza a importância de praticar com predecessores para entender seu impacto nas linhas do tempo do projeto e recomenda usar durações e predecessores para um planejamento de projeto eficiente.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447325/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

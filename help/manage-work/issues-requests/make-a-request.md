@@ -1,5 +1,5 @@
 ---
-title: Fazer uma solicitação
+title: Criar e gerenciar solicitações no Workfront
 description: Melhore a eficiência no Workfront com criação simplificada de solicitações, fluxos de trabalho personalizáveis, rascunho de salvamento automático, ferramentas de rastreamento e filtragem e a capacidade de copiar e reutilizar solicitações.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 14%
+source-wordcount: '260'
+ht-degree: 11%
 
 ---
 
-# Fazer uma solicitação
+# Criar e gerenciar solicitações no Workfront
 
 O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações no Workfront. Ele explica o processo de criação de uma solicitação, começando selecionando &quot;Solicitações&quot; no menu principal e clicando no botão &quot;Nova solicitação&quot;. &#x200B; Os usuários podem escolher um tipo de solicitação a partir de filas projetadas de forma personalizada e personalizadas de acordo com os fluxos de trabalho de sua organização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415831/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

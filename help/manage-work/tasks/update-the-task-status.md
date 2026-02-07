@@ -1,5 +1,5 @@
 ---
-title: Atualizar o status da tarefa
+title: Atualizar status da tarefa para obter relatórios precisos
 description: Saiba como, por que e com que frequência atualizar o status da tarefa.
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 17%
+source-wordcount: '159'
+ht-degree: 16%
 
 ---
 
-# Atualizar o status da tarefa
+# Atualizar status da tarefa para obter relatórios precisos
 
 O vídeo fornece um tutorial sobre como, por que e com que frequência atualizar o status da tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471172/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

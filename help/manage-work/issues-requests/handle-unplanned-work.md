@@ -1,5 +1,5 @@
 ---
-title: Lidar com tarefas não planejadas
+title: Lidar com o trabalho não planejado de maneira eficaz
 description: Melhore o gerenciamento de projetos no Workfront rastreando e resolvendo problemas com eficiência, utilizando ferramentas de registro, implementando práticas recomendadas, promovendo a comunicação e convertendo problemas em tarefas para execução simplificada.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 13%
+source-wordcount: '266'
+ht-degree: 10%
 
 ---
 
-# Lidar com tarefas não planejadas
+# Lidar com o trabalho não planejado de maneira eficaz
 
 O vídeo enfatiza a importância da comunicação na gestão de projetos e destaca o papel das questões como uma ferramenta chave para facilitar a comunicação. &#x200B; Ele explica a diferença entre atualizações e problemas, observando que os problemas são mais adequados para o trabalho que precisa ser atribuído, monitorado e resolvido antes que um projeto possa ser concluído. &#x200B; O vídeo fornece um guia passo a passo sobre como registrar problemas. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446571/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

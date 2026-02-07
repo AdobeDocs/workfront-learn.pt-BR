@@ -1,5 +1,5 @@
 ---
-title: Entenda a comunicação no projeto
+title: Melhorar o sucesso do projeto por meio de uma comunicação eficaz
 description: Melhore o sucesso do projeto com uma comunicação eficaz das partes interessadas, clareza das tarefas, discussões centralizadas, relatórios precisos de status e resolução proativa de problemas para manter o alinhamento e a eficiência.
 activity: use
 team: Technical Marketing
@@ -12,16 +12,17 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 16%
+source-wordcount: '404'
+ht-degree: 14%
 
 ---
 
-# Entenda a comunicação no projeto
+# Melhorar o sucesso do projeto por meio de uma comunicação eficaz
 
 O vídeo enfatiza a importância de uma comunicação eficaz para o sucesso do projeto e fornece estratégias para garantir clareza e eficiência na gestão de projetos. &#x200B; Os principais pontos incluem:
+
 * **Comunicação com as partes interessadas:** mantenha as partes interessadas informadas sobre o progresso, os problemas e as resoluções do projeto. &#x200B; São essenciais atualizações regulares adaptadas às suas necessidades. &#x200B;
 * **Clareza da tarefa:** certifique-se de que os membros da equipe entendam suas responsabilidades para evitar confusão e deformação do escopo. &#x200B; Use subtarefas para maior clareza ao atribuir várias pessoas a uma tarefa. &#x200B;
 * **Comunicação Centralizada:** Use ferramentas como o Workfront para armazenar todas as discussões relacionadas ao projeto em um único local. &#x200B; As notificações podem ajudar os membros da equipe a se envolverem em discussões. &#x200B;
@@ -32,13 +33,13 @@ O vídeo enfatiza a importância de uma comunicação eficaz para o sucesso do p
 
 O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de tarefas e a geração de relatórios, garantindo que todas as informações relacionadas ao projeto sejam acessíveis e organizadas. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436150/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=pt-BR#activity-1-create-a-dashboard).
+>Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
 ## Principais conclusões
 
