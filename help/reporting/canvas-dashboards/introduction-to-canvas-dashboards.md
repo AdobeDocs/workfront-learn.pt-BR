@@ -1,5 +1,5 @@
 ---
-title: Introdução aos Painéis do Canvas
+title: Explorar painéis do Canvas no Workfront
 description: Saiba como navegar até os painéis de tela e utilizá-los, e também como criar um painel simples com relatórios existentes.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 18%
 
 ---
 
-# Introdução aos Painéis do Canvas
+# Explorar painéis do Canvas no Workfront
 
 O recurso Painéis do Canvas é outra maneira de criar painéis no Workfront. No momento, ela está na Beta geral, o que significa que todos os clientes da Workfront podem usar o recurso, se estiverem inscritos na versão beta. Um Administrador do sistema precisa fazer o registro. Este vídeo mostrará como.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474025/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Para obter mais informações, consulte o artigo [Visão geral dos painéis da tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Para obter mais informações, consulte o artigo [Visão geral dos painéis da tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Tutoriais recomendados sobre este tópico
 

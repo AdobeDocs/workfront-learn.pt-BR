@@ -1,5 +1,5 @@
 ---
-title: Criar relatórios com gráficos
+title: Visualizar dados com gráficos em relatórios
 description: Os gráficos aprimoram a visualização de dados organizando insights de dados por meio de filtros, agrupamentos e formatos de coluna empilhados personalizáveis, tornando a análise mais clara e acionável.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 39%
+source-wordcount: '599'
+ht-degree: 37%
 
 ---
 
-# Criar relatórios com gráficos
+# Visualizar dados com gráficos em relatórios
 
 O vídeo explica como usar gráficos para visualizar dados de maneira eficaz, especialmente para rastrear tarefas do projeto. &#x200B; Ela demonstra a criação de dois tipos de relatórios no Workfront:
 
@@ -38,7 +38,7 @@ O vídeo explica como usar gráficos para visualizar dados de maneira eficaz, es
 
 O vídeo destaca como gráficos de pizza e de colunas empilhadas podem fornecer insights sobre a distribuição de tarefas e o desempenho do projeto, ajudando os usuários a comparar projetos e entender visualmente o progresso da tarefa. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450019/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
@@ -73,7 +73,7 @@ O final do trimestre está se aproximando e você talvez queira ver como os proj
 1. Na guia **[!UICONTROL Filtros]**, adicione duas regras de filtro:
 
    * [!UICONTROL Projeto] > [!UICONTROL Status igual a] > [!UICONTROL Concluído]
-   * [!UICONTROL Projeto] > [!UICONTROL &#x200B; Data efetiva de conclusão] > [!UICONTROL Último trimestre]
+   * [!UICONTROL Projeto] > [!UICONTROL  Data efetiva de conclusão] > [!UICONTROL Último trimestre]
 
    ![Uma imagem da tela que permite adicionar filtros a um relatório](assets/chart-report-filters.png)
 

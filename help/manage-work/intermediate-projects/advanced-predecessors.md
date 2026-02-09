@@ -1,5 +1,5 @@
 ---
-title: Predecessores avançados
+title: Domine as dependências de tarefas avançadas
 description: Aprenda sobre tipos de dependência de predecessores, tipos de defasagem, predecessores impostos, erros de loop de dependência, bem como alguns atalhos e práticas recomendadas.
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -12,14 +12,14 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 92%
 
 ---
 
-# Predecessores avançados
+# Domine as dependências de tarefas avançadas
 
 
 >[!PREREQUISITES]
@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá sobre:
 * Erros de loop de dependência
 * Atalhos e práticas recomendadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3454533/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
 Para obter mais informações sobre o uso de predecessores, consulte [Usar predecessores de tarefa](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=pt-BR).
 

@@ -1,5 +1,5 @@
 ---
-title: Entenda as filas de solicitações
+title: Explorar filas de solicitações no Workfront
 description: Simplifique as operações no Workfront com filas de solicitações centralizadas para envios, gerenciamento eficiente de filas e acesso fácil a solicitações enviadas para melhorar os fluxos de trabalho do projeto.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 12%
+source-wordcount: '225'
+ht-degree: 9%
 
 ---
 
-# Entenda as filas de solicitações
+# Explorar filas de solicitações no Workfront
 
 Este vídeo explica o conceito de Filas de solicitações no Workfront, a finalidade delas e como enviar e gerenciar solicitações. &#x200B; As Filas de solicitações servem como um local centralizado para enviar vários tipos de solicitações. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447015/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

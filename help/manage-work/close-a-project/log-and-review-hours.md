@@ -1,5 +1,5 @@
 ---
-title: Registrar e revisar horas
+title: Registrar e revisar as horas do projeto
 description: Registrar as horas pendentes e revisar as horas registradas antes de encerrar um projeto.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 82%
 
 ---
 
-# Registrar e revisar horas
+# Registrar e revisar as horas do projeto
 
 Neste vídeo, você aprenderá a:
 
 * Revisar horas registradas em um projeto
 * Aprovar horas do projeto, se necessário
 
->[!VIDEO](https://video.tv.adobe.com/v/3441074/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

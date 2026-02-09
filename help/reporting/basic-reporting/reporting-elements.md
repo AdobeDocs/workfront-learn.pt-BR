@@ -1,5 +1,5 @@
 ---
-title: Compreender os elementos do relatório
+title: Explorar elementos de relatórios do Workfront
 description: Aprimore os relatórios de projeto com filtros, visualizações e agrupamentos personalizáveis que refinam os relatórios de lista, organizam os dados com eficiência e permitem uma colaboração perfeita.
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 3%
+source-wordcount: '243'
+ht-degree: 0%
 
 ---
 
-# Compreender os elementos do relatório
+# Explorar elementos de relatórios do Workfront
 
 O vídeo explica como usar os elementos de relatórios do Workfront — filtros, visualizações e agrupamentos — para acessar e refinar informações valiosas em relatórios de lista para projetos, tarefas e outros objetos. &#x200B; Os filtros ajudam a restringir listas com base em critérios específicos, como mostrar apenas projetos ativos ou tarefas atribuídas a você. &#x200B; As exibições determinam as informações exibidas em colunas, destacando campos específicos como receita ou despesas. &#x200B; Os agrupamentos organizam listas com base em critérios como data de conclusão planejada ou status do progresso.
 
 O vídeo também demonstra como personalizar elementos de relatórios e compartilhá-los com outras pessoas. &#x200B; Essas ferramentas permitem que os usuários listem relatórios de acordo com suas necessidades para melhorar a visibilidade e o gerenciamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447793/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

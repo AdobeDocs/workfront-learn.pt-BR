@@ -1,5 +1,5 @@
 ---
-title: Atualizar finanças
+title: Atualizar finanças para projetos de clientes
 description: Simplifique o monitoramento de custos e o faturamento definindo taxas, atribuindo tipos de custo e receita a tarefas, gerenciando despesas e criando registros de faturamento. O Workfront não faz o faturamento real.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# Atualizar finanças
+# Atualizar finanças para projetos de clientes
 
 Este vídeo fornece um guia detalhado sobre tempo de rastreamento, despesas e criação de registros de cobrança para projetos de clientes. &#x200B; Os principais pontos incluem:
 

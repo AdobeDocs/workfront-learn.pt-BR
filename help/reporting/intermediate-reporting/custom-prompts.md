@@ -1,5 +1,5 @@
 ---
-title: Criar solicitações personalizadas
+title: Criar prompts personalizados usando o modo de texto
 description: Aprenda o que é uma solicitação personalizada, como criá-la usando o modo de texto e alguns exemplos que você pode usar em relatórios do Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '204'
+ht-degree: 94%
 
 ---
 
-# Criar solicitações personalizadas
+# Criar prompts personalizados usando o modo de texto
 
 Neste vídeo, você aprenderá:
 
@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como criar uma solicitação personalizada usando o modo de texto
 * Alguns exemplos que você pode usar nos relatórios
 
->[!VIDEO](https://video.tv.adobe.com/v/3413833/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Criar prompts personalizados”
 

@@ -1,5 +1,5 @@
 ---
-title: Entenda o modo de texto básico para agrupamentos
+title: Explorar modo de texto básico para agrupamentos no Workfront
 description: Saiba mais sobre modo de texto, camel case e alguns modos de texto básicos que você pode usar nos agrupamentos de relatório no Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 88%
+source-wordcount: '291'
+ht-degree: 82%
 
 ---
 
-# Entenda o modo de texto básico para agrupamentos
+# Explorar modo de texto básico para agrupamentos no Workfront
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ Neste vídeo, você aprenderá:
 * O que é camel case
 * Alguns _blocos de código do modo texto_ que você pode usar nos agrupamentos de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3470785/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender o modo de texto básico para agrupamentos”
 

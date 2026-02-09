@@ -1,5 +1,5 @@
 ---
-title: Entenda as opções adicionais de relatório de calendário
+title: Explorar funcionalidades avançadas de relatório de calendário
 description: Aprenda a copiar, editar, compartilhar e excluir um calendário.
 activity: use
 feature: Reports and Dashboards
@@ -11,16 +11,16 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# Entenda as opções adicionais de relatório de calendário
+# Explorar funcionalidades avançadas de relatório de calendário
 
-Um relatório de calendário é um relatório dinâmico que exibe períodos de trabalho e folga em um calendário. Você pode ver informações de data em um relatório de calendário para os seguintes objetos:
+Um relatório de calendário é um relatório dinâmico que exibe períodos de trabalho e folga em um calendário. Você pode exibir informações de data em um relatório de calendário para os seguintes objetos:
 
 * Tarefas
 * Projetos
@@ -35,4 +35,4 @@ Neste vídeo, você aprenderá a:
 * Compartilhar um calendário
 * Excluir um calendário
 
->[!VIDEO](https://video.tv.adobe.com/v/3445061/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)

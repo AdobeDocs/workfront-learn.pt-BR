@@ -1,5 +1,5 @@
 ---
-title: Noções básicas das configurações de um fluxo de solicitação
+title: Organizar as configurações do fluxo de solicitação
 description: Otimize o gerenciamento de solicitações do Workfront definindo tópicos da fila, usando grupos de tópicos, definindo regras de roteamento, planejando com antecedência e garantindo que os envios não sejam ignorados para aumentar a eficiência.
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 11%
+source-wordcount: '285'
+ht-degree: 7%
 
 ---
 
-# Noções básicas das configurações de um fluxo de solicitação
+# Organizar as configurações do fluxo de solicitação
 
 O vídeo explica o processo de fluxo de solicitações no Workfront, com foco no gerenciamento de filas, regras de roteamento, grupos de tópicos e tópicos da fila. &#x200B; Ele enfatiza a importância de organizar a fila de solicitações respondendo três perguntas principais:
 
@@ -30,7 +30,7 @@ O vídeo explica o processo de fluxo de solicitações no Workfront, com foco no
 
 Ao abordar essas perguntas, os usuários podem planejar e configurar efetivamente sua fila de solicitações no Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441910/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

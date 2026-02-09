@@ -1,6 +1,6 @@
 ---
-title: Usar um filtro OR em um relatório de Painel de controle da tela
-description: Saiba como usar um filtro OR em um relatório do Painel de controle do Canvas.
+title: Aplicação de um filtro OR em um relatório do Painel de controle da tela
+description: Saiba como usar um filtro OR em um relatório do painel de tela.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,14 +11,15 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 9%
+ht-degree: 18%
 
 ---
 
-# Usar um filtro OR em um relatório de Painel de controle da tela
+# Aplicação de um filtro OR em um relatório do Painel de controle da tela
 
 >[!PREREQUISITES]
 >
@@ -31,11 +32,11 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 [Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475386/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
-[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Editar filtros de relatório em um Painel da Tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Editar filtros de relatório em um Painel da Tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## Tutoriais recomendados sobre este tópico
 

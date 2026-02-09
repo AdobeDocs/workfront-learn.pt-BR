@@ -1,5 +1,5 @@
 ---
-title: Entenda as configurações de relatório
+title: Explorar configurações e prompts de relatório
 description: Saiba como acessar as configurações de relatório do Workfront e entenda para que algumas configurações de relatório comuns são usadas.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8871
 last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '58'
+ht-degree: 46%
 
 ---
 
-# Entenda as configurações de relatório
+# Explorar configurações e prompts de relatório
 
 Neste vídeo, você aprenderá:
 
@@ -27,4 +27,4 @@ Neste vídeo, você aprenderá:
 * Como executar seu relatório com os direitos de acesso de um usuário específico
 * Como configurar e usar prompts de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/3445868/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)

@@ -1,5 +1,5 @@
 ---
-title: Crie uma fila de solicitações
+title: Criar uma fila de solicitações no Workfront
 description: Crie filas de solicitações eficientes do Workfront definindo permissões de acesso, personalizando tipos e campos de solicitação, ativando a fila e testando sua funcionalidade para obter um gerenciamento perfeito de envio de projeto.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 11%
+source-wordcount: '248'
+ht-degree: 8%
 
 ---
 
-# Crie uma fila de solicitações
+# Criar uma fila de solicitações no Workfront
 
 O vídeo fornece um guia passo a passo sobre a criação de uma fila de solicitações no Workfront. &#x200B; O vídeo é concluído demonstrando como enviar uma solicitação usando a fila recém-criada, mostrando o processo de inserir detalhes e verificando o envio na guia &quot;solicitações enviadas&quot;. &#x200B;
 

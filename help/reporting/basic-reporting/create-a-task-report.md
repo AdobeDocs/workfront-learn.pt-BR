@@ -1,5 +1,5 @@
 ---
-title: Crie um relatório de tarefas
+title: Criar um relatório de tarefas para atribuições atrasadas
 description: 'Saiba como criar um relatório de tarefas com um filtro complexo e encontrar os relatórios que você cria no Workfront. '
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 78%
+source-wordcount: '1121'
+ht-degree: 76%
 
 ---
 
-# Crie um relatório de tarefas
+# Criar um relatório de tarefas para atribuições atrasadas
 
 O vídeo fornece um guia passo a passo sobre como criar um relatório personalizado para rastrear tarefas atrasadas atribuídas ao usuário conectado. Ele começa explicando a necessidade de relatórios personalizados quando os filtros, as exibições ou os relatórios internos existentes não atendem aos requisitos específicos. &#x200B; O relatório é chamado de &quot;Tarefas atrasadas atribuídas a mim&quot;, com uma descrição adicionada para maior clareza. &#x200B;
 
 O relatório resultante ajuda os usuários a se concentrarem em tarefas atrasadas, fornece insights sobre dependências e simplifica a navegação para os projetos de host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448347/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
@@ -86,7 +86,7 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Nota] > [!UICONTROL Texto de auditoria]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
    * [!UICONTROL Tarefa] > [!UICONTROL Nome]
    * [!UICONTROL Problema] > [!UICONTROL Nome]
 
@@ -112,14 +112,14 @@ Inclua prompts para o seguinte:
    * [!UICONTROL Proprietário] > [!UICONTROL Nome]
    * [!UICONTROL Nota] > [!UICONTROL Data de entrada]
    * [!UICONTROL Projeto] > [!UICONTROL Nome]
-   * [!UICONTROL Nota] > [!UICONTROL &#x200B; Tipo de auditoria]
+   * [!UICONTROL Nota] > [!UICONTROL  Tipo de auditoria]
 
 1. Marque a caixa para **[!UICONTROL Mostrar prompts em painéis]**.
 1. Salve e feche o relatório.
 
 ### Atividade 2: criar um relatório de feedback de equipe administrativa
 
-Este é um relatório que mostra todos os problemas de uma fila de solicitações de feedback criada para admins de sistema. Você pode ver como criar essa fila de solicitações no tutorial [Criar uma fila de solicitações de feedback para admins de sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=pt-BR).
+Este é um relatório que exibe todos os problemas de uma fila de solicitações de feedback criada para admins de sistema. Você pode ver como criar essa fila de solicitações no tutorial [Criar uma fila de solicitações de feedback para admins de sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=pt-BR).
 
 Esse relatório também usa um formulário personalizado. Para saber como criar um formulário personalizado, consulte o tutorial [Criar e compartilhar um formulário personalizado](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=pt-BR).
 

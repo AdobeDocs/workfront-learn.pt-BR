@@ -1,5 +1,5 @@
 ---
-title: Encontrar informações financeiras
+title: Acessar e gerenciar informações financeiras de projetos e tarefas
 description: Descubra como acessar, analisar e gerenciar com eficiência os dados financeiros de projetos e tarefas, cobrindo orçamentos, receita, custos e métricas de desempenho nos níveis de projeto e tarefa.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 21%
+source-wordcount: '217'
+ht-degree: 17%
 
 ---
 
-# Encontrar informações financeiras
+# Acessar e gerenciar informações financeiras de projetos e tarefas
 
 O vídeo explica como acessar e gerenciar informações financeiras de projetos e tarefas. &#x200B;Ele fornece uma visão geral abrangente da navegação e compreensão de dados financeiros nos níveis de projeto e tarefa. &#x200B;
 

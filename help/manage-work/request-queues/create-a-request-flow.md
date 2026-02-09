@@ -1,5 +1,5 @@
 ---
-title: Criar um fluxo de solicitação
+title: Criar um fluxo de solicitação no Workfront
 description: Otimize o gerenciamento de solicitações criando regras de roteamento para atribuições eficientes, organizando solicitações com grupos de tópicos aninhados, vinculando tópicos da fila a workflows, testando a funcionalidade do fluxo de solicitações e fazendo ajustes flexíveis para garantir precisão e eficiência.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 9%
+source-wordcount: '406'
+ht-degree: 7%
 
 ---
 
-# Criar um fluxo de solicitação
+# Criar um fluxo de solicitação no Workfront
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Este vídeo fornece um guia passo a passo sobre como criar um fluxo de solicita�
 O vídeo mostra como criar tópicos da fila, que estão vinculados a regras de roteamento, grupos de tópicos, formulários personalizados, processos de aprovação e durações padrão.
 Por fim, o vídeo mostra como testar a configuração enviando uma solicitação para garantir que ela seja roteada corretamente. &#x200B; Se surgirem problemas, ajustes poderão ser feitos na fila. &#x200B; O vídeo enfatiza a importância de verificar a estrutura e a funcionalidade do fluxo de solicitações para garantir o roteamento e a organização adequados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433827/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

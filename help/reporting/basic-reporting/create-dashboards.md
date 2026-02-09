@@ -1,5 +1,5 @@
 ---
-title: Criar painéis
+title: Criar painéis no Workfront
 description: Organize e exiba dados de projeto com painéis do Workfront, que podem ser personalizados, acessados com facilidade, compartilhados e impressos, simplificando a colaboração e o gerenciamento de projetos.
 activity: use
 feature: Reports and Dashboards
@@ -12,19 +12,19 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 49%
+source-wordcount: '650'
+ht-degree: 48%
 
 ---
 
-# Criar painéis
+# Criar painéis no Workfront
 
 O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 &#x200B;Ele explica que um painel é uma coleção de relatórios que permite aos usuários organizar e exibir dados relacionados em um local.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449127/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
@@ -41,16 +41,16 @@ O vídeo fornece um guia abrangente para entender e usar painéis no Workfront.
 
 Crie um [!UICONTROL painel] com apenas um relatório: “Notas de pesquisa neste projeto”. Isto é útil para encontrar rapidamente qualquer atualização feita em um projeto, mesmo que haja milhares de atualizações para pesquisar. Isso pesquisará as threads de atualização para extrair rapidamente quaisquer atualizações que atendam aos critérios especificados nos prompts.
 
-Crie este relatório fazendo uma cópia do relatório &quot;Search Notes&quot; que você criou na atividade &quot;Create a note report&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+Crie este relatório fazendo uma cópia do relatório &quot;Search Notes&quot; que você criou na atividade &quot;Create a note report&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Remova a solicitação de nome do projeto da cópia e renomeie o relatório como “Notas de pesquisa neste projeto”.
 * Nomeie o [!UICONTROL Painel] como “Notas de pesquisa”.
-* Vá para a página inicial de qualquer projeto e crie uma seção personalizada para um [!UICONTROL painel].
+* Vá para a página de destino de qualquer projeto e crie uma seção personalizada para um [!UICONTROL painel].
 * Observe que ao pesquisar por notas na seção personalizada, somente as notas contidas no projeto que você está acessando serão exibidas.
 
 ### Resposta 1
 
-1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Execute o relatório criado na atividade &quot;Criar um relatório de observações&quot;. Ainda não foi criado? Clique aqui para ver a atividade no tutorial [Criar um relatório de tarefa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Clique em **[!UICONTROL Ações do relatório]** e selecione **[!UICONTROL Copiar]**. O [!DNL Workfront] cria um novo relatório chamado “Pesquisa de notas (cópia)”.
 1. Vá para **[!UICONTROL Ações de relatório]** e clique em **[!UICONTROL Editar]**. Clique em **[!UICONTROL Configurações de relatório]** e altere o nome para “Notas de pesquisa neste projeto”.
 1. Clique em [!UICONTROL Solicitações de relatório] e exclua a solicitação [!UICONTROL Projeto] > [!UICONTROL Nome] da lista.

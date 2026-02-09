@@ -1,5 +1,5 @@
 ---
-title: Entenda a visualização de [!UICONTROL Gantt]
+title: Explore o modo de exibição [!UICONTROL Gantt] para gerenciamento de projetos
 description: Maximize a eficiência do projeto com gráficos de Gantt, oferecendo visualizações abrangentes, rastreamento de progresso, gerenciamento de marcos, insights do antecessor e opções personalizáveis para simplificar o gerenciamento de tarefas e recursos.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 13%
+source-wordcount: '369'
+ht-degree: 11%
 
 ---
 
-# Entenda a visualização de [!UICONTROL Gantt]
+# Explore o modo de exibição [!UICONTROL Gantt] para gerenciamento de projetos
 
 O vídeo explica como usar o Gráfico de Gantt do Projeto e o Gráfico de Gantt da Tarefa para visualizar e gerenciar tarefas e projetos de maneira eficaz. &#x200B; Os gráficos de Gantt fornecem uma visão geral de tarefas, modelos e projetos e são comumente usados em portfólios para entender as relações entre projetos, especialmente aqueles que compartilham recursos. &#x200B;
 
@@ -40,7 +40,7 @@ O vídeo explica como usar o Gráfico de Gantt do Projeto e o Gráfico de Gantt 
 
 O vídeo enfatiza a flexibilidade dos gráficos de Gantt, permitindo que os usuários personalizem visualizações e exibam vários elementos simultaneamente para melhorar o gerenciamento do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448011/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
 

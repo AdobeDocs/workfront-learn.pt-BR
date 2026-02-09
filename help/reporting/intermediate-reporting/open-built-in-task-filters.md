@@ -1,5 +1,5 @@
 ---
-title: Entenda os filtros de tarefa integrados
+title: Explorar filtros de tarefa integrados
 description: Saiba como revisar filtros de tarefas integrados para saber como eles são criados e crie seu próprio filtro de tarefas no Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 95%
+ht-degree: 91%
 
 ---
 
-# Entenda os filtros de tarefa integrados
+# Explorar filtros de tarefa integrados
 
 Neste vídeo, você:
 
@@ -27,7 +27,7 @@ Neste vídeo, você:
 * Saiba mais sobre alguns elementos úteis de relatórios de tarefas
 * Saiba como criar seu próprio filtro de tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/3413830/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender filtros de tarefas integrados”
 

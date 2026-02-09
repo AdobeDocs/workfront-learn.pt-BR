@@ -1,5 +1,5 @@
 ---
-title: Entenda a visualização de [!UICONTROL Quadro]
+title: Explore a visualização do painel para o gerenciamento de tarefas
 description: Simplifique o gerenciamento de tarefas no Workfront com a [!UICONTROL interface da exibição do painel] [!DNL Kanban] , oferecendo classificação de tarefas, criação, personalização e integração contínua com a exibição da lista de tarefas para uma organização eficiente do projeto.
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 11%
+source-wordcount: '304'
+ht-degree: 8%
 
 ---
 
-# Entenda a visualização de [!UICONTROL Quadro]
+# Explore a visualização do painel para o gerenciamento de tarefas
 
 O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma maneira alternativa de exibir e gerenciar tarefas do projeto. &#x200B; Na exibição Quadro, as tarefas são exibidas como cartões em um quadro estilo Kanban, permitindo que os usuários classifiquem, agrupem e movam tarefas dentro ou entre colunas. &#x200B; Mover uma tarefa atualiza seu status automaticamente, o que é refletido na exibição da lista de tarefas. &#x200B; Os usuários podem criar novos cartões, que geram novas tarefas no projeto e editá-los ou atribuí-los diretamente na exibição Quadro. &#x200B; Colunas e cartões podem ser configurados e tarefas podem ser sequenciadas usando predecessores na exibição de lista de tarefas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423282/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
