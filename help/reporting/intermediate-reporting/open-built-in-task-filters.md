@@ -27,7 +27,7 @@ Neste vídeo, você:
 * Saiba mais sobre alguns elementos úteis de relatórios de tarefas
 * Saiba como criar seu próprio filtro de tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413830/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender filtros de tarefas integrados”
 

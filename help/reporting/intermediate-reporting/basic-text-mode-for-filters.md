@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá sobre:
 * Camel case
 * Alguns _blocos de código do modo texto_ que você pode usar nos filtros de relatório
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413832/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Atividades “Compreender o modo de texto básico para filtros”
 

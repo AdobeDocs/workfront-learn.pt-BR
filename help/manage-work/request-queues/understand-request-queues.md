@@ -24,7 +24,7 @@ ht-degree: 9%
 
 Este vídeo explica o conceito de Filas de solicitações no Workfront, a finalidade delas e como enviar e gerenciar solicitações. &#x200B; As Filas de solicitações servem como um local centralizado para enviar vários tipos de solicitações. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447015/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 

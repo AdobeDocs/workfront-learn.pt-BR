@@ -35,4 +35,4 @@ Neste vídeo, você aprenderá a:
 * Compartilhar um calendário
 * Excluir um calendário
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445061/?captions=por_br&quality=12&learn=on&enablevpops=1)

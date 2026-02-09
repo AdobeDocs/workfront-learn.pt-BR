@@ -27,7 +27,7 @@ Neste vídeo, você aprenderá:
 * Como compartilhar relatórios com qualquer pessoa
 * O que os destinatários podem ver e fazer com um relatório do Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447817/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 

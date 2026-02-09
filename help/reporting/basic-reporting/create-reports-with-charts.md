@@ -38,7 +38,7 @@ O vídeo explica como usar gráficos para visualizar dados de maneira eficaz, es
 
 O vídeo destaca como gráficos de pizza e de colunas empilhadas podem fornecer insights sobre a distribuição de tarefas e o desempenho do projeto, ajudando os usuários a comparar projetos e entender visualmente o progresso da tarefa. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450019/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Principais conclusões
 
