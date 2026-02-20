@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá a:
 * Usar o designer de cenários
 * Criar um cenário básico
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3480093/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 **Este é o URL para colar no campo &quot;URLs de redirecionamento&quot; ao criar uma integração de aplicativo OAuth na instância da unidade de teste**
 
