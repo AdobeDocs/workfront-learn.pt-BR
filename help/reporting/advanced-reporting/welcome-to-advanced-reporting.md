@@ -40,9 +40,9 @@ Antes de assistir a esses tutoriais, você deve ter:
 * Um bom entendimento sobre o uso de formulários personalizados, especialmente campos personalizados calculados.
 * Uma licença de [!UICONTROL Plano] com direitos para criar relatórios e filtros.
 * Você deveria fazer estes cursos:
-   * [[!UICONTROL Elementos básicos de relatórios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
-   * [[!UICONTROL Criar relatórios e painéis personalizados]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
-   * [[!UICONTROL Criar filtros intermediários]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+   * [[!UICONTROL Elementos básicos de relatórios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=pt-BR)
+   * [[!UICONTROL Criar relatórios e painéis personalizados]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=pt-BR)
+   * [[!UICONTROL Criar filtros intermediários]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=pt-BR)
 * Você também deveria seguir estes tutoriais:
    * [[!UICONTROL Compreensão do modo de texto básico para visualizações]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br)
    * [[!UICONTROL Compreensão do modo de texto básico para agrupamentos]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=pt-BR)
