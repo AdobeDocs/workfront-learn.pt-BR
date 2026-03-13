@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutoriais do Workfront
-user-guide-description: Uma biblioteca de vídeos e artigos de treinamento criada para ajudá-lo a entender melhor os recursos e as configurações do Workfront.
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
-ht-degree: 76%
+source-wordcount: '2485'
+ht-degree: 77%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 76%
       + [Quando e como desativar ou excluir usuários](/help/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Entenda o log de auditoria do sistema](/help/administration-and-setup/create-and-manage-users/system-audit-log.md)
 
-   + Processos de aprovação e caminhos de etapas {#approval-processes-and-milestone-paths}
+   + Processos de aprovação e caminhos de marcos {#approval-processes-and-milestone-paths}
       + [Entenda os processos de aprovação específicos do grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [Criar caminhos e etapas de marcos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
@@ -157,8 +157,8 @@ ht-degree: 76%
       + [Criar um business case abrangente](/help/portfolios-and-programs/introduction-to-the-business-case.md)
       + [Otimize as prioridades de projeto com a ferramenta de Otimização do Portfolio](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
-   + Processos de aprovação e caminhos de etapas {#approval-processes-and-milestone-paths}
-      + [Criar um processo de aprovação global e de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+   + Processos de aprovação e caminhos de marcos {#approval-processes-and-milestone-paths}
+      + [Criar e gerenciar processos de aprovação](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Aplicar um processo de aprovação de problema em uma fila de solicitações](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Revisar e aprovar um trabalho digital](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegar tarefas, problemas e aprovações efetivamente](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -345,7 +345,7 @@ ht-degree: 76%
       + [Aprimore seu fluxo de trabalho com a integração do G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Criar visibilidade com a integração do  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Criar visibilidade com a integração do  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instale o suplemento do Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -523,7 +523,7 @@ ht-degree: 76%
       + [Entenda o  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Entenda as configurações do sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Entenda o [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos e usuários](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurar a integração no Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

@@ -9,12 +9,13 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+last-substantial-update: 2026-03-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 99%
+source-wordcount: '449'
+ht-degree: 85%
 
 ---
 
@@ -34,9 +35,9 @@ Em alguns tutoriais, você criará um novo cenário do zero. Em outros tutoriais
 
 ### Solicitar uma conta de teste do Workfront
 
-Para concluir os exercícios dos roteiros de aprendizagem do Workfront Fusion, você precisará de uma conta de teste do Workfront. Se já tiver uma, recomendamos criar uma nova para esse treinamento.
+Para concluir os exercícios nos tutoriais de treinamento do Workfront Fusion, você precisará de um ambiente de habilitação do Workfront, também chamado de “**Workfront Test Drive**”, durante todo o treinamento. Se já tiver uma, recomendamos criar uma nova para esse treinamento.
 
-Para solicitar uma conta de teste, preencha [este formulário](https://forms.office.com/r/f1J8HRGrNY). Caso não seja possível acessar o formulário, envie seu nome, endereço de email e o nome da empresa para wfttstdr@adobe.com.
+Para solicitar uma conta de teste, preencha [este formulário](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). Quando você preencher o formulário, ele solicitará que você forneça seu **email de perfil de Certificação Adobe**. Se você ainda não tiver um, vá para o [site de Certificação Adobe](https://certification.adobe.com/#) e crie um perfil de usuário.
 
 ### Acessar o Workfront Fusion para praticar
 
@@ -62,4 +63,4 @@ As instruções passo a passo são fornecidas para ajudar você a concluir os ex
 
 [Documentação do Workfront Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=pt), onde você pode publicar suas perguntas.
+Existe também uma [comunidade do Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2), onde você pode publicar suas perguntas.

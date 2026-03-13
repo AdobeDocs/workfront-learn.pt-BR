@@ -1,5 +1,5 @@
 ---
-title: Criar um processo de aprovação global e de uso único
+title: Criar e gerenciar processos de aprovação
 description: Melhore os fluxos de trabalho de aprovação aproveitando os processos de aprovação global e de uso único para tarefas, projetos ou problemas, implementando aprovações em estágios de vários níveis e promovendo a eficiência por meio da reutilização em modelos de projeto.
 activity: use
 feature: Approvals
@@ -13,20 +13,20 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 25%
+source-wordcount: '288'
+ht-degree: 20%
 
 ---
 
-# Criar um processo de aprovação global e de uso único
+# Criar e gerenciar processos de aprovação
 
 O vídeo explica como criar e gerenciar processos de aprovação para projetos, tarefas ou problemas, fazendo a distinção entre processos de aprovação globais e de uso único.
 O vídeo demonstra a criação de processos de aprovação, configuração de aprovadores, configuração de status e uso de estágios para aprovações de vários níveis.
 &#x200B;Ela destaca a flexibilidade de processos globais e de uso único para gerenciar aprovações de tarefas de maneira eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434692/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
