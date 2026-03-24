@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
-source-wordcount: '964'
-ht-degree: 100%
+source-wordcount: '959'
+ht-degree: 98%
 
 ---
 
@@ -38,13 +38,13 @@ As horas no banco de dados do Workfront são armazenadas em minutos. Se você es
 
 A maneira recomendada de escrever expressões é com pouco ou nenhum espaçamento entre cada expressão.
 
-* IF(ISBLANK({description}),“Sem descrição”,“Tem descrição”)
+* IF(ISBLANK({description}),&quot;Sem Descrição&quot;,&quot;Tem Descrição&quot;)
 
 ![Expressões sem espaçamento entre campos](assets/T2K02.png)
 
 No entanto, se o espaçamento ajudar você a ver o que está acontecendo, algum espaçamento poderá ser adicionado às expressões. Os espaços extras não devem impedir que a expressão colete ou calcule um valor no [!DNL Workfront].
 
-* IF (ISBLANK ({description}), “Sem descrição” , “Tem descrição” )
+* IF (ISBLANK ({description}), &quot;Sem Descrição&quot; , &quot;Tem Descrição&quot; )
 
 ![Expressões com espaçamento entre campos](assets/T2K03.png)
 
@@ -117,8 +117,10 @@ Você quer fazer a mesma coisa para uma iteração. Você pode usar a mesma expr
 
 Dependendo da necessidade, os campos calculados em formulários personalizados podem ser bastante simples ou muito complexos. As expressões podem incorporar ou aninhar outras expressões e valores para fornecer o nível de detalhes necessário para obter um quadro melhor do que está acontecendo com o trabalho feito na organização.
 
-<!--Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
+<!--
+Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you're ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.
+-->

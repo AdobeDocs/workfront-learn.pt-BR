@@ -11,7 +11,7 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '727'
 ht-degree: 100%
@@ -53,7 +53,7 @@ Se estiver trabalhando no [!DNL Workfront] e precisar aprovar uma prova, utili
 
 É importante notar que as provas aparecem na [!UICONTROL página inicial] do [!DNL Workfront] somente se você for designado(a) para aprová-las. Se você acabou de receber uma solicitação apenas para revisar a prova, elas não aparecerão na [!UICONTROL Página inicial] do [!DNL Workfront].
 
-Clique no link [!UICONTROL Ir para a prova] para abri-la no visualizador de provas.
+Clique no link [!UICONTROL Ir para a revisão] para abri-la no visualizador de revisões.
 
 Dependendo da prova e dos fluxos de trabalho do projeto da sua organização, você poderá ver uma atribuição de tarefa na [!UICONTROL página inicial] do [!DNL Workfront] em vez de uma solicitação de aprovação de prova. Neste caso, você deve abrir a prova a partir da seção [!UICONTROL Documentos] da tarefa em si (veja instruções abaixo).
 
@@ -68,7 +68,7 @@ Se você normalmente trabalha com projetos, tarefas ou problemas no [!DNL Workfr
 1. Clique no nome do projeto, tarefa ou problema.
 2. Clique em [!UICONTROL Documentos] no menu do painel esquerdo da página do item.
 3. Encontre a prova na lista [!UICONTROL Documentos].
-4. Clique no link [!UICONTROL Abrir prova] para abrir o visualizador de provas.
+4. Clique no link [!UICONTROL Abrir revisão] para abrir o visualizador de revisões.
 
 ## Como aprovar uma prova
 
@@ -104,4 +104,5 @@ Neste vídeo, você aprenderá a:
 <!--
 #### Guides
 * Reviewing proofs in [!DNL Workfront]
-* -->
+* 
+-->

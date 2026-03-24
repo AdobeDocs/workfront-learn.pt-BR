@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Gerenciar trabalho - introdução
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 68%
+ht-degree: 71%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 68%
       + [Entenda a visualização de [!UICONTROL Gantt]](understand-the-gantt-view.md)
       + [Entenda a visualização de [!UICONTROL Quadro]](understand-the-board-view.md)
 
-   + Fechar um projeto {#close-a-project}
+   + Encerrar um projeto {#close-a-project}
       + [Alterar o status do projeto para concluído](change-the-project-status.md)
       + [Concluir aprovações](complete-approvals.md)
       + [Faça upload de ativos](upload-assets.md)

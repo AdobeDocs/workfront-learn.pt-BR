@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Gerenciar trabalho - intermediário
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 63%
+ht-degree: 64%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 63%
       + [Converter um problema ou solicitação em uma tarefa](convert-issues-to-other-work-items.md)
       + [Relatório de problemas](report-on-issues.md)
 
-   + Procurando mais {#digging-deeper}
+   + Cavar mais fundo {#digging-deeper}
       + [Compreender e gerenciar tipos de duração e restrições de tarefa](understand-and-manage-duration-types-and-task-constraints.md)
       + [Entenda os predecessores de projetos](understand-cross-project-predecessors.md)
       + [Predecessores avançados](advanced-predecessors.md)

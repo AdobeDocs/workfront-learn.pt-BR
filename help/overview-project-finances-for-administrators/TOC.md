@@ -4,11 +4,11 @@ user-guide-description: Saiba como estabelecer configurações financeiras em to
 breadcrumb-title: Finanças de projeto para admins
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 63%
+ht-degree: 70%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 63%
 # Finanças de projeto para admins {#project-finances-for-administrators}
 
 + [Finanças de projeto para admins](overview.md)
-+ Finanças do projeto para administradores {#project-finances-for-administrators}
++ Finanças de projeto para admins {#project-finances-for-administrators}
    + [Entenda as métricas de desempenho](understand-performance-metrics.md)
    + [Configurar padrões de receita e custo da tarefa](set-up-task-revenue-and-cost-defaults.md)
    + [Configurar taxas de câmbio](set-up-exchange-rates.md)
