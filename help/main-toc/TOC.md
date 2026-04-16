@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriais do Workfront
 user-guide-description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '2499'
 ht-degree: 77%
@@ -89,8 +89,8 @@ ht-degree: 77%
       + [Anexe um formulário personalizado a um objeto](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Adicionar quebras de seção e lógicas a um formulário personalizado](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar um formulário personalizado como PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [Adicionar lógica de validação a formulários personalizados](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
-      + [Configurar lógica de exibição avançada](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
+      + [Adicionar Lógica de validação a formulários personalizados](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [Configurar Lógica de Exibição Avançada](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Expressões calculadas {#calculated-expressions}
       + [Introdução a campos calculados e expressões](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
