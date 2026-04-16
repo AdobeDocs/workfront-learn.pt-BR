@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriais do Workfront
 user-guide-description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.
-source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
+source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
 workflow-type: tm+mt
-source-wordcount: '2499'
+source-wordcount: '2485'
 ht-degree: 77%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 77%
       + [Personalizar tipos de problemas e a terminologia](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurar preferências padrão globais de problema](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Criar e gerenciar regras de negócios](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
-      + [Configurar localização definida pelo usuário](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + Modelos de layout {#layout-templates}
       + [O que são modelos de layout?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -89,8 +88,6 @@ ht-degree: 77%
       + [Anexe um formulário personalizado a um objeto](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Adicionar quebras de seção e lógicas a um formulário personalizado](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar um formulário personalizado como PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [Adicionar Lógica de validação a formulários personalizados](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
-      + [Configurar Lógica de Exibição Avançada](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Expressões calculadas {#calculated-expressions}
       + [Introdução a campos calculados e expressões](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
