@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriais do Workfront
 user-guide-description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '2499'
 ht-degree: 77%
@@ -89,8 +89,8 @@ ht-degree: 77%
       + [Anexe um formulário personalizado a um objeto](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Adicionar quebras de seção e lógicas a um formulário personalizado](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Exportar um formulário personalizado como PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [Adicionar lógica de validação a formulários personalizados](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
-      + [Configurar lógica de exibição avançada](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
+      + [Adicionar Lógica de validação a formulários personalizados](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [Configurar Lógica de Exibição Avançada](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Expressões calculadas {#calculated-expressions}
       + [Introdução a campos calculados e expressões](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -348,7 +348,7 @@ ht-degree: 77%
       + [Aprimore seu fluxo de trabalho com a integração do G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Criar visibilidade com a integração do  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Criar visibilidade com a integração do  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Instale o suplemento do Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -526,7 +526,7 @@ ht-degree: 77%
       + [Entenda o  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Entenda as configurações do sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Entenda o [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analisar e planejar uma estratégia do  [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurar grupos e usuários](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurar a integração no Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
