@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Descubra como usar expressões de Lógica de exibição avançada para controlar a visibilidade de campos e seções de formulário personalizados. Esse recurso ajuda a criar formulários mais dinâmicos e personalizados, alinhados às necessidades específicas do usuário e melhorando a eficiência do fluxo de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483456/?captions=por_br&learn=on&enablevpops)
 

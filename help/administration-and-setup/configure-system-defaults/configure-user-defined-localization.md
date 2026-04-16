@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Descubra como configurar a localização definida pelo usuário para exibir conteúdo em vários idiomas com base nas preferências do usuário. Esse recurso simplifica a colaboração entre regiões, permitindo que as equipes trabalhem em seu idioma nativo. Assista ao vídeo abaixo para saber como configurar e gerenciar traduções específicas por idioma com eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483444/?captions=por_br&learn=on&enablevpops)
 
