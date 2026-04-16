@@ -9,9 +9,9 @@ duration: 189
 last-substantial-update: 2026-04-15T00:00:00Z
 jira: KT-20168
 thumbnail: KT-20168.jpeg
-source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
+source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Configurar Lógica de Exibição Avançada
 
-Descubra como usar expressões de Lógica de exibição avançada para controlar a visibilidade de campos e seções de formulário personalizados. Esse recurso ajuda a criar formulários mais dinâmicos e personalizados, alinhados às necessidades específicas do usuário e melhorando a eficiência do fluxo de trabalho.
+Saiba como usar expressões avançadas de lógica de exibição para controlar a visibilidade de campos de formulário e seções personalizados, ajudando você a criar formulários mais dinâmicos e personalizados, alinhados às necessidades específicas do usuário e a melhorar a eficiência do fluxo de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483456/?captions=por_br&learn=on&enablevpops)
 
