@@ -22,7 +22,7 @@ ht-degree: 0%
 Este vídeo destaca a importância de usar linhas de base, instantâneos e relatórios enviados para um rastreamento eficaz do projeto, análise histórica e comunicação com as partes interessadas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483622/?captions=por_br&quality=12&learn=on&enablevpops)
 
 ## Principais conclusões
 
