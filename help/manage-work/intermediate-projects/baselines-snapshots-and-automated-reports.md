@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2026-04-20T00:00:00Z
 jira: KT-20256
 doc-type: video
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: e90a7ab4dcb8341ab1f942c50a018ad429550570
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 Este vídeo destaca a importância de usar linhas de base, instantâneos e relatórios enviados para um rastreamento eficaz do projeto, análise histórica e comunicação com as partes interessadas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483622/?captions=por_br&quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
 
 ## Principais conclusões
 
@@ -31,4 +31,3 @@ Este vídeo destaca a importância de usar linhas de base, instantâneos e relat
 * **Instantâneos Capturam Todos os Dados do Projeto:** Ao contrário das linhas de base, instantâneos são criados manualmente e capturam todos os projetos, tarefas, problemas e campos personalizados, oferecendo um registro abrangente a qualquer momento.
 * **Comparação e Relatórios Flexíveis:** os usuários podem comparar os dados atuais do projeto com linhas de base ou entre instantâneos usando relatórios e modos de exibição personalizados, o que permite a análise detalhada das alterações e do progresso.
 * **Relatório periódico automatizado com relatórios enviados:** o recurso &#39;Enviar relatório&#39; permite que os usuários agendem e recebam relatórios de email regulares, fornecendo uma maneira automatizada de rastrear e arquivar os dados do projeto ao longo do tempo.
-
