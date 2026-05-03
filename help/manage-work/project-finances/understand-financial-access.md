@@ -10,12 +10,12 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-29T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 6e171e980c41615686f73dd44a26dc47e4b5dcdf
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 12%
 
 ---
@@ -27,7 +27,7 @@ O vídeo enfatiza que os usuários só podem usar seu acesso financeiro em proje
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Função de Administrador do Sistema:** O administrador do sistema gerencia o acesso às informações financeiras por meio da configuração e dos níveis de acesso, garantindo o controle sobre quem pode exibir ou editar dados financeiros. &#x200B;
 * **Criação de Níveis de Acesso:** Um nível de acesso pode ser criado para conceder aos usuários permissões para editar e exibir cobrança, taxas de custo, taxas de câmbio e despesas.

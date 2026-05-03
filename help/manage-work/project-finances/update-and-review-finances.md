@@ -10,22 +10,22 @@ role: User
 level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
-last-substantial-update: 2025-04-16T00:00:00Z
+last-substantial-update: 2026-04-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+source-git-commit: 6e171e980c41615686f73dd44a26dc47e4b5dcdf
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 10%
 
 ---
 
 
 # Atualizar finanças para projetos de clientes
 
-Este vídeo fornece um guia detalhado sobre tempo de rastreamento, despesas e criação de registros de cobrança para projetos de clientes. &#x200B; Os principais pontos incluem:
+Este vídeo fornece um guia detalhado sobre tempo de rastreamento, despesas e criação de registros de cobrança para projetos de clientes. &#x200B; pontos principais incluem:
 
-**Tempo e Despesas de Acompanhamento:**
+**Rastreamento de Tempo e Despesas:**
 Rastrear o tempo gasto trabalhando em um projeto e as despesas do projeto para faturar clientes. &#x200B;
 Verifique se os usuários têm taxas de custo e cobrança definidas em seus perfis ou funções de trabalho. &#x200B;
 
@@ -37,7 +37,7 @@ Os tipos de custo incluem horário fixo, horário do usuário (com base no perfi
 Crie despesas no nível do projeto por meio da guia &quot;Despesas&quot;. &#x200B;
 Atribua despesas ao projeto ou às tarefas, marque-as como faturáveis ou reembolsáveis. &#x200B;
 
-**Registros de Cobrança:**
+**Registros de cobrança:**
 Crie registros de cobrança no nível do projeto para rastrear itens faturáveis (horas, despesas, receitas). &#x200B;
 Adicionar horas e despesas faturáveis ao registro de cobrança.
 Atualizar o status do registro de cobrança e a data de cobrança após faturar os clientes. &#x200B;
@@ -49,7 +49,7 @@ Este vídeo enfatiza a importância da configuração e do rastreamento adequado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486193/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 
 * **Configurar taxas de custo e cobrança:** verifique se os usuários ou as funções de trabalho têm taxas de custo e cobrança definidas em seus perfis para controlar com precisão as despesas do projeto. &#x200B;
@@ -62,6 +62,6 @@ Este vídeo enfatiza a importância da configuração e do rastreamento adequado
 ## Tutoriais recomendados sobre este tópico
 
 * [Encontrar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
-* [Entender várias taxas de faturamento](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Compreender várias taxas de cobrança](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 
