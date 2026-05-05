@@ -10,13 +10,13 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-28T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 700e8f87df5fad577b81bc428c0d9acfa1c07798
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 33%
+source-wordcount: '178'
+ht-degree: 38%
 
 ---
 
@@ -25,14 +25,13 @@ ht-degree: 33%
 
 Saiba onde o tipo de receita e os tipos de custo são usados e como configurar os padrões do sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484185/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Exibindo Dados de Custo e Receita:** Os detalhes de custo e receita de tarefas podem ser acessados abrindo-se a tarefa, selecionando-se os detalhes da tarefa e rolando-se até a seção financeira. &#x200B;
 * **Definindo Padrões para Tarefas:** Os administradores do sistema podem definir tipos padrão de custo e receita para gerentes de projeto navegando até &quot;Configuração > Preferências do Projeto > Tarefas e Problemas&quot;. &#x200B;
 * **Padrão de Tipo de Receita Comum:** &quot;Função por Hora&quot; é um padrão típico para o tipo de receita, permitindo que o tempo registrado seja registrado como potencialmente faturável se o usuário tiver uma função de trabalho com uma taxa de receita. &#x200B;
-* **Impacto das Configurações de Receita:** Se o tipo de receita estiver definido como &quot;Não Faturável&quot;, nenhuma receita será registrada para a tarefa. &#x200B;
 * **Padrão de Tipo de Custo Comum:** &quot;Usuário por Hora&quot; é usado com frequência como o tipo de custo padrão, extraindo dados de custo diretamente do perfil do usuário para um rastreamento eficiente. &#x200B;
 
 

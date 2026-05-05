@@ -11,9 +11,9 @@ last-substantial-update: 2023-08-16T00:00:00Z
 level: Beginner
 jira: KT-10150
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '430'
 ht-degree: 100%
 
 ---
@@ -53,6 +53,6 @@ Ao revisar o projeto, revise as atribuições de tarefas. Talvez o trabalho tenh
 
 ![Lista de tarefas do projeto mostrando a coluna Restrição da tarefa](assets/planner-fund-task-constraint.png)
 
-Crie uma Exibição personalizada que inclua a coluna [!UICONTROL Restrição da tarefa] para ver essas informações em sua lista de tarefas. Se você planejou o projeto a partir de uma data de início, você deseja que suas tarefas tenham a restrição [!UICONTROL O mais breve possível] ([!UICONTROL ASAP]).
+Crie uma Exibição personalizada que inclua a coluna [!UICONTROL Restrição da tarefa] para ver essas informações em sua lista de tarefas. Se você planejou o projeto a partir de uma data inicial, você deseja que suas tarefas tenham a restrição [!UICONTROL O mais breve possível] ([!UICONTROL ASAP]).
 
 Para obter mais detalhes sobre restrições de tarefas, consulte [Compreenda e gerencie tipos de duração e restrições de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=pt-BR).

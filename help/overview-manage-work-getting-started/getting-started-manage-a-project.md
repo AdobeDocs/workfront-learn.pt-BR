@@ -14,7 +14,7 @@ jira: KT-8781
 hide: true
 doc-type: video
 exl-id: 966de852-99cc-41a2-8c13-abfc4e9dab24
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -29,7 +29,7 @@ Neste vídeo, você aprenderá:
 * Como fazer uma busca detalhada para ver os detalhes da tarefa
 * Como comunicar-se com as partes interessadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3445172/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

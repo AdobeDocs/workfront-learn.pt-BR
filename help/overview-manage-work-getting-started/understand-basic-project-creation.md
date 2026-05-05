@@ -14,7 +14,7 @@ jira: KT-8768
 hide: true
 doc-type: video
 exl-id: 2c7792da-8742-4952-afa6-4b1a15989a56
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá:
 * Um pouco sobre tarefas e problemas
 * Prática recomendada para começar a criar projetos
 
->[!VIDEO](https://video.tv.adobe.com/v/3435900/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 
