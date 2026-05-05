@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá:
 * Por que alterar o status do projeto para [!UICONTROL Concluído]
 * O que fazer se não for possível alterar o status do projeto para [!UICONTROL Concluído]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439363/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

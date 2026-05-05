@@ -29,7 +29,7 @@ Neste vídeo, você verá os benefícios de:
 * Criar relatórios personalizados de “lições aprendidas”
 * Criar um projeto de “lições aprendidas”
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441017/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

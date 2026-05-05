@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá:
 
 * Como as tarefas são estruturadas num projeto [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445601/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

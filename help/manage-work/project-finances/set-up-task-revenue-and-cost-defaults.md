@@ -25,7 +25,7 @@ ht-degree: 38%
 
 Saiba onde o tipo de receita e os tipos de custo são usados e como configurar os padrões do sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484185/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
