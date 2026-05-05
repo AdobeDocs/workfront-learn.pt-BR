@@ -10,24 +10,24 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-28T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 65eba30ab660e44b8adca2238d743f1f38bec75e
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 18%
+source-wordcount: '271'
+ht-degree: 19%
 
 ---
 
 # Configurar taxas de câmbio
 
-O vídeo fornece um guia sobre o gerenciamento de moedas no sistema de rastreamento financeiro do Workfront. &#x200B; Ele explica que a moeda padrão é o dólar americano, mas moedas adicionais podem ser configuradas globalmente ou para projetos individuais e funções de trabalho.
-O vídeo enfatiza que o sistema não fornece as taxas de câmbio atuais, portanto, os usuários devem obtê-las externamente. &#x200B; Depois de definidas, as taxas de câmbio se tornam o padrão para projetos ou funções de trabalho, mas não são atualizadas automaticamente; os usuários com as permissões apropriadas devem atualizá-las manualmente. &#x200B; Depois de configurar as moedas, os usuários podem criar novos projetos e selecionar entre as opções de moeda disponíveis, com a capacidade de personalizar as taxas de câmbio para projetos individuais. &#x200B;
+O vídeo fornece um guia sobre o gerenciamento de moedas no sistema de rastreamento financeiro do Workfront. &#x200B; Explica que a moeda padrão é o dólar americano, mas moedas adicionais podem ser configuradas globalmente ou para projetos individuais e funções de trabalho.
+O vídeo enfatiza que o sistema não fornece as taxas de câmbio atuais, portanto, os usuários devem obtê-las externamente. &#x200B; uma vez definidas, as taxas de câmbio se tornarão o padrão para projetos ou funções de trabalho, mas não serão atualizadas automaticamente; os usuários com as permissões apropriadas devem atualizá-las manualmente. &#x200B; Após configurar as moedas, os usuários podem criar novos projetos e selecionar entre as opções de moeda disponíveis, com a capacidade de personalizar as taxas de câmbio para projetos individuais. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484539/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Moeda Padrão:** a moeda padrão do sistema é o dólar americano, mas isso pode ser alterado globalmente ou para projetos individuais e funções de trabalho. &#x200B;
 * **Adição de Moedas:** Moedas adicionais podem ser configuradas juntamente com suas taxas de câmbio na área de configuração. &#x200B;

@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre a duração das tarefas
-description: Saiba como as durações afetam as datas de início e conclusão das tarefas, como influenciam os cronogramas dos projetos e veja algumas práticas recomendadas de uso desse recurso.
+description: Saiba como as durações afetam as datas de início e conclusão das tarefas, como as durações influenciam a linha do tempo dos projetos e algumas práticas recomendadas para usar durações de tarefas.
 activity: use
 feature: Work Management
 thumbnail: 335089.jpeg
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -27,10 +27,10 @@ Neste vídeo, você aprenderá:
 
 * O que é a duração de uma tarefa no [!DNL Workfront]
 * Como as durações afetam as datas de início e conclusão das tarefas
-* Como as durações influenciam os cronogramas de projetos
+* Como as durações influenciam as linhas do tempo de projetos
 * Práticas recomendadas de uso das durações de tarefas
 
->[!VIDEO](https://video.tv.adobe.com/v/3449348/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3449348/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

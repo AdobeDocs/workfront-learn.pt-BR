@@ -9,9 +9,10 @@ role: Admin
 level: Intermediate
 jira: KT-10017
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
@@ -35,4 +36,3 @@ A opção [!UICONTROL Todos os grupos] não está disponível para admins de gru
 Quando um grupo específico é selecionado, somente os status disponíveis para esse grupo são exibidos no menu [!UICONTROL “Iniciar processo de aprovação quando o status estiver definido como”].
 
 A janela ![[!UICONTROL Editar processo de aprovação] com o campo de status realçado](assets/admin-fund-approval-processes-3.png)
-

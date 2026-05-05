@@ -13,7 +13,7 @@ jira: KT-8780
 hide: true
 doc-type: video
 exl-id: c2ed640c-b32f-4c1e-892c-fb54796a101e
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -26,7 +26,7 @@ Neste vídeo, você aprenderá a:
 
 * Ativar o projeto usando o status do projeto
 
->[!VIDEO](https://video.tv.adobe.com/v/3438990/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3438990/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

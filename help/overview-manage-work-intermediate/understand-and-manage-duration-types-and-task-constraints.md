@@ -13,9 +13,9 @@ jira: KT-13530
 doc-type: video
 hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ Neste vídeo, você aprenderá o seguinte sobre tipos de duração e restriçõe
 * Práticas recomendadas para usá-los
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422829/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3422829/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 
 Para mais informações sobre como criar uma visualização de tipos de duração e restrições de tarefa, consulte a atividade de visualização de tipos de duração e restrições de tarefa em [Criar uma visualização básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR).

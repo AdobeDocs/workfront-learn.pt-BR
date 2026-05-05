@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10149
 hide: true
 exl-id: 64fc1556-7711-4429-9f48-7ed3136e3d98
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Neste vídeo, você aprenderá a monitorar o progresso do projeto por meio de:
 * Problemas em aberto
 * A coluna de atualização da condição
 
->[!VIDEO](https://video.tv.adobe.com/v/3447415/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3447415/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 
