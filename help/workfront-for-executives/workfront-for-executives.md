@@ -58,7 +58,7 @@ Um painel permite que líderes revisem informações como “Custos, receitas e 
 
 Os relatórios do Workfront podem ajudar a desenvolver um senso de responsabilidade em seus funcionários. A chave para aproveitar os relatórios é estabelecer um fluxo de trabalho claro, de acordo com a maneira que sua organização os utiliza. Certifique-se de que todos(as) tenham uma compreensão clara de quais relatórios estão sendo usados para medir o sucesso.
 
-![Exemplo de relatórios em um painel no Workfront ](assets/workfront-4-executives-3.png)
+![Exemplo de relatórios em um painel no Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Exemplo de relatórios em um painel no Workfront
 

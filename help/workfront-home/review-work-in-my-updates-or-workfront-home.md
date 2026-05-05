@@ -1,6 +1,6 @@
 ---
 title: Revisar trabalho em [!DNL My Updates] ou [!DNL Home]
-description: 'O [!DNL  Workfront] fornece dois locais de acesso ao trabalho atribuído a você para revisão e aprovação - [!DNL My Updates] e [!DNL Home] '
+description: 'O [!DNL &#x200B; Workfront] fornece dois locais de acesso ao trabalho atribuído a você para revisão e aprovação - [!DNL My Updates] e [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
