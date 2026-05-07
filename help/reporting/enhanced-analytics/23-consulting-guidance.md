@@ -36,4 +36,4 @@ Neste vídeo, você aprenderá:
 
 * Como fazer recomendações para ajudar sua organização a operar com mais eficiência
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438834/?captions=por_br&quality=12&learn=on&enablevpops=1)

@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá a:
 * Adicionar comentários com marcação de data e hora em um vídeo
 * Ajustar as configurações do visualizador
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444227/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

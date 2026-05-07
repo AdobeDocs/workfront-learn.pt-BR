@@ -35,4 +35,4 @@ Neste vídeo, você aprenderá:
 * O que são diretrizes de marca
 * Como criar uma página de diretrizes de marca no [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418766/?captions=por_br&quality=12&learn=on&enablevpops=1)

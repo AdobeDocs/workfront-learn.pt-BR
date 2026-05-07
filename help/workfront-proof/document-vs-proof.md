@@ -35,4 +35,4 @@ Neste vídeo, você aprenderá:
 
 * A diferença entre um documento e uma prova no [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439864/?captions=por_br&quality=12&learn=on&enablevpops=1)

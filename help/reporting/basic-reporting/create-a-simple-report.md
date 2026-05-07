@@ -36,7 +36,7 @@ Este vídeo explica como criar e personalizar relatórios de projeto para analis
 
 O vídeo enfatiza que os relatórios personalizados mantêm as configurações padrão, mas alterações temporárias podem ser feitas ao visualizá-los. &#x200B; relatórios são armazenados na seção &quot;Meus relatórios&quot;, enquanto relatórios compartilhados aparecem em &quot;Compartilhado comigo&quot;. &#x200B; Relatórios usados com frequência podem ser fixados ou marcados como favoritos para facilitar o acesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3415834/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Principais lições
 

@@ -40,7 +40,7 @@ Neste vídeo, você aprenderá:
 * Como registrar um problema
 * Práticas recomendadas para o gerenciamento de problemas
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446571/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

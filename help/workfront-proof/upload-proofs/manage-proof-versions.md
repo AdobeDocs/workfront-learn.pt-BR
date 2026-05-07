@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá a:
 * Baixar todas as versões de uma prova
 * Excluir uma versão de prova
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438647/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

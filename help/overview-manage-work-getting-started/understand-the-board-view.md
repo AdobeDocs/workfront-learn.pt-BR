@@ -39,7 +39,7 @@ Neste vídeo, você aprenderá:
 * Como usar a visualização de [!UICONTROL Quadro]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423282/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

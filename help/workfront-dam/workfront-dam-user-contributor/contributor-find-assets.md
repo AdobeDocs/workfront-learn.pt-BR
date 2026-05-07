@@ -39,7 +39,7 @@ Neste vídeo, você aprenderá a:
 * Exiba detalhes da pasta
 * Exiba e atualize metadados e palavras-chave de ativos
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453926/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Critérios de pesquisa básica
 

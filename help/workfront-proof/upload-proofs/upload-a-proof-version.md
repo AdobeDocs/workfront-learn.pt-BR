@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá a:
 * Fazer upload de uma nova versão de prova
 * Aplicar um fluxo de trabalho de revisão à versão
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441856/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Fazer upload de uma versão a partir do visualizador de revisões
 

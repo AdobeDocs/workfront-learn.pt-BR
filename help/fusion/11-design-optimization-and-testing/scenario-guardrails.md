@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá sobre:
 * Medidas de proteção de arquivo
 * Medidas de proteção de Webhook
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418729/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Quer saber mais? Recomendamos o seguinte:
 

@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá:
 * Como acessar o gráfico Tarefas em andamento
 * Como ver rapidamente quais tarefas não foram concluídas em um projeto
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437005/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Dados no nível da tarefa
 

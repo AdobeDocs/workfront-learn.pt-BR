@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá a:
 
 * Faça aprovações pelo [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436361/?captions=por_br&quality=12&learn=on&enablevpops=1)

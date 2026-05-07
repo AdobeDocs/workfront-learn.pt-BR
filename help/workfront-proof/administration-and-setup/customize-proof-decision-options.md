@@ -38,7 +38,7 @@ Neste vídeo, você aprenderá:
 * Como renomear opções de decisão de prova
 * Como ocultar opções desnecessárias de decisão de prova
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444654/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Sua vez
 

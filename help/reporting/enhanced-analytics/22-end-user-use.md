@@ -36,4 +36,4 @@ Neste vídeo, você aprenderá:
 
 * Como os usuários finais podem usar os gráficos Plano de voo, Burndown e Tarefas em voo
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437694/?captions=por_br&quality=12&learn=on&enablevpops=1)

@@ -38,7 +38,7 @@ Neste vídeo, você aprenderá a:
 * Monitorar e gerenciar lightboxes
 * Colaborar em uma lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454355/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Comparação entre lightboxes e pastas
 

@@ -38,4 +38,4 @@ Neste vídeo, você aprenderá:
 * Como alterar o intervalo de datas
 * Como comparar KPIs com dois filtros diferentes lado a lado
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440252/?captions=por_br&quality=12&learn=on&enablevpops=1)

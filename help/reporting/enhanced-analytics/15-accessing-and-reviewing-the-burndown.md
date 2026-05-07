@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá:
 * Como acessar o gráfico de burndown
 * Como entender a relação entre as horas restantes, a condição e a velocidade de um projeto
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438889/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Monitorar a velocidade do projeto
 
