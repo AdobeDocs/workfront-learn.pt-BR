@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a personalizar quais informações são exibidas em um cartão no quadro, seja para visualização completa ou condensada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446536/?captions=por_br&quality=12&learn=on&enablevpops=1)

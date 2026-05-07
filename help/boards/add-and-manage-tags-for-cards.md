@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Saiba o que é uma tag e por que ela é útil, bem como criar, excluir, adicionar e remover tags.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423034/?captions=por_br&quality=12&learn=on&enablevpops=1)

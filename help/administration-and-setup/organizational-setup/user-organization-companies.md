@@ -37,4 +37,4 @@ Neste vídeo, você aprenderá:
 * Definição de empresa do Workfront
 * Como criar empresas e associações
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432863/?captions=por_br&quality=12&learn=on&enablevpops=1)

@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a definir a terminologia com um modelo de layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445479/?captions=por_br&quality=12&learn=on&enablevpops=1)

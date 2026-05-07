@@ -32,5 +32,5 @@ ht-degree: 8%
 
 Descubra como adaptar os cabeçalhos do projeto para exibir apenas as informações mais relevantes usando modelos de layout. Saiba como remover campos desnecessários, adicionar campos personalizados e organizá-los de maneira eficaz para garantir que as equipes possam acessar rapidamente os detalhes críticos do projeto e melhorar a clareza e a eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483468/?captions=por_br&learn=on&enablevpops)
 

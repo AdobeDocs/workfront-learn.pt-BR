@@ -35,7 +35,7 @@ Neste vídeo, você aprenderá a:
 * Marcar usuários nas atualizações do [!DNL Workfront]
 * Responder às atualizações existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445282/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Dicas para atualizar o trabalho na [!UICONTROL Página inicial]
 

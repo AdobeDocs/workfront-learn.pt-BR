@@ -38,7 +38,7 @@ Neste vídeo, você aprenderá a:
 * Remover filtros, visualizações e agrupamentos
 * Adicionar filtros, visualizações e agrupamentos
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432918/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Definir padrões de lista
 

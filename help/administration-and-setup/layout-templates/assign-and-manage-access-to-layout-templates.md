@@ -37,4 +37,4 @@ Neste vídeo, você aprenderá a:
 * Atribuir modelos de layout a usuários, grupos ou equipes
 * Controlar quem pode gerenciar o acesso aos modelos de layout
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432329/?captions=por_br&quality=12&learn=on&enablevpops=1)

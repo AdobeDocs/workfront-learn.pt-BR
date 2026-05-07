@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Saiba como personalizar a área da [!UICONTROL página inicial] dos seus usuários, para que possam acessar, rastrear, aprovar e atualizar trabalhos de forma rápida e fácil.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432786/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -48,4 +48,4 @@ Neste vídeo, você aprenderá a:
 * Remover itens da [!UICONTROL página inicial]
 * Adicionar itens na [!UICONTROL página inicial]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432319/?captions=por_br&quality=12&learn=on&enablevpops=1)

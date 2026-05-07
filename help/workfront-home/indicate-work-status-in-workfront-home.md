@@ -34,7 +34,7 @@ Neste vídeo, você aprenderá:
 * A finalidade do status no [!DNL  Workfront]
 * Como alterar o status das atribuições de trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443435/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Diferença entre iniciar e trabalhar em uma tarefa
 

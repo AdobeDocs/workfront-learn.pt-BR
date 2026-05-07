@@ -36,4 +36,4 @@ Neste vídeo, você aprenderá:
 * Encontre modelos de layout na área [!UICONTROL Configuração]
 * Comece a criar modelos de layout no Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415830/?captions=por_br&quality=12&learn=on&enablevpops=1)

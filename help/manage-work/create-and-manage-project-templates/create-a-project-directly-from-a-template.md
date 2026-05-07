@@ -35,7 +35,7 @@ ht-degree: 22%
 
 O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você tiver os direitos para abrir um modelo, poderá usá-lo como atalho para criar um projeto. &#x200B; Para fazer isso, abra o modelo, acesse o menu de três pontos e selecione &quot;Criar projeto&quot;. &#x200B; Isso leva você a uma tela onde é possível editar os detalhes do projeto. &#x200B; Quando estiver pronto, clique em &quot;Criar projeto&quot; para finalizar. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456018/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 

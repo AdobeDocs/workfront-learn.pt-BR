@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá como criar iniciativas como parte de um plano no[!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413824/?captions=por_br&quality=12&learn=on&enablevpops=1)

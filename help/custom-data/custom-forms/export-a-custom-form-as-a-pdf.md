@@ -29,5 +29,5 @@ ht-degree: 100%
 
 # Exportar um formulário personalizado como PDF
 
->[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3477599/?captions=por_br&quality=12&learn=on&enablevpops=1)
 

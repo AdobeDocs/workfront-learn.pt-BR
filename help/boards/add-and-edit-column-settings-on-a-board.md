@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Saiba como adicionar e editar configurações de colunas em um quadro.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422934/?captions=por_br&quality=12&learn=on&enablevpops=1)

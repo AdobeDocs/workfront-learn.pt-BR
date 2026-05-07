@@ -35,7 +35,7 @@ Neste vídeo, você aprenderá:
 * Por que o status é importante no [!DNL  Workfront]
 * Como filtrar a [!UICONTROL Lista de trabalho] para ver o trabalho concluído
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444290/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 
 ## Duas outras maneiras de indicar que o trabalho foi concluído

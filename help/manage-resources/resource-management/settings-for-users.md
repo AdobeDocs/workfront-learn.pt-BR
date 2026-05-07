@@ -40,4 +40,4 @@ Neste tutorial em vídeo, você aprenderá a configurar:
 * Folga pessoal
 * Funções de trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432160/?captions=por_br&quality=12&learn=on&enablevpops=1)
