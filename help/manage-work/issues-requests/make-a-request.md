@@ -8,29 +8,35 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: 2024-07-09T00:00:00Z
+last-substantial-update: '2024-07-09T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:54:50.397Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 11%
+source-wordcount: 257
+ht-degree: 12%
 
 ---
 
 # Criar e gerenciar solicitações no Workfront
 
-O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações no Workfront. Ele explica o processo de criação de uma solicitação, começando selecionando &quot;Solicitações&quot; no menu principal e clicando no botão &quot;Nova solicitação&quot;. &#x200B; Os usuários podem escolher um tipo de solicitação a partir de filas projetadas de forma personalizada e personalizadas de acordo com os fluxos de trabalho de sua organização.
+O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações no Workfront. Ele explica o processo de criação de uma solicitação, começando selecionando &quot;Solicitações&quot; no menu principal e clicando no botão &quot;Nova solicitação&quot;. &#x200B; Usuários podem escolher um tipo de solicitação a partir de filas projetadas de forma personalizada e personalizadas de acordo com os fluxos de trabalho de suas organizações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415831/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Criação de solicitação simplificada**: os usuários podem criar solicitações facilmente selecionando &quot;Solicitações&quot; no menu principal, escolhendo um tipo de solicitação, preenchendo campos obrigatórios e anexando documentos relevantes. &#x200B;
 * **Fluxos de trabalho personalizáveis:** as filas de solicitações e os formulários são adaptados aos fluxos de trabalho organizacionais, permitindo que os usuários especifiquem detalhes (por exemplo, mídia na loja, mídia externa, social) e prioridade.
-* **Recurso de Salvamento Automático de Rascunho:** Os rascunhos são salvos automaticamente à medida que os usuários preenchem o campo de assunto, garantindo que nenhum dado seja perdido ao pausar ou sair. &#x200B; Os rascunhos podem ser acessados posteriormente para conclusão ou descartados se desnecessário. &#x200B;
+* **Recurso de Salvamento Automático de Rascunho:** Os rascunhos são salvos automaticamente à medida que os usuários preenchem o campo de assunto, garantindo que nenhum dado seja perdido ao pausar ou sair. &#x200B; rascunhos podem ser acessados posteriormente para conclusão ou descartados se desnecessário. &#x200B;
 * **Solicitações de Filtragem e Rastreamento:** as solicitações enviadas podem ser rastreadas na página &quot;Enviadas&quot;, com filtros disponíveis para exibir solicitações abertas, não resolvidas ou todas com base em permissões de usuário. &#x200B;
 * **Solicitações de Cópia e Reutilização**: os usuários podem copiar solicitações existentes para criar novas, facilitando o envio de solicitações semelhantes sem iniciar do zero.
 

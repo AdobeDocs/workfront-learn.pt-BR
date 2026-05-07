@@ -10,23 +10,29 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: '2025-04-23T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:49:39.708Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: 419
 ht-degree: 7%
 
 ---
 
 # Entenda as métricas de desempenho
 
-O vídeo discute as métricas e configurações de desempenho financeiro para o gerenciamento de projetos. &#x200B; Os principais pontos incluem:
+O vídeo discute as métricas e configurações de desempenho financeiro para o gerenciamento de projetos. &#x200B; pontos principais incluem:
 
-**Visão Geral de Métricas de Desempenho:** Métricas como índice de desempenho de custo, índice de desempenho de cronograma, índice de desempenho de cronograma de custo e conclusão estimada estão disponíveis na guia Detalhes do Projeto e na seção financeira. &#x200B; A documentação dos cálculos pode ser acessada por meio de links de bolhas de informações.
+**Visão Geral de Métricas de Desempenho:** Métricas como índice de desempenho de custo, índice de desempenho de cronograma, índice de desempenho de cronograma de custo e conclusão estimada estão disponíveis na guia Detalhes do Projeto e na seção financeira. &#x200B; Documentação para cálculos pode ser acessada por meio de links de bolhas de informações.
 
-**Método de Índice de Desempenho (PIM):** O gerente de projeto pode selecionar o método para calcular o índice de desempenho de custo (CPI) e estimar na conclusão (EAC), com base na hora (conclusão em horas) ou com base no custo (conclusão em dinheiro). &#x200B; Os administradores do sistema podem definir o método padrão globalmente, mas os gerentes de projeto podem ajustá-lo para projetos individuais. &#x200B;
+**Método de Índice de Desempenho (PIM):** O gerente de projeto pode selecionar o método para calcular o índice de desempenho de custo (CPI) e estimar na conclusão (EAC), com base na hora (conclusão em horas) ou com base no custo (conclusão em dinheiro). &#x200B; administradores do sistema podem definir o método padrão globalmente, mas os gerentes de projeto podem ajustá-lo para projetos individuais. &#x200B;
 
 **Cálculo de EAC (Estimativa no Término):** Os administradores do sistema podem definir o método de cálculo padrão globalmente, com duas opções:
 * **Acúmulo de tarefas/subtarefas:** adiciona valores de estimativa na conclusão de tarefas filho, mas exclui horas adicionadas diretamente às tarefas pai ou ao nível de projeto. &#x200B;
@@ -36,7 +42,7 @@ O vídeo enfatiza a flexibilidade e o controle disponíveis para administradores
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 
 * **Acesso às Métricas de Desempenho:** Métricas principais, como índice de desempenho de custo (CPI), índice de desempenho de agendamento (SPI) e EAC (estimativa na conclusão), podem ser encontradas na guia Detalhes do Projeto, na seção Finanças, com a documentação disponível por meio de links de bolhas de informações. &#x200B;

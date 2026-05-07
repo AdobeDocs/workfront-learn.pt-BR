@@ -8,14 +8,20 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-06-21T00:00:00Z
+last-substantial-update: '2024-06-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:47:36.241Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 23%
+source-wordcount: 217
+ht-degree: 28%
 
 ---
 
@@ -26,11 +32,11 @@ Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao cri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
-* **Usar nomes de projeto descritivos:** evite confusão nomeando projetos de forma descritiva em vez de usar títulos genéricos. &#x200B; Organizar projetos em portfólios e programas melhora a geração de relatórios e a consistência. &#x200B;
-* **Definir Status Apropriado do Projeto:** Comece com o status &quot;Planejamento&quot; ao criar um projeto e alterne para &quot;Atual&quot; quando o projeto for ativado. &#x200B; Os status não &quot;Atuais&quot; pausam as notificações, permitindo o replanejamento sem interrupções. &#x200B;
-* **Aproveitar Modelos e Forms Personalizado:** Use modelos de projeto para consistência e formulários personalizados para armazenar dados exclusivos de projeto. &#x200B; Essas ferramentas simplificam a configuração e garantem que informações essenciais sejam capturadas.
+* **Usar nomes de projeto descritivos:** evite confusão nomeando projetos de forma descritiva em vez de usar títulos genéricos. &#x200B; organizar projetos em portfólios e programas melhora a geração de relatórios e a consistência. &#x200B;
+* **Definir Status Apropriado do Projeto:** Comece com o status &quot;Planejamento&quot; ao criar um projeto e alterne para &quot;Atual&quot; quando o projeto for ativado. &#x200B; Notificações de pausa com status Não &quot;Atual&quot;, permitindo o replanejamento sem interrupções. &#x200B;
+* **Aproveitar Modelos e Forms Personalizado:** Use modelos de projeto para consistência e formulários personalizados para armazenar dados exclusivos de projeto. &#x200B; Essas ferramentas simplificam a configuração e garantem que as informações essenciais sejam capturadas.
 * **Utilizar Conjuntos de Recursos e Agendamentos**: atribua conjuntos de recursos a projetos para um gerenciamento eficaz de recursos e aplique o agendamento correto para refletir dias úteis, horas e feriados. &#x200B; Isso garante uma execução perfeita do projeto e a alocação de recursos.
 
 

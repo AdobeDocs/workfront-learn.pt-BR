@@ -9,13 +9,19 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-last-substantial-update: 2025-05-20T00:00:00Z
+last-substantial-update: '2025-05-20T00:00:00.000Z'
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:46.565Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 62%
+source-wordcount: 411
+ht-degree: 63%
 
 ---
 
@@ -26,9 +32,9 @@ Neste vídeo, você aprenderá:
 * Quando um relatório matriz pode ser útil
 * E como criar um relatório matriz
 
->[!VIDEO](https://video.tv.adobe.com/v/3448188/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
 
-## Principais conclusões
+## Principais lições
 
 * **Estrutura do Relatório de Matriz:** os relatórios de matriz organizam dados em linhas e colunas, com totais automáticos de linhas e colunas. &#x200B; Eles são ideais para rastrear métricas como horas trabalhadas, custos e receita. &#x200B;
 * **Configuração de Filtros**: use filtros para se concentrar em dados específicos, como horas trabalhadas durante o último trimestre por usuários de uma equipe doméstica específica. &#x200B; A &quot;fonte de campo do proprietário&quot; ajuda a identificar membros relevantes da equipe. &#x200B;

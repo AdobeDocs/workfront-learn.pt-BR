@@ -8,20 +8,26 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-07-21T00:00:00Z
+last-substantial-update: '2023-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:45:21.983Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: 357
 ht-degree: 5%
 
 ---
 
 # Compartilhar projetos com eficiência no Workfront
 
-O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para garantir que as partes interessadas e os colaboradores tenham a visibilidade e o acesso necessários. &#x200B; O Workfront simplifica o compartilhamento atribuindo automaticamente direitos de acesso apropriados com base em funções:
+O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para garantir que as partes interessadas e os colaboradores tenham a visibilidade e o acesso necessários. &#x200B; Workfront simplifica o compartilhamento, atribuindo automaticamente direitos de acesso apropriados com base em funções:
 
 **Compartilhamento Automático:**
 
@@ -45,9 +51,9 @@ O vídeo explica como compartilhar projetos de maneira eficaz no Workfront para 
 
 O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilhamento eficiente e destaca o papel dos administradores na personalização das preferências de compartilhamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423152/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Direitos de Acesso Automático:** o Workfront atribui automaticamente direitos de acesso apropriados com base em funções (por exemplo, criadores de projetos, trabalhadores, patrocinadores e gerentes de recursos) para simplificar o compartilhamento. &#x200B;
 * **Opções de Compartilhamento Flexíveis:** os projetos podem ser compartilhados com indivíduos, equipes, funções de trabalho, grupos ou empresas, e as permissões podem ser herdadas por meio de portfólios ou programas. &#x200B;

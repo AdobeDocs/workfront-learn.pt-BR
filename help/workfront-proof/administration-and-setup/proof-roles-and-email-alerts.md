@@ -10,9 +10,15 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:05:31.746Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: 552
 ht-degree: 100%
 
 ---
@@ -41,14 +47,14 @@ O [!DNL Workfront] oferece estas recomendações gerais ao atribuir funções de
 O [!DNL Workfront] oferece estas recomendações gerais ao atribuir alertas por email aos destinatários da prova:
 
 * **Decisão final -** Isso envia um email quando a última pessoa toma uma decisão sobre a prova. Atribua isso à pessoa que monitora o fluxo de trabalho de prova. Esta pessoa pode ser: gerente de provas, proprietário de provas, criador de provas, gerente de projeto ou outro usuário do [!DNL Workfront]. O [!DNL Workfront] recomenda utilizar esse alerta em um fluxo de trabalho básico, para que a pessoa que monitora a prova saiba que todas as decisões foram tomadas.
-* **Decisões -** Isso envia alertas à medida que cada parte interessada no fluxo de trabalho de prova toma uma decisão sobre a prova. Esta opção é recomendada ao utilizar um fluxo de trabalho automatizado, com diversas decisões. Atribua essa opção à pessoa que monitora o fluxo de trabalho de prova. Esta pessoa pode ser: gerente de provas, proprietário de provas, criador de provas, gerente de projeto ou outro usuário do [!DNL Workfront].
+* **Decisões -** Isso envia alertas à medida que cada parte interessada no fluxo de trabalho de revisão toma uma decisão sobre a revisão. Esta opção é recomendada ao utilizar um fluxo de trabalho automatizado, com diversas decisões. Atribua essa opção à pessoa que monitora o fluxo de trabalho de prova. Esta pessoa pode ser: gerente de provas, proprietário de provas, criador de provas, gerente de projeto ou outro usuário do [!DNL Workfront].
 * **Desabilitado -** Use isto para usuários de prova convidados a fim de limitar o número de emails que recebem sobre a prova. Os destinatários ainda são notificados sobre novas provas, novas versões e provas atrasadas; além disso, os usuários do [!DNL Workfront] são notificados sobre mensagens diretas feitas em um comentário de prova utilizando @nomedeusuário, e o mesmo ocorre para destinatários convidados com @endereçodeemail.
 
 ## Sua vez
 
-1. Faça logon no Workfront e crie usuários de provas que você não criou anteriormente. Defina o perfil de permissões de prova nas configurações do usuário, de acordo com a função que a pessoa desempenhará nos fluxos de trabalho de prova.
+1. Faça logon no Workfront e crie usuários de revisões que você não criou anteriormente. Defina o perfil de permissões de prova nas configurações do usuário, de acordo com a função que a pessoa desempenhará nos fluxos de trabalho de prova.
 1. Para usuários já criados, edite as configurações para se ajustar ao perfil de permissões de prova, se necessário.
-1. Acesse a área de configurações de prova e vá até a guia Usuários. Verifique as configurações pessoais dos usuários: idioma, fuso horário, formato de data, função de prova padrão e alerta de email padrão. Isto é importante caso os usuários tenham sido criados antes de se estabelecer os padrões globais do sistema.
+1. Acesse a área de configurações de revisão e vá até a guia Usuários. Verifique as configurações pessoais dos usuários: idioma, fuso horário, formato de data, função de prova padrão e alerta de email padrão. Isto é importante caso os usuários tenham sido criados antes de se estabelecer os padrões globais do sistema.
 
 <!--
 Download the proof role and email alert guides to have on hand as you start uploading proofs and assigning proof recipients.

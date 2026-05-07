@@ -7,22 +7,28 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-04-05T00:00:00Z
+last-substantial-update: '2024-04-05T00:00:00.000Z'
 team: Technical Marketing
 recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:46:43.714Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '803'
-ht-degree: 55%
+source-wordcount: 786
+ht-degree: 56%
 
 ---
 
 # Navegar na página do projeto
 
-Este vídeo fornece uma visão geral da navegação e do gerenciamento da página do projeto no Workfront. &#x200B; Os principais recursos incluem:
+Este vídeo fornece uma visão geral da navegação e do gerenciamento da página do projeto no Workfront. &#x200B; principais recursos incluem:
 
 * **Cabeçalho do Projeto:** Exibe informações essenciais, como porcentagem concluída, gerente de projeto, data de conclusão planejada, condição do projeto e status. &#x200B; O status ajuda a rastrear o estágio do projeto e aciona notificações. &#x200B;
 * **Navegação estrutural:** mostra o posicionamento do projeto no programa e portfólio da organização, com links clicáveis para facilitar a navegação. &#x200B;
@@ -30,12 +36,12 @@ Este vídeo fornece uma visão geral da navegação e do gerenciamento da págin
 * **Lista de Tarefas:** representa etapas no plano de projeto. &#x200B; Use filtros rápidos para localizar tarefas, edição em linha para alterações rápidas e o painel de resumo da tarefa para obter informações detalhadas. &#x200B; Clicar em um nome de tarefa abre sua página dedicada. &#x200B;
 * **Painel esquerdo:** fornece acesso a várias seções do projeto, como detalhes, atualizações e documentos. &#x200B; O painel pode ser personalizado pelo administrador do sistema. &#x200B;
 * **Seção de Atualizações:** Centraliza a comunicação sobre o projeto, permitindo marcar usuários, responder a comentários e exibir atualizações acumuladas de tarefas, problemas e documentos. &#x200B;
-* **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Os documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. &#x200B;
+* **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449731/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Visão geral do Cabeçalho do Projeto:** acesse rapidamente os detalhes principais do projeto, como porcentagem concluída, gerente do projeto, data de vencimento, status e condição. &#x200B; O status também controla notificações e estágios de workflow. &#x200B;
 * **Gerenciamento de tarefas:** use a lista de tarefas para rastrear etapas do projeto, aplicar filtros rápidos para localizar tarefas e fazer edições em linha. &#x200B; Acesse informações detalhadas da tarefa por meio do painel de resumo ou da página de tarefas. &#x200B;

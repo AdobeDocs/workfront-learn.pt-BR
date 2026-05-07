@@ -10,16 +10,22 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:01.017Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: 454
 ht-degree: 100%
 
 ---
 
 # Relatórios de provas
 
-Os recursos de prova digital do [!DNL Workfront] permitem gerenciar projetos e fluxos de trabalho de prova relacionados sem sair do [!DNL Workfront]. Obtenha insights valiosos sobre o andamento do trabalho de revisão com tipos de relatórios, origens e nomes de campos que exibem informações de revisão e aprovação.
+Os recursos de revisão digital do [!DNL Workfront] permitem gerenciar projetos e fluxos de trabalho de revisão relacionados sem sair do [!DNL Workfront]. Obtenha insights valiosos sobre o andamento do trabalho de revisão com tipos de relatórios, origens e nomes de campos que exibem informações de revisão e aprovação.
 
 Recomendamos conversar com o(a) consultor(a) do [!DNL Workfront] para criar relatórios que atendam aos requisitos da sua organização. Alguns dos relatórios exigem conhecimento sobre o modo de relatórios de texto do [!DNL Workfront].
 

@@ -8,14 +8,20 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-04-25T00:00:00Z
+last-substantial-update: '2024-04-25T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:44:38.813Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 13%
+source-wordcount: 239
+ht-degree: 14%
 
 ---
 
@@ -25,12 +31,12 @@ O vídeo explica como monitorar o progresso geral do projeto usando vários indi
 
 O vídeo enfatiza a importância de atualizações regulares pelos membros da equipe e do gerenciamento pró-ativo de problemas para garantir um rastreamento preciso e a conclusão oportuna do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447415/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Cálculo do Percentual Concluído:** o andamento geral do projeto é calculado com base nos valores do Percentual Concluído de tarefas individuais, ponderados por sua duração ou horas planejadas. &#x200B;
-* **Datas planejadas vs. projetadas:** o Workfront calcula as datas de início/conclusão planejadas e projetadas com base na duração da tarefa e em suas predecessoras. &#x200B; As discrepâncias entre essas datas indicam possíveis atrasos. &#x200B;
+* **Datas planejadas vs. projetadas:** o Workfront calcula as datas de início/conclusão planejadas e projetadas com base na duração da tarefa e em suas predecessoras. &#x200B; discrepâncias entre essas datas indicam possíveis atrasos. &#x200B;
 * **Status da Condição do Projeto:** o campo de condição (por exemplo, No Destino, Em Risco, Com Problema) reflete o status do projeto e pode ser definido manual ou automaticamente usando o modo Status de Progresso. &#x200B;
 * **Gerenciamento de Problemas Abertos:** problemas abertos sinalizam riscos em potencial. &#x200B; Revisá-los e convertê-los em tarefas prontamente é essencial para manter as linhas do tempo do projeto. &#x200B;
 * **Coluna de Atualização de Condição:** atualizações semanais do gerente de projeto na coluna de Atualização de Condição fornecem um resumo claro do progresso e ajudam a acompanhar os desenvolvimentos mais recentes. &#x200B;

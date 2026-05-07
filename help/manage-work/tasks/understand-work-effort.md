@@ -9,13 +9,19 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
-last-substantial-update: 2024-05-29T00:00:00Z
+last-substantial-update: '2024-05-29T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:25.499Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 10%
+source-wordcount: 295
+ht-degree: 14%
 
 ---
 
@@ -24,13 +30,13 @@ ht-degree: 10%
 O vídeo explica como usar o recurso Esforço de trabalho no Workfront para estimar horas planejadas para tarefas quando estimativas precisas são difíceis de determinar.
 Ele demonstra como criar uma visualização personalizada do Esforço de trabalho para simplificar o gerenciamento de tarefas, adicionando colunas relevantes como Esforço de trabalho, Horas planejadas e Tipo de duração
 
->[!VIDEO](https://video.tv.adobe.com/v/3447404/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Recurso do esforço de trabalho para estimar o tempo planejado:** o recurso do esforço de trabalho no Workfront ajuda a estimar as horas planejadas para tarefas com base em sua duração, facilitando a criação de planos de projeto quando as horas planejadas são difíceis de estimar. &#x200B;
 * **Porcentagens do esforço de trabalho personalizáveis:** o Workfront calcula as horas planejadas usando porcentagens da duração da tarefa (por exemplo, Esforço de trabalho do Medium = 50%, Esforço de trabalho grande = 75%) e essas porcentagens podem ser ajustadas conforme necessário. &#x200B;
-* **Requisito de Tipo de Duração Simples:** O Esforço de Trabalho só está disponível para tarefas com um tipo de duração simples. &#x200B; Tarefas com outros tipos de duração devem ser alteradas para simples antes de usar o esforço de trabalho. &#x200B;
+* **Requisito de Tipo de Duração Simples:** O Esforço de Trabalho só está disponível para tarefas com um tipo de duração simples. &#x200B; tarefas com outros tipos de duração devem ser alteradas para simples antes de usar o esforço de trabalho. &#x200B;
 * **Opções de Edição em Linha e em Massa:** O esforço de trabalho pode ser ajustado para tarefas individuais usando a Edição em Linha ou para várias tarefas simultaneamente usando o recurso Edição em Massa. &#x200B;
 * **Criando uma Exibição Personalizada do Esforço de Trabalho:** os usuários podem criar uma exibição personalizada do Esforço de Trabalho para gerenciar e editar facilmente as configurações do Esforço de Trabalho. &#x200B; Isso envolve a adição de colunas para o Esforço de trabalho e outros campos relevantes, como Horas planejadas ou Tipo de duração. &#x200B;
 

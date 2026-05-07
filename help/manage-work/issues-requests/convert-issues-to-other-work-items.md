@@ -7,13 +7,19 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: 2024-02-28T00:00:00Z
+last-substantial-update: '2024-02-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:55:57.327Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: 240
 ht-degree: 17%
 
 ---
@@ -22,11 +28,11 @@ ht-degree: 17%
 
 O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445435/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
-* **Processo de Conversão Simples:** Para converter um problema/solicitação em uma tarefa, abra o problema, clique no menu de três pontos e selecione &quot;Converter em Tarefa&quot; &#x200B; O nome e a descrição da tarefa são copiados por padrão, mas podem ser editados. &#x200B;
+* **Processo de Conversão Simples:** Para converter um problema/solicitação em uma tarefa, abra o problema, clique no menu de três pontos e selecione &quot;Converter em Tarefa&quot;. &#x200B; O nome e a descrição da tarefa são copiados por padrão, mas podem ser editados. &#x200B;
 * **Seleção de Projeto de Destino:** Você pode escolher o projeto de destino para a tarefa, seja o projeto padrão onde o problema reside ou outro projeto ao qual você tem acesso. &#x200B;
 * **Anexo de Formulário Automático:** Os formulários personalizados vinculados ao problema são adicionados automaticamente à tarefa, garantindo que todos os valores de campo sejam transferidos sem interrupções. &#x200B;
 * **Opções de Conversão:** As principais opções incluem:

@@ -8,14 +8,20 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-02-07T00:00:00Z
+last-substantial-update: '2024-02-07T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:42:45.518Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: 217
 ht-degree: 12%
 
 ---
@@ -24,9 +30,9 @@ ht-degree: 12%
 
 Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada e como mantê-la.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444594/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **População Automática de Equipe:** a equipe do projeto é preenchida automaticamente quando os usuários recebem tarefas ou são designados como proprietários do projeto. &#x200B; No entanto, os usuários não são removidos automaticamente quando suas atribuições são removidas; isso deve ser feito manualmente. &#x200B;
 * **Atualizações Manuais:** Você pode adicionar ou remover pessoas manualmente da equipe do projeto, mesmo que elas não tenham atribuições, garantindo que a lista da equipe permaneça precisa e atualizada. &#x200B;

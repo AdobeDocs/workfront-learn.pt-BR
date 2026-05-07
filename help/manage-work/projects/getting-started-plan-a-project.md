@@ -12,22 +12,28 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:46:32.240Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 265
 ht-degree: 11%
 
 ---
 
 # Planejar um projeto com eficiência no Workfront
 
-O vídeo fornece orientação sobre como planejar com eficiência um projeto no Workfront. &#x200B; Ressalta a importância de estabelecer uma base sólida para garantir que o projeto seja concluído no prazo e bem-sucedido. &#x200B; As principais etapas incluem compreender cinco campos críticos: Tarefas, Atribuições, Durações, Horas planejadas e Predecessores. &#x200B; Esses campos permitem ajustes rápidos e precisos no plano do projeto. &#x200B;
+O vídeo fornece orientação sobre como planejar com eficiência um projeto no Workfront. &#x200B; enfatiza a importância de estabelecer uma base sólida para garantir que o projeto seja concluído no prazo e bem-sucedido. &#x200B; etapas principais incluem compreender cinco campos críticos: Tarefas, Atribuições, Durações, Horas planejadas e Predecessores. &#x200B; Esses campos permitem ajustes rápidos e precisos no plano do projeto. &#x200B;
 
 O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448572/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Concentre-se em cinco campos principais:** Entenda as tarefas, atribuições, durações, horas planejadas e predecessores para fazer alterações precisas e eficientes no plano do projeto. &#x200B;
 * **Definir Status do Projeto como &quot;Planejamento&quot;:** Verifique se o status do projeto está definido como &quot;Planejamento&quot; para evitar notificações desnecessárias ao ajustar o plano. &#x200B;

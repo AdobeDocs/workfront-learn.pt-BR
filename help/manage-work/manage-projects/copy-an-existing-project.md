@@ -8,28 +8,34 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: 2025-03-28T00:00:00Z
+last-substantial-update: '2025-03-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:52:41.328Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 310
 ht-degree: 7%
 
 ---
 
 # Copie um projeto existente com eficiência
 
-O vídeo explica como copiar um projeto em vez de usar um modelo. &#x200B; Para copiar um projeto, abra o projeto desejado, clique no menu de três pontos ao lado do nome do projeto e selecione &quot;Copiar&quot;. &#x200B; Na janela Copiar Projeto, você pode renomear o projeto e alterar seu status, normalmente para &quot;Planejamento&quot; para evitar o envio de notificações aos usuários atribuídos. &#x200B; Você pode escolher se deseja copiar atribuições, andamento, dados personalizados etc. &#x200B;
-Para finalizar, clique em &quot;Copiar projeto&quot; &#x200B;
+O vídeo explica como copiar um projeto em vez de usar um modelo. &#x200B; Para copiar um projeto, abra o projeto desejado, clique no menu de três pontos ao lado do nome do projeto e selecione &quot;Copiar&quot;. &#x200B; Na janela Copiar Projeto, é possível renomear o projeto e alterar seu status, normalmente para &quot;Planejamento&quot;, para evitar o envio de notificações aos usuários atribuídos. &#x200B; Você pode escolher se deseja copiar atribuições, andamento, dados personalizados etc. &#x200B;
+Para finalizar, clique em &quot;Copiar projeto&quot;. &#x200B;
 Problemas não podem ser copiadas diretamente durante este processo, pois não são consideradas trabalho planejado. &#x200B; Para copiar problemas, vá para a guia Problemas, selecione os problemas desejados e use a opção &quot;Copiar para&quot; para transferi-los para o novo projeto. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456043/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Copiando um Projeto:** Abra o projeto, clique no menu de três pontos ao lado do nome do projeto e selecione &quot;Copiar&quot; para duplicá-lo. &#x200B;
 * **Ajuste das Configurações do Projeto:** Renomeie o projeto e altere seu status para &quot;Planejamento&quot; para evitar o envio de notificações aos usuários atribuídos.

@@ -10,11 +10,16 @@ role: User
 level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-last-substantial-update: 2025-08-11T00:00:00Z
+last-substantial-update: '2025-08-11T00:00:00.000Z'
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:11:54.379Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 318
 ht-degree: 31%
 
 ---
@@ -25,7 +30,7 @@ O vídeo explica como criar e usar filtros com várias regras no Workfront. &#x2
 Como alternativa, é possível alterar a lógica do filtro para &quot;OU&quot;, que exibe itens que atendem a qualquer uma das condições.
 O vídeo também demonstra como criar filtros para tarefas usando grupos de filtros. &#x200B; Por exemplo, você pode criar dois grupos: um para tarefas incompletas atribuídas à equipe criativa que estão atrasadas e outro para tarefas incompletas atribuídas à equipe criativa que não estão atribuídas. &#x200B; Em cada grupo, a lógica &quot;AND&quot; se aplica, o que significa que todas as condições no grupo devem ser atendidas. &#x200B; A lógica &quot;OR&quot; entre grupos garante que as tarefas que atendem às condições de cada grupo sejam exibidas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470698/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## Atividade de filtro OU
 
