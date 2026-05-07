@@ -1,6 +1,6 @@
 ---
 title: Entenda os detalhes da revisão
-description: Aprofunde-se nos detalhes por trás de uma revisão no [!DNL  Workfront] por meio do painel de resumo e da página [!UICONTROL Detalhes do documento].
+description: Aprofunde-se nos detalhes por trás de uma revisão no [!DNL &#x200B; Workfront] por meio do painel de resumo e da página [!UICONTROL Detalhes do documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,11 +10,16 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:56:45.995Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -53,7 +58,7 @@ Para obter mais informações sobre a prova, clique em [!UICONTROL Detalhes do d
 
 Você será direcionado para a página [!UICONTROL Detalhes do documento] e para uma variedade de opções adicionais no painel esquerdo.
 
-![Uma imagem da página da revisão no [!DNL  Workfront].](assets/document-details.png)
+![Uma imagem da página da revisão no [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 É importante observar que a capacidade de ver informações relacionadas ao processo de revisão depende das suas permissões de revisão no [!DNL Workfront].
 

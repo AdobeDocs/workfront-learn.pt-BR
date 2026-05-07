@@ -1,6 +1,6 @@
 ---
 title: Acompanhar progresso da prova
-description: Aprenda a usar os indicadores [!UICONTROL EACD], o progresso da prova e os relatórios para acompanhar o andamento de uma prova no  [!DNL  Workfront].
+description: Aprenda a usar os indicadores [!UICONTROL EACD], o progresso da prova e os relatórios para acompanhar o andamento de uma prova no  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,11 +10,16 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:53:35.724Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -33,7 +38,7 @@ Para visualizar o progresso da prova no [!DNL Workfront], você deve ter uma lic
 
 Obtenha uma visão de alto nível de como a prova está progredindo no processo de revisão e aprovação usando os ícones [!UICONTROL EACD] da lista de [!UICONTROL Documentos]. Esses ícones indicam ações específicas realizadas na prova.
 
-![Imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL  Workfront] com os ícones [!UICONTROL EACD] destacados.](assets/manage-proofs-socd.png)
+![Imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL &#x200B; Workfront] com os ícones [!UICONTROL EACD] destacados.](assets/manage-proofs-socd.png)
 
 Os ícones indicam o trabalho feito em uma prova desde o momento em que você a envia para os destinatários até o momento em que eles tomam uma decisão sobre a prova.
 
@@ -65,7 +70,7 @@ Se quiser saber o que cada destinatário individual da revisão está fazendo, a
 
 O status da prova é baseado no status dos recipients da prova do estágio. O status geral da prova é visível na página [!UICONTROL Documentos], à direita dos indicadores [!UICONTROL EACD], para que você possa saber facilmente se foi tomada uma decisão sobre a prova.
 
-![Uma imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL  Workfront] com o status geral da prova destacado.](assets/manage-proofs-overall-status.png)
+![Uma imagem da lista de [!UICONTROL Documentos] em um projeto do [!DNL &#x200B; Workfront] com o status geral da prova destacado.](assets/manage-proofs-overall-status.png)
 
 Este “status da prova” indica o status geral da prova. Por exemplo, se dois destinatários aprovaram a prova, seus status individuais serão exibidos como [!UICONTROL Aprovada]. No entanto, o terceiro destinatário ainda não tomou uma decisão, portanto, o status dessa pessoa é [!UICONTROL Pendente]. Portanto, o status geral é exibido como [!UICONTROL Pendente].
 
@@ -85,11 +90,11 @@ Você também pode aproveitar os recursos de relatórios do [!DNL Workfront's] p
 
 Um relatório de aprovação de prova ajuda a acompanhar as aprovações pendentes para garantir que os prazos sejam cumpridos.
 
-![Imagem de um relatório de aprovação de prova no [!DNL  Workfront].](assets/proof-approval-report.png)
+![Imagem de um relatório de aprovação de prova no [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Um relatório de versão do documento permite gerenciar e acompanhar versões da prova.
 
-![Imagem de um relatório de versão do documento no [!DNL  Workfront].](assets/document-version-report.png)
+![Imagem de um relatório de versão do documento no [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Recomendamos conversar com o(a) consultor(a) do [!DNL Workfront] para criar relatórios que atendam aos requisitos da sua organização. Alguns dos relatórios exigem conhecimento sobre os relatórios do modo de texto do [!DNL Workfront's].
 
