@@ -11,10 +11,16 @@ thumbnail: 335160.png
 jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/4rHGdoRjx3CEfBiMkQqHvHMlwrpjFqe9MwSQToDtCAQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 100%
+source-wordcount: 364
+ht-degree: 92%
 
 ---
 
@@ -32,14 +38,14 @@ No entanto, algumas pessoas podem estar mais adiantadas do que imaginam nessa jo
 
 ## Quatro estágios de maturidade do gerenciamento de recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/3431655/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
 
 
 ## Para onde ir a partir daqui
 
 Você identificou sua organização em algum desses estágios? Se sim, ótimo. A partir daqui você pode começar a planejar o restante de sua jornada de gerenciamento de recursos.
 
-&lt;!Juntamente com este roteiro de aprendizagem, você verá o manual para o “Desenvolvimento da maturidade de recursos”, que apresenta ideias sobre como progredir de um estágio de gerenciamento de recursos para outro.&gt;
+&lt;!Junto com este caminho de aprendizado, você encontrará um guia, o Crescimento da maturidade dos recursos, que apresenta ideias sobre como progredir de um estágio de gerenciamento de recursos para outro.&gt;
 
 Se ainda não, não se preocupe. Mesmo com essas definições, pode ser complicado determinar exatamente onde você está.
 

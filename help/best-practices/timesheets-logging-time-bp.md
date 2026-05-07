@@ -6,10 +6,15 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10930
 exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/PDzABizeylFNiD58Y5z9upAqwCE5l7xgl0qNiblceas
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 100%
+source-wordcount: 692
+ht-degree: 94%
 
 ---
 
@@ -25,7 +30,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -132,4 +137,4 @@ Desative a capacidade de registrar horas no nível do projeto.
 
 **Entenda o porquê**
 
-As horas registradas no nível do projeto não mostram as horas que foram realmente gastas trabalhando. O registro de horas efetivas trabalhadas nos níveis de tarefa e problema mostra quanto tempo levou para concluir itens de trabalho específicos. Essas informações podem ser úteis ao ajustar modelos de projeto, pois você poderá planejar com mais precisão o cronograma do projeto e planejar os recursos humanos necessários. Isso também significa que os relatórios serão mais precisos e fornecerão melhores insights sobre como os trabalhadores estão gastando seu tempo.
+As horas registradas no nível do projeto não mostram as horas que foram realmente gastas trabalhando. O registro de horas efetivas trabalhadas nos níveis de tarefa e problema mostra quanto tempo levou para concluir itens de trabalho específicos. Essas informações podem ser úteis ao ajustar modelos de projeto, pois você poderá planejar com mais precisão a linha do tempo do projeto e planejar os recursos humanos necessários. Isso também significa que os relatórios serão mais precisos e fornecerão melhores insights sobre como os trabalhadores estão gastando seu tempo.

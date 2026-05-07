@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/yTBd9pAA4m4fbXniB-givgEjA5Ble6N6Xv5c1JgM4bc
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: 887
 ht-degree: 75%
 
 ---
@@ -78,7 +84,7 @@ Create and customize system-wide statuses
 
 Existem vários tipos de datas usadas no [!DNL Workfront]. As datas reais são um &quot;carimbo de data e hora&quot; que [!DNL Workfront] gera quando ocorrem determinadas alterações de status.
 
-O carimbo de data e hora [!UICONTROL Data de início efetivo] é criado quando o status do problema muda de Novo para outro status. O carimbo de data e hora [!UICONTROL Data real de conclusão] ocorre quando o status do problema muda para um status que indica que ele está encerrado.
+O carimbo de data e hora [!UICONTROL Data inicial real] é criado quando o status do problema muda de Novo para outro status. O carimbo de data e hora [!UICONTROL Data real de conclusão] ocorre quando o status do problema muda para um status que indica que ele está encerrado.
 
 É importante observar que essa preferência controla as configurações de data real para tarefas e problemas.
 
@@ -88,8 +94,8 @@ Janela de preferências ![[!UICONTROL Tarefas e problemas] com a seção [!UICON
 1. Expanda a seção **[!UICONTROL Preferências do projeto]** no painel do menu esquerdo.
 1. Selecione **[!UICONTROL Tarefas e problemas]**.
 1. Role até a seção **[!UICONTROL Datas reais]**.
-1. Selecione a opção desejada para **[!UICONTROL Data de início efetivo]** — [!UICONTROL Agora] (a data e hora atuais) ou[!UICONTROL A data de início planejada] (a [!UICONTROL Data de início efetivo] corresponde à data de início definida nos detalhes do problema).
-1. Agora selecione a opção para **[!UICONTROL Data conclusão efetiva]** — [!UICONTROL Agora] (a data e hora atuais) ou [!UICONTROL A data de conclusão planejada] (a [!UICONTROL Data de início efetivo] corresponde à data definida nos detalhes do problema).
+1. Selecione a opção desejada para **[!UICONTROL Data inicial real]** — [!UICONTROL Agora] (a data e hora atuais) ou[!UICONTROL A data inicial planejada] (a [!UICONTROL Data inicial real] corresponde à data inicial definida nos detalhes do problema).
+1. Agora selecione a opção para **[!UICONTROL Data de conclusão real]** — [!UICONTROL Agora] (a data e hora atuais) ou [!UICONTROL A data de conclusão planejada] (a [!UICONTROL Data inicial real] corresponde à data definida nos detalhes do problema).
 1. Salve quando terminar.
 
 
@@ -111,7 +117,7 @@ Janela de preferências ![[!UICONTROL Tarefas e problemas] com a seção [!UICON
 1. Expanda a seção **[!UICONTROL Preferências do projeto]** no painel do menu esquerdo.
 1. Selecione **[!UICONTROL Tarefas e problemas]**.
 1. Role até a seção **[!UICONTROL Acesso]** e localize a opção &quot;[!UICONTROL Quando alguém for atribuído a um PROBLEMA]&quot;.
-1. Defina o acesso de compartilhamento para o problema em si: [!UICONTROL Visualizar],[!UICONTROL &#x200B; Contribuir] ou [!UICONTROL Gerenciar]. O [!DNL Workfront] recomenda deixar as opções avançadas como estão.
+1. Defina o acesso de compartilhamento para o problema em si: [!UICONTROL Visualizar],[!UICONTROL  Contribuir] ou [!UICONTROL Gerenciar]. O [!DNL Workfront] recomenda deixar as opções avançadas como estão.
 1. Marque a caixa se o responsável pelo problema também deve ter acesso ao projeto
 1. Em seguida, selecione o acesso de compartilhamento para o projeto: [!UICONTROL Visualizar],[!UICONTROL Contribuir] ou [!UICONTROL Gerenciar]. Ao definir as [!UICONTROL Opções Avançadas], lembre-se dos fluxos de trabalho e das necessidades de acesso da sua organização.
 1. Salve quando terminar.

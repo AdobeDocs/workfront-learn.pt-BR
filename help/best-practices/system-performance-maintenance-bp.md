@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/2tq7aNHE96fep1EFCPrjcCo13t5lQ24A6c-ORDUmlpY
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 100%
+source-wordcount: 638
+ht-degree: 93%
 
 ---
 
@@ -25,7 +31,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -65,7 +71,7 @@ Revise as notas de versão do produto antes da data de lançamento.
 
 **Entenda o porquê**
 
-As notas de versão informam quais novas funcionalidades e ferramentas estão chegando ao sistema Workfront. Ao revisar essas notas e experimentar a nova funcionalidade no ambiente Sandbox de Pré-visualização, você tem a oportunidade de aprender, praticar e corrigir quaisquer bugs com os novos aprimoramentos antes de serem lançados para produção.
+As notas de versão informam quais novas funcionalidades e ferramentas estão chegando ao sistema Workfront. Ao revisar essas notas e experimentar a nova funcionalidade no ambiente Sandbox de Pré-visualização, você tem a oportunidade de aprender, praticar e corrigir quaisquer erros com os novos aprimoramentos antes de serem lançados para produção.
 
 </br>
 </br>

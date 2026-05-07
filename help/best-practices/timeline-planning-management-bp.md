@@ -1,15 +1,21 @@
 ---
 title: 'Prática recomendada: planejamento e gerenciamento de linha do tempo'
-description: Explore práticas recomendadas de especialistas do Adobe Workfront sobre como configurar, gerenciar e usar cronogramas de projetos no Workfront.
+description: Explore práticas recomendadas de especialistas do Adobe Workfront sobre como configurar, gerenciar e usar linhas do tempo de projetos no Workfront.
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/dHR6MHjya-MlhyDeL6MJvMPzaIkPpp91zfYe6ebcbL0
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1110'
-ht-degree: 100%
+source-wordcount: 1117
+ht-degree: 96%
 
 ---
 
@@ -25,7 +31,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -38,7 +44,7 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 * Faça com que os usuários registrem o tempo real gasto em tarefas para que você possa comparar as horas efetivas com as horas planejadas.
 
-* Use durações de tarefas e predecessores quando possível para construir e atualizar um cronograma de projeto, em vez de selecionar datas específicas de início e conclusão.
+* Use durações de tarefas e predecessores quando possível para construir e atualizar uma linha do tempo de projeto, em vez de selecionar datas específicas de início e conclusão.
 
 * Peça aos usuários para atualizarem seus próprios status de tarefas, percentual concluído e horas efetivas todos os dias (ou em uma programação definida a cada semana).
 
@@ -74,7 +80,7 @@ Ao copiar um projeto, defina o status do novo projeto como Planejamento.
 
 **Entenda o porquê**
 
-O status Planejamento (ou equivalente) evita que notificações do Workfront sobre atribuições, alterações no cronograma etc., sejam enviadas antes que o projeto esteja pronto. Ao copiar um projeto, aparecerá uma caixa de diálogo com opções de projeto; altere o status aqui, enquanto ajusta outras opções para que os dados não sejam copiados do projeto original para a versão copiada.
+O status Planejamento (ou equivalente) evita que notificações do Workfront sobre atribuições, alterações na linha do tempo etc., sejam enviadas antes que o projeto esteja pronto. Ao copiar um projeto, aparecerá uma caixa de diálogo com opções de projeto; altere o status aqui, enquanto ajusta outras opções para que os dados não sejam copiados do projeto original para a versão copiada.
 
 </br>
 </br>
@@ -93,11 +99,11 @@ Saber quanto tempo leva o trabalho da tarefa significa que você pode atualizar 
 
 **Prática recomendada**
 
-Use durações de tarefas e predecessores quando possível para construir e atualizar um cronograma de projeto, em vez de selecionar datas específicas de início e conclusão.
+Use durações de tarefas e predecessores quando possível para construir e atualizar uma linha do tempo de projeto, em vez de selecionar datas específicas de início e conclusão.
 
 **Entenda o porquê**
 
-O uso de durações e predecessores em conjunto com restrições de tarefas flexíveis (O mais breve possível e O mais tarde possível) permite alterações automáticas de datas no cronograma que “se espalham” pelo plano do projeto. Por exemplo, quando a duração de uma tarefa aumenta um dia, isso altera a data de conclusão planejada da tarefa, que por sua vez altera as datas de conclusão das tarefas seguintes.
+O uso de durações e predecessores em conjunto com restrições de tarefas flexíveis (O mais breve possível e O mais tarde possível) permite alterações automáticas de datas na linha do tempo que “se espalham” pelo plano do projeto. Por exemplo, quando a duração de uma tarefa aumenta um dia, isso altera a data de conclusão planejada da tarefa, que por sua vez altera as datas de conclusão das tarefas seguintes.
 
 A seleção de datas específicas de início e conclusão para tarefas altera a restrição da tarefa para uma que “bloqueie” a data (Deve começar em, Deve terminar em, Datas fixas), o que significa que você terá que fazer algumas atualizações de datas na linha do tempo manualmente.
 

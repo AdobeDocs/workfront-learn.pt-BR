@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
-workflow-type: ht
-source-wordcount: '741'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/TP7xqSuqZdUF4vbxUMyBib23OZwqG4SwOP7cDSEfhJU
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 747
+ht-degree: 80%
 
 ---
 
@@ -25,7 +31,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -34,9 +40,9 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 * Mantenha os modelos de layout o mais simples possível gerenciando as opções de menu.
 
-* Crie modelos de layout para conjuntos de usuários, não para indivíduos.
+* Crie modelos de layout para conjuntos de usuários, não para pessoas.
 
-* Tenha em mente os workflows e processos ao criar modelos de layout.
+* Tenha em mente os fluxos de trabalho e processos ao criar modelos de layout.
 
 * Comece com um modelo de layout &quot;padrão&quot; ou &quot;base&quot; e, em seguida, copie e faça as alterações necessárias.
 
@@ -55,7 +61,7 @@ Mantenha os modelos de layout o mais simples possível gerenciando as opções d
 
 Menos é mais quando se trata de modelos de layout. Garantir que os modelos de layout contenham apenas as opções necessárias do menu principal, seções de menu do painel esquerdo, campos de detalhes de objetos, opções de lista etc., remove ruídos desnecessários e simplifica a navegação para os usuários. Se os usuários tiverem muitas coisas em que clicar, o Workfront rapidamente se tornará confuso para eles. Modelos de layout bem projetados podem ajudar a melhorar a eficiência e a capacidade de um usuário de trabalhar com facilidade no Workfront. O que, por sua vez, leva o usuário a adotá-lo.
 
-Tenha cuidado ao ocultar opções; você não deseja ocultar algo que os usuários precisam como parte dos workflows diários deles.
+Tenha cuidado ao ocultar opções; você não deseja ocultar algo que os usuários precisam como parte dos fluxos de trabalho diários deles.
 
 À medida que o uso do Workfront pela sua organização cresce, não se esqueça de apresentar recursos relevantes nos modelos de layout para que os usuários possam aproveitá-los.
 
@@ -64,11 +70,11 @@ Tenha cuidado ao ocultar opções; você não deseja ocultar algo que os usuári
 
 **Prática recomendada**
 
-Crie modelos de layout para conjuntos de usuários, não para indivíduos.
+Crie modelos de layout para conjuntos de usuários, não para pessoas.
 
 **Entenda o porquê**
 
-Crie layouts em torno de grupos de pessoas que fazem trabalhos semelhantes, precisam de acesso às mesmas partes do Workfront etc. Isso não apenas garante que os usuários tenham acesso às partes do Workfront de que precisam para realizar o trabalho, mas também significa menos modelos de layout para administradores de sistema e de grupo criarem e manterem.
+Crie layouts em torno de conjuntos de pessoas que fazem trabalho semelhante, precisam de acesso às mesmas partes do Workfront etc. Isso não apenas garante que os usuários tenham acesso às partes do Workfront de que precisam para fazer seu trabalho, como também significa menos modelos de layout para os administradores de sistema e grupo criarem e manterem.
 
 Se os usuários solicitarem modelos de layout “especializados”, treine-os em como usar marcadores na barra de navegação e adicionar suas próprias seções personalizadas aos menus do painel esquerdo. Isso pode atender às necessidades deles sem precisar criar modelos de layout adicionais.
 
@@ -77,15 +83,15 @@ Se os usuários solicitarem modelos de layout “especializados”, treine-os em
 
 **Prática recomendada**
 
-Tenha em mente os workflows e processos ao criar modelos de layout.
+Tenha em mente os fluxos de trabalho e processos ao criar modelos de layout.
 
 **Entenda o porquê**
 
 Certifique-se de que os usuários possam acessar tudo o que precisam para realizar o trabalho.
 
-Opções no Menu Principal, com os itens de menu mais usados numa posição de destaque (ou organize o Menu Principal em ordem alfabética) 
-Seções de menu do painel esquerdo, em uma ordem que facilita o fluxo de trabalho 
-Campos padrão e personalizados visíveis na Página inicial para permitir que os usuários concluam atribuições sem ter que se aprofundar em tarefas/problemas para obter as informações necessárias
+Opções no menu principal, com os itens de menu mais usados em uma posição de destaque (ou organize o menu principal em ordem alfabética)
+Seções de menu do painel esquerdo, em uma ordem que facilita o fluxo de trabalho
+Campos padrão e personalizados visíveis na Página inicial, para permitir que os usuários concluam atribuições sem precisar pesquisar tarefas/problemas para obter as informações necessárias
 
 Após criar o modelo de layout, use o recurso “fazer logon como” na área de Configuração para testar o modelo como alguém que o utilizará. Analise cada etapa do fluxo de trabalho dessa pessoa para garantir que ela tenha o que precisa antes de atribuir usuários ao modelo.
 

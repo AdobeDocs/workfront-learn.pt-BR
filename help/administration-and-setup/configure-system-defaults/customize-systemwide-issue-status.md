@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/Wo7ObQJmkrsaYDXxaPMYQvDFfQx8wtC8qYi3Nvc6DkY
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: 392
 ht-degree: 100%
 
 ---
@@ -32,7 +38,7 @@ O [!DNL Workfront] recomenda uma quantidade mínima de status. Isso facilita a e
 
 ![Lista de status de problemas com a opção [!UICONTROL Editar] realçada](assets/admin-fund-edit-issue-status.png)
 
-1. Clique em **[!UICONTROL Configuração]**, no **[!UICONTROL Menu principal]**.
+1. Clique em **[!UICONTROL Configuração]** no **[!UICONTROL Menu principal]**.
 1. Expanda a seção **[!UICONTROL Preferências do projeto]** no painel do menu esquerdo.
 1. Selecione **[!UICONTROL Status]**.
 1. Selecione a guia **[!UICONTROL Problemas]** e verifique se [!UICONTROL Status do sistema] aparece no canto superior direito.
