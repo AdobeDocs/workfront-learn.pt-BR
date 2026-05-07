@@ -5,13 +5,25 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner
-last-substantial-update: 2024-09-16T00:00:00Z
+last-substantial-update: '2024-09-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:40:23.244Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: 709
 ht-degree: 100%
 
 ---
@@ -24,7 +36,7 @@ Na guia de [!UICONTROL Detalhes da fila] de solicitações ou projeto, certifiqu
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434161/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434161/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 **Forneci acesso à fila aos usuários, mas eles também podem ver o projeto da fila de solicitações. Porquê?**
 
@@ -62,7 +74,7 @@ Você pode acessar os campos nas origens de campo **[!UICONTROL Problema convert
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434181/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434181/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 
 **Qual é a melhor maneira de filtrar filas de solicitações em um relatório?**
@@ -73,7 +85,7 @@ Se o filtro do projeto incluir **Fila>>É pública>>Não é igual>>Nenhum**, o r
 
 Assista a este vídeo para mais detalhes:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434335/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434335/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 **Criar um status personalizado da fila de solicitações é uma boa ideia?**
 

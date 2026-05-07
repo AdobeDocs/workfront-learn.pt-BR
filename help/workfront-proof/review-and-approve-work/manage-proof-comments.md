@@ -10,9 +10,20 @@ level: Beginner
 thumbnail: manage-proof-comments.png
 jira: KT-10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:59:03.344Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: 449
 ht-degree: 100%
 
 ---
@@ -23,23 +34,23 @@ O [!DNL Workfront] ajuda a monitorar e gerenciar o trabalho relacionado a cada c
 
 As ações de prova são um “sinalizador” ou “rótulo” em um comentário, e são frequentemente usadas para indicar que uma ação foi tomada ou precisa ser tomada em relação ao comentário. As ações podem ser selecionadas no ícone ou no menu “Mais” em cada comentário.
 
-![Uma imagem de uma prova no visualizador de provas com o ícone de sinalizador destacado no comentário e as ações de prova disponíveis.](assets/manage-comments-1.png)
+![Uma imagem de uma revisão no visualizador de revisões com o ícone de sinalizador destacado no comentário e as ações de revisão disponíveis.](assets/manage-comments-1.png)
 
 Por exemplo, você é responsável por decidir quais das correções feitas durante o processo de revisão devem realmente ser realizadas. Usando uma ação, você pode marcar os comentários relevantes para informar ao designer ou editor quais revisões fazer. Em seguida, essa pessoa pode usar outra ação para indicar que as alterações foram feitas.
 
-![Uma imagem de uma prova no visualizador de provas com a ação de prova [!UICONTROL Pendente] destacada no comentário.](assets/manage-comments-2.png)
+![Uma imagem de uma revisão no visualizador de revisões com a ação de revisão [!UICONTROL Pendente] destacada no comentário.](assets/manage-comments-2.png)
 
-Se as ações de comentários não estiverem disponíveis, a sua organização precisa configurá-las. Converse com o(a) admin do sistema de prova se achar que as ações são um recurso necessário para sua organização.
+Se as ações de comentários não estiverem disponíveis, a sua organização precisa configurá-las. Converse com o(a) admin do sistema de revisão se achar que as ações são um recurso necessário para sua organização.
 
 O recurso “resolver comentário” é comumente usado para indicar que um comentário foi atendido de alguma maneira: uma correção foi feita ou uma pergunta foi respondida. Alguns clientes do [!DNL Workfront] “resolvem” um comentário quando este se trata de uma correção que não precisa ser feita ou é apenas um comentário que foi lido.
 
 Para resolver o comentário, clique no ícone de marca de seleção. Isso insere uma marca de seleção verde no comentário, o que facilita a identificação de quais comentários foram revisados à medida que você examina a coluna de comentários.
 
-![Uma imagem de uma prova no visualizador de provas com o ícone de marca de seleção destacado no comentário.](assets/manage-comments-4.png)
+![Uma imagem de uma revisão no visualizador de revisões com o ícone de marca de seleção destacado no comentário.](assets/manage-comments-4.png)
 
 Você pode filtrar a coluna de comentários por esses dois recursos, ajudando a organizar o que vê enquanto trabalha com a prova.
 
-![Uma imagem dos filtros de comentário no visualizador de provas com os filtros [!UICONTROL Ações] e [!UICONTROL Geral] destacados.](assets/manage-comments-3.png)
+![Uma imagem dos filtros de comentário no visualizador de revisões com os filtros [!UICONTROL Ações] e [!UICONTROL Geral] destacados.](assets/manage-comments-3.png)
 
 ## Sua vez
 

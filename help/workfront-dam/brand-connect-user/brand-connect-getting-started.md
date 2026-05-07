@@ -10,10 +10,21 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T02:00:53.580Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 100%
+source-wordcount: 494
+ht-degree: 91%
 
 ---
 
@@ -25,7 +36,7 @@ Neste vídeo, você aprenderá:
 * Como navegar pelo Brand Connect
 * Como pesquisar ativos
 
->[!VIDEO](https://video.tv.adobe.com/v/3418751/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3418751/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Critérios de pesquisa básica
 
@@ -59,7 +70,7 @@ Se quiser excluir uma palavra dos resultados da pesquisa, coloque um sinal de me
 
 ### Operador de campo vazio
 
-Para localizar ativos que não têm informações em um campo de metadados específico, insira o campo que deseja pesquisar neste formato: ?[xxxxx]. Por exemplo, se quiser encontrar ativos que não tenham palavras-chave atribuídas, insira a[palavra-chave] no campo de pesquisa.
+Para localizar ativos que não têm informações em um campo de metadados específico, insira o campo que deseja pesquisar neste formato: ?[xxxxx]. Por exemplo, se você deseja encontrar ativos que não têm palavras-chave atribuídas, digite ?[palavra-chave] no campo de pesquisa.
 
 ## Diretrizes da marca
 

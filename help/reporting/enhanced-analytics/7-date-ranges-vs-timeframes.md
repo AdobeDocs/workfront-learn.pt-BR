@@ -11,9 +11,20 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,catalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '315'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:01:21.544Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 315
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ Ao visualizar os gráficos da [!DNL Enhanced analytics], os intervalos de datas 
 
 ## Intervalos de datas
 
-Basta clicar em uma data do calendário para iniciar o intervalo e, em seguida, clicar em qualquer outra data para indicar o fim do intervalo. Use as setas na parte superior do calendário para ir para um mês diferente se as datas de início e término não estiverem no mesmo mês.
+Basta clicar em uma data do calendário para iniciar o intervalo e, em seguida, clicar em qualquer outra data para indicar o fim do intervalo. Use as setas na parte superior do calendário para ir para um mês diferente se as datas inicial e final não estiverem no mesmo mês.
 
 ![Uma imagem mostrando a seleção de um intervalo de datas no dispositivo de calendário](assets/section-1-3.png)
 

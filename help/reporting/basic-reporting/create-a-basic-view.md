@@ -8,26 +8,37 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2025-06-06T00:00:00Z
+last-substantial-update: '2025-06-06T00:00:00.000Z'
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:21.695Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '976'
-ht-degree: 75%
+source-wordcount: 984
+ht-degree: 71%
 
 ---
 
 # Criar uma visualização básica
 
-O vídeo explica como criar e personalizar exibições no Workfront para exibir informações específicas sobre itens em uma lista, como projetos, tarefas, problemas e documentos. &#x200B; As exibições permitem que os usuários vejam detalhes como nome, descrição, status e outros campos relevantes para os itens. &#x200B;
+O vídeo explica como criar e personalizar exibições no Workfront para exibir informações específicas sobre itens em uma lista, como projetos, tarefas, problemas e documentos. &#x200B; Exibições permitem que os usuários vejam detalhes como nome, descrição, status e outros campos relevantes para os itens. &#x200B;
 
 O vídeo enfatiza a flexibilidade das visualizações no Workfront e fornece instruções passo a passo para criá-las, personalizá-las e gerenciá-las.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450243/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
-## Principais conclusões
+## Principais lições
 
 * **Personalizando Exibições**: os usuários podem editar exibições existentes ou criar novas adicionando, removendo ou reorganizando colunas para exibir informações específicas, como status ou orçamento do projeto.
 * **Edição em linha**: alguns campos em uma exibição de lista podem ser atualizados diretamente sem abrir itens individuais, tornando mais rápido fazer alterações. &#x200B;
@@ -57,7 +68,7 @@ Crie uma visualização de tarefas chamada “Visualização de status da tarefa
 
 1. Em um relatório de lista de tarefas, acesse o menu suspenso **[!UICONTROL Visualização]** e selecione **[!UICONTROL Nova visualização]**.
 1. Nomeie sua visualização como “Visualização do status da tarefa”.
-1. Remova estas colunas: [!UICONTROL Horas planejadas], [!UICONTROL Predecessores], [!UICONTROL Data de início] e [!UICONTROL Data de expiração]. 
+1. Remova estas colunas: [!UICONTROL Horas planejadas], [!UICONTROL Predecessores], [!UICONTROL Data de início] e [!UICONTROL Data de expiração].
 1. Clique em **[!UICONTROL Adicionar coluna]**.
 1. No campo [!UICONTROL Exibir nesta coluna], digite “status” e selecione a opção “Status” na origem do campo [!UICONTROL Tarefa].
 1. Clique em **[!UICONTROL Adicionar coluna]** novamente.
@@ -66,7 +77,7 @@ Crie uma visualização de tarefas chamada “Visualização de status da tarefa
 1. No campo [!UICONTROL Exibir nesta coluna], digite “status” e selecione “Ícones de status” na origem do campo Tarefa.
 1. Clique em **[!UICONTROL Salvar]**.
 
-Passe o mouse sobre cada um dos ícones na coluna [!UICONTROL Ícones de status] para ver o que eles representam. Se estiverem esmaecidos, significa que a tarefa não tem notas, documentos, processos de aprovação etc. Se um ícone aparecer em cores, há pelo menos um desse item associado à tarefa. Você pode clicar nos ícones da nota ou do documento para acessá-los.
+Passe o mouse sobre cada um dos ícones na coluna [!UICONTROL Ícones de status] para ver o que eles representam. Se estiverem esmaecidos, significa que a tarefa não tem notas, documentos, processos de aprovação etc. Se um ícone for exibido em cores, há pelo menos um desse item associado à tarefa. Você pode clicar nos ícones da nota ou do documento para acessá-los.
 
 ### Atividade 2: criar uma visualização de marcos
 

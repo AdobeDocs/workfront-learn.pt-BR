@@ -9,14 +9,26 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-17578
-last-substantial-update: 2025-03-26T00:00:00Z
+last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T15:58:59.618Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 11%
+source-wordcount: 426
+ht-degree: 23%
 
 ---
 
@@ -28,12 +40,12 @@ ht-degree: 11%
 >* [Criar um processo de aprovação global e de uso único](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
-O vídeo explica o processo de aplicar um processo de aprovação padrão ao criar uma fila de solicitações. &#x200B; Quando uma solicitação é criada, ela começa com o status &quot;Novo - Aprovação pendente&quot; e uma notificação de aprovação é enviada ao aprovador designado. &#x200B; Se aprovado, o status muda para &quot;Novo&quot;, permitindo que os indivíduos designados comecem a trabalhar. &#x200B; Se rejeitado, o status pode reverter incorretamente para &quot;Novo&quot; devido a um erro comum na configuração do processo de aprovação. &#x200B;
-O vídeo destaca que o processo de aprovação é acionado quando o status é definido como &quot;Novo&quot;, que é o padrão para novas solicitações. &#x200B; Se for rejeitada, o sistema assumirá como padrão a alteração do status para o anterior, o que não é ideal para novas solicitações. &#x200B; Em vez disso, um status diferente, como &quot;Não resolverá&quot;, deve ser escolhido. &#x200B; O vídeo também observa que não há status &quot;Rejeitado&quot; fornecido por padrão, mas um administrador do sistema pode criar um, se necessário. &#x200B;
+O vídeo explica o processo de aplicar um processo de aprovação padrão ao criar uma fila de solicitações. &#x200B; Quando uma solicitação é criada, ela começa com o status &quot;Novo - Aprovação pendente&quot; e uma notificação de aprovação é enviada ao aprovador designado. &#x200B; Se aprovada, o status muda para &quot;Novo&quot;, permitindo que os indivíduos atribuídos comecem a trabalhar. &#x200B; Se rejeitado, o status pode reverter incorretamente para &quot;Novo&quot; devido a um erro comum na configuração do processo de aprovação. &#x200B;
+O vídeo destaca que o processo de aprovação é acionado quando o status é definido como &quot;Novo&quot;, que é o padrão para novas solicitações. &#x200B; Se for rejeitada, o sistema assumirá como padrão a alteração do status para o status anterior, o que não é ideal para novas solicitações. &#x200B; Em vez disso, um status diferente, como &quot;Não resolverá&quot;, deve ser escolhido. &#x200B; O vídeo também observa que não há status &quot;Rejeitado&quot; fornecido por padrão, mas um administrador do sistema pode criar um, se necessário. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455029/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3455029/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Processo de aprovação padrão:** Ao criar uma fila de solicitações, você pode aplicar um processo de aprovação padrão que atribui automaticamente um fluxo de trabalho de aprovação a cada solicitação.
 * **Alterações de Status Após a Aprovação:** as solicitações aprovadas alteram seu status de &quot;Novo - Aprovação pendente&quot; para &quot;Novo&quot;, permitindo que os indivíduos atribuídos comecem a trabalhar nelas.

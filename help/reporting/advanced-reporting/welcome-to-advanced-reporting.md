@@ -10,10 +10,21 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+autotag-review: '2026-05-06T14:27:36.353Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: 512
+ht-degree: 99%
 
 ---
 
@@ -38,13 +49,13 @@ Antes de assistir a esses tutoriais, você deve ter:
 * Um bom entendimento sobre o uso do Workfront. Isso significa que você deve ser um usuário constante do Workfront há pelo menos 3 a 6 meses.
 * Um bom entendimento sobre os objetos que deseja incluir nos relatórios.
 * Um bom entendimento sobre o uso de formulários personalizados, especialmente campos personalizados calculados.
-* Uma licença de [!UICONTROL Plano] com direitos para criar relatórios e filtros.
+* Uma licença de [!UICONTROL Plano] com direitos para criar relatórios e filtros habilitados.
 * Você deveria fazer estes cursos:
-   * [[!UICONTROL Elementos básicos de relatórios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=pt-BR)
+   * [[!UICONTROL Elementos Básicos de Relatórios]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=pt-BR)
    * [[!UICONTROL Criar relatórios e painéis personalizados]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=pt-BR)
    * [[!UICONTROL Criar filtros intermediários]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=pt-BR)
 * Você também deveria seguir estes tutoriais:
-   * [[!UICONTROL Compreensão do modo de texto básico para visualizações]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br)
+   * [[!UICONTROL Entender o modo de texto básico para exibições]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br)
    * [[!UICONTROL Compreensão do modo de texto básico para agrupamentos]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=pt-BR)
 
 ## Público-alvo

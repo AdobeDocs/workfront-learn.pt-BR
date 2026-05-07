@@ -11,9 +11,20 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:50:37.203Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: 582
 ht-degree: 100%
 
 ---
@@ -26,7 +37,7 @@ Neste vídeo, você aprenderá:
 * Como aplicar um fluxo de trabalho usando um modelo de prova
 * Como configurar um fluxo de trabalho automatizado do zero
 
->[!VIDEO](https://video.tv.adobe.com/v/3453015/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3453015/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 
 
@@ -38,7 +49,7 @@ As configurações na parte inferior da janela de upload de prova são opcionais
 
 * **[!UICONTROL Bloquear estágio]:** Evita que as pessoas neste estágio do fluxo de trabalho façam comentários ou alterem decisões após a conclusão do estágio do fluxo de trabalho.
 * **[!UICONTROL Transferir direitos de decisão primários para]:** Acelere o processo de revisão designando um tomador de decisão principal. Quando definido, o [!DNL Workfront] reconhece a decisão da prova desta pessoa como A decisão. Depois que essa pessoa toma sua decisão, o estágio termina e nenhuma outra decisão é necessária.
-* **[!UICONTROL Exigir apenas uma decisão para este estágio]:** Outra forma de simplificar o processo de prova é exigir apenas uma decisão sobre a prova. Com essa opção ativada, não importa quantos aprovadores você tenha nesse estágio, assim que algum deles tomar uma decisão, o estágio será concluído.
+* **[!UICONTROL Exigir apenas uma decisão para este estágio]:** Outra forma de simplificar o processo de revisão é exigir apenas uma decisão sobre a revisão. Com essa opção ativada, não importa quantos aprovadores você tenha nesse estágio, assim que algum deles tomar uma decisão, o estágio será concluído.
 * **[!UICONTROL Tornar este estágio privado]:** Por padrão, os comentários nas provas ficam visíveis para todos em todos os estágios. Evite que os destinatários das provas em outros estágios vejam os comentários feitos durante este estágio clicando na caixa.
 
 Na parte inferior da janela de upload da prova há diversas configurações de prova que afetam a segurança da prova, como exigir logon para visualizá-la.

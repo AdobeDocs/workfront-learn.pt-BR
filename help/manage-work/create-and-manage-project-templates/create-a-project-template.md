@@ -8,15 +8,26 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-10-11T00:00:00Z
+last-substantial-update: '2024-10-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T15:00:48.755Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 54%
+source-wordcount: 629
+ht-degree: 55%
 
 ---
 
@@ -27,13 +38,13 @@ Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e 
 
 ## Criar um modelo de projeto
 
-* O vídeo fornece um guia passo a passo sobre a criação e o uso de modelos para a produção de vídeos de marketing. Ele começa explicando como criar um novo modelo do zero, nomeando-o e salvando-o. &#x200B; O processo envolve três etapas principais: criar tarefas, configurar a linha do tempo usando durações e predecessores e fazer atribuições a funções de trabalho em vez de usuários individuais. &#x200B; O vídeo enfatiza a organização de tarefas usando relacionamentos entre pais e filhos para obter um melhor resumo e eficiência. &#x200B;
-* Depois que o modelo é criado, ele pode ser usado para produzir novos projetos. O vídeo mostra como criar um novo projeto a partir do modelo, fazer os ajustes necessários e adicionar tarefas ou modificar a duração, conforme necessário. &#x200B; Também mostra como atribuir funções de trabalho a tarefas usando as funcionalidades de planejamento e agendamento de recursos. &#x200B;
-* O vídeo explica como salvar um projeto existente como um novo modelo, permitindo atualizações e melhorias no fluxo de trabalho. &#x200B; Ele destaca a importância do gerenciamento de modelos para evitar confusão e garantir a execução simplificada do projeto. &#x200B;
+* O vídeo fornece um guia passo a passo sobre a criação e o uso de modelos para a produção de vídeos de marketing. Ele começa explicando como criar um novo modelo do zero, nomeando-o e salvando-o. &#x200B; O processo envolve três etapas principais: criar tarefas, configurar a linha do tempo usando durações e predecessores e fazer atribuições a funções de trabalho, em vez de usuários individuais. &#x200B; O vídeo enfatiza a organização de tarefas usando relações pai-filho para obter um melhor resumo e eficiência. &#x200B;
+* Depois que o modelo é criado, ele pode ser usado para produzir novos projetos. O vídeo mostra como criar um novo projeto a partir do modelo, fazer os ajustes necessários e adicionar tarefas ou modificar a duração, conforme necessário. &#x200B; Também mostra como atribuir funções de trabalho a tarefas usando as funcionalidades de planejamento e programação de recursos. &#x200B;
+* O vídeo explica como salvar um projeto existente como um novo modelo, permitindo atualizações e melhorias no fluxo de trabalho. &#x200B; Destaca a importância de gerenciar modelos para evitar confusão e garantir a execução simplificada do projeto. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## Principais conclusões
+## Principais lições
 
 * **Criação de um Modelo:** Saiba como criar um novo modelo do zero nomeando-o, configurando tarefas, linhas do tempo e fazendo atribuições a funções de trabalho. &#x200B;
 * **Organização da Tarefa:** Use relações de tarefas pai-filho para organizar tarefas com eficiência, fornecendo um resumo e uma estrutura claros para o projeto. &#x200B;

@@ -11,9 +11,20 @@ jira: KT-11053
 thumbnail: KT11053.png
 recommendations: noDisplay,catalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '654'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:44.091Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 670
 ht-degree: 100%
 
 ---
@@ -74,7 +85,7 @@ O objetivo deste cenário é criar um aplicativo a ser vendido para lojas de con
 1. Adicione um roteador ao módulo acionador.
 1. No caminho superior, adicione um módulo de resposta de webhook. Esse será o nosso caminho para quando o token do cliente não corresponder.
 1. Defina o status como 401.
-1. Defina o corpo como {&quot;error&quot;: &quot;Failed to authenticate request.  Please check your clientToken&quot;}.
+1. Defina o corpo como {&quot;error&quot;: &quot;Failed to authenticate request. Please check your clientToken&quot;}.
 
    ![Webhooks - Imagem 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 

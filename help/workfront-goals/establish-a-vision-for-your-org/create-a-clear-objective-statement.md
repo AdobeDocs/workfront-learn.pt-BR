@@ -10,10 +10,21 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:16:56.152Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 100%
+source-wordcount: 399
+ht-degree: 75%
 
 ---
 
@@ -38,14 +49,14 @@ Essa declaração é um entregável “não técnico”, o que significa que se 
 
 Essa declaração possui quatro partes. Abordar cada parte de forma independente ajuda a esclarecer a “Intenção do comandante”.
 
-**Parte 1: “Um claro sinal de que alcançamos o nosso propósito seria…”**
-A conclusão dessa frase é o melhor recurso para orientar o pessoal e as equipes. Essa declaração será mais focada do que as relacionadas à sua missão e visão, mas provavelmente conterá alguns elementos em comum. Descreva o que é ser “bem-sucedido” para sua equipe.
+**Parte 1: Um resultado claro de atingir nosso objetivo parece...**
+A conclusão desta frase fornece o mais alto nível de orientação para seus funcionários e equipes. Essa declaração será mais focada do que as relacionadas à sua missão e visão, mas provavelmente conterá alguns elementos em comum. Descreva o que é ser “bem-sucedido” para sua equipe.
 
-**Parte 2: “A coisa mais importante que esta equipe pode fazer é...”**
-Completar essa frase é a base para a definição de prioridades. Ela estabelece expectativas claras de que, no final das contas, há uma coisa a ser entregue que é mais importante do que as outras. Esse entregável muito provavelmente é o ponto culminante de conquista de muitas metas (como lançar um novo produto, reformular a marca da empresa, entrar em um novo mercado etc.).
+**Parte 2: A coisa mais importante que essa equipe pode fazer é...**
+Completar esta frase é a base da priorização. Ela estabelece expectativas claras de que, no final das contas, há uma coisa a ser entregue que é mais importante do que as outras. Esse entregável muito provavelmente é o ponto culminante de conquista de muitas metas (como lançar um novo produto, reformular a marca da empresa, entrar em um novo mercado etc.).
 
-**Parte 3: “A equipe cumprirá seu objetivo ao...”**
-Ao completar essa frase, você realmente começa a definir seus pilares estratégicos. Essas serão provavelmente as principais metas que devem ser atingidas para alcançar o resultado final.
+**Parte 3: A equipe atingirá seu objetivo até...**
+Quando você completa essa frase, você realmente começa a definir seus pilares estratégicos. Essas serão provavelmente as principais metas que devem ser atingidas para alcançar o resultado final.
 
-**Parte 4: “Nossas restrições operacionais incluem…”**
-Preencher essa declaração estabelece os principais indicadores de sucesso, como você medirá seu progresso e quais resultados devem ser alcançados para que a conquista seja considerada bem-sucedida. Defina quais desafios e riscos sua equipe deve levar em consideração. Identificar essas restrições ajudará você a decidir se a meta é válida ou não.
+**Parte 4: nossas restrições operacionais incluem...**
+Concluir essa declaração indica os principais indicadores de sucesso, como você medirá seu progresso e quais resultados devem ser atingidos para considerar o sucesso. Defina quais desafios e riscos sua equipe deve levar em consideração. Identificar essas restrições ajudará você a decidir se a meta é válida ou não.
