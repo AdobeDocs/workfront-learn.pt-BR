@@ -28,7 +28,7 @@ ht-degree: 100%
 
 # Publicar um cenário
 
-Depois de determinar qual cenário melhor se adapta às necessidades da sua organização e aos seus objetivos, você pode transformar esse plano no [!DNL Workfront][!DNL Scenario Planner] em trabalhos ou projetos entregáveis no [!DNL Workfront].
+Depois de determinar qual cenário melhor se adapta às necessidades da sua organização e aos seus objetivos, você pode transformar esse plano no [!DNL Workfront] [!DNL Scenario Planner] em trabalhos ou projetos entregáveis no [!DNL Workfront].
 
 Basta passar o mouse sobre um cartão de cenário e selecionar o botão [!UICONTROL Ir à publicação] que aparece. Na página [!UICONTROL Publicar iniciativas], selecione qualquer uma das iniciativas que deseja publicar como um projeto e clique no botão [!UICONTROL Publicar iniciativas], na parte inferior.
 
