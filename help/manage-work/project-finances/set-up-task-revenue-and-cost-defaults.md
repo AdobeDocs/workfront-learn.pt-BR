@@ -27,10 +27,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:38:05.522Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 178
-ht-degree: 38%
+source-wordcount: 184
+ht-degree: 37%
 
 ---
 
@@ -54,3 +54,4 @@ Saiba onde o tipo de receita e os tipos de custo são usados e como configurar o
 * [Configurar taxas de câmbio](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Configurar tipos de despesa](/help/manage-work/project-finances/set-up-expense-types.md)
 * [Entenda o acesso financeiro](/help/manage-work/project-finances/understand-financial-access.md)
+* [Criar funções de trabalho e cartões de taxa](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
