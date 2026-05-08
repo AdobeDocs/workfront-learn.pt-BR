@@ -10,10 +10,22 @@ level: Beginner
 thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/bOJ2ng-HrOD5SA9-uAItNK1rFF90zSnuxjeSiyh9LXk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: 281
+ht-degree: 87%
 
 ---
 
@@ -35,7 +47,7 @@ Em casos raros, como uma entrada acidental ou um usuário de teste, um logon de 
 
 O **único** caso no qual o [!DNL Workfront] recomenda a exclusão de um usuário é se esse usuário nunca tiver sido atribuído a uma tarefa ou nunca tiver trabalhado com itens do Workfront.
 
-O [!DNL Workfront] recomenda **fortemente** desativar um usuário em vez de excluí-lo. A desativação mantém as informações do usuário no [!DNL Workfront], as quais podem ser necessárias para gerar relatórios precisos, gerenciar projetos etc. Se tiver dúvidas sobre se deve desativar ou excluir um usuário, converse com o(a) consultor(a) do [!DNL Workfront] ou com o suporte ao cliente do [!DNL Workfront].
+O [!DNL Workfront] recomenda **fortemente** desativar um usuário em vez de excluí-lo. A desativação retém as informações do usuário em [!DNL Workfront], que podem ser necessárias para relatórios precisos, gerenciamento de projetos etc. Em caso de dúvidas sobre a necessidade de desativar ou excluir um usuário, entre em contato com o consultor do [!DNL Workfront] ou com o suporte ao cliente do [!DNL Workfront].
 
 ![Menu Mais mostrando as opções na página [!DNL Users]](assets/admin-fund-adding-users-11.png)
 

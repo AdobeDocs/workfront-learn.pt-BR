@@ -1,6 +1,6 @@
 ---
-title: Mostrar como a folga afeta os cronogramas do projeto
-description: Veja o que acontece com o cronograma de um projeto quando a configuração de folgas está ativada ou desativada.
+title: Mostrar como a folga afeta as linhas do tempo do projeto
+description: Veja o que acontece com a linha do tempo de um projeto quando a configuração de folgas está ativada ou desativada.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -9,18 +9,28 @@ activity: use
 team: Technical Marketing
 jira: KT-10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/sN6HqoLl6N-asOtCSlZyKP6W0FSpT0C-7egQTlgAdkY
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: 525
 ht-degree: 100%
 
 ---
 
-# Como as folgas afetam os cronogramas do projeto
+# Como as folgas afetam as linhas do tempo do projeto
 
-Se as folgas atribuídas a um usuário serão levadas em consideração no cronograma do projeto é algo que depende de uma configuração do projeto chamada [!UICONTROL Folgas do usuário]. Essa configuração determina se as folgas do responsável principal da tarefa ajustam as datas planejadas para essa tarefa no projeto.
+Se as folgas atribuídas a um usuário serão levadas em consideração na linha do tempo do projeto é algo que depende de uma configuração do projeto chamada [!UICONTROL Folgas do usuário]. Essa configuração determina se as folgas do responsável principal da tarefa ajustam as datas planejadas para essa tarefa no projeto.
 
-Vamos ver o que acontece com o cronograma de um projeto quando cada uma das configurações é selecionada: [!UICONTROL Considerar as folgas do usuário nas durações das tarefas] ou [!UICONTROL Ignorar as folgas do usuário nas durações das tarefas].
+Vamos ver o que acontece com a linha do tempo de um projeto quando cada uma das configurações é selecionada: [!UICONTROL Considerar as folgas do usuário nas durações das tarefas] ou [!UICONTROL Ignorar as folgas do usuário nas durações das tarefas].
 
 ![Configuração das folgas do usuário](assets/toapt_01.png)
 

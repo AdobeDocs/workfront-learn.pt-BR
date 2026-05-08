@@ -6,10 +6,23 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10918
 exl-id: 321af897-3791-4b06-a9dd-241b5246b2a0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/2Nc0Sj-3xZ-H8ir2OvXLhRJFEEKZu0DM8jIbFvizqlM
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '702'
-ht-degree: 100%
+source-wordcount: 704
+ht-degree: 89%
 
 ---
 
@@ -25,7 +38,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -67,7 +80,7 @@ Defina a preferência do status de um novo projeto como “Em planejamento” ou
 
 **Entenda o porquê**
 
-O status “Atual” indica que um projeto está ativo e o trabalho está sendo realizado ativamente. É raro que um projeto precise ter esse status no momento da criação. Mesmo se você usar um modelo de projeto, há algum “planejamento” envolvido na realização das atribuições de tarefas, no ajuste da data de conclusão planejada do projeto etc. O status “Em planejamento” também suprime notificações aos responsáveis pelas tarefas e aos membros da equipe do projeto. Receber notificações antes que o projeto esteja ativo pode ser confuso para os envolvidos.
+O status “Atual” indica que um projeto está ativo e o trabalho está sendo realizado ativamente. É raro que um projeto precise ter esse status no momento da criação. Mesmo se você usar um modelo de projeto, há um &quot;planejamento&quot; envolvido na realização das atribuições de tarefas, no ajuste da data de conclusão planejada do projeto etc. O status do Planning também suprime notificações para os designados da tarefa e membros da equipe do projeto. Receber notificações antes que o projeto esteja ativo pode ser confuso para os envolvidos.
 
 </br>
 </br>

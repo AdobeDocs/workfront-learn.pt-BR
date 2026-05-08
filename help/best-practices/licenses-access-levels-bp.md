@@ -6,10 +6,26 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10914
 exl-id: 6be3fab9-16a1-4ab9-89ce-8c53f8358e62
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/YvTTPwGkach9JpmNHLxuLT3fpQ7KOzYjxtw-kdhFlEI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 100%
+source-wordcount: 1268
+ht-degree: 90%
 
 ---
 
@@ -25,7 +41,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -98,7 +114,7 @@ Compartilhar um objeto em todo o sistema costuma ser usado como uma muleta para 
 
 
 
-Por exemplo, você pode trabalhar com vários fornecedores dentro do Workfront para verificar o progresso, fornecer aprovações etc. Se a caixa de seleção “Compartilhar em todo o sistema” for uma opção, ela poderá ser selecionada ou definida como padrão, disponibilizando informações para todos os fornecedores.
+Por exemplo, você pode estar trabalhando com vários fornecedores dentro do Workfront para verificar o progresso, fornecer aprovações etc. Se a caixa de seleção &quot;Compartilhar em todo o sistema&quot; for uma opção, ela poderá ser selecionada ou definida como padrão, disponibilizando informações para todos os fornecedores.
 
 
 
@@ -126,7 +142,7 @@ Limite o número de administradores do sistema a favor de administradores de gru
 
 
 
-**Entenda o porquê**
+**Veja o porquê**
 
 Os administradores do sistema têm acesso a tudo no Workfront, incluindo configurações globais do sistema. As configurações que os administradores de grupos podem acessar são controladas pelo administrador do sistema e se aplicam somente a esse grupo específico.
 
@@ -175,7 +191,7 @@ Limite-se apenas aos níveis de acesso necessários para atingir suas metas de t
 
 **Veja o porquê**
 
-O nível de acesso garante que quando um objeto do Workfront é compartilhado com um usuário, o usuário tenha os direitos necessários para editá-lo, excluí-lo etc. Você pode tornar os níveis de acesso mais gerais, pois o compartilhamento em itens individuais pode ser configurado de maneira mais específica.
+O nível de acesso garante que, quando um objeto do Workfront for compartilhado com um usuário, ele tenha os direitos necessários para editá-lo, excluí-lo etc. Você pode tornar os níveis de acesso mais gerais, pois o compartilhamento em itens individuais pode ser configurado para ser mais específico.
 
 
 Além disso, ter menos níveis de acesso pode facilitar a manutenção de um sistema organizado e a implementação de uma estratégia, o que também pode resultar em uma integração mais rápida quando as pessoas ingressarem na empresa ou mudarem de departamento.

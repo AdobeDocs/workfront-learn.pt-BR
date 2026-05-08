@@ -6,10 +6,19 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10917
 exl-id: 5e172ad5-7e75-41cd-bce0-858095d13c6c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/kU9gZR9UZ4q2XwgiWeB-Wql7rCp8Pbv1XKeKsldi7HU
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 100%
+source-wordcount: 433
+ht-degree: 90%
 
 ---
 
@@ -25,7 +34,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -47,7 +56,7 @@ Defina, faça diagramas e teste as alterações nos processos ou configurações
 
 O ambiente Visualizar sandbox serve como uma réplica do seu ambiente ativo. Embora não seja recomendado criar um ambiente totalmente novo na sandbox antes de construí-lo na instância de produção, pois isso cria trabalho extra, é bom usá-lo como um ambiente de teste para alterações que você gostaria de implementar.
 
-A realização de testes de aceitação do usuário (UAT) e o envolvimento de usuários selecionados durante a fase de teste de uma alteração podem ajudá-lo a entender melhor as necessidades e os workflows dos usuários. É uma ótima maneira de melhorar os workflows e a adoção do Workfront na organização.
+A realização de testes de aceitação do usuário (UAT) e o envolvimento de usuários selecionados durante a fase de teste de uma alteração podem ajudá-lo a entender melhor as necessidades e os fluxos de trabalho dos usuários. É uma ótima maneira de melhorar os fluxos de trabalho e a adoção do Workfront na organização.
 
 
 **Observação**: cada alteração que você desejar implementar no Workfront não precisa ser criada primeiro no ambiente Visualizar sandbox. Muitas alterações do Workfront, como a criação de uma nova fila de solicitações ou modelo de projeto, podem ser feitas no ambiente de produção. Uma boa regra ao testar na instância de produção é controlar a visibilidade dos seus objetos até que você esteja pronto para publicar para um público maior. Exclua tudo o que não pretende usar para que o sistema permaneça limpo e gerenciável.

@@ -7,16 +7,25 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: ht
-source-wordcount: '774'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 777
+ht-degree: 91%
 
 ---
 
 # O que é a metodologia Scrum e como ela funciona?
 
-A metodologia Scrum engloba o modelo de flexibilidade, mas difere de outras metodologias por ter funções específicas para as pessoas que fazem parte da equipe (como proprietário do produto, especialista de scrum etc.) e práticas estabelecidas para definir e concluir o trabalho.
+A metodologia Scrum engloba o modelo de flexibilidade, mas difere de outras metodologias na medida em que define funções para aqueles que fazem parte da equipe — como Proprietário do produto, Scum Master etc. — e define práticas para definir e concluir o trabalho.
 
 ## Visão geral da equipe de Scrum
 
@@ -64,7 +73,7 @@ Depois de criarem suas histórias principais, a equipe precisa preparar a lista 
 
 ### Planejamento de iteração
 
-Depois que a lista de pendências tiver sido preparada e priorizada, é hora de planejar a iteração. (Muitas organizações usam as palavras “sprint” e “iteração” indistintamente). A equipe decide quais histórias serão concluídas com base nas que estão prontas para serem iniciadas. A equipe faz as atribuições e define a duração da iteração.
+Depois que a lista de pendências tiver sido preparada e priorizada, é hora de planejar a iteração. (Muitas organizações usam as palavras &quot;sprint&quot; e &quot;iteração&quot; alternadamente.) A equipe decide quais histórias devem ser concluídas com base em histórias que são consideradas prontas para serem publicadas. A equipe faz as atribuições e define a duração da iteração.
 
 
 

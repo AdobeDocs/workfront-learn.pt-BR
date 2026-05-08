@@ -4,13 +4,26 @@ description: Conheça as sugestões de práticas recomendadas por especialistas 
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
-last-substantial-update: 2024-11-06T00:00:00Z
+last-substantial-update: 2024-11-06T00:00:00.000Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: ht
-source-wordcount: '1182'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/GB0kExlH19phGvui4KUhtsrOk-U2mPGnSrXf-5PerpQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 1198
+ht-degree: 96%
 
 ---
 
@@ -66,7 +79,7 @@ Reserve um tempo para criar modelos de fluxo de trabalho de revisão.
 
 **Entenda o porquê**
 
-Além de acelerar e simplificar o processo de criação e atribuição de revisões, os modelos também fornecem consistência em workflows de revisão para tipos semelhantes de ativo. Eles também garantem que cada recipient da revisão receba a função de revisão e o alerta por email adequados, e que um prazo tenha sido definido.
+Além de acelerar e simplificar o processo de criação e atribuição de revisões, os modelos também fornecem consistência em fluxos de trabalho de revisão para tipos semelhantes de ativo. Eles também garantem que cada recipient da revisão receba a função de revisão e o alerta por email adequados, e que um prazo tenha sido definido.
 
 </br>
 </br>
@@ -147,7 +160,7 @@ Oculte a opção de revisão de prova “Não relevante”.
 Essa opção de decisão muitas vezes causa confusão entre os aprovadores, pois muitas vezes as organizações não definem quando a opção “Não relevante” deve ser usada. A opção “Não relevante” geralmente indica que a revisão não é relevante para o destinatário da revisão e que ele não precisa tomar nenhuma decisão de aprovação ou rejeição. Selecionar “Não relevante” permite que o fluxo de trabalho de revisão continue.
 
 
-A opção “Não relevante” não é necessária na maioria dos workflows de revisão.
+A opção “Não relevante” não é necessária na maioria dos fluxos de trabalho de revisão.
 
 **Observação**: esta configuração do Workfront é encontrada em Menu principal > Revisão > Configurações da conta > Decisões.
 
@@ -220,6 +233,6 @@ Evite a opção de alerta por email de revisão “Todas as atividades”.
 
 **Entenda o porquê**
 
-Esta opção envia uma notificação por email sobre a prova sempre que algo acontece, como quando um comentário é feito, uma resposta é postada, uma decisão é tomada etc. O recipient essencialmente vê a atividade da prova conforme ela acontece.
+Essa opção envia uma notificação por email de prova sempre que algo acontece com uma prova: um comentário é feito, uma resposta é postada, uma decisão é tomada, etc. O recipient está essencialmente vendo a atividade de prova à medida que ela acontece.
 
-Para proprietários e criadores de provas, o alerta por email de Decisões funciona melhor para workflows de prova de vários estágios e a Decisão final funciona melhor para workflows de estágio único. Geralmente, todos os outros usuários podem ser definidos como Desabilitados, a menos que queiram ser notificados sobre comentários ou decisões de outras pessoas (nesse caso, uma das opções de resumo por email pode funcionar melhor).
+Para proprietários e criadores de provas, o alerta por email de Decisões funciona melhor para fluxos de trabalho de prova de vários estágios e a Decisão final funciona melhor para fluxos de trabalho de estágio único. Geralmente, todos os outros usuários podem ser definidos como Desabilitados, a menos que queiram ser notificados sobre comentários ou decisões de outras pessoas (nesse caso, uma das opções de resumo por email pode funcionar melhor).

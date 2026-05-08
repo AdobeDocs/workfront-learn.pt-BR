@@ -6,10 +6,23 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
+TQID: https://experienceleague.adobe.com/VfjNfCN64fc1OMDRdyu-YYZouHpXJQjnpGQHABfwdHc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1057'
-ht-degree: 100%
+source-wordcount: 1062
+ht-degree: 86%
 
 ---
 
@@ -25,14 +38,14 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
 
 ## Práticas recomendadas de integração e adoção
 
-* Certifique-se de dedicar pelo menos 1 hora por mês comunicando o “Por quê?” quando um novo processo ou software, como o Adobe Workfront, for implementado.
+* Passe pelo menos uma hora por mês comunicando o &quot;Por quê?&quot; quando um novo processo ou software, como o Adobe Workfront, for implementado.
 
 * Antes de criar vídeos ou guias de treinamento, consulte o que está disponível na Experience League.
 
@@ -58,11 +71,11 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 **Prática recomendada**
 
-Certifique-se de dedicar pelo menos 1 hora por mês comunicando o “Por quê?” quando um novo processo ou software, como o Adobe Workfront, for implementado.
+Passe pelo menos uma hora por mês comunicando o &quot;Por quê?&quot; quando um novo processo ou software, como o Adobe Workfront, for implementado.
 
 **Entenda o porquê**
 
-As mensagens devem ser simples e enviadas com uma cadência regular. Certifique-se de que a comunicação expresse aos usuários, equipes e departamentos quais são as metas e os resultados esperados para implementar o Workfront, como os indivíduos se beneficiarão e por que isso é importante não apenas para você, mas para a organização como um todo.
+As mensagens devem ser simples e enviadas com uma cadência regular. Certifique-se de que a comunicação expresse aos usuários, equipes e departamentos quais são as metas e os resultados esperados para implementar o Workfront, como as pessoas se beneficiarão e por que isso é importante não apenas para você, mas para a organização como um todo.
 
 Esses esforços de comunicação conscientizam os usuários e fornecem a estrutura para um plano que conecta o trabalho à estratégia. Garantir um entendimento compartilhado em toda a equipe sobre como o Workfront apoia a visão e a missão gerais da organização é essencial para o sucesso.
 
@@ -75,7 +88,7 @@ Antes de criar vídeos ou guias de treinamento, consulte o que está disponível
 
 **Entenda o porquê**
 
-Se você não precisa criar treinamento sobre o Workfront para os usuários, não crie. Você pode, é claro, criar seu próprio treinamento, mas se não tiver tempo para fazer isso sozinho ou dinheiro para adquirir um treinamento personalizado, existem recursos muito bons na Experience League para ajudar os usuários a começar, independentemente da função.
+Se você não precisar criar treinamento sobre o Workfront para seus usuários, não faça isso. Você pode, é claro, criar seu próprio treinamento, mas se não tiver tempo para fazer isso sozinho ou dinheiro para comprar treinamento personalizado, há realmente bons recursos no Experience League para colocar seus usuários em funcionamento, independentemente da função deles
 
 Além disso, verifique a página Introdução para os cursos básicos que ajudarão os usuários a começar a usar o Workfront.
 

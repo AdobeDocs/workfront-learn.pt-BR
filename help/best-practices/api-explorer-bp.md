@@ -6,10 +6,24 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/RUQeNzEb0eg9DKSKepugb0HD4O2ODql-0mWBn-ptgxk
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: b58ad82f-df6b-4b01-81a3-3a02ab9567a0
+  - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+subfeature_v2:
+  - id: bb1dd007-4a34-496d-9d3b-2278fdaadac1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 100%
+source-wordcount: 410
+ht-degree: 75%
 
 ---
 
@@ -25,7 +39,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -61,7 +75,7 @@ Monitore todos os campos personalizados usados em integrações por meio de um p
 
 **Entenda o porquê**
 
-Um projeto é o lugar perfeito para registrar nomes de campos personalizados, com que integração eles são usados etc. Isso ajuda a evitar a criação de campos personalizados redundantes ou o uso do mesmo campo personalizado com múltiplas integrações.
+Um projeto é o local perfeito para registrar nomes de campo personalizados, com que integração eles são usados, etc. Isso ajudará a evitar a criação de campos personalizados redundantes ou o uso do mesmo campo personalizado com várias integrações.
 
 </br>
 </br>
@@ -73,4 +87,4 @@ Adicione o campo de ID do objeto aos relatórios usados pelo(a) admin de sistema
 
 **Entenda o porquê**
 
-Admins de sistema geralmente reconhecem objetos no Workfront por seus números de ID ao usar APIs ou outras integrações. Inclua o campo de ID nas visualizações dos objetos nos quais está trabalhando (projetos, tarefas, problemas, modelos, formulários personalizados etc.) para facilitar o acesso e a cópia.
+Admins de sistema geralmente reconhecem objetos no Workfront por seus números de ID ao usar APIs ou outras integrações. Inclua o campo de ID nas exibições dos objetos em que você trabalha (projetos, tarefas, problemas, modelos, formulários personalizados etc.) para facilitar o acesso e a cópia.

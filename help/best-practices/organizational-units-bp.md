@@ -6,10 +6,29 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/r-JHnUp9uBXJskFfm-bTt-2DnaKRoA-6vpiAOEFSBjw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 100%
+source-wordcount: 1446
+ht-degree: 94%
 
 ---
 
@@ -25,7 +44,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -220,7 +239,7 @@ Permita que administradores de grupo criem seus próprios subgrupos.
 
 **Veja o porquê**
 
-Os administradores de grupo podem criar e gerenciar seus próprios subgrupos. Embora administradoesr de sistema possam criar subgrupos, delegar essa tarefa a quem administra o grupo pode economizar muito tempo. Também pode resultar numa melhor experiência do Workfront para os membros do grupo, pois quem administrada o grupo estará mais familiarizado com as necessidades e workflows do grupo e subgrupo.
+Os administradores de grupo podem criar e gerenciar seus próprios subgrupos. Embora administradoesr de sistema possam criar subgrupos, delegar essa tarefa a quem administra o grupo pode economizar muito tempo. Também pode resultar numa melhor experiência do Workfront para os membros do grupo, pois quem administrada o grupo estará mais familiarizado com as necessidades e fluxos de trabalho do grupo e subgrupo.
 
 </br>
 </br>
@@ -246,7 +265,7 @@ Use unidades organizacionais maiores para compartilhar itens com grupos de pesso
 
 **Veja o porquê**
 
-Usar uma unidade organizacional maior, como grupos e equipes, ao compartilhar itens no Workfront, como projetos, relatórios etc., significa que você pode compartilhar o objeto de forma rápida e fácil com um grupo selecionado de pessoas, todas ao mesmo tempo. Adicionar nomes de usuários individuais à janela de compartilhamento pode ser complicado e demorado.
+Usar uma unidade organizacional maior, como grupos e equipes, ao compartilhar itens no Workfront (projetos, relatórios etc.) significa que você pode compartilhar o objeto de maneira rápida e fácil com um conjunto selecionado de pessoas, tudo ao mesmo tempo. Adicionar nomes de usuários individuais à janela de compartilhamento pode ser complicado e demorado.
 
 
 

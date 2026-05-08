@@ -6,10 +6,24 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/qp6rMfRSCtQfsrU-1zzHWYWrvMnFJAJBYoqXKGP3GeQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 100%
+source-wordcount: 1492
+ht-degree: 91%
 
 ---
 
@@ -25,7 +39,7 @@ Ao revisar essas recomendações, lembre-se de que algumas práticas recomendada
 
 Ao percorrer esta página, você encontrará primeiro uma lista resumida de todas as práticas recomendadas para o tópico. Isso permite revisar as recomendações sem se aprofundar nos detalhes e motivos por trás delas.
 
-A seção “Por que essas práticas são recomendadas?” , encontrada após a lista resumida, fornece mais detalhes sobre algumas práticas recomendadas e por que elas são consideradas como um processo, ferramenta ou recurso que você deve considerar implementar na sua instância do Workfront.
+A área &quot;Por que essas práticas recomendadas?&quot;, encontrada após a lista de alto nível, fornece mais detalhes sobre algumas das práticas recomendadas e por que elas são consideradas um processo, ferramenta etc., você deve considerar a implementação com sua instância do Workfront.
 
 </br>
 </br>
@@ -58,7 +72,7 @@ A seção “Por que essas práticas são recomendadas?” , encontrada após a 
 
 * Aproveite grupos de tópicos e tópicos de fila quando o roteamento seletivo for necessário.
 
-* Encaminhe solicitações para uma equipe, em vez de um indivíduo.
+* Encaminhe solicitações para uma equipe, em vez de uma pessoa.
 
 
 </br>
@@ -91,7 +105,7 @@ Crie um status de projeto chamado “Fila de solicitações” ou “Operacional
 
 Uma fila de solicitações “vive” em um projeto e seu status deve ser Atual para que a fila esteja ativa.
 
-Para distinguir uma solicitação de projetos de trabalho reais com status “Atual”, crie um status a ser usado apenas em filas de solicitações chamado “Fila de solicitações” ou “Operacional”. Você pode então usar esse status para ajudar a excluir ou incluir projetos da fila de solicitações ao elaborar relatórios.
+Para distinguir uma solicitação de projetos de trabalho reais com status &quot;Atual&quot;, crie um status para ser usado apenas em filas de solicitações chamadas &quot;Fila de solicitações&quot; ou &quot;Operacional&quot;. Você pode usar esse status para ajudar a excluir ou incluir projetos da fila de solicitações ao gravar relatórios.
 
 </br>
 </br>
@@ -126,7 +140,7 @@ Evite compartilhar filas de solicitações com “todos”.  Defina as configura
 
 **Entenda o porquê**
 
-Na maioria dos casos, uma fila de solicitações só precisa ser compartilhada com um determinado conjunto de pessoas, como uma equipe, um fornecedor, clientes etc. Quando os solicitantes veem apenas o que precisam na lista de filas de solicitações, fica mais fácil encontrar e navegar.
+Na maioria dos casos, uma fila de solicitações só precisa ser compartilhada com um determinado conjunto de pessoas, como uma equipe, um fornecedor, clientes etc. Quando os solicitantes veem somente o que precisam na lista da fila de solicitações, facilita a localização e navegação.
 
 </br>
 </br>
@@ -228,14 +242,14 @@ Aproveite grupos de tópicos e tópicos de fila quando o roteamento seletivo for
 
 **Veja o porquê**
 
-As regras de roteamento não podem ser aplicadas a campos de um formulário personalizado. Portanto, se diferentes tipos de solicitações precisarem ser roteados para diferentes equipes/indivíduos, faça com que cada tipo de solicitação tenha seu próprio grupo de tópicos/tópico de fila para que o trabalho possa ser roteado corretamente.
+As regras de roteamento não podem ser aplicadas a campos de um formulário personalizado. Portanto, se diferentes tipos de solicitações precisarem ser roteados para diferentes equipes/pessoas, faça com que cada tipo de solicitação tenha seu próprio grupo de tópicos/tópico de fila para que o trabalho possa ser roteado corretamente.
 
 </br>
 </br>
 
 **Prática recomendada**
 
-Encaminhe solicitações para uma equipe, em vez de um indivíduo.
+Encaminhe solicitações para uma equipe, em vez de uma pessoa.
 
 **Veja o porquê**
 

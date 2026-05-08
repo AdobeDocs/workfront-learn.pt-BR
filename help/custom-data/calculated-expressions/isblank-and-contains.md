@@ -9,10 +9,17 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+TQID: https://experienceleague.adobe.com/q25cuV-wKAkoEJTzDIho1Ab-XTexGhEZCHReoE0TFxg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: 400
+ht-degree: 97%
 
 ---
 
@@ -50,13 +57,13 @@ Coloque aspas ao redor da palavra ou frase que você está procurando, caso cont
 
 No exemplo acima (procurando por “evento beneficente” na descrição do projeto), a expressão seria:
 
-**CONTAINS(“evento beneficente”,{description})**
+**CONTAINS(&quot;evento de caridade&quot;,{description})**
 
 ![Balanceador de carga de trabalho com relatório de utilização](assets/isblank04.png)
 
 **Observação**: a expressão CONTAINS diferencia maiúsculas de minúsculas. Por exemplo, se “Evento beneficente” estiver em maiúscula no campo de descrição, coloque essa frase em maiúscula na expressão.
 
-**CONTAINS(“Evento beneficente”,{description})**
+**CONTAINS(&quot;Evento de Caridade&quot;,{description})**
 
 Ambas as expressões ISBLANK e CONTAINS são boas para usar se você quiser ver se um valor está presente. No entanto, pode ser mais útil saber qual é o valor, para realmente vê-lo ou ter algum tipo de descritor para fornecer um melhor insight.
 
