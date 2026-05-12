@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 36eba67de4075935d1162cab84d8dc4c984eba48
 workflow-type: tm+mt
-source-wordcount: 170
-ht-degree: 5%
+source-wordcount: 217
+ht-degree: 4%
 
 ---
 
@@ -44,7 +44,8 @@ O vídeo explica como gerenciar e personalizar taxas de faturamento para funçõ
 * **Taxa de Cobrança Padrão:** O administrador do sistema define uma taxa de cobrança padrão para cada função de trabalho, mas ela pode ser personalizada para projetos individuais. &#x200B;
 * **Flexibilidade nas Taxas de Cobrança:** Você pode criar várias taxas de cobrança para a mesma função de trabalho dentro de um projeto, permitindo ajustes personalizados. &#x200B;
 * **Taxas Específicas de Tempo:** as taxas de cobrança podem ser definidas para períodos de tempo específicos adicionando datas de início e término, garantindo uma aplicação de taxa precisa durante diferentes fases do projeto. &#x200B;
-* **Fácil personalização:** As alterações nas taxas de cobrança são diretas: selecione a função de trabalho, insira a nova taxa e salve as atualizações diretamente na guia &quot;Taxas de cobrança&quot;. &#x200B;
+* **Fácil Personalização:** As alterações nas taxas de cobrança são diretas: selecione a função de trabalho, insira a nova taxa e salve as atualizações diretamente na guia &quot;Taxas&quot;. &#x200B;
+* **Anexar um cartão de taxa:** é fácil anexar um cartão de taxa se alguém tiver preparado um para o grupo e a empresa em que seu projeto está. Depois de anexado, não é possível alterar nenhuma das taxas de cobrança no cartão de taxa, mas você ainda pode substituí-las no projeto.
 
 ## Tutoriais recomendados sobre este tópico
 
