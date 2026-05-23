@@ -35,7 +35,7 @@ ht-degree: 13%
 O vídeo explica como criar uma função de trabalho e um cartão de taxa, além de como anexar e remover um cartão de taxa de um projeto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486523/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 

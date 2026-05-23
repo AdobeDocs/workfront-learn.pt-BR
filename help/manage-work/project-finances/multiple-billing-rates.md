@@ -36,7 +36,7 @@ ht-degree: 4%
 O vídeo explica como gerenciar e personalizar taxas de faturamento para funções de trabalho em um projeto. &#x200B;Enfatiza a flexibilidade na definição de várias taxas de faturamento para a mesma função de trabalho e na garantia de ajustes precisos com base no tempo. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489640/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
