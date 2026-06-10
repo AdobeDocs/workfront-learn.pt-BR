@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá a criar um filtro EXISTE para ver &quot;Aprovaç�
 
 Para obter uma apresentação mais detalhada sobre como o EXISTS funciona, consulte [Criar filtros complexos do modo de texto usando instruções EXISTS](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471208/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Exemplos de filtro EXISTE
 
