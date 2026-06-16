@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:40:08.316Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 218
-ht-degree: 9%
+source-wordcount: 198
+ht-degree: 5%
 
 ---
 
@@ -50,6 +50,6 @@ Este vídeo explica o conceito de Filas de solicitações no Workfront, a finali
 ## Tutoriais recomendados sobre este tópico
 
 * [Crie uma fila de solicitações](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Noções básicas das configurações de um fluxo de solicitação](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Criar um fluxo de solicitação](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Criar uma fila de solicitações no Workfront](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Criar um fluxo de solicitação no Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 

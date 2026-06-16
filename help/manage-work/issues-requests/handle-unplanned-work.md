@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 260
-ht-degree: 11%
+source-wordcount: 223
+ht-degree: 3%
 
 ---
 
@@ -37,7 +37,7 @@ O vídeo enfatiza a importância da comunicação na gestão de projetos e desta
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446571/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Problemas vs. Atualizações:** use problemas para tarefas que precisam ser atribuídas, acompanhadas e resolvidas antes da conclusão do projeto, pois são mais fáceis de monitorar e organizar em comparação às atualizações. &#x200B;
 * **Problemas de log:** problemas podem ser registrados no nível de tarefa ou de projeto através da guia PROBLEMAS. &#x200B; Prioridades podem ser definidas e as notificações por email podem ser configuradas para atribuições e atualizações.
@@ -48,7 +48,7 @@ O vídeo enfatiza a importância da comunicação na gestão de projetos e desta
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)
 * [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

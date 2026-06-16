@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 21%
+source-wordcount: 162
+ht-degree: 15%
 
 ---
 
@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439553/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Filtros e Opções de Pesquisa:** Use filtros e ferramentas de pesquisa, incluindo Pesquisa Avançada, para localizar rapidamente projetos específicos com base em nomes, descrições ou campos de dados personalizados. &#x200B;
 * **Lista de Recentes:** os projetos visualizados recentemente aparecem automaticamente na lista de Recentes, que pode exibir até 20 projetos para acesso rápido. &#x200B;
@@ -48,7 +48,7 @@ Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar 
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
 * [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
+* [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)

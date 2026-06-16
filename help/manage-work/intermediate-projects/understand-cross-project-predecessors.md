@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:33.461Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 254
-ht-degree: 95%
+source-wordcount: 257
+ht-degree: 74%
 
 ---
 
@@ -36,7 +36,7 @@ Predecessores entre projetos são uma maneira fácil de estabelecer dependência
 
 >[!PREREQUISITES]
 >
->* [Saiba como sequenciar tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
+>* [Sequenciar tarefas efetivamente no Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
 >* Ou você já compreende bem o uso de predecessores em seus projetos?
 
 
@@ -48,4 +48,4 @@ Neste vídeo, você aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422839/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-Para saber como criar a visualização **Predecessores e sucessores entre projetos** e o relatório **Predecessores e sucessores entre projetos** usado no vídeo, consulte o tutorial [Compreender o modo de texto básico para visualizações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br) e certifique-se de seguir os tutoriais de pré-requisitos listados lá, se necessário.
+Para saber como criar a exibição **Predecessores e sucessores entre projetos** e o relatório **Predecessores e sucessores entre projetos** usados no vídeo, consulte o tutorial [Explorar modo de texto básico para exibições no Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br) e verifique se você deseja usar os tutoriais de pré-requisito listados, se necessário.

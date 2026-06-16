@@ -21,10 +21,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 9%
+source-wordcount: 204
+ht-degree: 6%
 
 ---
 
@@ -35,7 +35,7 @@ O vídeo fornece um tutorial sobre como criar tarefas em um projeto do Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423161/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Métodos de Criação de Tarefas:** Use o botão &quot;Nova Tarefa&quot; para criar tarefas detalhadas ou o botão &quot;Adicionar Mais Tarefas&quot; para edição em linha rápida.
 * **Campos Obrigatórios:** &#x200B;Somente o nome da tarefa é obrigatório; outros campos, como descrição, duração e atribuições, são opcionais e podem ser adicionados posteriormente. &#x200B;
@@ -46,6 +46,6 @@ O vídeo fornece um tutorial sobre como criar tarefas em um projeto do Workfront
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entenda as tarefas principais-secundárias](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Trabalhar com tarefas](/help/manage-work/tasks/work-with-tasks.md)
+* [Entender os relacionamentos entre tarefas pai e filho](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Gerenciar tarefas com eficiência no Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

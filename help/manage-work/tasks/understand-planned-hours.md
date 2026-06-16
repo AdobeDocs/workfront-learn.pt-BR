@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: 201
 ht-degree: 23%
 
 ---
@@ -41,7 +41,7 @@ Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas fu
 >[!VIDEO](https://video.tv.adobe.com/v/3445338/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 
-## Principais lições
+## Principais conclusões
 
 * **Importância das horas planejadas:** as horas planejadas ajudam a estimar a duração das tarefas, gerenciar a alocação de recursos e controlar o tempo gasto, melhorando o planejamento de projetos futuros. &#x200B;
 * **Dicas de Estimativa Precisas:** Divida tarefas longas em subtarefas menores, controle o tempo efetivamente e documente alterações ou problemas para refinar estimativas de horas planejadas. &#x200B;
@@ -53,7 +53,7 @@ Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas fu
 ## Tutoriais e artigos recomendados sobre este tópico
 
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
-* [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Entenda sobre [!UICONTROL esforço de trabalho]](/help/manage-work/tasks/understand-work-effort.md)
+* [Sequenciar tarefas efetivamente no Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Estimar horas de tarefas com esforço de trabalho](/help/manage-work/tasks/understand-work-effort.md)
 * [Visão geral das folhas de horas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/timesheets/details/timesheets-overview)
 * [Log de tempo](https://experienceleague.adobe.com/pt-br/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 28%
+source-wordcount: 201
+ht-degree: 22%
 
 ---
 
@@ -37,7 +37,7 @@ Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao cri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Usar nomes de projeto descritivos:** evite confusão nomeando projetos de forma descritiva em vez de usar títulos genéricos. &#x200B; organizar projetos em portfólios e programas melhora a geração de relatórios e a consistência. &#x200B;
 * **Definir Status Apropriado do Projeto:** Comece com o status &quot;Planejamento&quot; ao criar um projeto e alterne para &quot;Atual&quot; quando o projeto for ativado. &#x200B; Notificações de pausa com status Não &quot;Atual&quot;, permitindo o replanejamento sem interrupções. &#x200B;
@@ -48,8 +48,8 @@ Neste vídeo, aprenda sobre as configurações mais comuns e necessárias ao cri
 
 ## Tutoriais e artigos recomendados sobre este tópico
 
-* [Noções básicas sobre a criação de projetos](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Criar e gerenciar um projeto do zero](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navegar na página do projeto](/help/manage-work/projects/navigate-the-project-page.md)
-* [Aprenda quatro maneiras de criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Introdução ao planejamento de um projeto](/help/manage-work/projects/getting-started-plan-a-project.md)
+* [Explore quatro métodos para criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Planejar um projeto com eficiência no Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Editar projetos](https://experienceleague.adobe.com/pt-br/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)

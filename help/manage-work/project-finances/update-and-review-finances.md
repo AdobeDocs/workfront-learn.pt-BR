@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:52:20.298Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 350
-ht-degree: 10%
+source-wordcount: 217
+ht-degree: 16%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 10%
 
 Este vídeo fornece um guia detalhado sobre tempo de rastreamento, despesas e criação de registros de cobrança para projetos de clientes. &#x200B; pontos principais incluem:
 
-**Rastreamento de Tempo e Despesas:**
+**Tempo e Despesas de Acompanhamento:**
 Rastrear o tempo gasto trabalhando em um projeto e as despesas do projeto para faturar clientes. &#x200B;
 Verifique se os usuários têm taxas de custo e cobrança definidas em seus perfis ou funções de trabalho. &#x200B;
 
@@ -48,7 +48,7 @@ Os tipos de custo incluem horário fixo, horário do usuário (com base no perfi
 Crie despesas no nível do projeto por meio da guia &quot;Despesas&quot;. &#x200B;
 Atribua despesas ao projeto ou às tarefas, marque-as como faturáveis ou reembolsáveis. &#x200B;
 
-**Registros de cobrança:**
+**Registros de Cobrança:**
 Crie registros de cobrança no nível do projeto para rastrear itens faturáveis (horas, despesas, receitas). &#x200B;
 Adicionar horas e despesas faturáveis ao registro de cobrança.
 Atualizar o status do registro de cobrança e a data de cobrança após faturar os clientes. &#x200B;
@@ -60,7 +60,7 @@ Este vídeo enfatiza a importância da configuração e do rastreamento adequado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486193/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 
 * **Configurar taxas de custo e cobrança:** verifique se os usuários ou as funções de trabalho têm taxas de custo e cobrança definidas em seus perfis para controlar com precisão as despesas do projeto. &#x200B;
@@ -72,7 +72,7 @@ Este vídeo enfatiza a importância da configuração e do rastreamento adequado
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Encontrar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
-* [Compreender várias taxas de cobrança](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Acessar e gerenciar informações financeiras de projetos e tarefas](/help/manage-work/project-finances/find-financial-information.md)
+* [Personalizar taxas de cobrança para funções de trabalho](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

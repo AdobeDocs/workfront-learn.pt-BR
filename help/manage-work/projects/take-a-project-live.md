@@ -23,20 +23,20 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 231
-ht-degree: 10%
+source-wordcount: 168
+ht-degree: 8%
 
 ---
 
 # Ativar um projeto
 
-O vídeo explica as etapas finais para colocar um projeto em funcionamento, alterando seu status para &quot;atual&quot;. &#x200B; Antes de fazer isso, enfatiza a análise dos principais elementos do projeto, incluindo nomes de tarefas, durações, horas planejadas, predecessores, datas de início e conclusão e atribuições para garantir que tudo esteja preciso e definido corretamente. &#x200B; Quando o projeto estiver ativo, o gerente de projeto receberá notificações com base nas configurações globais e pessoais, e o projeto aparecerá em relatórios e filtros para projetos ativos. &#x200B; Isso marca o início oficial do trabalho. &#x200B;
+O vídeo explica as etapas finais para colocar um projeto em funcionamento, alterando seu status para &quot;atual&quot;. &#x200B; Antes de fazer isso, ele enfatiza a análise dos principais elementos do projeto, incluindo nomes de tarefas, durações, horas planejadas, predecessores, datas de início e conclusão e atribuições para garantir que tudo seja preciso e definido corretamente. &#x200B; Quando o projeto estiver ativo, o gerente de projeto receberá notificações com base nas configurações globais e pessoais, e o projeto aparecerá em relatórios e filtros para projetos ativos. &#x200B; Isso marca o início oficial do trabalho. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438990/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Revisar Detalhes do Projeto:** Verifique se os nomes das tarefas, as durações, as horas planejadas, os predecessores, as datas de início e de conclusão e as atribuições estão precisos e definidos corretamente. &#x200B;
 * **Alterar Status do Projeto:** Atualize o status do projeto para &quot;atual&quot; no cabeçalho do projeto ou nos detalhes para ativá-lo. &#x200B;
@@ -48,6 +48,6 @@ O vídeo explica as etapas finais para colocar um projeto em funcionamento, alte
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontre projetos com eficiência](/help/manage-work/projects/find-projects.md)
+* [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)

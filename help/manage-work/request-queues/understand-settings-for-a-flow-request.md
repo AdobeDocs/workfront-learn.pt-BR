@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:39:31.882Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 272
-ht-degree: 8%
+source-wordcount: 227
+ht-degree: 6%
 
 ---
 
@@ -36,15 +36,15 @@ ht-degree: 8%
 
 O vídeo explica o processo de fluxo de solicitações no Workfront, com foco no gerenciamento de filas, regras de roteamento, grupos de tópicos e tópicos da fila. &#x200B; enfatiza a importância de organizar a fila de solicitações respondendo a três perguntas principais:
 
-1. **Quais tópicos serão necessários?** &#x200B; - São tópicos da fila que categorizam solicitações enviadas, tornando-as mais fáceis de gerenciar e personalizar. &#x200B;
-1. **Posso organizar meus tópicos mais detalhadamente?** &#x200B; - Grupos de tópicos ajudam a agrupar tópicos relacionados da fila para uma melhor organização (por exemplo, folhetos, cartões de visita e outdoors em &quot;Imprimir&quot;). &#x200B;
+1. **Quais tópicos serão necessários?** &#x200B; - São tópicos da fila que categorizam as solicitações enviadas, facilitando seu gerenciamento e personalização. &#x200B;
+1. **Posso organizar meus tópicos mais detalhadamente?** &#x200B; - Os grupos de tópicos ajudam a agrupar tópicos relacionados da fila para uma melhor organização (por exemplo, folhetos, cartões de visita e outdoors em &quot;Imprimir&quot;). &#x200B;
 1. **A quem a solicitação deve ser atribuída?** &#x200B; - As regras de roteamento direcionam automaticamente os envios para equipes, funções ou usuários específicos, garantindo que as solicitações não passem despercebidas. &#x200B;
 
 Ao abordar essas perguntas, os usuários podem planejar e configurar efetivamente sua fila de solicitações no Workfront. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441910/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Tópicos da Fila:** Defina e organize diferentes tipos de solicitações em tópicos da fila para simplificar a categorização e a personalização. &#x200B;
 * **Grupos de Tópicos:** use grupos de tópicos para organizar ainda mais os tópicos da fila, facilitando a localização de solicitações relacionadas (por exemplo, agrupando categorias &quot;Imprimir&quot; e &quot;Digital&quot;). &#x200B;
@@ -54,6 +54,6 @@ Ao abordar essas perguntas, os usuários podem planejar e configurar efetivament
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Crie uma fila de solicitações](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Criar um fluxo de solicitação](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Criar uma fila de solicitações no Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Criar um fluxo de solicitação no Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Criar uma fila de solicitações de feedback para admins de sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

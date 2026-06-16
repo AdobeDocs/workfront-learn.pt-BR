@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 12%
+source-wordcount: 208
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444594/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **População Automática de Equipe:** a equipe do projeto é preenchida automaticamente quando os usuários recebem tarefas ou são designados como proprietários do projeto. &#x200B; No entanto, os usuários não são removidos automaticamente quando suas atribuições são removidas; isso deve ser feito manualmente. &#x200B;
 * **Atualizações Manuais:** Você pode adicionar ou remover pessoas manualmente da equipe do projeto, mesmo que elas não tenham atribuições, garantindo que a lista da equipe permaneça precisa e atualizada. &#x200B;
@@ -47,7 +47,7 @@ Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontre projetos com eficiência](/help/manage-work/projects/find-projects.md)
+* [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
+* [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)

@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 629
-ht-degree: 55%
+source-wordcount: 519
+ht-degree: 63%
 
 ---
 
@@ -44,7 +44,7 @@ Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## Principais lições
+## Principais conclusões
 
 * **Criação de um Modelo:** Saiba como criar um novo modelo do zero nomeando-o, configurando tarefas, linhas do tempo e fazendo atribuições a funções de trabalho. &#x200B;
 * **Organização da Tarefa:** Use relações de tarefas pai-filho para organizar tarefas com eficiência, fornecendo um resumo e uma estrutura claros para o projeto. &#x200B;
@@ -78,7 +78,7 @@ Se o blueprint ainda não tiver sido instalado, você pode solicitar isso a um(a
 ## Tutoriais recomendados sobre este tópico
 
 * [Criar um projeto diretamente a partir de um modelo](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Compartilhar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copiar um projeto existente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Compartilhar um modelo de projeto com eficiência](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copie um projeto existente com eficiência](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Editar a equipe do projeto em um modelo de projeto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Editar a equipe do projeto em um modelo](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 393
-ht-degree: 15%
+source-wordcount: 370
+ht-degree: 13%
 
 ---
 
@@ -66,7 +66,7 @@ Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](ht
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Acompanhe o progresso geral do projeto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Entenda a visualização de [!UICONTROL Quadro]](/help/manage-work/projects/understand-the-board-view.md)
+* [Explore a visualização do painel para o gerenciamento de tarefas](/help/manage-work/projects/understand-the-board-view.md)

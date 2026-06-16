@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 23%
+source-wordcount: 291
+ht-degree: 24%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 23%
 
 >[!PREREQUISITES]
 >
->* [Criar um fluxo de solicitações](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [Criar um processo de aprovação global e de uso único](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [Criar um fluxo de solicitação no Workfront](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [Criar e gerenciar processos de aprovação](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 O vídeo explica o processo de aplicar um processo de aprovação padrão ao criar uma fila de solicitações. &#x200B; Quando uma solicitação é criada, ela começa com o status &quot;Novo - Aprovação pendente&quot; e uma notificação de aprovação é enviada ao aprovador designado. &#x200B; Se aprovada, o status muda para &quot;Novo&quot;, permitindo que os indivíduos atribuídos comecem a trabalhar. &#x200B; Se rejeitado, o status pode reverter incorretamente para &quot;Novo&quot; devido a um erro comum na configuração do processo de aprovação. &#x200B;
@@ -56,7 +56,7 @@ O vídeo destaca que o processo de aprovação é acionado quando o status é de
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Delegar tarefas, problemas e aprovações efetivamente](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Entenda os processos de aprovação específicos do grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Criar um fluxo de solicitação](/help/manage-work/request-queues/create-a-request-flow.md)
-* [Criar um processo de aprovação global e de uso único](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [Criar um fluxo de solicitação no Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Criar e gerenciar processos de aprovação](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

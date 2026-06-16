@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:49:07.603Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 121
-ht-degree: 100%
+source-wordcount: 123
+ht-degree: 84%
 
 ---
 
@@ -47,7 +47,7 @@ Neste vídeo, você aprenderá sobre:
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entenda as linhas do tempo do projeto](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Acompanhe o progresso da linha do tempo do projeto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-* [Compreender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Explorar linhas do tempo do projeto no Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Rastrear o progresso usando a porcentagem concluída e o status do progresso](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Tipos de duração mestre e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

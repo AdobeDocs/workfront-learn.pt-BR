@@ -25,9 +25,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:59.860Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: 273
 ht-degree: 7%
 
 ---
@@ -36,8 +36,8 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* [Criar uma fila de solicitações](/help/manage-work/request-queues/create-a-request-queue.md)
->* [Entenda as configurações de um fluxo de solicitação](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [Criar uma fila de solicitações no Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [Organizar as configurações do fluxo de solicitação](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 Este vídeo fornece um guia passo a passo sobre como criar um fluxo de solicitação configurando tópicos da fila, grupos de tópicos e regras de roteamento. &#x200B; O processo começa com a criação de regras de roteamento, que definem como as solicitações são atribuídas.&#x200B; &#x200B; Em seguida, os grupos de tópicos são criados para organizar as solicitações. Esses grupos podem ser adicionados às filas e não há limite para o número de grupos de tópicos que podem ser criados.
 O vídeo mostra como criar tópicos da fila, que estão vinculados a regras de roteamento, grupos de tópicos, formulários personalizados, processos de aprovação e durações padrão.

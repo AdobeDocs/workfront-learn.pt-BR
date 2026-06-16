@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 81
-ht-degree: 87%
+source-wordcount: 88
+ht-degree: 70%
 
 ---
 
@@ -46,6 +46,6 @@ Neste vídeo, você aprenderá a:
 
 * [Fazer upload de uma prova com um fluxo de trabalho básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
-* [Concluir aprovações](/help/manage-work/close-a-project/complete-approvals.md)
-* [Relembrar as lições aprendidas](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrar e revisar horas](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [Resolver aprovações de tarefas e problemas](/help/manage-work/close-a-project/complete-approvals.md)
+* [Registre as lições aprendidas para projetos futuros](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Registrar e revisar as horas do projeto](/help/manage-work/close-a-project/log-and-review-hours.md)

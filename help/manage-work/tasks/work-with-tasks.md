@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:36:54.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 9%
+source-wordcount: 220
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448561/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Edição Embutida para Alterações Rápidas:** Clique duas vezes em um campo para editar diretamente as informações da tarefa e use a tecla Tab para navegar entre os campos e obter atualizações mais rápidas. &#x200B;
 * **Excluindo Tarefas com Backup da Lixeira:** as tarefas excluídas são movidas para a Lixeira por 30 dias, acessíveis apenas pelos administradores do sistema, garantindo a capacidade de recuperação, se necessário. &#x200B;
@@ -46,6 +46,6 @@ Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront.
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entenda as tarefas principais-secundárias](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Entender os relacionamentos entre tarefas pai e filho](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)

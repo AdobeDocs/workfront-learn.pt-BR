@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:13:43.440Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 161
-ht-degree: 18%
+source-wordcount: 164
+ht-degree: 12%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 18%
 
 >[!PREREQUISITES]
 >
->* [Introdução aos painéis de tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [Explorar painéis da tela no Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 As primeiras coisas que você precisa fazer antes de criar um **relatório** do Painel da Tela são:
 
 * Inscreva-se no Painel de controle do Canvas beta e
 * Criar um painel da tela
 
-[Introdução aos Painéis da Tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
+[Explorar Painéis da Tela no Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475386/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
@@ -51,7 +51,7 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução aos painéis de tela](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Explorar painéis da tela no Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Criar um relatório de KPI em um Painel de Controle da Tela](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Criar um relatório de gráfico em um Painel da Tela](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [Criar um relatório de tabela em um Painel da tela de desenho](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)

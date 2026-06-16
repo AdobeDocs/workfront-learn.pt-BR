@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 372
-ht-degree: 13%
+source-wordcount: 355
+ht-degree: 11%
 
 ---
 
@@ -44,7 +44,7 @@ O vídeo enfatiza a flexibilidade na revisão e aprovação do trabalho, com op�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444951/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Gerenciamento centralizado de aprovações:** todos os itens que estão aguardando aprovação podem ser acessados no widget &quot;Aguardando minha aprovação&quot; na área Página inicial. &#x200B;
 * **Opções de Revisão Flexíveis:** Você pode aprovar ou rejeitar diretamente da área Página Inicial ou clicar no nome do item para examinar os detalhes antes de tomar uma decisão. &#x200B;
@@ -59,8 +59,8 @@ O vídeo enfatiza a flexibilidade na revisão e aprovação do trabalho, com op�
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Crie um processo de aprovação de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Criar e gerenciar processos de aprovação](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Delegar tarefas, problemas e aprovações efetivamente](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!--

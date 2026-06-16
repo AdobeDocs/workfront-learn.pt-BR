@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
-ht-degree: 14%
+source-wordcount: 226
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ O vídeo enfatiza a importância de atualizações regulares pelos membros da eq
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447415/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Cálculo do Percentual Concluído:** o andamento geral do projeto é calculado com base nos valores do Percentual Concluído de tarefas individuais, ponderados por sua duração ou horas planejadas. &#x200B;
 * **Datas planejadas vs. projetadas:** o Workfront calcula as datas de início/conclusão planejadas e projetadas com base na duração da tarefa e em suas predecessoras. &#x200B; discrepâncias entre essas datas indicam possíveis atrasos. &#x200B;
@@ -49,7 +49,7 @@ O vídeo enfatiza a importância de atualizações regulares pelos membros da eq
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Entenda a visualização de [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Entenda a visualização de [!UICONTROL Quadro]](/help/manage-work/projects/understand-the-board-view.md)
+* [Explore a visualização de Gantt para gerenciamento de projetos](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Explore a visualização do painel para o gerenciamento de tarefas](/help/manage-work/projects/understand-the-board-view.md)

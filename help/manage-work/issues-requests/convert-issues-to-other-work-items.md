@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 17%
+source-wordcount: 230
+ht-degree: 12%
 
 ---
 
@@ -35,7 +35,7 @@ O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445435/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Processo de Conversão Simples:** Para converter um problema/solicitação em uma tarefa, abra o problema, clique no menu de três pontos e selecione &quot;Converter em Tarefa&quot;. &#x200B; O nome e a descrição da tarefa são copiados por padrão, mas podem ser editados. &#x200B;
 * **Seleção de Projeto de Destino:** Você pode escolher o projeto de destino para a tarefa, seja o projeto padrão onde o problema reside ou outro projeto ao qual você tem acesso. &#x200B;
@@ -53,7 +53,7 @@ O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Localizar e gerenciar solicitações](/help/manage-work/issues-requests/find-requests.md)
+* [Encontre e gerencie solicitações com eficiência](/help/manage-work/issues-requests/find-requests.md)
 * [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Lidar com tarefas não planejadas](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Lidar com o trabalho não planejado de maneira eficaz](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

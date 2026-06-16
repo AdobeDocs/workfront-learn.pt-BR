@@ -23,9 +23,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
+source-wordcount: 185
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são compone
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445601/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Tarefas como Backbone de Projeto:** as tarefas representam os itens de trabalho necessários para concluir um projeto e são cruciais para o planejamento e o gerenciamento eficaz do projeto. &#x200B;
 * **Estrutura de Tarefas Pai/Filho:** as tarefas pai agrupam o projeto em fases, estágios ou marcos, enquanto as tarefas filho (subtarefas) representam trabalho acionável atribuído aos membros da equipe. &#x200B;
@@ -48,7 +48,7 @@ Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são compone
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Criar tarefas](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Trabalhar com tarefas](/help/manage-work/tasks/work-with-tasks.md)
+* [Criar tarefas com eficiência no Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Gerenciar tarefas com eficiência no Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

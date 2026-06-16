@@ -20,10 +20,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 195
-ht-degree: 14%
+source-wordcount: 199
+ht-degree: 3%
 
 ---
 
@@ -42,7 +42,7 @@ Neste vídeo, você aprenderá sobre os status de problemas e as práticas recom
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Lidar com tarefas não planejadas](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Lidar com o trabalho não planejado de maneira eficaz](/help/manage-work/issues-requests/handle-unplanned-work.md)
 * [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Localizar e gerenciar solicitações](/help/manage-work/issues-requests/find-requests.md)
+* [Encontre e gerencie solicitações com eficiência](/help/manage-work/issues-requests/find-requests.md)

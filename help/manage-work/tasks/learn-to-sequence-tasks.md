@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 179
 ht-degree: 7%
 
 ---
@@ -40,7 +40,7 @@ O vídeo mostra como definir predecessores para novas tarefas, garantindo a orde
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447325/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Predecessoras Definem a Ordem de Tarefas:** Predecessoras estabelecem a sequência de tarefas, garantindo que determinadas tarefas sejam concluídas antes que outras possam começar, o que é crucial para o sucesso do projeto. &#x200B;
 * **Linhas do Tempo de Impacto da Duração:** As durações de tarefas definem o período do trabalho e ajustam as datas de início e de conclusão, criando um efeito em cascata nas tarefas dependentes. &#x200B;
@@ -52,4 +52,4 @@ O vídeo mostra como definir predecessores para novas tarefas, garantindo a orde
 
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
 * [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Entenda o [!UICONTROL Esforço do trabalho]](/help/manage-work/tasks/understand-work-effort.md)
+* [Estimar horas de tarefas com esforço de trabalho](/help/manage-work/tasks/understand-work-effort.md)

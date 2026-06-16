@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:49.217Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 432
-ht-degree: 13%
+source-wordcount: 378
+ht-degree: 12%
 
 ---
 
@@ -63,8 +63,8 @@ O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontre projetos com eficiência](/help/manage-work/projects/find-projects.md)
+* [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
 * [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
 

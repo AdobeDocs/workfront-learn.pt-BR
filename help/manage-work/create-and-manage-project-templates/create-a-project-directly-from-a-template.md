@@ -24,10 +24,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 222
-ht-degree: 22%
+source-wordcount: 167
+ht-degree: 14%
 
 ---
 
@@ -37,7 +37,7 @@ O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456018/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Acesso ao modelo:** Você precisa de direitos para abrir um modelo e criar um projeto a partir dele. &#x200B;
 * **Opção de Atalho:** usar um modelo pode ser um atalho útil em comparação a iniciar um projeto do zero. &#x200B;
@@ -48,8 +48,8 @@ O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você 
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Crie um modelo de projeto e saiba mais sobre os blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Compartilhar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copiar um projeto existente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Criar um modelo de projeto e explorar Blueprints](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Compartilhar um modelo de projeto com eficiência](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copie um projeto existente com eficiência](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Editar a equipe do projeto em um modelo de projeto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Editar a equipe do projeto em um modelo](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

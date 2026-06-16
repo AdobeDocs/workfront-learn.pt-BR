@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 295
-ht-degree: 8%
+source-wordcount: 291
+ht-degree: 5%
 
 ---
 
@@ -36,7 +36,7 @@ O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma man
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423282/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Visão geral do modo de exibição de Quadro:** o modo de exibição de Quadro no Workfront oferece uma interface em estilo Kanban para exibir e gerenciar tarefas do projeto, fornecendo uma alternativa ao modo de exibição de lista de tarefas tradicional. &#x200B;
 * **Gerenciamento de tarefas:** as tarefas podem ser classificadas, agrupadas e movidas dentro ou entre colunas, com atualizações de status aplicadas automaticamente quando as tarefas são movidas. &#x200B;
@@ -47,7 +47,7 @@ O vídeo explica o recurso Exibição de placa no Workfront, que fornece uma man
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Acompanhe o progresso geral do projeto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Entenda a visualização de [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Explore a visualização de Gantt para gerenciamento de projetos](/help/manage-work/projects/understand-the-gantt-view.md)

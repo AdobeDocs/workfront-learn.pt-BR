@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:21.983Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 357
-ht-degree: 5%
+source-wordcount: 362
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilh
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423152/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Direitos de Acesso Automático:** o Workfront atribui automaticamente direitos de acesso apropriados com base em funções (por exemplo, criadores de projetos, trabalhadores, patrocinadores e gerentes de recursos) para simplificar o compartilhamento. &#x200B;
 * **Opções de Compartilhamento Flexíveis:** os projetos podem ser compartilhados com indivíduos, equipes, funções de trabalho, grupos ou empresas, e as permissões podem ser herdadas por meio de portfólios ou programas. &#x200B;
@@ -69,8 +69,8 @@ O vídeo enfatiza o uso de equipes e modelos para um gerenciamento de compartilh
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontre projetos com eficiência](/help/manage-work/projects/find-projects.md)
 * [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
+* [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)
 

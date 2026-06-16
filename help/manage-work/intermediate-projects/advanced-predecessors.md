@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:54.939Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 162
-ht-degree: 95%
+source-wordcount: 163
+ht-degree: 75%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 95%
 
 >[!PREREQUISITES]
 >
->* [Saiba como sequenciar tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
+>* [Sequenciar tarefas efetivamente no Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
 >* Ou você já compreende bem o uso de predecessores em seus projetos?
 
 
@@ -51,6 +51,6 @@ Neste vídeo, você aprenderá sobre:
 
 Para obter mais informações sobre o uso de predecessores, consulte [Usar predecessores de tarefa](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=pt-BR).
 
-Para obter mais informações sobre restrições de tarefas, consulte [Compreender e gerenciar tipos de duração e restrições de tarefas](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=pt-BR).
+Para obter mais informações sobre restrições de tarefa, consulte [Tipos de duração mestre e restrições de tarefa](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=pt-BR).
 
-Para obter mais informações sobre predecessores entre projetos, consulte [Compreender os predecessores entre projetos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=pt-BR).
+Para obter mais informações sobre predecessores entre projetos, consulte [Estabelecer dependências com predecessores entre projetos](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=pt-BR).

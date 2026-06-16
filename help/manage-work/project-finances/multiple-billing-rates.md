@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: 36eba67de4075935d1162cab84d8dc4c984eba48
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 4%
+source-wordcount: 207
+ht-degree: 3%
 
 ---
 
@@ -38,7 +38,7 @@ O vídeo explica como gerenciar e personalizar taxas de faturamento para funçõ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3489640/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 
 * **Taxa de Cobrança Padrão:** O administrador do sistema define uma taxa de cobrança padrão para cada função de trabalho, mas ela pode ser personalizada para projetos individuais. &#x200B;
@@ -49,7 +49,7 @@ O vídeo explica como gerenciar e personalizar taxas de faturamento para funçõ
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Encontrar informações financeiras](/help/manage-work/project-finances/find-financial-information.md)
-* [Atualizar finanças](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Acessar e gerenciar informações financeiras de projetos e tarefas](/help/manage-work/project-finances/find-financial-information.md)
+* [Atualizar finanças para projetos de clientes](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 
