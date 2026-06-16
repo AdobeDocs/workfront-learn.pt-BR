@@ -58,7 +58,7 @@ O Workfront rastreia itens faturáveis, mas não lida com a faturação real; os
 
 Este vídeo enfatiza a importância da configuração e do rastreamento adequados para simplificar os processos de faturamento do cliente. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486193/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
