@@ -12,21 +12,16 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:32.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 265
-ht-degree: 11%
+source-wordcount: 230
+ht-degree: 8%
 
 ---
 
@@ -36,9 +31,9 @@ O vídeo fornece orientação sobre como planejar com eficiência um projeto no 
 
 O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de equipe e planejamento preciso para criar uma base sólida para o sucesso do projeto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448572/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Concentre-se em cinco campos principais:** Entenda as tarefas, atribuições, durações, horas planejadas e predecessores para fazer alterações precisas e eficientes no plano do projeto. &#x200B;
 * **Definir Status do Projeto como &quot;Planejamento&quot;:** Verifique se o status do projeto está definido como &quot;Planejamento&quot; para evitar notificações desnecessárias ao ajustar o plano. &#x200B;
@@ -50,10 +45,10 @@ O vídeo destaca a importância de linhas do tempo realistas, disponibilidade de
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Criar tarefas](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Trabalhar com tarefas](/help/manage-work/tasks/work-with-tasks.md)
+* [Criar tarefas com eficiência no Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Gerenciar tarefas com eficiência no Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
-* [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Sequenciar tarefas efetivamente no Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Entenda o [!UICONTROL Esforço do trabalho]](/help/manage-work/tasks/understand-work-effort.md)
+* [Estimar horas de tarefas com esforço de trabalho](/help/manage-work/tasks/understand-work-effort.md)

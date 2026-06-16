@@ -13,21 +13,16 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
-ht-degree: 12%
+source-wordcount: 253
+ht-degree: 2%
 
 ---
 
@@ -35,9 +30,9 @@ ht-degree: 12%
 
 O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações no Workfront. Ele explica o processo de criação de uma solicitação, começando selecionando &quot;Solicitações&quot; no menu principal e clicando no botão &quot;Nova solicitação&quot;. &#x200B; Usuários podem escolher um tipo de solicitação a partir de filas projetadas de forma personalizada e personalizadas de acordo com os fluxos de trabalho de suas organizações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415831/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Criação de solicitação simplificada**: os usuários podem criar solicitações facilmente selecionando &quot;Solicitações&quot; no menu principal, escolhendo um tipo de solicitação, preenchendo campos obrigatórios e anexando documentos relevantes. &#x200B;
 * **Fluxos de trabalho personalizáveis:** as filas de solicitações e os formulários são adaptados aos fluxos de trabalho organizacionais, permitindo que os usuários especifiquem detalhes (por exemplo, mídia na loja, mídia externa, social) e prioridade.
@@ -47,8 +42,8 @@ O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações n
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entenda as filas de solicitações](/help/manage-work/request-queues/understand-request-queues.md)
-* [Localizar e gerenciar solicitações](/help/manage-work/issues-requests/find-requests.md)
-* [Atualizar uma solicitação](/help/manage-work/issues-requests/update-a-request.md)
+* [Explorar filas de solicitações no Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Encontre e gerencie solicitações com eficiência](/help/manage-work/issues-requests/find-requests.md)
+* [Atualizar uma solicitação no Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

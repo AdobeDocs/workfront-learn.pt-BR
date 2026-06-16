@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 786
-ht-degree: 56%
+source-wordcount: 711
+ht-degree: 60%
 
 ---
 
@@ -44,7 +39,7 @@ Este vídeo fornece uma visão geral da navegação e do gerenciamento da págin
 * **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449731/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
@@ -81,7 +76,7 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Noções básicas sobre a criação de projetos](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Aprenda quatro maneiras de criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Preencha os detalhes do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Criar e gerenciar um projeto do zero](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Explore quatro métodos para criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Preencha os detalhes essenciais do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
 

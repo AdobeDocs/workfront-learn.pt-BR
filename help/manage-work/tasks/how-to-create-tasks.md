@@ -10,21 +10,16 @@ last-substantial-update: '2023-05-15T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 9%
+source-wordcount: 204
+ht-degree: 6%
 
 ---
 
@@ -33,9 +28,9 @@ ht-degree: 9%
 O vídeo fornece um tutorial sobre como criar tarefas em um projeto do Workfront, abordando o método longo e atalhos úteis. Ele enfatiza a flexibilidade na criação de tarefas e fornece dicas para um gerenciamento eficiente de tarefas.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423161/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Métodos de Criação de Tarefas:** Use o botão &quot;Nova Tarefa&quot; para criar tarefas detalhadas ou o botão &quot;Adicionar Mais Tarefas&quot; para edição em linha rápida.
 * **Campos Obrigatórios:** &#x200B;Somente o nome da tarefa é obrigatório; outros campos, como descrição, duração e atribuições, são opcionais e podem ser adicionados posteriormente. &#x200B;
@@ -46,6 +41,6 @@ O vídeo fornece um tutorial sobre como criar tarefas em um projeto do Workfront
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Entenda as tarefas principais-secundárias](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Trabalhar com tarefas](/help/manage-work/tasks/work-with-tasks.md)
+* [Entender os relacionamentos entre tarefas pai e filho](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Gerenciar tarefas com eficiência no Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

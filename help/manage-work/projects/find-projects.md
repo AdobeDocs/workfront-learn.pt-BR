@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 21%
+source-wordcount: 162
+ht-degree: 15%
 
 ---
 
@@ -35,9 +30,9 @@ ht-degree: 21%
 
 Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439553/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Filtros e Opções de Pesquisa:** Use filtros e ferramentas de pesquisa, incluindo Pesquisa Avançada, para localizar rapidamente projetos específicos com base em nomes, descrições ou campos de dados personalizados. &#x200B;
 * **Lista de Recentes:** os projetos visualizados recentemente aparecem automaticamente na lista de Recentes, que pode exibir até 20 projetos para acesso rápido. &#x200B;
@@ -48,7 +43,7 @@ Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar 
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
 * [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
+* [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)

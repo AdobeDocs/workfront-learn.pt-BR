@@ -12,21 +12,16 @@ last-substantial-update: '2024-11-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:49.217Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 432
-ht-degree: 13%
+source-wordcount: 378
+ht-degree: 12%
 
 ---
 
@@ -44,13 +39,13 @@ O vídeo enfatiza a importância de uma comunicação eficaz para o sucesso do p
 
 O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de tarefas e a geração de relatórios, garantindo que todas as informações relacionadas ao projeto sejam acessíveis e organizadas. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436150/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Para criar o relatório de Pesquisa de notas mostrado no vídeo, consulte a atividade no tutorial [Criar um relatório de tarefas](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=pt-BR#activity-1-create-a-dashboard).
+>Para adicionar o relatório de Pesquisa de notas ao painel do seu projeto, consulte a atividade no tutorial [Criar painéis](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
 ## Principais conclusões
 
@@ -63,8 +58,8 @@ O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
-* [Compartilhar um projeto](/help/manage-work/projects/share-a-project.md)
+* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Encontre projetos com eficiência](/help/manage-work/projects/find-projects.md)
+* [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
 * [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
 

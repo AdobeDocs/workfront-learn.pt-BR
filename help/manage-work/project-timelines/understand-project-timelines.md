@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 700
-ht-degree: 10%
+source-wordcount: 643
+ht-degree: 9%
 
 ---
 
@@ -39,7 +34,7 @@ O que você aprenderá:
 * Diferentes exibições no Workfront, como a exibição padrão para planejamento e a exibição de status para monitoramento do progresso, que inclui sinalizadores para progresso, comentários, documentos, problemas, aprovações, caminho crítico e marcos. As atividades recentes podem ser rastreadas para ver atualizações e notas.
 * O agendamento pode ser feito a partir de uma data de início ou de uma data de conclusão, com o Workfront calculando as datas correspondentes com base na duração da tarefa e nos predecessores. O vídeo aconselha a programação de uma data de início para datas de conclusão críticas para permitir alguma folga. Restrições de tarefa, como &quot;o mais rápido possível&quot; e &quot;o mais tarde possível&quot;, também são abordadas, mostrando como elas afetam o agendamento de tarefas. É possível criar exibições personalizadas para exibir restrições de tarefa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435840/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
@@ -63,7 +58,7 @@ O que você aprenderá:
 
 ## Tutoriais recomendados sobre este tópico
 
-* [Acompanhe o progresso da linha do tempo do projeto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Rastrear o progresso usando a porcentagem concluída e o status do progresso](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Entenda os tipos de data e os status do progresso](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [Compreender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Tipos de duração mestre e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
