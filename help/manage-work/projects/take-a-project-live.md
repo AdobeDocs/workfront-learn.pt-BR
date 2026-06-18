@@ -35,7 +35,7 @@ ht-degree: 8%
 
 O vídeo explica as etapas finais para colocar um projeto em funcionamento, alterando seu status para &quot;atual&quot;. &#x200B; Antes de fazer isso, ele enfatiza a análise dos principais elementos do projeto, incluindo nomes de tarefas, durações, horas planejadas, predecessores, datas de início e conclusão e atribuições para garantir que tudo seja preciso e definido corretamente. &#x200B; Quando o projeto estiver ativo, o gerente de projeto receberá notificações com base nas configurações globais e pessoais, e o projeto aparecerá em relatórios e filtros para projetos ativos. &#x200B; Isso marca o início oficial do trabalho. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438990/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
