@@ -12,18 +12,13 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:36:54.897Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 220
 ht-degree: 7%
@@ -34,7 +29,7 @@ ht-degree: 7%
 
 Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront. Ela enfatiza o gerenciamento eficiente de tarefas, incluindo edição, exclusão, adição, duplicação e reorganização de tarefas em um plano de projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448561/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Principais conclusões
 
@@ -49,3 +44,4 @@ Este vídeo fornece um guia detalhado sobre como gerenciar tarefas no Workfront.
 * [Entender os relacionamentos entre tarefas pai e filho](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
+

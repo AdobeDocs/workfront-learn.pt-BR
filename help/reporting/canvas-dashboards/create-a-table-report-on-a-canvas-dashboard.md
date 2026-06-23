@@ -12,18 +12,13 @@ last-substantial-update: '2025-09-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 1204fc4f-c73d-49eb-981d-712524271ce9
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:14:15.199Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 163
 ht-degree: 12%
@@ -43,11 +38,11 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 
 [Explorar Painéis da Tela no Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo a passo como fazer ambos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474870/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops=1)
 
 **Para obter mais informações, consulte os seguintes artigos de ajuda:**
-[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Criar um relatório de tabela em um Painel da Tela](https://experienceleague.adobe.com/pt-br/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Visão geral dos Painéis do Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Criar um relatório de tabela em um Painel da Tela](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutoriais recomendados sobre este tópico
 
@@ -56,3 +51,4 @@ As primeiras coisas que você precisa fazer antes de criar um **relatório** do 
 * [Criar um relatório de gráfico em um Painel da Tela](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [Adicionar formatação condicional a um relatório do Canvas Dashboard](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [Aplicação de um filtro OR em um relatório do Painel de controle da tela](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+
