@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 245
 ht-degree: 6%
@@ -54,4 +54,5 @@ As aprovações delegadas são marcadas no sistema, mostrando quem as delegou e 
 * [Configurar notificações de eventos](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
 * [Criar e gerenciar processos de aprovação](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Entenda os processos de aprovação específicos do grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+
 
