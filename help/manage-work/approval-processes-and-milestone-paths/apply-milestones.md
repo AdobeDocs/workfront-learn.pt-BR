@@ -49,5 +49,5 @@ Neste vídeo, você aprenderá a:
 
 * [Exibir etapas em seus projetos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Aplicar caminhos de etapas a projetos e tarefas](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Atividade de exibição de marcos em “Criar uma visualização básica”](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [Atividade de exibição de marcos em “Criar uma visualização básica”](https://experienceleague.adobe.com/pt-br/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
 
