@@ -36,7 +36,7 @@ ht-degree: 6%
 Este vídeo explica as durações de tarefas no Workfront, seu impacto nas datas de início e conclusão da tarefa, linhas do tempo do projeto e práticas recomendadas para usar as durações de maneira eficaz.A Workfront recomenda usar durações e predecessores para estabelecer linhas do tempo da tarefa em vez de definir restrições manualmente, pois as restrições podem impedir ajustes automáticos.&#x200B;Durações precisas são essenciais para um planejamento eficaz de projetos e gerenciamento de recursos.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449348/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 

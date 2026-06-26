@@ -36,7 +36,7 @@ ht-degree: 6%
 O vídeo explica como sequenciar tarefas no Workfront usando predecessores e durações para gerenciar linhas do tempo do projeto de maneira eficaz.O vídeo mostra como definir predecessores para novas tarefas, garantindo a ordem sequencial e datas de início precisas.&#x200B;Enfatiza a importância de praticar com predecessores para entender seu impacto nas linhas do tempo do projeto e recomenda usar durações e predecessores para um planejamento de projeto eficiente.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447325/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 

@@ -42,7 +42,7 @@ ht-degree: 25%
 O vídeo fornece um guia passo a passo sobre como criar uma fila de solicitações de feedback para administradores do sistema.&#x200B;O objetivo da fila é coletar feedback do usuário sobre processos e workflows criados por administradores do sistema, permitindo melhorias e otimização.O vídeo enfatiza a importância da participação do usuário e da transparência na melhoria do processo, incentivando os administradores a compartilhar relatórios de feedback com os usuários.&#x200B;Links para tutoriais para criar relatórios e formulários personalizados são fornecidos para orientação adicional.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450502/?captions=por_br&quality=12&learn=on&enablevpops=0)
 
 ## Principais lições
 
