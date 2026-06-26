@@ -12,27 +12,22 @@ last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 370
-ht-degree: 13%
+source-wordcount: 397
+ht-degree: 12%
 
 ---
 
 # Explore o modo de exibição [!UICONTROL Gantt] para gerenciamento de projetos
 
-O vídeo explica como usar o Gráfico de Gantt do Projeto e o Gráfico de Gantt da Tarefa para visualizar e gerenciar tarefas e projetos de maneira eficaz. &#x200B; gráficos de Gantt fornecem uma visão geral de tarefas, modelos e projetos e são comumente usados em portfólios para entender as relações entre projetos, especialmente aqueles que compartilham recursos. &#x200B;
+O vídeo explica como usar o Gráfico de Gantt do Projeto e o Gráfico de Gantt da Tarefa para visualizar e gerenciar tarefas e projetos de maneira eficaz. &#x200B; gráficos de Gantt fornecem uma visão geral de tarefas, modelos e projetos e são comumente usados em portfólios para entender as relações entre projetos, especialmente aqueles que compartilham recursos. 
 
 **Os principais recursos do Gráfico de Gantt do Projeto incluem:**
 
@@ -51,7 +46,7 @@ O vídeo explica como usar o Gráfico de Gantt do Projeto e o Gráfico de Gantt 
 
 O vídeo enfatiza a flexibilidade dos gráficos de Gantt, permitindo que os usuários personalizem visualizações e exibam vários elementos simultaneamente para melhorar o gerenciamento do projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448011/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=br).
 
@@ -70,3 +65,4 @@ Você pode saber mais online com o artigo,[Introdução ao gráfico de Gantt](ht
 * [Acompanhe o progresso geral do projeto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Explore a visualização do painel para o gerenciamento de tarefas](/help/manage-work/projects/understand-the-board-view.md)
+

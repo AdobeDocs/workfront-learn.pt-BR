@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
 exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 45%
@@ -24,7 +24,7 @@ ht-degree: 45%
 Saiba como um administrador instala um blueprint e como um usuário o coloca em uso. Neste exemplo, instalaremos o blueprint &quot;Treinamento do Workfront para novos usuários&quot; e usaremos os modelos e as visualizações que ele cria como uma lista de verificação de treinamento para ajudar a habilitar usuários no Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479840/?captions=por_br&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
 
 ## Principais lições
 
@@ -41,3 +41,4 @@ Saiba como um administrador instala um blueprint e como um usuário o coloca em 
 * [Copie um projeto existente com eficiência](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Editar a equipe do projeto em um modelo](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+
