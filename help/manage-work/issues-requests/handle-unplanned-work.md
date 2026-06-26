@@ -23,21 +23,21 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 223
-ht-degree: 3%
+source-wordcount: 266
+ht-degree: 2%
 
 ---
 
 # Lidar com o trabalho não planejado de maneira eficaz
 
-O vídeo enfatiza a importância da comunicação na gestão de projetos e destaca o papel das questões como uma ferramenta chave para facilitar a comunicação. &#x200B; Explica a diferença entre atualizações e problemas, observando que os problemas são mais adequados para o trabalho que precisa ser atribuído, monitorado e resolvido antes que um projeto possa ser concluído. &#x200B; O vídeo fornece um guia passo a passo sobre como registrar problemas. &#x200B;
+O vídeo enfatiza a importância da comunicação na gestão de projetos e destaca o papel das questões como uma ferramenta chave para facilitar a comunicação. &#x200B; Explica a diferença entre atualizações e problemas, observando que os problemas são mais adequados para o trabalho que precisa ser atribuído, monitorado e resolvido antes que um projeto possa ser concluído. &#x200B; O vídeo fornece um guia passo a passo sobre como registrar problemas. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446571/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Problemas vs. Atualizações:** use problemas para tarefas que precisam ser atribuídas, acompanhadas e resolvidas antes da conclusão do projeto, pois são mais fáceis de monitorar e organizar em comparação às atualizações. &#x200B;
 * **Problemas de log:** problemas podem ser registrados no nível de tarefa ou de projeto através da guia PROBLEMAS. &#x200B; Prioridades podem ser definidas e as notificações por email podem ser configuradas para atribuições e atualizações.
@@ -52,3 +52,4 @@ O vídeo enfatiza a importância da comunicação na gestão de projetos e desta
 * [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)
 * [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+

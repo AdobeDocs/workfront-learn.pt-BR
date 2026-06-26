@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:33.461Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 257
 ht-degree: 74%
@@ -49,3 +49,4 @@ Neste vídeo, você aprenderá:
 >[!VIDEO](https://video.tv.adobe.com/v/3422839/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 Para saber como criar a exibição **Predecessores e sucessores entre projetos** e o relatório **Predecessores e sucessores entre projetos** usados no vídeo, consulte o tutorial [Explorar modo de texto básico para exibições no Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br) e verifique se você deseja usar os tutoriais de pré-requisito listados, se necessário.
+

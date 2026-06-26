@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 162
-ht-degree: 15%
+source-wordcount: 175
+ht-degree: 14%
 
 ---
 
@@ -37,11 +37,11 @@ Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439553/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Filtros e Opções de Pesquisa:** Use filtros e ferramentas de pesquisa, incluindo Pesquisa Avançada, para localizar rapidamente projetos específicos com base em nomes, descrições ou campos de dados personalizados. &#x200B;
 * **Lista de Recentes:** os projetos visualizados recentemente aparecem automaticamente na lista de Recentes, que pode exibir até 20 projetos para acesso rápido. &#x200B;
-* **Favoritos:** marque projetos como favoritos clicando no ícone de estrela. &#x200B; Favoritos permanecem acessíveis até serem removidos manualmente, tornando-os ideais para projetos acessados com frequência. &#x200B;
+* **Favoritos:** marque projetos como favoritos clicando no ícone de estrela. &#x200B; Favoritos permanecem acessíveis até serem removidos manualmente, tornando-os ideais para projetos acessados com frequência. 
 * **Fixando Projetos:** Fixe projetos para mantê-los facilmente acessíveis. &#x200B; projetos Fixados permanecem visíveis até que você os desafixe.
 * **Relatórios e painéis personalizados:** crie relatórios e painéis personalizados para organizar e acessar todos os projetos relevantes com eficiência. &#x200B;
 
@@ -52,3 +52,4 @@ Neste vídeo, você aprenderá algumas maneiras rápidas e fáceis de encontrar 
 * [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
 * [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
 * [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)
+

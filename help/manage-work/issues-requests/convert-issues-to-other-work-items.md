@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 12%
+source-wordcount: 243
+ht-degree: 11%
 
 ---
 
@@ -35,9 +35,9 @@ O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445435/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
-* **Processo de Conversão Simples:** Para converter um problema/solicitação em uma tarefa, abra o problema, clique no menu de três pontos e selecione &quot;Converter em Tarefa&quot;. &#x200B; O nome e a descrição da tarefa são copiados por padrão, mas podem ser editados. &#x200B;
+* **Processo de Conversão Simples:** Para converter um problema/solicitação em uma tarefa, abra o problema, clique no menu de três pontos e selecione &quot;Converter em Tarefa&quot;. &#x200B; O nome e a descrição da tarefa são copiados por padrão, mas podem ser editados. 
 * **Seleção de Projeto de Destino:** Você pode escolher o projeto de destino para a tarefa, seja o projeto padrão onde o problema reside ou outro projeto ao qual você tem acesso. &#x200B;
 * **Anexo de Formulário Automático:** Os formulários personalizados vinculados ao problema são adicionados automaticamente à tarefa, garantindo que todos os valores de campo sejam transferidos sem interrupções. &#x200B;
 * **Opções de Conversão:** As principais opções incluem:
@@ -56,4 +56,5 @@ O vídeo mostra como converter um problema ou uma solicitação em uma tarefa.
 * [Encontre e gerencie solicitações com eficiência](/help/manage-work/issues-requests/find-requests.md)
 * [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Lidar com o trabalho não planejado de maneira eficaz](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
 

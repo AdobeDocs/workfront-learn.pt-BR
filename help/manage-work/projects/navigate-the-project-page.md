@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 711
-ht-degree: 60%
+source-wordcount: 789
+ht-degree: 54%
 
 ---
 
@@ -35,21 +35,21 @@ ht-degree: 60%
 
 Este vídeo fornece uma visão geral da navegação e do gerenciamento da página do projeto no Workfront. &#x200B; principais recursos incluem:
 
-* **Cabeçalho do Projeto:** Exibe informações essenciais, como porcentagem concluída, gerente de projeto, data de conclusão planejada, condição do projeto e status. &#x200B; O status ajuda a rastrear o estágio do projeto e aciona notificações. &#x200B;
+* **Cabeçalho do Projeto:** Exibe informações essenciais, como porcentagem concluída, gerente de projeto, data de conclusão planejada, condição do projeto e status. &#x200B; O status ajuda a rastrear o estágio do projeto e aciona notificações. 
 * **Navegação estrutural:** mostra o posicionamento do projeto no programa e portfólio da organização, com links clicáveis para facilitar a navegação. &#x200B;
 * **Favoritos e Menu:** a estrela Favoritos marca o projeto para acesso rápido, enquanto o Menu oferece opções como editar detalhes, copiar o projeto e recalcular linhas do tempo. &#x200B;
-* **Lista de Tarefas:** representa etapas no plano de projeto. &#x200B; Use filtros rápidos para localizar tarefas, edição em linha para alterações rápidas e o painel de resumo da tarefa para obter informações detalhadas. &#x200B; Clicar em um nome de tarefa abre sua página dedicada. &#x200B;
-* **Painel esquerdo:** fornece acesso a várias seções do projeto, como detalhes, atualizações e documentos. &#x200B; O painel pode ser personalizado pelo administrador do sistema. &#x200B;
+* **Lista de Tarefas:** representa etapas no plano de projeto. &#x200B; Use filtros rápidos para localizar tarefas, edição em linha para alterações rápidas e o painel de resumo da tarefa para obter informações detalhadas. &#x200B; Clicar em um nome de tarefa abre sua página dedicada. 
+* **Painel esquerdo:** fornece acesso a várias seções do projeto, como detalhes, atualizações e documentos. &#x200B; O painel pode ser personalizado pelo administrador do sistema. 
 * **Seção de Atualizações:** Centraliza a comunicação sobre o projeto, permitindo marcar usuários, responder a comentários e exibir atualizações acumuladas de tarefas, problemas e documentos. &#x200B;
-* **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. &#x200B;
+* **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449731/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
-* **Visão geral do Cabeçalho do Projeto:** acesse rapidamente os detalhes principais do projeto, como porcentagem concluída, gerente do projeto, data de vencimento, status e condição. &#x200B; O status também controla notificações e estágios de workflow. &#x200B;
-* **Gerenciamento de tarefas:** use a lista de tarefas para rastrear etapas do projeto, aplicar filtros rápidos para localizar tarefas e fazer edições em linha. &#x200B; Acesse informações detalhadas da tarefa por meio do painel de resumo ou da página de tarefas. &#x200B;
+* **Visão geral do Cabeçalho do Projeto:** acesse rapidamente os detalhes principais do projeto, como porcentagem concluída, gerente do projeto, data de vencimento, status e condição. &#x200B; O status também controla notificações e estágios de workflow. 
+* **Gerenciamento de tarefas:** use a lista de tarefas para rastrear etapas do projeto, aplicar filtros rápidos para localizar tarefas e fazer edições em linha. &#x200B; Acesse informações detalhadas da tarefa por meio do painel de resumo ou da página de tarefas. 
 * **Navegação estrutural:** navegue pela hierarquia do projeto na organização usando links clicáveis na trilha de navegação estrutural. &#x200B;
 * **Atualizações Centralizadas:** Todas as atualizações de tarefas, problemas e documentos são acumuladas na seção de atualizações do projeto, simplificando a comunicação e o rastreamento. &#x200B;
 * **Organização de documentos**: carregue e gerencie arquivos e provas relacionados ao projeto na seção de documentos, garantindo que os documentos relevantes sejam anexados às tarefas para colaboração simplificada. &#x200B;
@@ -84,4 +84,5 @@ A página do projeto está repleta de recursos para ajudar a gerenciar seu traba
 * [Criar e gerenciar um projeto do zero](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Explore quatro métodos para criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Preencha os detalhes essenciais do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
+
 
