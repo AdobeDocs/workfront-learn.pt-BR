@@ -24,20 +24,20 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 167
-ht-degree: 14%
+source-wordcount: 222
+ht-degree: 11%
 
 ---
 
 # Criar um projeto diretamente a partir de um modelo
 
-O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você tiver os direitos para abrir um modelo, poderá usá-lo como atalho para criar um projeto. &#x200B; Para fazer isso, abra o modelo, acesse o menu de três pontos e selecione &quot;Criar projeto&quot;. &#x200B; Isso leva você a uma tela onde é possível editar os detalhes do projeto. &#x200B; Quando estiver pronto, clique em &quot;Criar projeto&quot; para finalizar. &#x200B;
+O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você tiver os direitos para abrir um modelo, poderá usá-lo como atalho para criar um projeto. &#x200B; Para fazer isso, abra o modelo, acesse o menu de três pontos e selecione &quot;Criar projeto&quot;. &#x200B; Isso leva você a uma tela onde é possível editar os detalhes do projeto. &#x200B; Quando estiver pronto, clique em &quot;Criar projeto&quot; para finalizar. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456018/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Acesso ao modelo:** Você precisa de direitos para abrir um modelo e criar um projeto a partir dele. &#x200B;
 * **Opção de Atalho:** usar um modelo pode ser um atalho útil em comparação a iniciar um projeto do zero. &#x200B;
@@ -53,3 +53,4 @@ O vídeo explica como criar um projeto a partir de um modelo. &#x200B; Se você 
 * [Copie um projeto existente com eficiência](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Editar a equipe do projeto em um modelo](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

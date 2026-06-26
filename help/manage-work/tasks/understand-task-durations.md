@@ -24,23 +24,21 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 188
-ht-degree: 8%
+source-wordcount: 230
+ht-degree: 6%
 
 ---
 
 # Entenda sobre a duração das tarefas
 
-Este vídeo explica as durações de tarefas no Workfront, seu impacto nas datas de início e conclusão da tarefa, linhas do tempo do projeto e práticas recomendadas para usar as durações de maneira eficaz.
-A Workfront recomenda usar durações e predecessores para estabelecer linhas do tempo da tarefa em vez de definir restrições manualmente, pois as restrições podem impedir ajustes automáticos.
-&#x200B;Durações precisas são essenciais para um planejamento eficaz de projetos e gerenciamento de recursos.
+Este vídeo explica as durações de tarefas no Workfront, seu impacto nas datas de início e conclusão da tarefa, linhas do tempo do projeto e práticas recomendadas para usar as durações de maneira eficaz.A Workfront recomenda usar durações e predecessores para estabelecer linhas do tempo da tarefa em vez de definir restrições manualmente, pois as restrições podem impedir ajustes automáticos.&#x200B;Durações precisas são essenciais para um planejamento eficaz de projetos e gerenciamento de recursos.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449348/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Definição de Duração da Tarefa:** a duração da tarefa é a diferença entre a data de início planejada de uma tarefa e a data de conclusão planejada, representando a janela de tempo para a conclusão do trabalho. &#x200B;
 * **Impacto na Linha de Tempo do Projeto:** as durações das tarefas afetam diretamente a duração geral do projeto e a data de conclusão planejada, tornando-as cruciais para um planejamento de projeto preciso. &#x200B;
@@ -54,4 +52,5 @@ A Workfront recomenda usar durações e predecessores para estabelecer linhas do
 * [Sequenciar tarefas efetivamente no Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
 * [Estimar horas de tarefas com esforço de trabalho](/help/manage-work/tasks/understand-work-effort.md)
+
 

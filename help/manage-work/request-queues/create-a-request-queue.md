@@ -25,24 +25,24 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:42.290Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 192
-ht-degree: 3%
+source-wordcount: 244
+ht-degree: 2%
 
 ---
 
 # Criar uma fila de solicitações no Workfront
 
-O vídeo fornece um guia passo a passo sobre a criação de uma fila de solicitações no Workfront. &#x200B; O vídeo é concluído demonstrando como enviar uma solicitação usando a fila do recém-criada, mostrando o processo de inserir detalhes e verificar o envio na guia &quot;solicitações enviadas&quot;. &#x200B;
+O vídeo fornece um guia passo a passo sobre a criação de uma fila de solicitações no Workfront. &#x200B; O vídeo é concluído demonstrando como enviar uma solicitação usando a fila do recém-criada, mostrando o processo de inserir detalhes e verificar o envio na guia &quot;solicitações enviadas&quot;. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
-* **Criando uma Fila de Solicitações:** Comece criando um novo projeto e nomeando-o, que servirá posteriormente como a fila de solicitações. &#x200B; Certifique-se de marcar a caixa &quot;publicar como fila de solicitações de ajuda&quot; para designá-la oficialmente como uma fila. &#x200B;
+* **Criando uma Fila de Solicitações:** Comece criando um novo projeto e nomeando-o, que servirá posteriormente como a fila de solicitações. &#x200B; Certifique-se de marcar a caixa &quot;publicar como fila de solicitações de ajuda&quot; para designá-la oficialmente como uma fila. 
 * **Permissões de Acesso:** Defina quem pode enviar solicitações à fila, escolhendo entre quatro opções: qualquer pessoa, visualizadores de projeto, membros da empresa ou membros do grupo. &#x200B;
-* **Tipos de Solicitação:** personalize a fila para incluir tipos específicos de solicitações, como problemas, relatórios de erros, ordens de alteração ou solicitações gerais. &#x200B; A opção padrão é &quot;problemas&quot; &#x200B;
+* **Tipos de Solicitação:** personalize a fila para incluir tipos específicos de solicitações, como problemas, relatórios de erros, ordens de alteração ou solicitações gerais. &#x200B; A opção padrão é &quot;problemas&quot;. 
 * **Campos Personalizáveis:** Defina detalhes adicionais, como tempo de resposta padrão, permissões e outras características da fila para adaptar sua funcionalidade. &#x200B;
 * **Ativando a Fila:** Salve as configurações e defina o status do projeto como &quot;atual&quot; para ativar a fila. &#x200B; Testar sua funcionalidade enviando uma solicitação e verificando-a na guia &quot;solicitações enviadas&quot;.
 
@@ -51,4 +51,5 @@ O vídeo fornece um guia passo a passo sobre a criação de uma fila de solicita
 * [Explorar filas de solicitações no Workfront](/help/manage-work/request-queues/understand-request-queues.md)
 * [Organizar as configurações do fluxo de solicitação](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Criar um fluxo de solicitação no Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+
 

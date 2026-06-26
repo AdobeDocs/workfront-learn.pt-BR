@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 208
-ht-degree: 7%
+source-wordcount: 224
+ht-degree: 6%
 
 ---
 
@@ -37,9 +37,9 @@ Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444594/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
-* **População Automática de Equipe:** a equipe do projeto é preenchida automaticamente quando os usuários recebem tarefas ou são designados como proprietários do projeto. &#x200B; No entanto, os usuários não são removidos automaticamente quando suas atribuições são removidas; isso deve ser feito manualmente. &#x200B;
+* **População Automática de Equipe:** a equipe do projeto é preenchida automaticamente quando os usuários recebem tarefas ou são designados como proprietários do projeto. &#x200B; No entanto, os usuários não são removidos automaticamente quando suas atribuições são removidas; isso deve ser feito manualmente. 
 * **Atualizações Manuais:** Você pode adicionar ou remover pessoas manualmente da equipe do projeto, mesmo que elas não tenham atribuições, garantindo que a lista da equipe permaneça precisa e atualizada. &#x200B;
 * **Comunicação Centralizada:** A guia Pessoas permite enviar atualizações para todos os membros da equipe no nível do projeto, tornando-a uma ferramenta conveniente para a comunicação em toda a equipe. &#x200B;
 * **Notificações por email:** Os administradores do sistema podem ativar notificações por email para a equipe do projeto, como alertas para documentos adicionados, tarefas de marcos concluídas ou problemas, garantindo que os membros da equipe permaneçam informados. &#x200B;
@@ -51,3 +51,4 @@ Neste vídeo, você aprenderá sobre para que a equipe do projeto pode ser usada
 * [Encontre projetos com eficiência](/help/manage-work/projects/find-projects.md)
 * [Compartilhar projetos com eficiência no Workfront](/help/manage-work/projects/share-a-project.md)
 * [Melhorar o sucesso do projeto por meio de uma comunicação eficaz](/help/manage-work/projects/understand-project-communication.md)
+

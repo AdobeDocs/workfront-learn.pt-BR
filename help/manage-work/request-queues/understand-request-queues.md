@@ -25,16 +25,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:40:08.316Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: 220
 ht-degree: 5%
 
 ---
 
 # Explorar filas de solicitações no Workfront
 
-Este vídeo explica o conceito de Filas de solicitações no Workfront, a finalidade delas e como enviar e gerenciar solicitações. &#x200B; Filas de solicitações servem como um local centralizado para enviar vários tipos de solicitações. &#x200B;
+Este vídeo explica o conceito de Filas de solicitações no Workfront, a finalidade delas e como enviar e gerenciar solicitações. &#x200B; Filas de solicitações servem como um local centralizado para enviar vários tipos de solicitações. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447015/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
@@ -42,7 +42,7 @@ Este vídeo explica o conceito de Filas de solicitações no Workfront, a finali
 
 * **Finalidade das Filas de Solicitações:** as Filas de Solicitações na Workfront fornecem um local centralizado para o envio de vários tipos de solicitações, como PTO, atualizações de software, sugestões de clientes e necessidades de treinamento.
 * **Enviando uma solicitação**: os usuários podem enviar solicitações navegando até a área Solicitação, selecionando o tipo de solicitação, preenchendo campos como Assunto, Descrição, campos opcionais (por exemplo, Documento) e preenchendo um formulário personalizado. &#x200B;
-* **Solicitações como problemas:** no Workfront, cada solicitação é tratada como um problema e deve ser associada a um projeto. &#x200B; projetos dedicados exclusivamente a solicitações são chamados de filas de solicitações. &#x200B;
+* **Solicitações como problemas:** no Workfront, cada solicitação é tratada como um problema e deve ser associada a um projeto. &#x200B; projetos dedicados exclusivamente a solicitações são chamados de filas de solicitações. 
 * **Gerenciamento de Filas:** O gerenciamento eficiente de filas envolve a organização de solicitações por tipo, o que personaliza as informações e atribuições necessárias, melhorando a eficiência. &#x200B;
 * **Localizando Solicitações Enviadas:** As solicitações enviadas podem ser encontradas na guia Problema da fila de solicitações associada navegando até a área Projetos e selecionando o projeto relevante. &#x200B;
 
@@ -52,4 +52,5 @@ Este vídeo explica o conceito de Filas de solicitações no Workfront, a finali
 * [Crie uma fila de solicitações](/help/manage-work/request-queues/create-a-request-queue.md)
 * [Criar uma fila de solicitações no Workfront](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Criar um fluxo de solicitação no Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+
 

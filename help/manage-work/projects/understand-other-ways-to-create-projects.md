@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:31.989Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 446
+source-wordcount: 451
 ht-degree: 4%
 
 ---
@@ -37,14 +37,14 @@ O vídeo fornece um guia abrangente sobre como criar projetos no Workfront usand
 
 **Criando um Projeto a partir de um Modelo:**
 
-* Navegue até a página Projetos, clique em &quot;Novo projeto&quot; e selecione &quot;Novo projeto a partir de modelo&quot; &#x200B;
+* Navegue até a página Projetos, clique em &quot;Novo projeto&quot; e selecione &quot;Novo projeto a partir de modelo&quot;. &#x200B;
 * Procure modelos ativos, visualize resumos (por exemplo, duração, proprietário, resumo da tarefa, formulários personalizados) e selecione um modelo. &#x200B;
 * Os modelos favoritos podem ser acessados diretamente para agilizar a seleção. &#x200B;
-* Preencha as informações iniciais (por exemplo, nome do projeto) e clique em &quot;Criar projeto&quot;. &#x200B; Campos podem ser editados posteriormente. &#x200B;
+* Preencha as informações iniciais (por exemplo, nome do projeto) e clique em &quot;Criar projeto&quot;. &#x200B; Campos podem ser editados posteriormente. 
 
 **Criando um Projeto do Zero:**
 
-* Vá para a página Projetos, clique em &quot;Novo projeto&quot; e selecione &quot;Novo projeto&quot; &#x200B;
+* Vá para a página Projetos, clique em &quot;Novo projeto&quot; e selecione &quot;Novo projeto&quot;. &#x200B;
 * Nomeie o projeto e edite detalhes como opções de compartilhamento, dados personalizados, portfólio e programa. &#x200B;
 * Os padrões definidos pelo grupo ou administrador do sistema podem ser aceitos ou alterados. &#x200B;
 * Salve o projeto, que é inicialmente compartilhado somente com o criador e os administradores do sistema. &#x200B;
@@ -52,7 +52,7 @@ O vídeo fornece um guia abrangente sobre como criar projetos no Workfront usand
 
 **Copiando um Projeto:**
 
-* Abra um projeto existente, clique no menu de três pontos e selecione &quot;Copiar&quot;.&#x200B;
+* Abra um projeto existente, clique no menu de três pontos e selecione &quot;Copiar&quot;. &#x200B;
 * Altere o nome, o status (por exemplo, Planning) e desmarque os itens que não serão copiados (por exemplo, despesas). &#x200B;
 * Edite detalhes como a data de início planejada após a cópia. &#x200B;
 
@@ -68,7 +68,7 @@ O vídeo enfatiza a flexibilidade do Workfront na criação de projetos por meio
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432172/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais conclusões
+## Principais lições
 
 * **Modelos Simplificam A Criação De Projetos:**
 * É altamente recomendado usar um modelo, pois ele pode predefinir os principais detalhes, como tarefas, formulários e opções de compartilhamento, economizando tempo e esforço. &#x200B;
@@ -88,4 +88,5 @@ O vídeo enfatiza a flexibilidade do Workfront na criação de projetos por meio
 * [Noções básicas sobre a criação de projetos](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navegar na página do projeto](/help/manage-work/projects/navigate-the-project-page.md)
 * [Preencha os detalhes do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
+
 
