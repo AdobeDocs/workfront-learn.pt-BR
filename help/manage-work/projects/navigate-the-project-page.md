@@ -44,7 +44,7 @@ Este vídeo fornece uma visão geral da navegação e do gerenciamento da págin
 * **Seção de Documentos:** Habilita o carregamento e o gerenciamento de arquivos e provas relacionados ao projeto. &#x200B; Documentos anexados a tarefas são acumulados no nível do projeto para facilitar o acesso. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449731/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
