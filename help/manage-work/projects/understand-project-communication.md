@@ -8,7 +8,7 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-11-11T00:00:00.000Z'
+last-substantial-update: '2026-07-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:49.217Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 8c436898c1fe507bafb41dfefba4727cf52e9f1a
 workflow-type: tm+mt
-source-wordcount: 436
-ht-degree: 11%
+source-wordcount: 378
+ht-degree: 12%
 
 ---
 
@@ -34,12 +34,12 @@ ht-degree: 11%
 
 O vídeo enfatiza a importância de uma comunicação eficaz para o sucesso do projeto e fornece estratégias para garantir clareza e eficiência na gestão de projetos. &#x200B; pontos principais incluem:
 
-* **Comunicação com as partes interessadas:** mantenha as partes interessadas informadas sobre o progresso, os problemas e as resoluções do projeto. &#x200B; Atualizações regulares adaptadas às suas necessidades são essenciais. 
-* **Clareza da tarefa:** certifique-se de que os membros da equipe entendam suas responsabilidades para evitar confusão e deformação do escopo. &#x200B; Use subtarefas para maior clareza ao atribuir várias pessoas a uma tarefa. 
-* **Comunicação Centralizada:** Use ferramentas como o Workfront para armazenar todas as discussões relacionadas ao projeto em um único local. &#x200B; Notificações podem ajudar os membros da equipe a permanecerem envolvidos em discussões. 
-* **Atualizações de Status:** incentive os membros da equipe a atualizarem regularmente o status da tarefa e a porcentagem concluída para obter relatórios precisos. &#x200B; tarefas curtas e específicas melhoram a precisão dos relatórios. 
-* **Gerenciamento de Problemas:** define claramente como os membros da equipe devem lidar com perguntas ou preocupações. &#x200B; problemas devem ser resolvidos antes da conclusão do projeto, enquanto as atualizações fornecem contexto contínuo. 
-* **Relatórios:** use relatórios de projeto para resumir o progresso do gerenciamento superior. &#x200B; Ferramentas como Pesquisa de notas podem ajudar a localizar atualizações específicas em threads. 
+* **Comunicação com as partes interessadas:** mantenha as partes interessadas informadas sobre o progresso, os problemas e as resoluções do projeto. &#x200B; Atualizações regulares adaptadas às suas necessidades são essenciais. &#x200B;
+* **Clareza da tarefa:** certifique-se de que os membros da equipe entendam suas responsabilidades para evitar confusão e deformação do escopo. &#x200B; Use subtarefas para maior clareza ao atribuir várias pessoas a uma tarefa. &#x200B;
+* **Comunicação Centralizada:** Use ferramentas como o Workfront para armazenar todas as discussões relacionadas ao projeto em um único local. &#x200B; Notificações podem ajudar os membros da equipe a permanecerem envolvidos em discussões. &#x200B;
+* **Atualizações de Status:** incentive os membros da equipe a atualizarem regularmente o status da tarefa e a porcentagem concluída para obter relatórios precisos. &#x200B; tarefas curtas e específicas melhoram a precisão dos relatórios. &#x200B;
+* **Gerenciamento de Problemas:** define claramente como os membros da equipe devem lidar com perguntas ou preocupações. &#x200B; problemas devem ser resolvidos antes da conclusão do projeto, enquanto as atualizações fornecem contexto contínuo. &#x200B;
+* **Relatórios:** use relatórios de projeto para resumir o progresso do gerenciamento superior. &#x200B; Ferramentas como Pesquisa de notas podem ajudar a localizar atualizações específicas em threads. &#x200B;
 * **Lições aprendidas**: planeje uma reunião pós-projeto para aprimorar projetos futuros. &#x200B;
 
 O vídeo destaca como o Workfront simplifica a comunicação, o gerenciamento de tarefas e a geração de relatórios, garantindo que todas as informações relacionadas ao projeto sejam acessíveis e organizadas. &#x200B;
