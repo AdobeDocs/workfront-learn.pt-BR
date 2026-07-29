@@ -9,6 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 recommendations: noDisplay,catalog
+last-substantial-update: '2026-07-28T00:00:00.000Z'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
@@ -23,20 +24,21 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: f4ee97efb7f49a98f8b6bcd5145558c6d6476fe4
 workflow-type: tm+mt
-source-wordcount: 270
-ht-degree: 4%
+source-wordcount: 185
+ht-degree: 7%
 
 ---
 
 # Entender os relacionamentos entre tarefas pai e filho
 
-Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são componentes essenciais de um projeto, representando os itens de trabalho necessários para a conclusão.&#x200B; O vídeo enfatiza a importância de organizar as tarefas com precisão como uma etapa essencial no planejamento e no gerenciamento do projeto. Ele demonstra como começar a trabalhar com tarefas e explica as relações entre tarefas pai e filho.&#x200B;As tarefas pai atuam como organizadores, agrupando o projeto em fases, estágios ou marcos, e não são atribuídas a indivíduos. Tarefas secundárias, ou subtarefas, representam trabalho acionável atribuído aos membros da equipe.
+Este vídeo explica a estrutura de tarefas no Workfront. As tarefas são componentes essenciais de um projeto, representando os itens de trabalho necessários para a conclusão.&#x200B; O vídeo enfatiza a importância de organizar as tarefas com precisão como uma etapa essencial no planejamento e no gerenciamento do projeto. Ele demonstra como começar a trabalhar com tarefas e explica as relações entre tarefas pai e filho.
+&#x200B;As tarefas pai atuam como organizadores, agrupando o projeto em fases, estágios ou marcos, e não são atribuídas a indivíduos. Tarefas secundárias, ou subtarefas, representam trabalho acionável atribuído aos membros da equipe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445601/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Tarefas como Backbone de Projeto:** as tarefas representam os itens de trabalho necessários para concluir um projeto e são cruciais para o planejamento e o gerenciamento eficaz do projeto. &#x200B;
 * **Estrutura de Tarefas Pai/Filho:** as tarefas pai agrupam o projeto em fases, estágios ou marcos, enquanto as tarefas filho (subtarefas) representam trabalho acionável atribuído aos membros da equipe. &#x200B;
