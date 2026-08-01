@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8776
-last-substantial-update: '2024-06-03T00:00:00.000Z'
+last-substantial-update: '2026-07-31T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
@@ -24,21 +24,23 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 6%
+source-wordcount: 188
+ht-degree: 8%
 
 ---
 
 # Entenda sobre a duração das tarefas
 
-Este vídeo explica as durações de tarefas no Workfront, seu impacto nas datas de início e conclusão da tarefa, linhas do tempo do projeto e práticas recomendadas para usar as durações de maneira eficaz.A Workfront recomenda usar durações e predecessores para estabelecer linhas do tempo da tarefa em vez de definir restrições manualmente, pois as restrições podem impedir ajustes automáticos.&#x200B;Durações precisas são essenciais para um planejamento eficaz de projetos e gerenciamento de recursos.
+Este vídeo explica as durações de tarefas no Workfront, seu impacto nas datas de início e conclusão da tarefa, linhas do tempo do projeto e práticas recomendadas para usar as durações de maneira eficaz.
+A Workfront recomenda usar durações e predecessores para estabelecer linhas do tempo da tarefa em vez de definir restrições manualmente, pois as restrições podem impedir ajustes automáticos.
+&#x200B;Durações precisas são essenciais para um planejamento eficaz de projetos e gerenciamento de recursos.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449348/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
-## Principais lições
+## Principais conclusões
 
 * **Definição de Duração da Tarefa:** a duração da tarefa é a diferença entre a data de início planejada de uma tarefa e a data de conclusão planejada, representando a janela de tempo para a conclusão do trabalho. &#x200B;
 * **Impacto na Linha de Tempo do Projeto:** as durações das tarefas afetam diretamente a duração geral do projeto e a data de conclusão planejada, tornando-as cruciais para um planejamento de projeto preciso. &#x200B;
