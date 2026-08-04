@@ -36,4 +36,4 @@ Neste vídeo, você aprenderá a:
 * Ajustar as informações do orçamento
 * Ajustar as informações de custos
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413825/?captions=por_br&quality=12&learn=on&enablevpops=1)

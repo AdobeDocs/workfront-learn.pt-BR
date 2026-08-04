@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá:
 * O que é a revisão?
 * Benefícios de se usar a revisão digital no [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439105/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Terminologia da revisão
 
