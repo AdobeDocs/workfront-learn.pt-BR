@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriais do Workfront
 user-guide-description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: '2657'
+source-wordcount: '2659'
 ht-degree: 77%
 
 ---
@@ -525,7 +525,7 @@ ht-degree: 77%
     + [Personalizar [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + Metadados e palavras-chave {#metadata-and-keywords}
-    + [Entenda os metadados](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [Introdução a metadados e palavras-chave](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [Habilitar e aplicar a taxonomia de palavras-chave](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [Revisar a terminologia de metadados](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [Pesquisar ativos usando metadados e palavras-chave](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)

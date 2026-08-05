@@ -1,6 +1,6 @@
 ---
-title: Entenda os metadados
-description: Saiba o que será abordado no curso Administração do [!UICONTROL DAM do Workfront], parte 2 - Metadados e palavras-chave.
+title: Introdução a metadados e palavras-chave
+description: Metadados são todos os dados usados para descrever um ativo. As palavras-chave são um subconjunto de metadados e contêm termos descritivos sobre o conteúdo do ativo.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 100%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
-# Entenda os metadados
+# Introdução a metadados e palavras-chave
 
 Metadados são todos os dados usados para descrever um ativo. Os campos de metadados têm um nome e os usuários podem editar ou alterar as informações em muitos desses campos. Alguns campos de metadados são preenchidos pelo aplicativo ou dispositivo de onde o ativo se originou e não podem ser editados.
 
