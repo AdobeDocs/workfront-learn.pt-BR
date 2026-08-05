@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
-last-substantial-update: '2024-06-19T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 243
 ht-degree: 19%
@@ -33,7 +33,9 @@ ht-degree: 19%
 
 # Entenda sobre as horas planejadas
 
-O vídeo explica o conceito de horas planejadas, que são estimativas do tempo necessário para concluir tarefas.As horas planejadas são cruciais para o gerenciamento de recursos no Workfront, ajudando a identificar a superalocação ou a subalocação de recursos.Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas futuras e esclarecer expectativas com os trabalhadores.
+O vídeo explica o conceito de horas planejadas, que são estimativas do tempo necessário para concluir tarefas.
+As horas planejadas são cruciais para o gerenciamento de recursos no Workfront, ajudando a identificar a superalocação ou a subalocação de recursos.
+Eles também ajudam a rastrear o tempo gasto em tarefas, melhorar estimativas futuras e esclarecer expectativas com os trabalhadores.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445338/?captions=por_br&quality=12&learn=on&enablevpops=1)
@@ -45,7 +47,7 @@ O vídeo explica o conceito de horas planejadas, que são estimativas do tempo n
 * **Dicas de Estimativa Precisas:** Divida tarefas longas em subtarefas menores, controle o tempo efetivamente e documente alterações ou problemas para refinar estimativas de horas planejadas. &#x200B;
 * **Gerenciamento de Recursos:** o Workfront usa horas planejadas para identificar a superalocação ou subalocação de recursos, garantindo atribuições eficientes de tarefas. &#x200B;
 * **Referência histórica:** projetos concluídos devem ser retidos como referências para planejamento futuro, especialmente para tarefas atribuídas a novos trabalhadores. &#x200B;
-* **Facilidade de Uso:** as horas planejadas podem ser adicionadas ou editadas usando a Edição Embutida, e as horas de tarefas pai são calculadas automaticamente somando-se subtarefas. &#x200B; É recomendável a inclusão de horas planejadas em modelos de projeto. 
+* **Facilidade de Uso:** as horas planejadas podem ser adicionadas ou editadas usando a Edição Embutida, e as horas de tarefas pai são calculadas automaticamente somando-se subtarefas. &#x200B; É recomendável a inclusão de horas planejadas em modelos de projeto. &#x200B;
 
 
 ## Tutoriais e artigos recomendados sobre este tópico

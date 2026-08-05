@@ -36,4 +36,4 @@ Neste vídeo, você aprenderá a:
 * Filtrar a lista de usuários na área Trabalho atribuído
 * Filtrar a área Trabalho não atribuído
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417886/?captions=por_br&quality=12&learn=on&enablevpops=1)
