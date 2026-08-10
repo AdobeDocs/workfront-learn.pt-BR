@@ -11,18 +11,13 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,7 +42,7 @@ Chame um serviço da web para retornar detalhes sobre vários países e identifi
 
 1. Crie um novo cenário e nomeie-o como “Agregação avançada”.
 1. Defina o módulo acionador como “HTTP - Fazer uma solicitação”.
-1. Use este URL, `https://restcountries.com/v2/lang/es`, que fornece uma lista de todos os países onde o espanhol é falado.
+1. Use este URL, `https://countries.dev/lang/es`, que fornece uma lista de todos os países onde o espanhol é falado.
 1. Deixe o método como Get.
 1. Clique na caixa de seleção Analisar resposta.
 1. Renomeie esse módulo como “Obter países”.
@@ -59,7 +54,7 @@ Chame um serviço da web para retornar detalhes sobre vários países e identifi
 
    **Você precisa coletar informações de sub-região para cada um dos países, portanto, precisará fazer uma solicitação HTTP adicional.**
 
-1. Adicione outra solicitação para obter informações da sub-região. Ela retornará apenas o primeiro país, mas isso é o suficiente por enquanto. Adicione outro módulo “HTTP - Fazer uma solicitação” e use o URL `https://restcountries.com/v2/name/{country name}`.
+1. Adicione outra solicitação para obter informações da sub-região. Ela retornará apenas o primeiro país, mas isso é o suficiente por enquanto. Adicione outro módulo “HTTP - Fazer uma solicitação” e use o URL `https://countries.dev/name/{country name}`.
 1. Para obter o nome do primeiro país, acesse o painel de mapeamento e clique em Dados e depois em Nome na matriz. O [1] no campo de dados significa que ele retornará o primeiro item na matriz.
 
    + Clique no número e altere o índice se necessário, mas nesse caso, busque apenas o primeiro item.
