@@ -9,23 +9,19 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -43,7 +39,8 @@ O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o e
 
 >[!NOTE]
 >
->Depois de salvar o cenário, uma nova versão estará disponível no menu de três pontos caso você precise acessá-la no futuro. As versões de cenários salvas anteriormente ficam disponíveis somente por 60 dias. Se você precisar acessar versões anteriores a 60 dias para fins de auditoria, o Workfront recomenda salvar um blueprint do cenário e arquivá-lo em um local determinado.
+>Depois de salvar o cenário, o Workfront Fusion mantém a versão anterior do cenário por 60 dias. O período de retenção de uma versão começa quando essa versão é substituída por uma versão mais recente, não quando a versão foi originalmente criada.
+>Para manter o histórico de versões do cenário além de 60 dias para fins de auditoria, salve e arquive um blueprint do cenário em um local combinado.
 
 
 ## Adicionar à terminologia
