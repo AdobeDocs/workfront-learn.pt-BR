@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 264
 ht-degree: 2%
@@ -41,7 +41,7 @@ O vídeo fornece um guia detalhado sobre como fazer e gerenciar solicitações n
 
 * **Criação de solicitação simplificada**: os usuários podem criar solicitações facilmente selecionando &quot;Solicitações&quot; no menu principal, escolhendo um tipo de solicitação, preenchendo campos obrigatórios e anexando documentos relevantes. &#x200B;
 * **Fluxos de trabalho personalizáveis:** as filas de solicitações e os formulários são adaptados aos fluxos de trabalho organizacionais, permitindo que os usuários especifiquem detalhes (por exemplo, mídia na loja, mídia externa, social) e prioridade.
-* **Recurso de Salvamento Automático de Rascunho:** Os rascunhos são salvos automaticamente à medida que os usuários preenchem o campo de assunto, garantindo que nenhum dado seja perdido ao pausar ou sair. &#x200B; rascunhos podem ser acessados posteriormente para conclusão ou descartados se desnecessário. 
+* **Recurso de Salvamento Automático de Rascunho:** Os rascunhos são salvos automaticamente à medida que os usuários preenchem o campo de assunto, garantindo que nenhum dado seja perdido ao pausar ou sair. &#x200B; rascunhos podem ser acessados posteriormente para conclusão ou descartados se desnecessário. &#x200B;
 * **Solicitações de Filtragem e Rastreamento:** as solicitações enviadas podem ser rastreadas na página &quot;Enviadas&quot;, com filtros disponíveis para exibir solicitações abertas, não resolvidas ou todas com base em permissões de usuário. &#x200B;
 * **Solicitações de Cópia e Reutilização**: os usuários podem copiar solicitações existentes para criar novas, facilitando o envio de solicitações semelhantes sem iniciar do zero.
 
