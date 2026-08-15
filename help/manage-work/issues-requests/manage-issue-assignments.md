@@ -8,7 +8,7 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-26T00:00:00.000Z'
+last-substantial-update: '2026-08-14T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:55:37.524Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 53316275f40bbdef51cff99078bb398a6b129f6e
 workflow-type: tm+mt
 source-wordcount: 287
 ht-degree: 16%
@@ -45,10 +45,10 @@ Neste vídeo, você aprenderá a:
 
 ## Principais lições
 
-* **Atribuição de problemas:** use a edição em linha no campo de atribuições para atribuir problemas a usuários ou equipes, e certifique-se de clicar em &quot;salvar&quot; depois de fazer atribuições. &#x200B; líderes de equipe podem usar o balanceador de carga de trabalho para atribuir tarefas arrastando-as e soltando-as nos calendários dos membros da equipe. 
-* **Localizando Problemas Atribuídos:** Os problemas atribuídos a você aparecem na lista de trabalho da Página Inicial, que pode ser filtrada. &#x200B; problemas atribuídos por equipe ficam visíveis na seção de solicitação de equipe, onde os membros da equipe podem aceitar ou reatribuir tarefas. &#x200B; Esses problemas também aparecem no balanceador de carga de trabalho para melhorar a visibilidade. 
-* **Progresso da Atualização:** Poste atualizações e registre horas em problemas para dar visibilidade sobre o progresso do trabalho. &#x200B; Use o recurso &quot;No nome&quot; para direcionar comentários para usuários ou equipes específicos. &#x200B; notificações são enviadas para comentários, mas não para horas reportadas ou alterações de status. 
-* **Alterando o Status do Problema:** Atualize o status do problema para refletir o progresso, como &quot;trabalhando nele&quot; ou &quot;concluído&quot;. &#x200B; problemas não resolvidos impedem que tarefas e projetos associados sejam marcados como concluídos. 
+* **Atribuição de problemas:** use a edição em linha no campo de atribuições para atribuir problemas a usuários ou equipes, e certifique-se de clicar em &quot;salvar&quot; depois de fazer atribuições. &#x200B; líderes de equipe podem usar o balanceador de carga de trabalho para atribuir tarefas arrastando-as e soltando-as nos calendários dos membros da equipe. &#x200B;
+* **Localizando Problemas Atribuídos:** Os problemas atribuídos a você aparecem na lista de trabalho da Página Inicial, que pode ser filtrada. &#x200B; problemas atribuídos por equipe ficam visíveis na seção de solicitação de equipe, onde os membros da equipe podem aceitar ou reatribuir tarefas. &#x200B; Esses problemas também aparecem no balanceador de carga de trabalho para melhorar a visibilidade. &#x200B;
+* **Progresso da Atualização:** Poste atualizações e registre horas em problemas para dar visibilidade sobre o progresso do trabalho. &#x200B; Use o recurso &quot;No nome&quot; para direcionar comentários para usuários ou equipes específicos. &#x200B; notificações são enviadas para comentários, mas não para horas reportadas ou alterações de status. &#x200B;
+* **Alterando o Status do Problema:** Atualize o status do problema para refletir o progresso, como &quot;trabalhando nele&quot; ou &quot;concluído&quot;. &#x200B; problemas não resolvidos impedem que tarefas e projetos associados sejam marcados como concluídos. &#x200B;
 * **Fluxos de Trabalho Específicos da Equipe:** Siga os fluxos de trabalho e configurações do sistema específicos da sua organização para gerenciar problemas com eficiência. &#x200B;
 
 
