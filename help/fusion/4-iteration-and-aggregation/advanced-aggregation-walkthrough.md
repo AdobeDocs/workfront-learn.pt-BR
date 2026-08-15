@@ -39,7 +39,7 @@ Chame um serviço da web para retornar detalhes sobre vários países e identifi
 
 O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497035/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## URLs de exercício
 
