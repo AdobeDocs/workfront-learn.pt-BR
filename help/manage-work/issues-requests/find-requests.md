@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-02-26T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 232
 ht-degree: 10%
@@ -49,7 +49,7 @@ Este vídeo explica como localizar e gerenciar solicitações no Workfront. &#x2
 * **Uso de Filtros na Área de Solicitação:** Filtros como &quot;minhas solicitações&quot; e &quot;minhas solicitações abertas&quot; permitem que os usuários vejam as solicitações que eles criaram. &#x200B;
 * **Gerenciando Solicitações na Página Equipes:** os usuários podem ver solicitações de equipe não atribuídas e atribuí-las a si mesmos ou a outras pessoas, usando o balanceador de carga de trabalho para gerenciar atribuições de membros da equipe com base em sua carga de trabalho atual. &#x200B;
 * **Relatórios e Painéis Personalizados**: os usuários podem criar relatórios personalizados para rastrear solicitações, permitindo nomes, filtros, visualizações e agrupamentos personalizados, o que ajuda a gerenciar e priorizar solicitações de maneira eficaz. &#x200B;
-* **Compreensão do termo “Meu” em filtros:** o termo “meu” na página inicial se refere a problemas atribuídos ao próprio usuário. O termo &quot;meu&quot; na área de solicitação se refere às questões solicitadas por mim. 
+* **Compreensão do termo “Meu” em filtros:** o termo “meu” na página inicial se refere a problemas atribuídos ao próprio usuário. O termo &quot;meu&quot; na área de solicitação se refere às questões solicitadas por mim. &#x200B;
 
 
 ## Tutoriais recomendados sobre este tópico
