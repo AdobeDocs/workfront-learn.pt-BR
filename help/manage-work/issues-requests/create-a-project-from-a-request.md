@@ -37,7 +37,7 @@ ht-degree: 3%
 
 O vídeo mostra como converter um problema ou uma solicitação em um projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446627/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
