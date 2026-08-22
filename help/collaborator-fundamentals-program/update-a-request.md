@@ -20,7 +20,7 @@ Neste vídeo, você aprenderá a:
 * Encontre solicitações que você enviou
 * Atualizar uma solicitação
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497598/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 <!--
 Guide
