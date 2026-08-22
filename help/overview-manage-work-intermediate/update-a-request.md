@@ -41,7 +41,7 @@ Neste vídeo, você aprenderá a:
 * Abrir a página de solicitação
 * Atualizar uma solicitação no painel [!UICONTROL Atualizações]
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497598/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 

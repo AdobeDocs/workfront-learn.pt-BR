@@ -35,7 +35,7 @@ ht-degree: 2%
 
 O vídeo explica como localizar e atualizar solicitações no Adobe Workfront. &#x200B; Depois de enviar uma solicitação, você pode adicionar informações ou fazer perguntas para garantir que os detalhes mais recentes estejam disponíveis para quem está trabalhando nela. &#x200B;  &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497598/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Principais lições
 
