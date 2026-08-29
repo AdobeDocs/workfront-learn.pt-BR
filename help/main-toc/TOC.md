@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutoriais do Workfront
 user-guide-description: Uma biblioteca de vídeos e artigos de treinamento desenvolvidos para ajudar você a entender melhor os recursos e configurações do Workfront.
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
+source-wordcount: '2670'
 ht-degree: 77%
 
 ---
@@ -563,6 +563,10 @@ ht-degree: 77%
 
 + Página inicial {#home}
   + [Remover, adicionar e reorganizar widgets na página inicial](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ Prioridades {#priorities}
+  + [Concentre seu dia usando prioridades](/help/priorities/focus-your-day-using-priorities.md)
+  + [Realizar ações e mostrar seu trabalho](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + Ágil {#agile}
