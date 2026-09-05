@@ -19,7 +19,7 @@ ht-degree: 0%
 
 As prioridades da Adobe simplificam as atualizações e a visibilidade do trabalho. Use-o para atualizar status, anexar arquivos, registrar horas e manter o progresso transparente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502460/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502473/?captions=por_br&learn=on&enablevpops)
 
 
 
