@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # Entenda as linhas do tempo do projeto
 
-Neste vídeo, você aprenderá sobre:
-
-* Gerenciamento básico da linha do tempo do projeto
-* Agendamento de projetos a partir da data de início ou de conclusão
-* Restrições de tarefa
-
->[!VIDEO](https://video.tv.adobe.com/v/3435840/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->Para obter uma explicação mais completa sobre os tipos de duração e restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=pt-br).
+{{$include /help/_includes/understand-project-timelines.md}}

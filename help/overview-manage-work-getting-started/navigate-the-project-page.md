@@ -14,59 +14,19 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:08.501Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: 36
 ht-degree: 100%
 
 ---
 
 # Navegar na página do projeto
 
-Neste vídeo, você aprenderá:
-
-* Como ver os detalhes do projeto
-* Quais informações são mostradas na lista de tarefas
-* Onde fazer upload de documentos
-* Como ver o histórico de atualizações
-
->[!VIDEO](https://video.tv.adobe.com/v/3449731/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Principais elementos da página do projeto
-
-A página do projeto está repleta de recursos para ajudar a gerenciar seu trabalho. Consulte o(a) admin de sistema se precisar de uma opção que não está disponível na sua instância do [!DNL Workfront]. Veja alguns recursos importantes da página principal do projeto.
-
-![Captura de tela da página do projeto](assets/project-page-graphic-for-planner-v2.png)
-
-1. **Caminho da navegação estrutural:** navegue pelo programa e pela hierarquia de portfólio por trás do projeto.
-2. **Tipo de objeto:** mostrar o tipo de objeto na página de destino ajuda a identificar o que você está vendo no [!DNL Workfront]. O termo “projeto” pode ser personalizado pelo administrador do sistema do [!DNL Workfront].
-3. **Nome do projeto:** o nome do projeto que você está visualizando. Clique no nome para editá-lo.
-4. **Cabeçalho do projeto:** informações padrão disponíveis em todas as páginas do projeto.
-5. **[!UICONTROL Percentual concluído]:** isso é atualizado automaticamente, com base nas tarefas concluídas no projeto.
-6. **[!UICONTROL Proprietário do projeto]:** na maioria das organizações, esse é o(a) gerente do projeto. É a pessoa responsável pelo gerenciamento do projeto no [!DNL Workfront] e por garantir que ele seja concluído.
-7. **[!UICONTROL Data de conclusão planejada]:** a data de conclusão planejada do projeto é definida pelo(a) gerente de projeto através da linha do tempo do projeto.
-8. **[!UICONTROL Condição]:** a [!UICONTROL condição] é uma representação visual de como o projeto está progredindo. O [!DNL Workfront] pode configurar automaticamente a [!UICONTROL condição] com base no status de progresso das tarefas no projeto. A [!UICONTROL condição] também pode ser definida manualmente pelos detalhes do projeto.
-9. **[!UICONTROL Status]:** o [!UICONTROL Status] indica onde o projeto está no processo: o projeto ainda está em planejamento, o projeto está em andamento ou o projeto está concluído.
-10. **[!UICONTROL Nova tarefa]:** clique para criar uma tarefa no projeto. A tarefa é gerada na parte inferior da lista.
-11. **[!UICONTROL Exportar]:** exporte tarefas selecionadas ou em uma lista para um arquivo PDF, de planilha ou delimitado por guias.
-12. **Menu do painel esquerdo:** navegue por diferentes informações sobre o projeto utilizando o painel esquerdo. Clique no ícone de Tarefa na parte superior para recolher o painel se precisar de um pouco mais de espaço na tela. Arraste e solte os ícones para organizá-los, de maneira que possa trabalhar com eficiência. As opções exibidas são definidas pelo(a) admin de sistema do [!DNL Workfront].
-13. **Lista de tarefas:** a lista de tarefas mostra todas as tarefas que compõem o plano do seu projeto. As informações visíveis sobre cada tarefa são determinadas pela exibição selecionada.
-14. **Painel de resumo:** o painel de resumo fornece uma visão rápida das informações sobre a tarefa selecionada. Clique no ícone do painel Resumo para abri-lo ou fechá-lo.
-15. **Adicionar mais tarefas** Clique aqui para adicionar outra tarefa à parte inferior da lista de tarefas, usando a edição em linha.
-
-## Tutoriais recomendados sobre este tópico
-
-* [Noções básicas sobre a criação de projetos](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Aprenda quatro maneiras de criar um projeto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Preencha os detalhes do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/navigate-the-project-page.md}}

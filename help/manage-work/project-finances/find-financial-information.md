@@ -13,43 +13,19 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
 doc-type: Feature Video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: ecdbfe97f711f985c41a40ff6d37cd748c765f8e
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 211
-ht-degree: 3%
+source-wordcount: 36
+ht-degree: 0%
 
 ---
 
 # Acessar e gerenciar informações financeiras para finanças de projetos
 
-O vídeo explica como acessar e gerenciar informações financeiras de projetos e tarefas. &#x200B;Ele fornece uma visão geral abrangente da navegação e compreensão dos dados financeiros nos níveis de projeto e tarefa. &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
-
-## Principais lições
-
-* **Acessando Informações Financeiras:** Os detalhes financeiros de um projeto estão localizados na página de finanças, acessível por meio de &quot;Detalhes do Projeto&quot;, enquanto os dados financeiros no nível da tarefa são encontrados em &quot;Detalhes da Tarefa&quot;.
-* **Campos Editáveis:** Usuários com os direitos apropriados podem editar campos como orçamento, benefício planejado, benefício real, receita fixa e custos fixos.
-* **Cálculos do Sistema:** Receita e custos planejados e reais são calculados automaticamente com base nos dados registrados para tarefas individuais.
-* **Métricas de Desempenho:** Índices de custo e agendamento são exibidos, e os usuários podem exibir métodos de cálculo clicando no ícone de informações. &#x200B; O método Índice de desempenho escolhido determina se a conclusão estimada é mostrada em horas ou em dinheiro.
-* **Controle de Despesas:** as despesas são parte dos custos e podem ser visualizadas nos níveis de tarefa e projeto, fornecendo uma visão abrangente dos dados financeiros.
-
-
-## Tutoriais recomendados sobre este tópico
-
-<!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
-* [Atualizar finanças para projetos de clientes](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Personalizar taxas de cobrança para funções de trabalho](/help/manage-work/project-finances/multiple-billing-rates.md)
-
-
+{{$include /help/_includes/find-financial-information.md}}

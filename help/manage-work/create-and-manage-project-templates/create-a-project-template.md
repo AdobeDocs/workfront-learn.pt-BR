@@ -13,73 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 630
-ht-degree: 52%
+source-wordcount: 46
+ht-degree: 69%
 
 ---
 
 # Criar um modelo de projeto e explorar Blueprints
 
-
-Aprenda a criar um modelo de projeto do zero ou utilize um projeto existente, e entenda como os [!UICONTROL blueprints] podem fornecer acesso a diversos modelos de projeto úteis criados por especialistas do Workfront.
-
-## Criar um modelo de projeto
-
-* O vídeo fornece um guia passo a passo sobre a criação e o uso de modelos para a produção de vídeos de marketing. Ele começa explicando como criar um novo modelo do zero, nomeando-o e salvando-o. &#x200B; O processo envolve três etapas principais: criar tarefas, configurar a linha do tempo usando durações e predecessores e fazer atribuições a funções de trabalho, em vez de usuários individuais. &#x200B; O vídeo enfatiza a organização de tarefas usando relações pai-filho para obter um melhor resumo e eficiência. 
-* Depois que o modelo é criado, ele pode ser usado para produzir novos projetos. O vídeo mostra como criar um novo projeto a partir do modelo, fazer os ajustes necessários e adicionar tarefas ou modificar a duração, conforme necessário. &#x200B; Também mostra como atribuir funções de trabalho a tarefas usando as funcionalidades de planejamento e programação de recursos. 
-* O vídeo explica como salvar um projeto existente como um novo modelo, permitindo atualizações e melhorias no fluxo de trabalho. &#x200B; Destaca a importância de gerenciar modelos para evitar confusão e garantir a execução simplificada do projeto. 
-
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
-
-## Principais lições
-
-* **Criação de um Modelo:** Saiba como criar um novo modelo do zero nomeando-o, configurando tarefas, linhas do tempo e fazendo atribuições a funções de trabalho. &#x200B;
-* **Organização da Tarefa:** Use relações de tarefas pai-filho para organizar tarefas com eficiência, fornecendo um resumo e uma estrutura claros para o projeto. &#x200B;
-* **Configuração da Linha do Tempo:** configure linhas do tempo da tarefa usando durações e predecessores para estimar com precisão o intervalo de tempo e a sequência de tarefas. &#x200B;
-* **Atribuições com base em funções:** atribua tarefas a funções de trabalho, em vez de usuários individuais, para utilizar as funcionalidades de planejamento e agendamento de recursos de maneira eficaz. &#x200B;
-* **Gerenciamento de modelos:** salve projetos existentes como novos modelos para incorporar melhorias e gerenciar modelos para evitar confusão e garantir uma execução eficiente do projeto. &#x200B;
-
-
-## Modelos criados com [!UICONTROL blueprints]
-
-Os usuários do Workfront podem usar [!UICONTROL blueprints] para ajudar a criar modelos de projeto. Este recurso, localizado no menu principal, permite acessar modelos pré-criados e prontos para uso, os quais são direcionados a um departamento e nível de maturidade específico. Esses modelos agilizam a criação de projetos repetíveis e ajudam a manter a consistência entre projetos com um escopo semelhante.
-
-![Blueprints no menu principal](assets/pt-blueprints-01.png)
-
-Qualquer usuário licenciado pode navegar pela lista de blueprints disponíveis no Workfront. Não é possível aplicar um blueprint diretamente ao criar um novo projeto (como ao converter uma tarefa ou solicitação em um projeto). Uma das principais diferenças entre um blueprint e um modelo de projeto é que o blueprint é usado para criar um modelo, enquanto o modelo é usado para criar um projeto. **O blueprint precisa ser instalado por um(a) admin de sistema para que o modelo correspondente seja criado.**
-
-Se encontrar um projeto que pareça interessante, você pode clicar em **[!UICONTROL Detalhes]** para saber mais sobre ele.
-
-![Lista de blueprints](assets/pt-blueprints-02.png)
-
-A tela de [!UICONTROL Detalhes] explica mais sobre o blueprint e fornece o histórico de instalação se o blueprint tiver sido instalado.
-
-![Detalhes sobre o uso de um blueprint](assets/pt-blueprints-03.png)
-
-Se o blueprint foi instalado, você pode clicar em **[!UICONTROL Ver detalhes]** para obter links para o modelo criado e quaisquer outros objetos que foram criados para auxiliar o modelo.
-
-![Detalhes sobre a instalação de um blueprint](assets/pt-blueprints-04.png)
-
-Se o blueprint ainda não tiver sido instalado, você pode solicitar isso a um(a) admin de sistema.
-
-## Tutoriais recomendados sobre este tópico
-
-* [Criar um projeto diretamente a partir de um modelo](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Compartilhar um modelo de projeto com eficiência](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copie um projeto existente com eficiência](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Desativar um modelo de projeto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Editar a equipe do projeto em um modelo](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
-
+{{$include /help/_includes/create-a-project-template.md}}

@@ -1,6 +1,6 @@
 ---
 title: Atualizar e revisar finanças
-description: Saiba como revisar as informações financeiras associadas a um projeto no  [!DNL &#x200B; Workfront].
+description: Saiba como revisar as informações financeiras associadas a um projeto no  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,56 +11,19 @@ level: Intermediate
 jira: KT-10137
 hide: true
 exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:57:32.878Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 258
-ht-degree: 92%
+source-wordcount: 20
+ht-degree: 100%
 
 ---
 
 # Atualizar e revisar finanças
 
-Se sua organização usa o [!DNL Workfront] para monitorar as informações financeiras relacionadas ao projeto, revisar despesas e criar registros de cobrança são atividades que podem fazer parte do processo de encerramento de um projeto.
-
->[!NOTE]
->
->Muitos clientes do [!DNL Workfront] administram as despesas e finanças do projeto em um sistema de terceiros, em vez de fazerem isso no [!DNL Workfront]. Portanto, podem existir diferentes processos ou diretrizes para atualizar e revisar informações financeiras antes de encerrar um projeto.
-
-
-## Despesas
-
-As despesas podem ser registradas em tarefas individuais ou no próprio projeto. Independentemente do item em que a despesa está registrada, você pode visualizar todas as despesas na seção [!UICONTROL Despesas] do próprio projeto.
-
-Seção ![[!UICONTROL Despesas] de um projeto](assets/expense-section.png)
-
-## Registros de cobrança
-
-Os registros de cobrança são usados no [!DNL Workfront] para reunir horas, despesas, receitas e valores faturáveis adicionais em um único registro e com um único valor. Muitas vezes, eles são exportados do [!DNL Workfront] para um sistema de faturamento ou contabilidade de terceiros.
-
-Você deve ter acesso aos dados financeiros no [!DNL Workfront] para criar e visualizar registros de cobrança.
-
-## Detalhes financeiros
-
-Ao observar as informações de [!UICONTROL Finanças] nos [!UICONTROL Detalhes do projeto], é possível ver números reais de benefícios, receita e custos.
-
-![Seção de finanças da janela [!UICONTROL Detalhes do projeto]](assets/finance-section-project-details.png)
-
-A maior parte das informações financeiras nos [!UICONTROL Detalhes do projeto] é configurada durante a criação do projeto, e os números exibidos aqui baseiam-se nessas informações. Então, enquanto você está fechando um projeto, realmente não há nada que você precise atualizar ou adicionar nos detalhes financeiros.
-
-<!--
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
--->
+{{$include /help/_includes/update-and-review-finances.md}}
