@@ -7,7 +7,7 @@ ht-degree: 94%
 ---
 # Planejar um projeto - revisar - COMPARTILHADO
 
-Coloque os projetos do [!DNL  Workfront] para funcionar rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com um foco inicial nesses cinco campos:
+Coloque os projetos do [!DNL &#x200B; Workfront] para funcionar rapidamente usando um modelo de projeto. Em seguida, planeje seu projeto com um foco inicial nesses cinco campos:
 
 1. Tarefas
 1. Duração
