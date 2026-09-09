@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:19:24.972Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Delegar tarefas, problemas e aprovações
 
-Saiba como delegar atribuições de problemas e tarefas, bem como aprovações de projetos, tarefas e problemas, a outro usuário do Workfront.
-
-Neste vídeo, você aprenderá a:
-
-* Habilitar delegação na configuração
-* Delegar atribuições de tarefas e problemas
-* Delegar aprovações de projetos, tarefas e problemas
-* Identificar aprovações delegadas
-
->[!VIDEO](https://video.tv.adobe.com/v/3446381/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Configurar notificações de eventos](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Criar um processo de aprovação global e de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Entenda os processos de aprovação específicos do grupo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-
+{{$include /help/_includes/delegate-approvals.md}}

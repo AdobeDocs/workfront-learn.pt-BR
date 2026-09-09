@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:31:33.943Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Compartilhar um projeto
 
-Neste vídeo, você aprenderá:
-
-* Como funciona o compartilhamento automático no Workfront
-* Como compartilhar um projeto com uma pessoa
-* Como compartilhar um projeto com uma equipe
-* Como compartilhar um projeto colocando-o em um portfólio
-* Práticas recomendadas para compartilhar um projeto
-
->[!VIDEO](https://video.tv.adobe.com/v/3423152/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Encontrar projetos](/help/manage-work/projects/find-projects.md)
-* [Entenda a equipe do projeto](/help/manage-work/projects/understand-the-project-team.md)
-* [Entenda a comunicação no projeto](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/share-a-project.md}}

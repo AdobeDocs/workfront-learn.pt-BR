@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:11:30.971Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 188
+source-wordcount: 37
 ht-degree: 100%
 
 ---
 
 # Compreender e gerenciar tipos de duração e restrições de tarefa
 
-Neste vídeo, você aprenderá o seguinte sobre tipos de duração e restrições de tarefa:
-
-* O que são e como funcionam
-* Erros comuns que gerentes de projetos cometem ao utilizá-los
-* Como visualizar todos eles no seu projeto
-* Como saber quando eles precisam ser corrigidos
-* Como corrigi-los
-* Práticas recomendadas para usá-los
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3422829/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-
-Para mais informações sobre como criar uma visualização de tipos de duração e restrições de tarefa, consulte a atividade de visualização de tipos de duração e restrições de tarefa em [Criar uma visualização básica](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=pt-BR).
-
-Para mais detalhes sobre os tipos de duração, consulte [Duração da tarefa e tipos de duração](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=pt-BR).
-
-Para mais detalhes sobre restrições de tarefa, consulte [Restrições de tarefa](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=pt-BR).
+{{$include /help/_includes/understand-and-manage-duration-types-and-task-constraints.md}}

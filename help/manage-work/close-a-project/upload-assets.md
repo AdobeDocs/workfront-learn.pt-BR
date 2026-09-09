@@ -24,29 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 88
-ht-degree: 70%
+source-wordcount: 30
+ht-degree: 66%
 
 ---
 
 # Fazer upload e gerenciar ativos do projeto
 
-Neste vídeo, você aprenderá a:
-
-* Verificar aprovações em provas
-* Verificar aprovações em documentos
-* Fazer upload de um documento
-* Localizar treinamento sobre o upload de provas
-
->[!VIDEO](https://video.tv.adobe.com/v/3440375/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Fazer upload de uma prova com um fluxo de trabalho básico](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-* [Alterar o status do projeto para concluído](/help/manage-work/projects/change-the-project-status.md)
-* [Resolver aprovações de tarefas e problemas](/help/manage-work/close-a-project/complete-approvals.md)
-* [Registre as lições aprendidas para projetos futuros](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrar e revisar as horas do projeto](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/upload-assets.md}}

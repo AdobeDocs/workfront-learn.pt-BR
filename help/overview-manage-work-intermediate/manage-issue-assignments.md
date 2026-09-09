@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:13:29.079Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # Gerenciar atribuições de problemas
 
-O gerenciamento de problemas é uma responsabilidade importante do(a) gerente de projeto e das pessoas designadas para trabalhar nos problemas.
-
-Neste vídeo, você aprenderá a:
-
-* Atribuir um problema
-* Localizar uma atribuição de problema
-* Atualizar o progresso de problemas
-* Atualizar o status do problema
-
->[!VIDEO](https://video.tv.adobe.com/v/3446960/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Lidar com tarefas não planejadas](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Localizar e gerenciar solicitações](/help/manage-work/issues-requests/find-requests.md)
-* [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/manage-issue-assignments.md}}

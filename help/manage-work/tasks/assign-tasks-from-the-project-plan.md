@@ -24,33 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 191
-ht-degree: 16%
+source-wordcount: 39
+ht-degree: 30%
 
 ---
 
 # Atribua tarefas do plano do projeto
 
-O vídeo explica vários métodos para atribuir tarefas em um plano de projeto. Ele enfatiza o uso de ferramentas como filtros, modelos e recursos de gerenciamento para simplificar as atribuições de tarefas e otimizar os fluxos de trabalho do projeto.
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3445745/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Principais conclusões
-
-* **Edição em linha para Atribuições rápidas:** atribua tarefas facilmente digitando um nome e selecionando em uma lista, com a funcionalidade de digitação antecipada para uma seleção mais rápida. &#x200B;
-* **Edição em Massa para Eficiência:** atribua várias tarefas à mesma pessoa selecionando tarefas, usando a edição em massa e escolhendo o nome na lista. &#x200B;
-* **Funções de Trabalho para Atribuições Simplificadas:** Use funções de trabalho para facilitar atribuições de tarefas, especialmente com modelos de projeto. &#x200B; Funções de trabalho são registradas separadamente para gerenciamento de recursos e planejamento de capacidade. &#x200B;
-* **Atribuições de equipe para o Collaboration:** atribua tarefas a equipes selecionando o nome da equipe, visível com um ícone de equipe. &#x200B; membros da equipe podem autoatribuir tarefas ou líderes de equipe podem reatribuí-las, além de reter o nome da equipe para relatórios. &#x200B;
-* **Integração do Gerenciamento de Recursos:** as funções de trabalho e atribuições de equipe oferecem suporte aos cálculos de capacidade e disponibilidade de recursos, aprimorando o planejamento e a execução do projeto. &#x200B;
-
-
-## Tutoriais recomendados sobre este tópico
-
-* [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
-* [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Entenda o [!UICONTROL Esforço do trabalho]](/help/manage-work/tasks/understand-work-effort.md)
-
+{{$include /help/_includes/assign-tasks-from-the-project-plan.md}}

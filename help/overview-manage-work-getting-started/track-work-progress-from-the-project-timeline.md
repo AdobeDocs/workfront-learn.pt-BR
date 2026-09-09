@@ -23,26 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:57.735Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Acompanhe o progresso da linha do tempo do projeto
 
-Certifique-se de que as tarefas estejam progredindo da maneira esperada para atender aos prazos do projeto.
-
-Neste vídeo, você aprenderá sobre:
-
-* Percentual completo
-* Status do progresso
-
->[!VIDEO](https://video.tv.adobe.com/v/3438213/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-
-## Tutoriais recomendados sobre este tópico
-
-* [Entenda as linhas do tempo do projeto](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Entenda os tipos de data e os status do progresso](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

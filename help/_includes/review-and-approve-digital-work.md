@@ -1,0 +1,48 @@
+---
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '341'
+ht-degree: 8%
+
+---
+# Revisar e aprovar trabalho digital - COMPARTILHADO
+
+O vídeo explica como revisar e aprovar o trabalho digital usando o widget &quot;Aguardando minha aprovação&quot; na área Página inicial. &#x200B; Abrange cinco tipos de homologações:
+
+* **Aprovação do projeto:** você pode aprovar ou rejeitar diretamente na área Página Inicial, com uma opção para adicionar comentários. &#x200B; Para revisão detalhada, clique no nome do projeto para acessar os detalhes. &#x200B; aprovações feitas no projeto não solicitam comentários, mas permitem comentários opcionais.
+* **Aprovação da tarefa:** de modo semelhante à aprovação do projeto, você pode revisar a tarefa clicando no seu nome ou aprovar/rejeitar diretamente com um comentário.
+* **Aprovação de problema:** funciona como aprovação de tarefa/projeto, com uma opção para ignorar a aprovação sem adicionar um comentário.
+* **Aprovação de prova:** Navegue até a prova para revisar e adicionar comentários específicos. &#x200B; opções de Aprovação incluem &quot;Aprovar&quot;, &quot;Aprovado com alterações&quot;, &quot;Alterações necessárias&quot; ou &quot;Não relevante&quot;.
+* **Aprovação de documento:** documentos sem provas ainda podem ser aprovados ou rejeitados. &#x200B; Se forem necessárias alterações, descreva-as em um comentário, semelhante a &quot;Aprovado com alterações&quot; na aprovação da prova.
+
+O vídeo enfatiza a flexibilidade na revisão e aprovação do trabalho, com opções para adicionar comentários e especificar alterações, conforme necessário. &#x200B;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3444951/?captions=por_br&quality=12&learn=on&enablevpops=1)
+
+## Principais lições
+
+* **Gerenciamento centralizado de aprovações:** todos os itens que estão aguardando aprovação podem ser acessados no widget &quot;Aguardando minha aprovação&quot; na área Página inicial. &#x200B;
+* **Opções de Revisão Flexíveis:** Você pode aprovar ou rejeitar diretamente da área Página Inicial ou clicar no nome do item para examinar os detalhes antes de tomar uma decisão. &#x200B;
+* **Opções de Comentários:** a adição de comentários é opcional, mas é recomendável para maior clareza. &#x200B; Aprovações feitas na área Página inicial solicitam comentários, enquanto as feitas no item não solicitam. &#x200B;
+* **Especificações da aprovação de prova:** as aprovações de prova oferecem várias opções, incluindo &quot;Aprovado com alterações&quot;, &quot;Alterações necessárias&quot; e &quot;Não relevante&quot;, permitindo feedback detalhado. &#x200B;
+* **Alterações de manuseio:** Para documentos ou provas que exigem alterações, você pode especificar as alterações nos comentários, garantindo uma comunicação clara para reenvio ou atualizações. &#x200B;
+
+
+>[!NOTE]
+>
+>Documentos, provas e itens de trabalho (projetos, tarefas e problemas) que exigem aprovações podem ser encontrados em projetos e relatórios personalizados, além de [!DNL Workfront Home].
+
+## Tutoriais recomendados sobre este tópico
+
+* [Criar e gerenciar processos de aprovação](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Delegar tarefas, problemas e aprovações efetivamente](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+
+
+<!--
+learn more URLS
+Approving work
+Home area for Reviewers
+Guides
+Home overview for Reviewers
+Issue page overview
+-->

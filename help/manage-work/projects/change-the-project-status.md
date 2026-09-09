@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:52.285Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 87
-ht-degree: 75%
+source-wordcount: 27
+ht-degree: 100%
 
 ---
 
 # Alterar o status do projeto para concluído
 
-Neste vídeo, você aprenderá:
-
-* Como alterar o status do projeto para [!UICONTROL Concluído]
-* Por que alterar o status do projeto para [!UICONTROL Concluído]
-* O que fazer se não for possível alterar o status do projeto para [!UICONTROL Concluído]
-
->[!VIDEO](https://video.tv.adobe.com/v/3439363/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Resolver aprovações de tarefas e problemas](/help/manage-work/close-a-project/complete-approvals.md)
-* [Fazer upload e gerenciar ativos do projeto](/help/manage-work/close-a-project/upload-assets.md)
-* [Registre as lições aprendidas para projetos futuros](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrar e revisar as horas do projeto](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/change-the-project-status.md}}

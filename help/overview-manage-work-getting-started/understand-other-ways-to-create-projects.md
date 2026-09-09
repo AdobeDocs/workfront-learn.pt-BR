@@ -26,26 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:12.110Z'
-source-git-commit: b332feac9c0d553ae5bf0acd52d95e2724d7ffe5
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 35
 ht-degree: 100%
 
 ---
 
 # Aprenda quatro maneiras de criar um projeto
 
-Neste vídeo, você aprenderá a:
-
-* Criar um projeto a partir de um modelo
-* Criar um projeto do zero
-* Copiar um projeto existente
-* Importar um arquivo [!DNL Microsoft Project]
-
->[!VIDEO](https://video.tv.adobe.com/v/3432172/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Noções básicas sobre a criação de projetos](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Navegar na página do projeto](/help/manage-work/projects/navigate-the-project-page.md)
-* [Preencha os detalhes do projeto](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-other-ways-to-create-projects.md}}

@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:25:17.227Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
-# Entenda sobre [!UICONTROL esforço de trabalho]
+# Entenda o [!UICONTROL Esforço do trabalho]
 
-Neste vídeo, você aprenderá:
-
-* O que é o Esforço de trabalho e como ele pode ajudar a gerenciar projetos
-* Como usar o Esforço de trabalho
-* Como criar uma visualização de tarefa do Esforço de trabalho
-
->[!VIDEO](https://video.tv.adobe.com/v/3447404/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-Para mais informações sobre [!UICONTROL Esforço de trabalho], consulte o artigo [Visão geral do esforço de trabalho](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=pt-BR).
-
-## Tutoriais recomendados sobre este tópico
-
-* [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
-* [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Criar uma visualização básica](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/understand-work-effort.md}}

@@ -24,40 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:12:05.478Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 90
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # Revisar e aprovar um trabalho digital
 
-Neste vídeo, você aprenderá a:
-
-* Encontre aprovações em [!DNL Workfront Home]
-* Fazer aprovações de projetos, tarefas e problemas
-* Fazer aprovações de documentos
-* Fazer aprovações de provas
-
->[!VIDEO](https://video.tv.adobe.com/v/3444951/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-
->[!NOTE]
->
->Documentos, provas e itens de trabalho (projetos, tarefas e problemas) que exigem aprovações podem ser encontrados em projetos e relatórios personalizados, além de [!DNL Workfront Home].
-
-## Tutoriais recomendados sobre este tópico
-
-* [Crie um processo de aprovação de uso único](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Delegar tarefas, problemas e aprovações](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-
-
-<!--
-learn more URLS
-Approving work
-Home area for Reviewers
-Guides
-Home overview for Reviewers
-Issue page overview
--->
+{{$include /help/_includes/review-and-approve-digital-work.md}}

@@ -25,25 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:23:39.556Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 70
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # Trabalhar com tarefas
 
-Neste vídeo, você aprenderá:
-
-* Como editar tarefas existentes em um projeto
-* Formas de adicionar e excluir tarefas
-* Como alterar a ordem das tarefas
-
->[!VIDEO](https://video.tv.adobe.com/v/3448561/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Entenda as tarefas principais-secundárias](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Atribua tarefas do plano do projeto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
+{{$include /help/_includes/work-with-tasks.md}}

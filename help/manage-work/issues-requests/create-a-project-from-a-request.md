@@ -26,32 +26,13 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 3%
+source-wordcount: 43
+ht-degree: 0%
 
 ---
 
 # Converter um problema ou solicitação em um projeto
 
-O vídeo mostra como converter um problema ou uma solicitação em um projeto.
-
->[!VIDEO](https://video.tv.adobe.com/v/3446627/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Principais lições
-
-* **Processo de conversão**: para converter um problema ou solicitação em um projeto, selecione o problema, use o menu de três pontos e escolha uma opção de conversão, de preferência usando um modelo. &#x200B;
-* **Seleção de Modelo:** O uso de um modelo é recomendado para fins de consistência e facilidade. &#x200B; Você pode revisar e selecionar o modelo apropriado com base nos requisitos do projeto. &#x200B;
-* **Detalhes do Projeto:** o nome e a descrição do projeto são copiados do problema por padrão, mas podem ser editados. &#x200B; formulários personalizados do problema também são transferidos para o projeto. &#x200B;
-* **Solução de problema:** você pode optar por manter o problema original vinculado ao projeto, impedindo que ele seja marcado como resolvido até que o projeto seja concluído. &#x200B; Alternativamente, o problema pode ser excluído na conversão. &#x200B;
-* **Acesso e Visibilidade:** você pode conceder acesso ao projeto ao solicitante. &#x200B; O projeto convertido estará visível na coluna &quot;convertido em&quot;, indicando se foi convertido em uma tarefa ou projeto. &#x200B;
-
-
-## Tutoriais recomendados sobre este tópico
-
-* [Encontre e gerencie solicitações com eficiência](/help/manage-work/issues-requests/find-requests.md)
-* [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Lidar com o trabalho não planejado de maneira eficaz](/help/manage-work/issues-requests/handle-unplanned-work.md)
-
-
+{{$include /help/_includes/create-a-project-from-a-request.md}}

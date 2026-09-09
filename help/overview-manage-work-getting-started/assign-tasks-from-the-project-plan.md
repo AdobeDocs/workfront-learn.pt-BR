@@ -26,37 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:37:33.273Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Atribua tarefas do plano do projeto
 
-Neste vídeo, você:
-
-* Saberá como atribuir uma tarefa usando edição em linha
-* Saberá como atribuir várias tarefas à mesma pessoa
-* Entenderá o valor das funções de trabalho ao atribuir tarefas
-* Entenderá o valor dos modelos de projeto ao atribuir tarefas
-* Entenderá o valor de atribuir tarefas às equipes
-
->[!VIDEO](https://video.tv.adobe.com/v/3445745/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-<!--
-learn more urls:
-Notifications: Information about work assigned to me
-Assign tasks
-Personal time overview
-Make smart assignments
-Modify multiple user assignments in a task list
--->
-
-## Tutoriais recomendados sobre este tópico
-
-* [Entenda sobre a duração das tarefas](/help/manage-work/tasks/understand-task-durations.md)
-* [Aprenda a sequenciar tarefas](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Entenda sobre as horas planejadas](/help/manage-work/tasks/understand-planned-hours.md)
-* [Entenda o [!UICONTROL Esforço do trabalho]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/assign-tasks-from-the-project-plan.md}}

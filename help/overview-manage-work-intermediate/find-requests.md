@@ -25,32 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:17:10.423Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Localizar e gerenciar solicitações
 
-Neste vídeo, você aprenderá a encontrar solicitações às quais está atribuído, solicitações que criou e solicitações que gerencia.
-
-Você aprenderá a encontrar essas solicitações nos seguintes locais:
-
-* Na [!UICONTROL página inicial] do Workfront
-* Na área [!UICONTROL Solicitações]
-* Na página [!UICONTROL Equipes]
-* Em um painel personalizado
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3441659/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-
-## Tutoriais recomendados sobre este tópico
-
-* [Entenda as filas de solicitações](/help/manage-work/request-queues/understand-request-queues.md)
-* [Fazer uma solicitação](/help/manage-work/issues-requests/make-a-request.md)
-* [Atualizar uma solicitação](/help/manage-work/issues-requests/update-a-request.md)
-* [Converter um problema ou solicitação em um projeto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/find-requests.md}}

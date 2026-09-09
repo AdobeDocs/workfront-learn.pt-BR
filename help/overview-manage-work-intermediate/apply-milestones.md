@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:22:30.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Aplique marcos
 
-Neste vídeo, você aprenderá a:
-
-* Aplique um caminho de marcos em um projeto
-* Adicione um marco em uma tarefa
-* Práticas recomendadas para aplicar marcos
-
->[!VIDEO](https://video.tv.adobe.com/v/3430283/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Para obter informações sobre como criar uma visualização de marco, consulte a atividade de visualização de marco em [Criar uma visualização básica](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Tutoriais recomendados sobre este tópico
-
-* [Exibir marcos](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Criar marcos](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Atividade de exibição de marcos em “Criar uma visualização básica”](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/apply-milestones.md}}

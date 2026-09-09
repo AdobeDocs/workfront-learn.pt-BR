@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 251
-ht-degree: 98%
+source-wordcount: 23
+ht-degree: 100%
 
 ---
 
 # Entenda os predecessores de projetos
 
-Predecessores entre projetos são uma maneira fácil de estabelecer dependências entre tarefas em diferentes projetos. Por exemplo, uma empresa de construção pode ter um projeto chamado **Construção de estrada de acesso para o desenvolvimento habitacional Summerhill** e outro projeto chamado **Construção de casa modelo em Summerhill**. Ao fazer com que a primeira tarefa em **Criação de casa modelo** tenha uma predecessora entre projetos da última tarefa em **Criação de uma estrada de acesso**, você se certifica de que a estrada de acesso está pronta antes de começar a construir a casa. Como as tarefas estão vinculadas, se o projeto **Construção de estrada de acesso** for adiado, a data inicial planejada da **Construção de casa modelo** será automaticamente adiado de acordo.
-
->[!PREREQUISITES]
->
->* [Sequenciar tarefas efetivamente no Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=pt-BR)
->* Ou você já compreende bem o uso de predecessores em seus projetos?
-
-
-Neste vídeo, você aprenderá:
-
-* O que é um predecessor entre projetos e como ele pode ser útil
-* Como criar um predecessor entre projetos
-* Como rastrear predecessores entre projetos em relatórios
-
->[!VIDEO](https://video.tv.adobe.com/v/3422839/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-Para saber como criar a visualização **Predecessores e sucessores entre projetos** e o relatório **Predecessores e sucessores entre projetos** usado no vídeo, consulte o tutorial [Compreender o modo de texto básico para visualizações](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=br) e certifique-se de seguir os tutoriais de pré-requisitos listados lá, se necessário.
-
+{{$include /help/_includes/understand-cross-project-predecessors.md}}

@@ -23,34 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 246
-ht-degree: 8%
+source-wordcount: 35
+ht-degree: 22%
 
 ---
 
 # Acompanhe o progresso geral do projeto
 
-O vídeo explica como monitorar o progresso geral do projeto usando vários indicadores no Workfront, incluindo Percentual concluído, Datas projetadas, Status do progresso e da condição, Problemas em aberto e a coluna Atualização da condição.
-
-O vídeo enfatiza a importância de atualizações regulares pelos membros da equipe e do gerenciamento pró-ativo de problemas para garantir um rastreamento preciso e a conclusão oportuna do projeto. &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3447415/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Principais lições
-
-* **Cálculo do Percentual Concluído:** o andamento geral do projeto é calculado com base nos valores do Percentual Concluído de tarefas individuais, ponderados por sua duração ou horas planejadas. &#x200B;
-* **Datas planejadas vs. projetadas:** o Workfront calcula as datas de início/conclusão planejadas e projetadas com base na duração da tarefa e em suas predecessoras. &#x200B; discrepâncias entre essas datas indicam possíveis atrasos. 
-* **Status da Condição do Projeto:** o campo de condição (por exemplo, No Destino, Em Risco, Com Problema) reflete o status do projeto e pode ser definido manual ou automaticamente usando o modo Status de Progresso. &#x200B;
-* **Gerenciamento de Problemas Abertos:** problemas abertos sinalizam riscos em potencial. &#x200B; Revisá-los e convertê-los em tarefas prontamente é essencial para manter as linhas do tempo do projeto. 
-* **Coluna de Atualização de Condição:** atualizações semanais do gerente de projeto na coluna de Atualização de Condição fornecem um resumo claro do progresso e ajudam a acompanhar os desenvolvimentos mais recentes. &#x200B;
-
-
-## Tutoriais recomendados sobre este tópico
-
-* [Gerenciar um projeto com o status atual](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Explore a visualização de Gantt para gerenciamento de projetos](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Explore a visualização do painel para o gerenciamento de tarefas](/help/manage-work/projects/understand-the-board-view.md)
-
+{{$include /help/_includes/track-overall-project-progress.md}}

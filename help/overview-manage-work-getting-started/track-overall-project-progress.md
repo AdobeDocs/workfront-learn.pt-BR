@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:30:48.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 67
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # Acompanhe o progresso geral do projeto
 
-Neste vídeo, você aprenderá a monitorar o progresso do projeto por meio de:
-
-* Percentual completo
-* Datas projetadas
-* Status do progresso e condição
-* Problemas em aberto
-* A coluna de atualização da condição
-
->[!VIDEO](https://video.tv.adobe.com/v/3447415/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Entenda a visualização de [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Entenda a visualização de [!UICONTROL Quadro]](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/track-overall-project-progress.md}}

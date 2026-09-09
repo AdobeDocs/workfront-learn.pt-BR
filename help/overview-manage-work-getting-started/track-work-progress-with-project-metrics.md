@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:30:32.131Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: 26
 ht-degree: 100%
 
 ---
 
 # Acompanhar o progresso do trabalho com métricas do projeto
 
-Neste vídeo, você aprenderá a:
-
-* Acesse os gráficos de métricas do projeto
-* Personalize as informações nos gráficos
-
->[!VIDEO](https://video.tv.adobe.com/v/3439175/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-## Tutoriais recomendados sobre este tópico
-
-* [Introdução ao gerenciamento de um projeto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Acompanhe o progresso geral do projeto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Acompanhar o progresso do trabalho com métricas do projeto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Entenda a visualização de [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Entenda a visualização de [!UICONTROL Quadro]](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/track-work-progress-with-project-metrics.md}}

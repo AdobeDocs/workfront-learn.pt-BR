@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 33
 ht-degree: 100%
 
 ---
 
 # Converter um problema ou solicitação em um projeto
 
-Neste vídeo, você aprenderá a:
-
-* Iniciar a conversão de solicitação em projeto
-* Selecionar o modelo de projeto apropriado
-* Concluir a conversão de uma solicitação em projeto
-
->[!VIDEO](https://video.tv.adobe.com/v/3446627/?captions=por_br&quality=12&learn=on&enablevpops=1)
-
-
-## Tutoriais recomendados sobre este tópico
-
-* [Localizar e gerenciar solicitações](/help/manage-work/issues-requests/find-requests.md)
-* [Converter um problema ou solicitação em uma tarefa](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Lidar com tarefas não planejadas](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/create-a-project-from-a-request.md}}
