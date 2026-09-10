@@ -6,10 +6,10 @@ breadcrumb-title: Gerenciar trabalho - intermediário
 solution: Workfront
 sub-product: Work Management
 index: true
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 64%
+source-wordcount: '221'
+ht-degree: 12%
 
 ---
 
@@ -18,36 +18,39 @@ ht-degree: 64%
 
 + [Gerenciar trabalho - intermediário](overview.md)
 + Gerenciar trabalho - intermediário {#manage-work-intermediate}
-   + Modelos de projeto {#project-templates}
-      + [Crie um modelo de projeto e saiba mais sobre os blueprints](create-a-project-template.md)
-      + [Criar um projeto diretamente a partir de um modelo](create-a-project-directly-from-a-template.md)
-      + [Compartilhar um modelo de projeto](share-a-project-template.md)
-      + [Copiar um projeto existente](copy-an-existing-project.md)
-      + [Desativar um modelo de projeto](deactivate-a-project-template.md)
-      + [Editar a equipe do projeto em um modelo de projeto](edit-the-project-team-in-a-project-template.md)
+  + Modelos de projeto {#project-templates}
+    + [Criar um modelo de projeto e explorar Blueprints](create-a-project-template.md)
+    + [Instalar e usar um Blueprint](install-and-use-a-blueprint.md)
+    + [Criar um projeto diretamente a partir de um modelo](create-a-project-directly-from-a-template.md)
+    + [Compartilhar um modelo de projeto com eficiência](share-a-project-template.md)
+    + [Copie um projeto existente com eficiência](copy-an-existing-project.md)
+    + [Desativar um modelo de projeto](deactivate-a-project-template.md)
+    + [Editar a equipe do projeto em um modelo](edit-the-project-team-in-a-project-template.md)
 
-   + Como criar e usar processos de aprovação {#how-to-create-and-use-approval-processes}
-      + [Criar um processo de aprovação global e de uso único](create-a-single-use-approval-process.md)
-      + [Entenda os processos de aprovação específicos do grupo](group-specific-approval-processes.md)
-      + [Revisar e aprovar um trabalho digital](review-and-approve-digital-work.md)
-      + [Delegar tarefas, problemas e aprovações](delegate-approvals.md)
+  + Como criar e usar processos de aprovação {#how-to-create-and-use-approval-processes}
+    + [Criar e gerenciar processos de aprovação](create-a-single-use-approval-process.md)
+    + [Entenda os processos de aprovação específicos do grupo](group-specific-approval-processes.md)
+    + [Aplicar um processo de aprovação de problema em uma fila de solicitações](apply-an-issue-approval-process-in-a-request-queue.md)
+    + [Revisar e aprovar um trabalho digital](review-and-approve-digital-work.md)
+    + [Delegar tarefas, problemas e aprovações](delegate-approvals.md)
 
-   + Como criar e usar marcos {#how-to-create-and-use-milestones}
-      + [Criar marcos](creating-milestones.md)
-      + [Aplique marcos](apply-milestones.md)
-      + [Exibir marcos](view-milestones.md)
+  + Como criar e usar marcos {#how-to-create-and-use-milestones}
+    + [Criar caminhos e etapas de marcos](creating-milestones.md)
+    + [Aplicar caminhos de etapas a projetos e tarefas](apply-milestones.md)
+    + [Exibir etapas em seus projetos](view-milestones.md)
 
-   + Como trabalhar com problemas {#how-to-work-with-issues}
-      + [Lidar com tarefas não planejadas](handle-unplanned-work.md)
-      + [Fazer uma solicitação](make-a-request.md)
-      + [Localizar e gerenciar solicitações](find-requests.md)
-      + [Gerenciar atribuições de problemas](manage-issue-assignments.md)
-      + [Atualizar uma solicitação](update-a-request.md)
-      + [Converter um problema ou solicitação em um projeto](create-a-project-from-a-request.md)
-      + [Converter um problema ou solicitação em uma tarefa](convert-issues-to-other-work-items.md)
-      + [Relatório de problemas](report-on-issues.md)
+  + Como trabalhar com problemas {#how-to-work-with-issues}
+    + [Lidar com o trabalho não planejado de maneira eficaz](handle-unplanned-work.md)
+    + [Criar e gerenciar solicitações no Workfront](make-a-request.md)
+    + [Encontre e gerencie solicitações com eficiência](find-requests.md)
+    + [Gerenciar atribuições de problemas com eficiência](manage-issue-assignments.md)
+    + [Atualizar uma solicitação no Workfront](update-a-request.md)
+    + [Converter um problema ou solicitação em um projeto](create-a-project-from-a-request.md)
+    + [Converter um problema ou solicitação em uma tarefa](convert-issues-to-other-work-items.md)
+    + [Criar relatórios personalizados para o gerenciamento de problemas](report-on-issues.md)
 
-   + Cavar mais fundo {#digging-deeper}
-      + [Compreender e gerenciar tipos de duração e restrições de tarefa](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Entenda os predecessores de projetos](understand-cross-project-predecessors.md)
-      + [Predecessores avançados](advanced-predecessors.md)
+  + Cavar mais fundo {#digging-deeper}
+    + [Tipos de duração mestre e restrições de tarefa](understand-and-manage-duration-types-and-task-constraints.md)
+    + [Rastreamento de projeto mestre com linhas de base, instantâneos e relatórios automatizados](baselines-snapshots-and-automated-reports.md)
+    + [Estabelecer dependências com predecessores entre projetos](understand-cross-project-predecessors.md)
+    + [Domine as dependências de tarefas avançadas](advanced-predecessors.md)

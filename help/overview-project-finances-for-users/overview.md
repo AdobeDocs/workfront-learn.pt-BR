@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ O Adobe Workfront não se destina a substituir nenhum software de rastreamento f
 >* Tipo de licença padrão com direitos para editar dados financeiros
 
 
-* [Atualizar e revisar finanças](update-and-review-finances.md) - Saiba como revisar as informações financeiras associadas a um projeto.
-* [Localizar informações financeiras](find-financial-information.md) - Saiba como localizar informações financeiras sobre um projeto e entender sua origem.
-* [Entender várias taxas de cobrança](multiple-billing-rates.md) - Saiba como substituir taxas de cobrança do sistema em um projeto específico.
+* [Acesse e gerencie informações financeiras para finanças do projeto](find-financial-information.md) - Saiba como encontrar informações financeiras sobre um projeto e entender sua origem.
+* [Atualizar finanças para projetos de cliente](update-and-review-finances.md) - Saiba como revisar as informações financeiras associadas a um projeto.
+* [Personalizar taxas de cobrança para funções de trabalho](multiple-billing-rates.md) - Saiba como substituir taxas de cobrança do sistema em um projeto específico.

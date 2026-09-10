@@ -22,30 +22,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # Entenda os processos de aprovação específicos do grupo
 
-Admins de sistema e de grupo podem criar processos de aprovação no [!DNL Workfront]. Admins de sistema podem criar processos para usar em todo o sistema do [!DNL Workfront] ou apenas para um grupo específico. Enquanto isso, admins de grupo podem criar ou editar processos somente para o grupo que gerenciam.
-
-Para ter um processo de aprovação que possa ser usado por todos no [!DNL Workfront], verifique se o campo [!UICONTROL “Este processo de aprovação pode ser usado por”] está definido como [!UICONTROL Todos os grupos].
-
-A janela ![[!UICONTROL Editar processo de aprovação] com o campo de grupo realçado](assets/admin-fund-approval-processes-1.png)
-
-Os status disponíveis no menu [!UICONTROL “Iniciar processo de aprovação quando o status estiver definido como”] depende da opção selecionada no campo “usado por”. Se a opção [!UICONTROL Todos os grupos] estiver selecionada, somente os status bloqueados em todo o sistema estarão disponíveis.
-
-Para limitar um processo de aprovação para um grupo específico, selecione o nome desse grupo na lista do campo [!UICONTROL “Este processo de aprovação pode ser usado por”].
-
-A janela ![[!UICONTROL Editar processo de aprovação] com o campo de grupo expandido](assets/admin-fund-approval-processes-2.png)
-
-A opção [!UICONTROL Todos os grupos] não está disponível para admins de grupo.
-
-Quando um grupo específico é selecionado, somente os status disponíveis para esse grupo são exibidos no menu [!UICONTROL “Iniciar processo de aprovação quando o status estiver definido como”].
-
-A janela ![[!UICONTROL Editar processo de aprovação] com o campo de status realçado](assets/admin-fund-approval-processes-3.png)
+{{$include /help/_includes/group-specific-approval-processes.md}}
 
