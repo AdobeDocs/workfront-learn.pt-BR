@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # Exercício de roteadores
 
 Entenda a importância dos roteadores e como eles podem ser usados para processar diferentes módulos condicionalmente.
@@ -64,14 +68,14 @@ Use um roteador para transferir pacotes de “Pokémon vs. super-heróis” pelo
 
    **Em seguida, você alterará os valores mapeados nos novos módulos clonados.**
 
-1. Acesse <https://www.superheroapi.com/> e use a sua conta do Facebook para obter um token de acesso.
+1. Vá para <https://superheroapi.com/> e clique em **Fazer logon com GitHub** para obter um token de acesso.
 
    >[!NOTE]
    >
    >Se tiver problemas para acessar o seu próprio token de super-herói, você pode usar este token compartilhado: 10110256647253588. Leve em consideração quantas vezes você chama o “Superhero API”, para que esse token compartilhado continue funcionando para todos.
 
-1. Abra as configurações “Obter aparência do super-herói” e altere o URL para `https://www.superheroapi.com/api/[access- token]/332/appearance`. Certifique-se de incluir o seu token de acesso no URL. Clique em OK.
-1. Abra as configurações “Obter habilidades do super-herói” e altere o URL para `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Certifique-se de incluir o seu token de acesso no URL. Clique em OK.
+1. Abra as configurações “Obter aparência do super-herói” e altere o URL para `https://superheroapi.com/api/[access- token]/332/appearance`. Certifique-se de incluir o seu token de acesso no URL. Clique em OK.
+1. Abra as configurações “Obter habilidades do super-herói” e altere o URL para `https://superheroapi.com/api/[access- token]/332/powerstats`. Certifique-se de incluir o seu token de acesso no URL. Clique em OK.
 1. Clique com o botão direito em cada módulo de super-herói e selecione “Executar apenas este módulo”. Isso gerará a estrutura de dados que você precisa ver para o mapeamento.
 1. Depois de executar ambos, altere o número “332” em cada campo de URL para a coluna 4 mapeada no módulo Analisar CSV.
 
@@ -79,7 +83,7 @@ Use um roteador para transferir pacotes de “Pokémon vs. super-heróis” pelo
 
    **Agora, clique no módulo “Definir múltiplas variáveis” no caminho do super-herói e atualize o nome, a altura, o peso e as habilidades.**
 
-1. Atualize os campos de nome e habilidades do módulo 8: “Obter habilidades do super-herói”.
+1. Atualize o campo Nome e os campos de habilidades do módulo Obter habilidades de super-herói — Módulo 8.
 
    ![Roteadores - Imagem 5](../12-exercises/assets/routers-walkthrough-5.png)
 
