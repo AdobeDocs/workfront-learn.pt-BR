@@ -1,6 +1,6 @@
 ---
 title: Entenda os benefícios da revisão
-description: Saiba o que é prova e os benefícios de usar prova digital no [!DNL  Workfront].
+description: Saiba o que é prova e os benefícios de usar prova digital no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ Neste vídeo, você aprenderá:
 
 ## Terminologia da revisão
 
-Antes de mergulhar nas configurações de revisão no [!DNL  Workfront], familiarize-se com a terminologia específica das provas. Você verá estes termos com frequência neste tutorial.
+Antes de mergulhar nas configurações de revisão no [!DNL &#x200B; Workfront], familiarize-se com a terminologia específica das provas. Você verá estes termos com frequência neste tutorial.
 
 * **Prova -** Versão digital de um arquivo que pode ser revisada, marcada e aprovada por meio do visualizador de prova do [!DNL Workfront's].
 * **Fluxo de trabalho de prova -** Processo de criação, roteamento e gerenciamento de uma prova dentro do [!DNL Workfront]. As etapas realizadas para concluir essas ações.

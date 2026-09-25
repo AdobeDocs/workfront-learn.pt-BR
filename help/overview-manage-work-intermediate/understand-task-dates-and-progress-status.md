@@ -1,6 +1,6 @@
 ---
 title: Entenda os tipos de data e os status do progresso
-description: Saiba como visualizar os diferentes tipos de datas em [!DNL  Workfront] e usar o status do progresso para ajudá-lo a acompanhar o progresso do trabalho.
+description: Saiba como visualizar os diferentes tipos de datas em [!DNL &#x200B; Workfront] e usar o status do progresso para ajudá-lo a acompanhar o progresso do trabalho.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

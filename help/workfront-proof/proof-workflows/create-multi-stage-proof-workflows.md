@@ -1,6 +1,6 @@
 ---
 title: Introdução aos fluxos de trabalho automatizados
-description: Saiba o que é um fluxo de trabalho de prova automatizado no [!DNL  Workfront] e como ele é diferente de um fluxo de trabalho básico.
+description: Saiba o que é um fluxo de trabalho de prova automatizado no [!DNL &#x200B; Workfront] e como ele é diferente de um fluxo de trabalho básico.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

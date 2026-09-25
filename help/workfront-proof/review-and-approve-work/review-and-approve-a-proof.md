@@ -50,7 +50,7 @@ Depois de saber o que é esperado, você pode começar a revisar uma prova.
 
 Quando um ativo estiver pronto para revisão e aprovação, você receberá uma notificação por email.
 
-![Uma imagem de um novo email de prova solicitando a revisão e aprovação de duas provas no [!DNL  Workfront].](assets/new-proof-emails.png)
+![Uma imagem de um novo email de prova solicitando a revisão e aprovação de duas provas no [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
 
 É importante observar que este link de prova é exclusivo para você. Se compartilhar o link com alguém, quaisquer comentários e marcações que essa pessoa fizer serão exibidos com seu nome.
 
@@ -81,7 +81,7 @@ Você também pode encontrar provas para revisar em um painel do [!DNL Workfront
 
 Se você normalmente trabalha com projetos, tarefas ou problemas no [!DNL Workfront], talvez prefira abrir a prova diretamente da seção [!DNL Documents] desse item.
 
-![Uma imagem da seção [!UICONTROL Documentos] encontrada em uma tarefa do [!DNL  Workfront] com o link [!UICONTROL Abrir prova] realçado.](assets/open-proof-from-documents.png)
+![Uma imagem da seção [!UICONTROL Documentos] encontrada em uma tarefa do [!DNL &#x200B; Workfront] com o link [!UICONTROL Abrir prova] realçado.](assets/open-proof-from-documents.png)
 
 1. Clique no nome do projeto, tarefa ou problema.
 2. Clique em [!UICONTROL Documentos] no menu do painel esquerdo da página do item.

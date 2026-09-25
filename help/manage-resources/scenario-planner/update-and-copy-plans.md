@@ -1,6 +1,6 @@
 ---
 title: Atualizar e Copiar Planos em [!DNL Scenario Planner]
-description: Saiba como atualizar ou copiar um plano no [!DNL  Workfront] [!DNL Scenario Planner].
+description: Saiba como atualizar ou copiar um plano no [!DNL &#x200B; Workfront] [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

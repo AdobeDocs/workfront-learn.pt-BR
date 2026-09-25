@@ -1,6 +1,6 @@
 ---
 title: Fluxos de trabalho de prova como parte das linhas do tempo do projeto
-description: Saiba mais sobre as recomendações para mesclar um processo de revisão e aprovação com uma linha do tempo de projeto no [!DNL  Workfront].
+description: Saiba mais sobre as recomendações para mesclar um processo de revisão e aprovação com uma linha do tempo de projeto no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

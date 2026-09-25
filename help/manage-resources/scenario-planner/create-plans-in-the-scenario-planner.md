@@ -43,7 +43,7 @@ Neste vídeo, você aprenderá a criar um plano no [!DNL Scenario Planner].
 
 Ao criar um plano, você pode estabelecer se o esforço da função deve ser estimado em FTEs ou em horas. O padrão do sistema é FTE, mas isso pode ser alterado ao criar um plano.
 
-![Selecione [!UICONTROL FTE] ou [!UICONTROL Horas] na janela [!UICONTROL Novo plano] ](assets/scenario-planner-1.png)
+![Selecione [!UICONTROL FTE] ou [!UICONTROL Horas] na janela [!UICONTROL Novo plano] &#x200B;](assets/scenario-planner-1.png)
 
 Depois que o plano for criado, todos os números adicionados para funções no plano, os cenários do plano e quaisquer iniciativas serão inseridos e exibidos no formato selecionado. Esse formato é exibido no topo das colunas que exigem informações sobre a função.
 

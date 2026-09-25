@@ -31,7 +31,7 @@ ht-degree: 98%
 ---
 # Rastrear e atualizar metas usando [!UICONTROL Check-ins]
 
-Depois de ativar seus objetivos, você pode começar a trabalhar para realizá-los. Mas como rastrear, atualizar e calcular o progresso da meta? Como você sabe onde está e como seu trabalho está contribuindo para o progresso da meta? Vamos começar com[!UICONTROL  Check-ins] para atualizar o progresso da meta e veja como visualizar e compreender o status de suas metas.
+Depois de ativar seus objetivos, você pode começar a trabalhar para realizá-los. Mas como rastrear, atualizar e calcular o progresso da meta? Como você sabe onde está e como seu trabalho está contribuindo para o progresso da meta? Vamos começar com[!UICONTROL &#x200B; Check-ins] para atualizar o progresso da meta e veja como visualizar e compreender o status de suas metas.
 
 ## Usar [!UICONTROL Check-ins] para atualizar o progresso
 

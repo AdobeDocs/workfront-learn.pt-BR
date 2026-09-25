@@ -1,6 +1,6 @@
 ---
 title: Introdução ao curso de marcos
-description: Saiba como os marcos podem ajudar você a manter os projetos do [!DNL  Workfront] em andamento.
+description: Saiba como os marcos podem ajudar você a manter os projetos do [!DNL &#x200B; Workfront] em andamento.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 84%
 
 Este curso é destinado a gerentes de projetos, planejadores e outros que gerenciam projetos no [!DNL Workfront]. Recomendamos concluir o programa Fundamentos do planejador ou ter uma base sólida na criação de projetos no [!DNL Workfront] antes de começar este curso.
 
-Neste vídeo, você aprenderá como os marcos podem ajudar você a manter os projetos do [!DNL  Workfront] avançando.
+Neste vídeo, você aprenderá como os marcos podem ajudar você a manter os projetos do [!DNL &#x200B; Workfront] avançando.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)

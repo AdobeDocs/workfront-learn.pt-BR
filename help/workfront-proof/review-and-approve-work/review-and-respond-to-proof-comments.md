@@ -1,6 +1,6 @@
 ---
 title: Revisar e responder a comentários de prova
-description: Saiba como exibir e responder a comentários de prova do visualizador de prova e da seção [!UICONTROL Atualizações] do [!DNL  Workfront].
+description: Saiba como exibir e responder a comentários de prova do visualizador de prova e da seção [!UICONTROL Atualizações] do [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

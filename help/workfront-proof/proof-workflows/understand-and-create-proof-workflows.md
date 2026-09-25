@@ -1,6 +1,6 @@
 ---
 title: Entenda os fluxos de trabalho de prova como parte das linhas do tempo do projeto
-description: Saiba quais informações coletar para criar um fluxo de trabalho de prova e a diferença entre fluxos de trabalho de prova básicos e avançados no [!DNL  Workfront].
+description: Saiba quais informações coletar para criar um fluxo de trabalho de prova e a diferença entre fluxos de trabalho de prova básicos e avançados no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

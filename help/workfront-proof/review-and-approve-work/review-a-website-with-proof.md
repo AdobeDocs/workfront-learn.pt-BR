@@ -1,6 +1,6 @@
 ---
 title: Revisar um site com provas
-description: Saiba como abrir uma prova estática ou interativa do site no [!DNL  Workfront] e fazer comentários.
+description: Saiba como abrir uma prova estática ou interativa do site no [!DNL &#x200B; Workfront] e fazer comentários.
 activity: use
 feature: Workfront Proof
 type: Tutorial

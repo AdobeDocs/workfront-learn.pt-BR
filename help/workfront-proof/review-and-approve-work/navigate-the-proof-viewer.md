@@ -1,6 +1,6 @@
 ---
 title: Navegar pelo visualizador de prova
-description: Saiba como mover uma prova, ampliar/reduzir o conteúdo, usar a coluna de miniatura, filtrar comentários de prova e muito mais no visualizador de provas do [!DNL  Workfront].
+description: Saiba como mover uma prova, ampliar/reduzir o conteúdo, usar a coluna de miniatura, filtrar comentários de prova e muito mais no visualizador de provas do [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -61,7 +61,7 @@ Aqui estão algumas coisas a considerar antes de copiar metas:
 
 1. Clique em **[!UICONTROL Salvar]**. A meta copiada é salva com um status de Rascunho.
 
-   ![Uma imagem do painel [!UICONTROL Detalhes da meta] no [!DNL Workfront Goals] com a opção [!UICONTROL Copiar] ](assets/03-workfront-goals-copy-a-goal.png)
+   ![Uma imagem do painel [!UICONTROL Detalhes da meta] no [!DNL Workfront Goals] com a opção [!UICONTROL Copiar] &#x200B;](assets/03-workfront-goals-copy-a-goal.png)
 
 1. Clique em **[!UICONTROL Ativar]**, que atualiza o status da meta para Ativa. A meta deve ter uma atividade ou resultado associado para ser “ativada”.
 

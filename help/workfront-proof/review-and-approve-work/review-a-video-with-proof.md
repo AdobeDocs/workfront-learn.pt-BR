@@ -1,6 +1,6 @@
 ---
 title: Revisar um vídeo com provas
-description: Saiba como ajustar as configurações do visualizador e adicionar comentários com carimbo de data/hora a um vídeo usando revisão de texto no [!DNL  Workfront].
+description: Saiba como ajustar as configurações do visualizador e adicionar comentários com carimbo de data/hora a um vídeo usando revisão de texto no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

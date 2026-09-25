@@ -1,6 +1,6 @@
 ---
 title: Acessar um plano no [!UICONTROL Planejador de cenários]
-description: Saiba quais [!DNL  Workfront] permissões são necessárias para que os usuários acessem planos no [!UICONTROL Planejador de cenários].
+description: Saiba quais [!DNL &#x200B; Workfront] permissões são necessárias para que os usuários acessem planos no [!UICONTROL Planejador de cenários].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

@@ -1,6 +1,6 @@
 ---
 title: Acompanhe o progresso da linha do tempo do projeto
-description: Saiba como acompanhar o progresso do trabalho a partir da linha do tempo do projeto em [!DNL  Workfront] usando a porcentagem concluída, status, atribuições ou restrições.
+description: Saiba como acompanhar o progresso do trabalho a partir da linha do tempo do projeto em [!DNL &#x200B; Workfront] usando a porcentagem concluída, status, atribuições ou restrições.
 activity: use
 team: Technical Marketing
 feature: Work Management

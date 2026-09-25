@@ -1,6 +1,6 @@
 ---
 title: Personalize áreas de objetos com um modelo de layout
-description: Saiba como usar um modelo de layout para adicionar, remover e reorganizar itens no menu do painel esquerdo no [!DNL  Workfront].
+description: Saiba como usar um modelo de layout para adicionar, remover e reorganizar itens no menu do painel esquerdo no [!DNL &#x200B; Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

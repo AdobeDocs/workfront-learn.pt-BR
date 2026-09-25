@@ -1,6 +1,6 @@
 ---
 title: Exibir atualizações de metas individuais em [!DNL Workfront Goals]
-description: Saiba como exibir suas metas individuais no fluxo de atualização do [!UICONTROL Pulse] no [!DNL   Goals].
+description: Saiba como exibir suas metas individuais no fluxo de atualização do [!UICONTROL Pulse] no [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

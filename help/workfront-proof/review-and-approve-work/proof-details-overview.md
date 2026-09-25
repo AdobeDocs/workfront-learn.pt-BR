@@ -1,6 +1,6 @@
 ---
 title: Entenda os detalhes da revisão
-description: Saiba mais sobre os detalhes por trás de uma prova no [!DNL  Workfront] por meio do painel de resumo e da página [!UICONTROL Detalhes do documento].
+description: Saiba mais sobre os detalhes por trás de uma prova no [!DNL &#x200B; Workfront] por meio do painel de resumo e da página [!UICONTROL Detalhes do documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ Para obter mais informações sobre a prova, clique em [!UICONTROL Detalhes do d
 
 Você será direcionado para a página [!UICONTROL Detalhes do documento] e para uma variedade de opções adicionais no painel esquerdo.
 
-![Uma imagem da página da revisão no [!DNL  Workfront].](assets/document-details.png)
+![Uma imagem da página da revisão no [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 É importante observar que a capacidade de ver informações relacionadas ao processo de revisão depende das suas permissões de revisão no [!DNL Workfront].
 

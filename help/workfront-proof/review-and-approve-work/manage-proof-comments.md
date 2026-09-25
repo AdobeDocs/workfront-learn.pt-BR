@@ -1,6 +1,6 @@
 ---
 title: Gerenciar comentários de prova
-description: Saiba como gerenciar comentários de prova no [!DNL  Workfront] aplicando ações de comentário, resolvendo comentários e filtrando a coluna de comentários.
+description: Saiba como gerenciar comentários de prova no [!DNL &#x200B; Workfront] aplicando ações de comentário, resolvendo comentários e filtrando a coluna de comentários.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

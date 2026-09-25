@@ -1,6 +1,6 @@
 ---
 title: Introdução ao curso
-description: Saiba como usar o orçamento de um projeto, controlar custos e receita e lidar com despesas no [!DNL  Workfront].
+description: Saiba como usar o orçamento de um projeto, controlar custos e receita e lidar com despesas no [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

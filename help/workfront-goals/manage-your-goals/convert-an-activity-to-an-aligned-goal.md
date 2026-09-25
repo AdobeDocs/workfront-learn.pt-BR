@@ -1,6 +1,6 @@
 ---
 title: Converter uma atividade em uma meta alinhada
-description: Saiba como converter uma atividade ou resultado em uma meta alinhada no [!DNL   Goals].
+description: Saiba como converter uma atividade ou resultado em uma meta alinhada no [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
