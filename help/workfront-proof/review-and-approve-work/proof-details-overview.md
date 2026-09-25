@@ -1,6 +1,6 @@
 ---
 title: Entenda os detalhes da revisão
-description: Aprofunde-se nos detalhes por trás de uma revisão no [!DNL &#x200B; Workfront] por meio do painel de resumo e da página [!UICONTROL Detalhes do documento].
+description: Saiba mais sobre os detalhes por trás de uma prova no [!DNL  Workfront] por meio do painel de resumo e da página [!UICONTROL Detalhes do documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
+autotag-review: '2026-05-05T19:56:45.995Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:56:45.995Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1038
-ht-degree: 97%
-
+source-wordcount: '1039'
+ht-degree: 95%
 ---
-
 # Entenda os detalhes da revisão
 
 ## Exibir detalhes da revisão
@@ -58,7 +63,7 @@ Para obter mais informações sobre a prova, clique em [!UICONTROL Detalhes do d
 
 Você será direcionado para a página [!UICONTROL Detalhes do documento] e para uma variedade de opções adicionais no painel esquerdo.
 
-![Uma imagem da página da revisão no [!DNL &#x200B; Workfront].](assets/document-details.png)
+![Uma imagem da página da revisão no [!DNL  Workfront].](assets/document-details.png)
 
 É importante observar que a capacidade de ver informações relacionadas ao processo de revisão depende das suas permissões de revisão no [!DNL Workfront].
 

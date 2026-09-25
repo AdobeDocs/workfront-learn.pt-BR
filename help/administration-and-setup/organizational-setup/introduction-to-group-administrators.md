@@ -1,6 +1,6 @@
 ---
 title: Entenda a necessidade de admins de grupo
-description: Saiba como os administradores de sistema podem usar administradores de grupo para ajudar a manter as configurações do [!DNL Workfront] e, ao mesmo tempo, conceder aos grupos mais controle sobre o trabalho.
+description: Saiba como os administradores de sistema podem usar administradores de grupo para ajudar a manter as configurações do [!DNL Workfront] e, ao mesmo tempo, dar aos grupos mais controle sobre o trabalho.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,28 +11,35 @@ thumbnail: groupadmins.png
 jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 last-substantial-update: 2024-11-20T00:00:00.000Z
-TQID: https://experienceleague.adobe.com/1VD58NHKe1fc6gsuidWLhLACXXZAV0Fz6UzBZb290SI
+TQID: 'https://experienceleague.adobe.com/1VD58NHKe1fc6gsuidWLhLACXXZAV0Fz6UzBZb290SI'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 53
-ht-degree: 100%
-
+source-wordcount: '54'
+ht-degree: 62%
 ---
-
 # Entenda a necessidade de admins de grupo
 
 Saiba como os administradores de sistema podem utilizar os administradores de grupo para manter as configurações com eficiência e permitir que os grupos tenham mais controle sobre seus processos de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439328/?captions=por_br&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops=1)
 
 

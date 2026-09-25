@@ -10,24 +10,26 @@ level: Beginner
 jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
+autotag-review: '2026-05-06T16:47:51.925Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:51.925Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 718
+source-wordcount: '718'
 ht-degree: 100%
-
 ---
-
 # Acessibilidade e clareza
 
 No início do treinamento do Workfront Fusion, você aprendeu algumas práticas recomendadas básicas para facilitar a leitura, compartilhamento e compreensão dos cenários. Essas práticas ajudam a facilitar o processo para futuros usuários do Workfront Fusion ou qualquer pessoa que solucione problemas ou colabore com a sua instância do Workfront Fusion. Retribua isso seguindo as diretrizes abaixo ao criar os cenários.
@@ -44,7 +46,7 @@ Como regra geral, o objetivo principal do Workfront Fusion é sempre utilizar de
 
 No entanto, adicionar notas no final do design do cenário, quando tudo estiver pronto para o lançamento, pode facilitar a leitura e a compreensão. Trabalhe do final do design do cenário (no canto inferior direito) para trás. Dessa forma, as notas que se aplicam ao início do cenário estarão no topo da lista ao abrir o painel de notas.
 
-Depois de salvar ou fechar o painel de notas, as notas são classificadas, e as criadas mais recentemente são exibidas na parte superior. Na imagem abaixo, a primeira nota criada aparece no final da lista. As notas foram criadas intencionalmente do canto inferior direito para cima, até chegar no acionador, ou seja, utilizando o caminho inverso que um conjunto de dados usaria no cenário. Isso permite que as notas apareçam na ordem em que o cenário realmente é executado no pacote de dados.
+Depois de salvar ou fechar o painel de notas, as notas são classificadas, e as criadas mais recentemente são exibidas na parte superior. Na imagem abaixo, a primeira nota criada aparece no final da lista. As notas foram criadas intencionalmente do canto inferior direito para cima, até chegar no acionador, ou seja, utilizando o caminho inverso que um pacote de dados usaria no cenário. Isso permite que as notas apareçam na ordem em que o cenário realmente é executado no pacote de dados.
 
 ![Uma imagem de um cenário de tratamento de erros](assets/design-optimization-and-testing-3.png)
 

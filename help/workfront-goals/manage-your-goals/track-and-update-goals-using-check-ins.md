@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: '736'
-ht-degree: 100%
-
+source-wordcount: '756'
+ht-degree: 98%
 ---
-
 # Rastrear e atualizar metas usando [!UICONTROL Check-ins]
 
 Depois de ativar seus objetivos, você pode começar a trabalhar para realizá-los. Mas como rastrear, atualizar e calcular o progresso da meta? Como você sabe onde está e como seu trabalho está contribuindo para o progresso da meta? Vamos começar com[!UICONTROL  Check-ins] para atualizar o progresso da meta e veja como visualizar e compreender o status de suas metas.
@@ -39,9 +52,9 @@ Quando você faz um [!UICONTROL Check-in] no nível da meta, você pode atualiza
 * Clique no ícone [!UICONTROL **Menu principal**] no [!DNL Workfront] e, em seguida, clique em [!UICONTROL **Metas**]. Isso abre a área [!DNL Workfront Goals]. A seção [!UICONTROL Lista de metas] é exibida por padrão e mostra todas as metas que pertencem a você, suas equipes, grupos ou organização.
 * Clique em qualquer uma das seguintes seções no painel esquerdo para acessar uma lista de metas:
 
-   * [!UICONTROL Alinhamento de metas]
-   * [!UICONTROL Pulso]
-   * [!UICONTROL Check-in]
+  * [!UICONTROL Alinhamento de metas]
+  * [!UICONTROL Pulso]
+  * [!UICONTROL Check-in]
 
 Depois de navegar até uma seção com sua lista de metas, clique no nome de uma meta para abrir o painel [!UICONTROL Detalhes da meta]. Faça atualizações em sua meta:
 
