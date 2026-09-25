@@ -28,7 +28,7 @@ Neste vídeo, você aprenderá a:
 * Encerrar o período de delegação
 * Localizar aprovações delegadas
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446381/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

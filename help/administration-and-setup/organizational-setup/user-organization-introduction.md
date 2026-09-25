@@ -36,7 +36,7 @@ Neste vídeo, você aprenderá sobre:
 * Grupos
 * Equipes
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444279/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 Antes de começar, veja a seguir alguns termos importantes com os quais você precisa se familiarizar ao explorar as organizações de usuários no [!DNL Workfront].
 

@@ -37,7 +37,7 @@ ht-degree: 89%
 
 Neste vídeo, você aprenderá a criar um plano no [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413823/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Estimar informações de função no trabalho para um plano
 

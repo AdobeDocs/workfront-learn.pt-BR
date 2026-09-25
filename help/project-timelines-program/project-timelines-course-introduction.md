@@ -30,4 +30,4 @@ ht-degree: 62%
 
 Neste vídeo, você aprenderá quais elementos (como tipos de data e restrições de tarefa) são usados ao criar e gerenciar linhas do tempo de projetos do [!DNL &#x200B; Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436745/?captions=por_br&quality=12&learn=on&enablevpops=1)

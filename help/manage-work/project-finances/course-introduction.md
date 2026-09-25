@@ -34,4 +34,4 @@ Neste vídeo, você aprenderá a:
 * Monitorar custos e a receita
 * Controlar despesas
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436424/?captions=por_br&quality=12&learn=on&enablevpops=1)

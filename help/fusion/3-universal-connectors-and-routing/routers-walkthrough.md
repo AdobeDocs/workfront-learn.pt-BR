@@ -42,7 +42,7 @@ Use um roteador para transferir pacotes de “Pokémon vs. super-heróis” pelo
 
 O Workfront recomenda assistir ao tutorial em vídeo antes de tentar recriar o exercício em seu próprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3503589/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## URLs de exercício
 
