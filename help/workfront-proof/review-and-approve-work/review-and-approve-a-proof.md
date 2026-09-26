@@ -1,6 +1,6 @@
 ---
 title: Revisar e aprovar uma prova
-description: Saiba como acessar e comentar em uma prova, usar marcações para indicar alterações necessárias, responder a comentários de prova e tomar uma decisão sobre uma prova no [!DNL Workfront].
+description: Saiba como acessar e comentar em uma prova, usar marcação para indicar alterações necessárias, responder a comentários de prova e tomar uma decisão sobre uma prova no [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,24 +11,31 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
+autotag-review: '2026-05-05T19:55:03.417Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:55:03.417Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 727
-ht-degree: 100%
-
+source-wordcount: '727'
+ht-degree: 96%
 ---
-
 # Revisar e aprovar uma prova
 
 Antes de começar a revisar uma prova, certifique-se de saber o que se espera de você. Qual é a sua função no fluxo de trabalho de revisão? Revisar a prova, aprová-la ou ambos?
@@ -43,7 +50,7 @@ Depois de saber o que é esperado, você pode começar a revisar uma prova.
 
 Quando um ativo estiver pronto para revisão e aprovação, você receberá uma notificação por email.
 
-![Uma imagem de um novo email de prova solicitando a revisão e aprovação de duas provas no [!DNL  Workfront].](assets/new-proof-emails.png)
+![Uma imagem de um novo email de prova solicitando a revisão e aprovação de duas provas no [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
 
 É importante observar que este link de prova é exclusivo para você. Se compartilhar o link com alguém, quaisquer comentários e marcações que essa pessoa fizer serão exibidos com seu nome.
 
@@ -74,7 +81,7 @@ Você também pode encontrar provas para revisar em um painel do [!DNL Workfront
 
 Se você normalmente trabalha com projetos, tarefas ou problemas no [!DNL Workfront], talvez prefira abrir a prova diretamente da seção [!DNL Documents] desse item.
 
-![Uma imagem da seção [!UICONTROL Documentos] encontrada em uma tarefa do [!DNL  Workfront] com o link [!UICONTROL Abrir prova] realçado.](assets/open-proof-from-documents.png)
+![Uma imagem da seção [!UICONTROL Documentos] encontrada em uma tarefa do [!DNL &#x200B; Workfront] com o link [!UICONTROL Abrir prova] realçado.](assets/open-proof-from-documents.png)
 
 1. Clique no nome do projeto, tarefa ou problema.
 2. Clique em [!UICONTROL Documentos] no menu do painel esquerdo da página do item.

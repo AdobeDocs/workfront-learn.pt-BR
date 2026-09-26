@@ -1,6 +1,6 @@
 ---
 title: Tutorial sobre a ferramenta de desenvolvimento
-description: Saiba como instalar e usar as diferentes áreas do  [!DNL Adobe Workfront Fusion Dev Tool]  para aprender truques avançados de design de cenário.
+description: Saiba como instalar e usar as diferentes áreas no [!DNL Adobe Workfront Fusion Dev Tool] para aprofundar os truques de design de cenário avançado.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:11:26.798Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:11:26.798Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 148
-ht-degree: 100%
-
+source-wordcount: '149'
+ht-degree: 85%
 ---
-
 # Tutorial sobre a ferramenta de desenvolvimento
 
 Instale e use as diferentes áreas da ferramenta de desenvolvimento do Workfront para entender melhor as solicitações e respostas feitas e aprender truques avançados de design de cenários.

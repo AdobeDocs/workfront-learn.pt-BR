@@ -1,6 +1,6 @@
 ---
 title: Introdução ao curso
-description: Aprenda a usar o orçamento de um projeto, controlar custos e receitas e a lidar com despesas no  [!DNL  Workfront].
+description: Saiba como usar o orçamento de um projeto, controlar custos e receita e lidar com despesas no [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -9,13 +9,23 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8947
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 100%
-
+ht-degree: 59%
 ---
-
 # Introdução ao curso
 
 Neste vídeo, você aprenderá a:
@@ -24,4 +34,4 @@ Neste vídeo, você aprenderá a:
 * Monitorar custos e a receita
 * Controlar despesas
 
->[!VIDEO](https://video.tv.adobe.com/v/3436424/?quality=12&learn=on&enablevpops=1&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3436424/?captions=por_br&quality=12&learn=on&enablevpops=1)
