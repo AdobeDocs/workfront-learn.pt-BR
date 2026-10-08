@@ -1,6 +1,6 @@
 ---
 title: Entenda sobre alertas de email e notificações de prova
-description: Entenda a diferença entre alertas de email e notificações de prova no [!DNL  Workfront].
+description: Entenda a diferença entre alertas de email e notificações de prova no [!DNL &#x200B; Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User

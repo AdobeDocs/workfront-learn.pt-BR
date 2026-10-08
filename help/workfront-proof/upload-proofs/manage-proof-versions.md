@@ -1,6 +1,6 @@
 ---
 title: Gerenciar versões de prova
-description: Saiba como encontrar os detalhes de quando uma prova foi carregada, baixar todas as versões de uma prova e excluir uma versão de prova no [!DNL  Workfront].
+description: Saiba como encontrar os detalhes de quando uma prova foi carregada, baixar todas as versões de uma prova e excluir uma versão de prova no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

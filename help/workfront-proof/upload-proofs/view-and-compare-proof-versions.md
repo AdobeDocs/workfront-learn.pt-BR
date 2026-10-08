@@ -1,6 +1,6 @@
 ---
 title: Visualizar e comparar versões de prova
-description: Saiba como abrir, identificar, marcar, comentar e comparar versões de prova no [!DNL  Workfront].
+description: Saiba como abrir, identificar, marcar, comentar e comparar versões de prova no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

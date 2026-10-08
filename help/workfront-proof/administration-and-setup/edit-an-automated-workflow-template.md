@@ -1,6 +1,6 @@
 ---
 title: Editar um modelo de fluxo de trabalho automatizado
-description: Saiba como fazer alterações em um modelo de fluxo de trabalho de comprovação automatizada existente no [!DNL  Workfront].
+description: Saiba como fazer alterações em um modelo de fluxo de trabalho de comprovação automatizada existente no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

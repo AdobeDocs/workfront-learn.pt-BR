@@ -1,6 +1,6 @@
 ---
 title: Configurações para usuários de prova
-description: Saiba como determinar quais usuários [!DNL  Workfront] obtêm uma licença de prova e ajustar as configurações do usuário tanto no [!DNL Workfront] quanto nas configurações de back-end.
+description: Saiba como determinar quais usuários [!DNL &#x200B; Workfront] obtêm uma licença de prova e ajustar as configurações do usuário tanto no [!DNL Workfront] quanto nas configurações de back-end.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -36,13 +36,13 @@ ht-degree: 81%
 ---
 # Configurações para usuários de prova
 
-Antes de começar a criar usuários no [!DNL  Workfront], é recomendado concluir as configurações globais do [!DNL Workfront] e do sistema de revisão. Algumas dessas configurações aplicam-se aos perfis dos usuários à medida que são criados. Porém, não se preocupe se não as tiver definido antes de criar alguns usuários, pois essas configurações podem ser editadas em cada perfil de usuário individual.
+Antes de começar a criar usuários no [!DNL &#x200B; Workfront], é recomendado concluir as configurações globais do [!DNL Workfront] e do sistema de revisão. Algumas dessas configurações aplicam-se aos perfis dos usuários à medida que são criados. Porém, não se preocupe se não as tiver definido antes de criar alguns usuários, pois essas configurações podem ser editadas em cada perfil de usuário individual.
 
 
 Neste vídeo, você aprenderá a:
 
 * Determinar quais usuários obtêm uma licença de revisão
-* Ajustar as configurações de usuários de revisão no [!DNL  Workfront]
+* Ajustar as configurações de usuários de revisão no [!DNL &#x200B; Workfront]
 * Ajustar as configurações do usuário de revisão nas configurações de back-end de revisão
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

@@ -1,6 +1,6 @@
 ---
 title: Fazer upload de uma prova de site
-description: Saiba como carregar um site como uma prova estática e prova interativa no [!DNL  Workfront].
+description: Saiba como carregar um site como uma prova estática e prova interativa no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

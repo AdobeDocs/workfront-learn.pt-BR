@@ -1,6 +1,6 @@
 ---
 title: Quem faz upload de versões de prova?
-description: A pessoa responsável por carregar versões de prova em [!DNL  Workfront] pode variar. Aprenda com casos de uso comuns para identificar a configuração ideal na sua organização.
+description: A pessoa responsável por carregar versões de prova em [!DNL &#x200B; Workfront] pode variar. Aprenda com casos de uso comuns para identificar a configuração ideal na sua organização.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

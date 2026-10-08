@@ -1,6 +1,6 @@
 ---
 title: Fazer upload de uma versão de prova
-description: Saiba como carregar uma nova versão de uma prova e aplicar um fluxo de trabalho de prova à versão no [!DNL  Workfront].
+description: Saiba como carregar uma nova versão de uma prova e aplicar um fluxo de trabalho de prova à versão no [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

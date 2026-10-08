@@ -1,6 +1,6 @@
 ---
 title: Combine vários arquivos em uma única prova
-description: Saiba como simplificar o processo de comprovação combinando vários arquivos em uma única prova no [!DNL  Workfront].
+description: Saiba como simplificar o processo de comprovação combinando vários arquivos em uma única prova no [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

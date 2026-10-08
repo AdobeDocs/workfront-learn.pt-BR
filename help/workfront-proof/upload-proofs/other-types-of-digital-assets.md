@@ -1,6 +1,6 @@
 ---
 title: Fazer upload de uma prova de vídeo
-description: Saiba como carregar um vídeo para revisão de texto no [!DNL  Workfront].
+description: Saiba como carregar um vídeo para revisão de texto no [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

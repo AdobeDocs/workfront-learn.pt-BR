@@ -39,7 +39,7 @@ ht-degree: 91%
 
 Neste vídeo, você aprenderá a:
 
-* Criar um modelo de fluxo de trabalho automatizado de revisão no [!DNL  Workfront]
+* Criar um modelo de fluxo de trabalho automatizado de revisão no [!DNL &#x200B; Workfront]
 * Atribuir destinatários de prova
 * Definir um prazo para o processo de revisão e aprovação
 * Compartilhar o modelo de fluxo de trabalho automatizado com outras pessoas
