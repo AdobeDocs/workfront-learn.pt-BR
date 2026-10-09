@@ -1,6 +1,6 @@
 ---
 title: Funções de prova e alertas por email
-description: Aprenda a habilitar funções de prova e alertas por email adequados para que os destinatários das provas tenham acesso a elas e possam ver o trabalho que está sendo realizado no [!DNL  Workfront].
+description: Saiba como habilitar funções de prova e alertas de email apropriadas para que os destinatários de prova tenham acesso a provas e visibilidade do trabalho que está sendo feito em [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,25 +10,29 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
+autotag-review: '2026-05-05T20:05:31.746Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:05:31.746Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 552
-ht-degree: 100%
-
+source-wordcount: '552'
+ht-degree: 95%
 ---
-
 # Funções de prova e alertas por email
 
 As funções de prova e os alertas por email ajudam a impulsionar o fluxo de trabalho de prova, garantindo que os destinatários possam acessar as provas e ver o trabalho que está sendo realizado.
