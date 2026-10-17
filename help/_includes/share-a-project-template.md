@@ -12,7 +12,7 @@ Você aprenderá a:
 * Compartilhar um modelo com outros usuários
 * Compartilhar projetos criados usando um modelo
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3504448/?captions=por_br&quality=12&learn=on&enablevpops=1)
 
 ## Tutoriais recomendados sobre este tópico
 
