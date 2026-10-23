@@ -1,9 +1,8 @@
 ---
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 3977adb637ac16af359b37925efe8db10b3e6d35
 workflow-type: tm+mt
-source-wordcount: '670'
-ht-degree: 5%
-
+source-wordcount: '668'
+ht-degree: 2%
 ---
 # Explorar linhas do tempo do projeto no Workfront - COMPARTILHADO
 
@@ -17,7 +16,7 @@ O que você aprenderá:
 
 >[!IMPORTANT]
 >
->Para obter uma explicação mais completa sobre os tipos de duração e restrições de tarefa, consulte [Entender e gerenciar tipos de duração e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
+>Para obter uma explicação mais completa dos tipos de duração e restrições de tarefa, consulte [Tipos de duração mestre e restrições de tarefa](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
 
 ## Principais conclusões
 
@@ -32,7 +31,7 @@ O que você aprenderá:
 
 | PRÓS (Alteração de datas) | CONTRAS (Alteração de datas) | PRÓS (sem alterar datas) | CONTRAS (datas não alteradas) |
 |---------------------------|---------------------------|---------------------------|---------------------------|
-| <ul><li>Reduza o estresse/forneça expectativas atualizadas para os usuários - &quot;_A Equipe de Criação não saberia o que é real_&quot;</li><li>Alocação precisa de recursos, especialmente no Balanceador de carga de trabalho</li><li>Usar relatórios de entrada de diário (ou duração do projeto) para chamar alterações de data</li><li>Uso da condição para mostrar se o projeto está fora do escopo</li><li>Pode adicionar um formulário personalizado (ou usar problemas) para rastrear alterações: por que ele foi enviado, por quem, por quanto tempo</li></ul> | <ul></li><li>Dados enganosos, pois os relatórios não refletem o estado verdadeiro</li><li>Falsa percepção do progresso - ilusão de que tudo está no caminho certo&#x200B;</li><li>Promover uma cultura de sempre atrasar os cronogramas em vez de abordar as causas principais&#x200B;</li><li>Perda de confiança das partes interessadas/percepção da equipe para cumprir os prazos </li></ul> | <ul></li><li>Representação precisa da linha do tempo do projeto — os dados podem ser usados para análise e para contar uma história clara do que aconteceu</li><li>Opção para alterar a duração ou adicionar atraso ao predecessor</li><li>Identifique facilmente as melhorias de processos para o planejamento/gerenciamento de riscos futuros&#x200B;</li><li>Opção de utilizar linhas de base para capturar o plano de projeto original e usá-lo como comparação</li><li>Se você não tem pessoas para fazer isso, e fazer isso por tudo, não faça isso&#x200B;</li></ul> | <ul></li><li>Confusão e/ou frustração do usuário - abundância de tarefas &quot;atrasadas&quot;, apesar do fato de que eles apenas foram notificados</li><li>Os recursos foram efetivamente alocados para serem mapeados ao plano original, mas agora estão sobrecarregados com trabalho atrasado</li><li>A linha do tempo do projeto não pode ser usada para comunicar claramente as atualizações às partes interessadas</li></ul> |
+| <ul><li>Reduza o stress/forneça expectativas atualizadas para os usuários - _&quot;Os criadores não saberiam o que é real&quot;_</li><li>Alocação precisa de recursos, especialmente no Balanceador de carga de trabalho</li><li>Usar relatórios de entrada de diário (ou duração do projeto) para chamar alterações de data</li><li>Uso da condição para mostrar se o projeto está fora do escopo</li><li>Pode adicionar um formulário personalizado (ou usar problemas) para rastrear alterações: por que ele foi enviado, por quem, por quanto tempo</li></ul> | <ul></li><li>Dados enganosos, pois os relatórios não refletem o estado verdadeiro</li><li>Falsa percepção do progresso - ilusão de que tudo está no caminho certo&#x200B;</li><li>Promover uma cultura de sempre atrasar os cronogramas em vez de abordar as causas principais&#x200B;</li><li>Perda de confiança das partes interessadas/percepção da equipe para cumprir os prazos </li></ul> | <ul></li><li>Representação precisa da linha do tempo do projeto — os dados podem ser usados para análise e para contar uma história clara do que aconteceu</li><li>Opção para alterar a duração ou adicionar atraso ao predecessor</li><li>Identifique facilmente as melhorias de processos para o planejamento/gerenciamento de riscos futuros&#x200B;</li><li>Opção de utilizar linhas de base para capturar o plano de projeto original e usá-lo como comparação</li><li>Se você não tem pessoas para fazer isso, e fazer isso por tudo, não faça isso&#x200B;</li></ul> | <ul></li><li>Confusão e/ou frustração do usuário - abundância de tarefas &quot;atrasadas&quot;, apesar do fato de que eles apenas foram notificados</li><li>Os recursos foram efetivamente alocados para serem mapeados ao plano original, mas agora estão sobrecarregados com trabalho atrasado</li><li>A linha do tempo do projeto não pode ser usada para comunicar claramente as atualizações às partes interessadas</li></ul> |
 
 
 ## Tutoriais recomendados sobre este tópico
