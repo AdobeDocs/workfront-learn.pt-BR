@@ -1,6 +1,6 @@
 ---
-title: Registrar e revisar horas
-description: Registre as horas pendentes e revise as horas registradas antes de encerrar um projeto no [!DNL  Workfront].
+title: Registrar e revisar as horas do projeto
+description: Registrar as horas pendentes e revisar as horas registradas antes de encerrar um projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '21'
+ht-degree: 52%
 ---
-
-# Registrar e revisar horas
+# Registrar e revisar as horas do projeto
 
 {{$include /help/_includes/log-and-review-hours.md}}

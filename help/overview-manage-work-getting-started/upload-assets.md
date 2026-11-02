@@ -1,6 +1,6 @@
 ---
-title: Faça upload de ativos
-description: Faça upload de documentos, provas e outros ativos para o projeto antes de encerrá-lo para garantir que todos os dados relevantes estejam associados ao projeto.
+title: Fazer upload e gerenciar ativos do projeto
+description: Faça upload de documentos e provas no projeto antes de fechá-lo para garantir que todos os dados relevantes estejam associados ao projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-27T00:00:00.000Z'
 jira: KT-10138
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
 product_v2:
@@ -29,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:06.686Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 26
-ht-degree: 100%
-
+source-wordcount: '30'
+ht-degree: 66%
 ---
-
-# Faça upload de ativos
+# Fazer upload e gerenciar ativos do projeto
 
 {{$include /help/_includes/upload-assets.md}}

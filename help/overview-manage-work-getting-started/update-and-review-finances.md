@@ -1,6 +1,6 @@
 ---
-title: Atualizar e revisar finanças
-description: Saiba como revisar as informações financeiras associadas a um projeto no  [!DNL  Workfront].
+title: Atualizar finanças para projetos de clientes
+description: Simplifique o monitoramento de custos e o faturamento definindo taxas, atribuindo tipos de custo e receita a tarefas, gerenciando despesas e criando registros de faturamento. O Workfront não faz o faturamento real.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -27,13 +27,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:25:38.036Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '38'
+ht-degree: 73%
 ---
-
-# Atualizar e revisar finanças
+# Atualizar finanças para projetos de clientes
 
 {{$include /help/_includes/update-and-review-finances.md}}
