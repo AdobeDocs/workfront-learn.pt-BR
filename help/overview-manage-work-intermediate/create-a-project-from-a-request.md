@@ -1,6 +1,6 @@
 ---
 title: Converter um problema ou solicitação em um projeto
-description: Saiba como iniciar a conversão de uma solicitação em projeto, selecionar o modelo de projeto correto e concluir a conversão.
+description: Simplifique o gerenciamento de projetos no Workfront, convertendo problemas em projetos com modelos, personalizando detalhes do projeto, gerenciando opções de resolução de problemas e garantindo visibilidade e acesso para fluxos de trabalho ininterruptos.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -31,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 33
-ht-degree: 100%
-
+source-wordcount: '43'
+ht-degree: 0%
 ---
-
 # Converter um problema ou solicitação em um projeto
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}

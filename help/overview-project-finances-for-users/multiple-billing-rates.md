@@ -1,6 +1,6 @@
 ---
-title: Entenda as várias taxas de faturamento
-description: Saiba como modificar as taxas de faturamento do sistema em um projeto.
+title: Personalizar taxas de cobrança para funções de trabalho
+description: Personalize e gerencie taxas de cobrança para funções de trabalho no nível do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,6 +9,8 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10048
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 hide: true
 exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
 product_v2:
@@ -27,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:00:23.025Z'
-source-git-commit: d0854bf140805aaf24eeef9aed88835655541ea3
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 18
-ht-degree: 100%
-
+source-wordcount: '24'
+ht-degree: 0%
 ---
-
-# Entenda as várias taxas de faturamento
+# Personalizar taxas de cobrança para funções de trabalho
 
 {{$include /help/_includes/multiple-billing-rates.md}}

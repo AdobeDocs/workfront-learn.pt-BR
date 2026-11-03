@@ -1,6 +1,6 @@
 ---
 title: Registrar e revisar as horas do projeto
-description: Registrar as horas pendentes e revisar as horas registradas antes de encerrar um projeto.
+description: Saiba como revisar, registrar, editar e aprovar horas do projeto no Workfront. Este tutorial para iniciantes mostra como usar a seção Horas, Registrar tempo, editar em linha e aprovar horas.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10136
 recommendations: noDisplay,catalog
+last-substantial-update: '2026-11-2T00:00:00.000Z'
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
@@ -29,10 +30,10 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 52%
+source-wordcount: '41'
+ht-degree: 0%
 ---
 # Registrar e revisar as horas do projeto
 

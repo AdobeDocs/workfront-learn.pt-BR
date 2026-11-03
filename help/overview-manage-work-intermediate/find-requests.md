@@ -1,6 +1,6 @@
 ---
-title: Localizar e gerenciar solicitações
-description: Saiba como usar painéis, a [!UICONTROL página inicial], a área [!UICONTROL Solicitações] e a página [!UICONTROL Equipes] para localizar solicitações que foram feitas por meio de uma fila de solicitações.
+title: Encontre e gerencie solicitações com eficiência
+description: Saiba como usar filtros, gerenciar atribuições de equipe, criar relatórios e painéis personalizados e esclarecer o significado de "meu" em diferentes contextos para um gerenciamento eficaz de solicitações.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# Localizar e gerenciar solicitações
+# Encontre e gerencie solicitações com eficiência
 
 {{$include /help/_includes/find-requests.md}}
