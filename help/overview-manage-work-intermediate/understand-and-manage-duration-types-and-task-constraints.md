@@ -1,5 +1,5 @@
 ---
-title: Compreender e gerenciar tipos de duração e restrições de tarefa
+title: Tipos de duração mestre e restrições de tarefa
 description: Entenda os tipos de duração e as restrições de tarefa, e saiba como configurá-los corretamente nos seus projetos.
 feature: Work Management
 thumbnail: 3420986.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:11:30.971Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 37
-ht-degree: 100%
-
+source-wordcount: '33'
+ht-degree: 63%
 ---
-
-# Compreender e gerenciar tipos de duração e restrições de tarefa
+# Tipos de duração mestre e restrições de tarefa
 
 {{$include /help/_includes/understand-and-manage-duration-types-and-task-constraints.md}}

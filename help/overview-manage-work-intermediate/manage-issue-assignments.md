@@ -1,6 +1,6 @@
 ---
-title: Gerenciar atribuições de problemas
-description: Saiba como atribuir um problema a um usuário individual, a vários usuários ou a uma equipe, para que o problema seja resolvido.
+title: Gerenciar atribuições de problemas com eficiência
+description: Gerencie problemas efetivamente no Workfront usando a edição em linha e o balanceador de carga de trabalho para atribuições, rastreando e atualizando o progresso, alterando os status dos problemas e seguindo fluxos de trabalho específicos da equipe para uma execução perfeita do projeto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-26T00:00:00.000Z'
+last-substantial-update: '2026-08-14T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:13:29.079Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 28
-ht-degree: 100%
-
+source-wordcount: '40'
+ht-degree: 0%
 ---
-
-# Gerenciar atribuições de problemas
+# Gerenciar atribuições de problemas com eficiência
 
 {{$include /help/_includes/manage-issue-assignments.md}}
