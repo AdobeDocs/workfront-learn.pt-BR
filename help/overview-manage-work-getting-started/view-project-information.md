@@ -1,6 +1,6 @@
 ---
-title: Exibir informações do projeto
-description: Saiba como os filtros, visualizações e agrupamentos podem facilitar a identificação de informações do projeto e ajudar a gerenciá-los.
+title: Explore filtros, visualizações e agrupamentos para o gerenciamento de projetos
+description: Simplifique os fluxos de trabalho do projeto com filtros personalizáveis, exibições detalhadas, agrupamentos eficientes, ferramentas de gerenciamento de tarefas e recursos de rastreamento de problemas para melhorar a organização e a clareza.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -31,11 +31,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 0%
 ---
-# Exibir informações do projeto
+# Explore filtros, visualizações e agrupamentos para o gerenciamento de projetos
 
 {{$include /help/_includes/view-project-information.md}}

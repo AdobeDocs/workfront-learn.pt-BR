@@ -1,6 +1,6 @@
 ---
 title: Entenda a equipe do projeto
-description: Saiba para que a equipe do projeto pode ser usada e como mantê-la.
+description: Gerencie equipes de projeto no Workfront com eficiência, com preenchimento automático de equipes, atualizações manuais, comunicação centralizada, notificações por email e rastreamento do envolvimento do projeto para colaboração simplificada.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 22
-ht-degree: 100%
-
+source-wordcount: '31'
+ht-degree: 25%
 ---
-
 # Entenda a equipe do projeto
 
 {{$include /help/_includes/understand-the-project-team.md}}

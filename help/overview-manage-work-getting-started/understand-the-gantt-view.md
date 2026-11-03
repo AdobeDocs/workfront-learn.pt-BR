@@ -1,6 +1,6 @@
 ---
-title: Entenda a visualização de [!UICONTROL Gantt]
-description: Aprenda a usar o gráfico de Gantt para ver rapidamente suas tarefas e projetos em alto nível e com uma quantidade surpreendente de detalhes.
+title: Explore o modo de exibição [!UICONTROL Gantt] para gerenciamento de projetos
+description: Maximize a eficiência do projeto com gráficos de Gantt, oferecendo visualizações abrangentes, rastreamento de progresso, gerenciamento de marcos, insights do antecessor e opções personalizáveis para simplificar o gerenciamento de tarefas e recursos.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 32
-ht-degree: 100%
-
+source-wordcount: '39'
+ht-degree: 0%
 ---
-
-# Entenda a visualização de [!UICONTROL Gantt]
+# Explore o modo de exibição [!UICONTROL Gantt] para gerenciamento de projetos
 
 {{$include /help/_includes/understand-the-gantt-view.md}}

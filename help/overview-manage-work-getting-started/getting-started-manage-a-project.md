@@ -1,6 +1,6 @@
 ---
-title: Introdução ao gerenciamento de um projeto
-description: Saiba como monitorar o progresso do projeto, fazer uma busca detalhada para ver os detalhes da tarefa e como comunicar-se com as partes interessadas.
+title: Gerenciar um projeto com o status atual
+description: Acompanhe o progresso do projeto de maneira eficaz com relatórios, gerencie dependências por meio de visualizações de Gantt, monitore tarefas e aprovações, aprimore a comunicação da equipe e garanta fluxos de trabalho tranquilos com atualizações frequentes.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-04-22T00:00:00.000Z'
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: true
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '37'
+ht-degree: 0%
 ---
-# Introdução ao gerenciamento de um projeto
+# Gerenciar um projeto com o status atual
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}
