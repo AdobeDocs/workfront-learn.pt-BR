@@ -56,4 +56,4 @@ ht-degree: 71%
 
 Saiba como gerenciar e personalizar exibições de linha do tempo no planejamento do Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506103/?captions=por_br&learn=on&enablevpops=1)
