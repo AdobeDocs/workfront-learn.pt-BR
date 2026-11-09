@@ -32,4 +32,4 @@ Este curso é destinado a gerentes de projetos, planejadores e outros que gerenc
 
 Neste vídeo, você aprenderá como os marcos podem ajudar você a manter os projetos do [!DNL &#x200B; Workfront] avançando.
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508019/?captions=por_br&quality=12&learn=on&enablevpops=1)
